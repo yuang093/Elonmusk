@@ -1,6 +1,6 @@
 """
-Elon Musk Tweet Fetcher & Translator
-- Fetch latest tweets from @elonmusk via X API v2
+Elon Musk Tweet Fetcher & Translator (Browser Edition)
+- Fetch latest tweets from @elonmusk via Playwright (no API needed)
 - Translate to Traditional Chinese (casual tone)
 - Store in tweets.json
 - Send to Telegram
@@ -9,33 +9,30 @@ Elon Musk Tweet Fetcher & Translator
 
 import os
 import json
-import requests
+import subprocess
 import time
-import hashlib
+import requests
 from datetime import datetime, timezone
 from pathlib import Path
+from playwright.sync_api import sync_playwright
 
 # ── Config ──────────────────────────────────────────────────────────────────
 REPO_DIR = Path(__file__).parent
 TWEETS_FILE = REPO_DIR / "tweets.json"
-ENV_FILE   = REPO_DIR / ".env"
+STATE_FILE  = REPO_DIR / ".fetch_state.json"
+ENV_FILE    = REPO_DIR / ".env"
 
-# X API v2
-X_API_BASE = "https://api.twitter.com/2"
+# ── Helpers ──────────────────────────────────────────────────────────────────
 
-# Telegram
-TG_BOT_TOKEN  = os.getenv("TG_BOT_TOKEN")
-TG_CHAT_ID     = os.getenv("TG_CHAT_ID")
+def get_env(key, default=None):
+    """Get env var, loading from .env first"""
+    if not os.environ.get(key) and ENV_FILE.exists():
+        load_env()
+    return os.getenv(key, default)
 
-# AI Translation (configurable)
-TRANSLATOR_PROVIDER = os.getenv("TRANSLATOR_PROVIDER", "minimax")  # minimax | openai | deepseek
-TRANSLATOR_API_KEY  = os.getenv("TRANSLATOR_API_KEY")
-TRANSLATOR_MODEL     = os.getenv("TRANSLATOR_MODEL", "auto")
-
-# ── Helpers ─────────────────────────────────────────────────────────────────
+# ── Helpers ──────────────────────────────────────────────────────────────────
 
 def load_env():
-    """Load .env file into environment"""
     if ENV_FILE.exists():
         for line in ENV_FILE.read_text().splitlines():
             line = line.strip()
@@ -57,144 +54,141 @@ def save_tweets(tweets):
 def get_seen_ids(tweets):
     return {t["id"] for t in tweets}
 
-# ── X API ───────────────────────────────────────────────────────────────────
+def load_state():
+    if STATE_FILE.exists():
+        return json.loads(STATE_FILE.read_text())
+    return {}
 
-def get_bearer_token():
-    token = os.getenv("X_BEARER_TOKEN")
-    if not token:
-        raise RuntimeError("X_BEARER_TOKEN not set in .env")
-    return token
+def save_state(state):
+    STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=2))
 
-def fetch_elon_tweets(bearer_token, since_id=None, max_results=10):
-    """Fetch recent tweets from @elonmusk"""
-    headers = {"Authorization": f"Bearer {bearer_token}"}
+# ── Browser Fetch ─────────────────────────────────────────────────────────────
+
+def fetch_elon_tweets_via_browser():
+    """Use Playwright to scrape elonmusk tweets without API"""
+    tweets_data = []
     
-    # Step 1: Get user ID for elonmusk
-    user_resp = requests.get(
-        f"{X_API_BASE}/users/by/username/elonmusk",
-        headers=headers,
-        params={"user.fields": "id,name,username"}
-    )
-    user_resp.raise_for_status()
-    user_id = user_resp.json()["data"]["id"]
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        
+        try:
+            page.goto("https://x.com/elonmusk", timeout=30000)
+            page.wait_for_selector('[data-testid="tweet"]', timeout=15000)
+            time.sleep(2)  # let JS hydrate
+            
+            # Get all tweet data via single JS evaluation
+            tweets_data = page.evaluate("""
+                () => {
+                    const articles = document.querySelectorAll('[data-testid="tweet"]');
+                    const results = [];
+                    articles.forEach(a => {
+                        const link = a.querySelector('a[href*="/status/"]');
+                        const timeEl = a.querySelector('time');
+                        if (!link || !timeEl) return;
+                        const href = link.getAttribute('href');
+                        const id = href.split('/').pop();
+                        const datetime = timeEl.getAttribute('datetime');
+                        // Check if this tweet is pinned (has pin/unpin action)
+                        const pinBtn = a.querySelector('[data-testid="pin"]');
+                        const unpinBtn = a.querySelector('[data-testid="unpin"]');
+                        const isPinned = !!(pinBtn || unpinBtn);
+                        const spans = a.querySelectorAll('span');
+                        let longest = '';
+                        spans.forEach(s => {
+                            const t = s.textContent || '';
+                            if (t.length > longest.length) longest = t;
+                        });
+                        if (longest.length > 20) {
+                            results.push({ id, created_at: datetime, text: longest, pinned: isPinned });
+                        }
+                    });
+                    return results;
+                }
+            """)
+                    
+        finally:
+            browser.close()
     
-    # Step 2: Fetch tweets
-    params = {
-        "max_results": min(max_results, 10),
-        "tweet.fields": "created_at,public_metrics,lang",
-        "expansions": "author_id",
-        "user.fields": "name,username",
-    }
-    if since_id:
-        params["since_id"] = since_id
-    
-    tweets_resp = requests.get(
-        f"{X_API_BASE}/users/{user_id}/tweets",
-        headers=headers,
-        params=params
-    )
-    tweets_resp.raise_for_status()
-    return tweets_resp.json().get("data", [])
+    return tweets_data
 
 # ── Translation ──────────────────────────────────────────────────────────────
 
-def translate_to_chinese(text, provider=None):
-    """Translate text to Traditional Chinese using configured AI provider"""
-    provider = provider or TRANSLATOR_PROVIDER
-    
-    if provider == "minimax":
-        return translate_minimax(text)
-    elif provider == "openai":
-        return translate_openai(text)
-    else:
-        return text  # fallback: return original
-
-def translate_minimax(text):
-    """Translate via MiniMax API"""
-    api_key = os.getenv("MINIMAX_API_KEY") or TRANSLATOR_API_KEY
+def translate_to_chinese(text):
+    api_key = get_env("MINIMAX_API_KEY")
     if not api_key:
+        return text  # fallback
+    
+    try:
+        from openai import OpenAI
+        client = OpenAI(
+            api_key=api_key,
+            base_url="https://api.minimax.chat/v1"
+        )
+        
+        system_prompt = """你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。不要翻譯人名。只輸出翻譯結果，不要其他解釋。"""
+        
+        response = client.chat.completions.create(
+            model="MiniMax-Text-01",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": text}
+            ],
+            temperature=0.7,
+            max_tokens=500
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"  ⚠️ Translation failed: {e}")
         return text
-    
-    from openai import OpenAI
-    client = OpenAI(
-        api_key=api_key,
-        base_url="https://api.minimax.chat/v1"
-    )
-    
-    system_prompt = """你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。只輸出翻譯結果，不要其他解釋。"""
-    
-    response = client.chat.completions.create(
-        model="MiniMax-Text-01",
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": text}
-        ],
-        temperature=0.7,
-        max_tokens=500
-    )
-    return response.choices[0].message.content.strip()
-
-def translate_openai(text):
-    """Translate via OpenAI API"""
-    api_key = os.getenv("OPENAI_API_KEY") or TRANSLATOR_API_KEY
-    if not api_key:
-        return text
-    
-    from openai import OpenAI
-    client = OpenAI(api_key=api_key)
-    
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "你是一個翻譯專家。將推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。只輸出翻譯結果。"},
-            {"role": "user", "content": text}
-        ],
-        temperature=0.7,
-        max_tokens=500
-    )
-    return response.choices[0].message.content.strip()
 
 # ── Telegram ────────────────────────────────────────────────────────────────
 
 def send_telegram(message):
-    if not TG_BOT_TOKEN or not TG_CHAT_ID:
-        print("⚠️ Telegram credentials not set — skipping notification")
+    bot_token = get_env("TG_BOT_TOKEN")
+    chat_id   = get_env("TG_CHAT_ID")
+    if not bot_token or not chat_id:
+        print("⚠️ Telegram credentials not set")
         return
-    
-    url = f"https://api.telegram.org/bot{TG_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TG_CHAT_ID,
+
+    import urllib.request
+    import urllib.parse
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    data = urllib.parse.urlencode({
+        "chat_id": chat_id,
         "text": message,
         "parse_mode": "HTML",
-        "disable_web_preview": False
-    }
-    resp = requests.post(url, json=payload, timeout=15)
-    resp.raise_for_status()
-    return resp.json()
+        "disable_web_preview": "false"
+    }).encode()
 
-def format_tweet_message(tweet, translation, author):
-    """Format tweet for Telegram delivery"""
-    created = datetime.fromisoformat(tweet["created_at"].replace("Z", "+00:00"))
-    taiwan_time = created.astimezone(timezone(tz=datetime.now().astimezone().tzinfo))
-    time_str = taiwan_time.strftime("%Y-%m-%d %H:%M")
+    req = urllib.request.Request(url, data=data, method="POST")
+    req.add_header("Content-Type", "application/x-www-form-urlencoded")
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            return json.loads(resp.read())
+    except Exception as e:
+        print(f"⚠️ Telegram failed: {e}")
+        return None
+
+def format_tweet_message(tweet, translation, tweet_id):
+    taiwan_tz = datetime.now().astimezone().tzinfo
+    created = datetime.fromisoformat(tweet["created_at"].replace("Z", "+00:00")).astimezone(taiwan_tz)
+    time_str = created.strftime("%Y-%m-%d %H:%M")
     
-    # Engagement
-    metrics = tweet.get("public_metrics", {})
-    likes = metrics.get("like_count", 0)
-    retweets = metrics.get("retweet_count", 0)
-    
-    # Status indicator
-    lang = tweet.get("lang", "unknown")
+    likes = tweet.get("metrics", {}).get("like_count", 0)
+    rts   = tweet.get("metrics", {}).get("retweet_count", 0)
     
     msg = f"""🦁 <b>Elon Musk</b> | 🕐 {time_str}
 ━━━━━━━━━━━━━━━━━━
 📝 原文：
-{tweet["text"]}
+{tweet['original']}
 ━━━━━━━━━━━━━━━━━━
 🌏 繁中翻譯：
 {translation}
 ━━━━━━━━━━━━━━━━━━
-❤️ {likes:,}  🔁 {retweets:,}  🐦 {lang.upper()}"""
+❤️ {likes:,}  🔁 {rts:,}  🐦 EN
+🔗 https://x.com/elonmusk/status/{tweet_id}"""
     
     return msg
 
@@ -203,29 +197,20 @@ def format_tweet_message(tweet, translation, author):
 def main():
     print(f"[{datetime.now().astimezone().strftime('%Y-%m-%d %H:%M')}] Elon Tweet Checker started")
     
-    # Load environment
     load_env()
-    
-    bearer_token = os.getenv("X_BEARER_TOKEN")
-    if not bearer_token:
-        print("❌ X_BEARER_TOKEN not found in .env")
-        return
     
     # Load existing tweets
     tweets = load_tweets()
     seen_ids = get_seen_ids(tweets)
     
-    # Get latest tweet ID to use as since_id
-    since_id = tweets[0]["id"] if tweets else None
-    
-    # Fetch new tweets
+    # Fetch new tweets via browser
     try:
-        new_tweets_raw = fetch_elon_tweets(bearer_token, since_id=since_id)
+        new_tweets_raw = fetch_elon_tweets_via_browser()
     except Exception as e:
-        print(f"❌ Failed to fetch tweets: {e}")
+        print(f"❌ Failed to fetch tweets via browser: {e}")
         return
     
-    # Filter out already-seen tweets (newest first)
+    # Filter unseen
     new_tweets = [t for t in new_tweets_raw if t["id"] not in seen_ids]
     
     if not new_tweets:
@@ -234,8 +219,7 @@ def main():
     
     print(f"📌 Found {len(new_tweets)} new tweet(s)")
     
-    # Process new tweets (newest first)
-    for tweet in reversed(new_tweets):  # oldest first for chronological prepend
+    for tweet in reversed(new_tweets):  # oldest first
         text = tweet["text"]
         print(f"  → Translating: {text[:60]}...")
         
@@ -246,25 +230,25 @@ def main():
             "created_at": tweet["created_at"],
             "original": text,
             "translation": translation,
-            "metrics": tweet.get("public_metrics", {}),
-            "lang": tweet.get("lang", "unknown"),
-            "fetched_at": datetime.now().astimezone().isoformat()
+            "metrics": tweet.get("metrics", {}),
+            "lang": "en",
+            "pinned": tweet.get("pinned", False),
+            "fetched_at": datetime.now().astimezone().isoformat(),
+            "url": f"https://x.com/elonmusk/status/{tweet['id']}"
         }
         
-        # Prepend to list (newest first)
         tweets.insert(0, entry)
         
-        # Send Telegram notification
-        msg = format_tweet_message(tweet, translation, "Elon Musk")
+        # Send Telegram
+        msg = format_tweet_message(tweet, translation, tweet["id"])
         try:
             send_telegram(msg)
             print(f"  ✅ Telegram sent: {tweet['id']}")
         except Exception as e:
             print(f"  ⚠️ Telegram failed: {e}")
         
-        time.sleep(1)  # Rate limit buffer
+        time.sleep(1)
     
-    # Save updated tweets
     save_tweets(tweets)
     print(f"✅ Done! Total tweets stored: {len(tweets)}")
 

@@ -143,6 +143,11 @@
       font-weight: 600;
     }
 
+    .tweet-badge.pinned {
+      background: #a855f7;
+      color: #fff;
+    }
+
     .tweet-section {
       margin-bottom: 12px;
     }
@@ -375,7 +380,7 @@ function renderTweets(tweets) {
           <div class="elon-handle">@elonmusk</div>
         </div>
         <div class="tweet-time">${formatDate(tweet.created_at)}</div>
-        <div class="tweet-badge">新</div>
+        ${tweet.pinned ? '<div class="tweet-badge pinned">📌 置頂</div>' : '<div class="tweet-badge">新</div>'}
       </div>
 
       <div class="tweet-section">
