@@ -12,7 +12,7 @@ import json
 import subprocess
 import time
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
@@ -197,11 +197,12 @@ def format_tweet_message(tweet, translation, tweet_id):
     
     likes = tweet.get("metrics", {}).get("like_count", 0)
     rts   = tweet.get("metrics", {}).get("retweet_count", 0)
+    original = tweet.get("original", tweet.get("text", ""))
     
     msg = f"""🦁 <b>Elon Musk</b> | 🕐 {time_str}
 ━━━━━━━━━━━━━━━━━━
 📝 原文：
-{tweet['original']}
+{original}
 ━━━━━━━━━━━━━━━━━━
 🌏 繁中翻譯：
 {translation}
@@ -240,9 +241,16 @@ def main():
     
     for tweet in reversed(new_tweets):  # oldest first
         text = tweet["text"]
-        print(f"  → Translating: {text[:60]}...")
-        
-        translation = translate_to_chinese(text)
+        created = datetime.fromisoformat(tweet["created_at"].replace("Z", "+00:00"))
+        today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+
+        # Only translate tweets from today onwards; older ones skip translation
+        if created >= today:
+            print(f"  → Translating: {text[:60]}...")
+            translation = translate_to_chinese(text)
+        else:
+            print(f"  → Skipping translation (pre-2026-05-19): {text[:60]}...")
+            translation = ""
         
         entry = {
             "id": tweet["id"],
