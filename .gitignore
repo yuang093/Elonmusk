@@ -1,0 +1,21 @@
+# API Keys & Secrets
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+fetch.log
+
+# tweets.json is tracked in git for Vercel deployment
+# state files
+.fetch_state.json
+.apify_used_today
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
