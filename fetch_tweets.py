@@ -142,13 +142,13 @@ def translate_to_chinese(text):
         from openai import OpenAI
         client = OpenAI(
             api_key=api_key,
-            base_url="https://api.minimax.chat/v1"
+            base_url="https://api.minimax.io/v1"
         )
         
         system_prompt = """你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。不要翻譯人名。只輸出翻譯結果，不要其他解釋。"""
         
         response = client.chat.completions.create(
-            model="MiniMax-Text-01",
+            model="MiniMax-M2.7",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": text}
