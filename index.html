@@ -148,6 +148,30 @@
       color: #fff;
     }
 
+    .tweet-badge.rt {
+      background: #22c55e;
+      color: #fff;
+    }
+
+    .tweet-images {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .tweet-images img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 12px;
+      cursor: pointer;
+    }
+
+    .tweet-images img:hover {
+      opacity: 0.9;
+    }
+
     .tweet-section {
       margin-bottom: 12px;
     }
@@ -380,8 +404,16 @@ function renderTweets(tweets) {
           <div class="elon-handle">@elonmusk</div>
         </div>
         <div class="tweet-time">${formatDate(tweet.created_at)}</div>
-        ${tweet.pinned ? '<div class="tweet-badge pinned">📌 置頂</div>' : '<div class="tweet-badge">新</div>'}
+        ${tweet.is_retweet ? '<div class="tweet-badge rt">🔁 轉推</div>' : ''}
+        ${tweet.pinned ? '<div class="tweet-badge pinned">📌 置頂</div>' : ''}
+        ${!tweet.is_retweet && !tweet.pinned ? '<div class="tweet-badge">新</div>' : ''}
       </div>
+
+      ${tweet.images && tweet.images.length > 0 ? `
+      <div class="tweet-images">
+        ${tweet.images.map(img => `<img src="${escapeHtml(img)}" alt="推文圖片" loading="lazy" />`).join('')}
+      </div>
+      ` : ''}
 
       <div class="tweet-section">
         <div class="tweet-label">🌏 繁中翻譯</div>

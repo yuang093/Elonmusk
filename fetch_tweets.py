@@ -89,18 +89,37 @@ def fetch_elon_tweets_via_browser():
                         const href = link.getAttribute('href');
                         const id = href.split('/').pop();
                         const datetime = timeEl.getAttribute('datetime');
-                        // Check if this tweet is pinned (has pin/unpin action)
+
+                        // Check if this tweet is pinned
                         const pinBtn = a.querySelector('[data-testid="pin"]');
                         const unpinBtn = a.querySelector('[data-testid="unpin"]');
                         const isPinned = !!(pinBtn || unpinBtn);
+
+                        // Check if this is a retweet by Elon (has RT icon or "Replying to" with someone's else handle)
+                        // On X, retweets show a small retweet icon with the original author
+                        const isRetweet = !!a.querySelector('[data-testid="retweet"]');
+
+                        // Extract images (multiple img tags, exclude profile pics)
+                        const imgs = Array.from(a.querySelectorAll('img[src*="media"]'));
+                        const images = imgs.map(img => img.getAttribute('src')).filter(Boolean);
+
+                        // Get tweet text (main content)
                         const spans = a.querySelectorAll('span');
                         let longest = '';
                         spans.forEach(s => {
                             const t = s.textContent || '';
                             if (t.length > longest.length) longest = t;
                         });
-                        if (longest.length > 20) {
-                            results.push({ id, created_at: datetime, text: longest, pinned: isPinned });
+
+                        if (longest.length > 5) {
+                            results.push({
+                                id,
+                                created_at: datetime,
+                                text: longest,
+                                pinned: isPinned,
+                                is_retweet: isRetweet,
+                                images: images
+                            });
                         }
                     });
                     return results;
@@ -233,6 +252,8 @@ def main():
             "metrics": tweet.get("metrics", {}),
             "lang": "en",
             "pinned": tweet.get("pinned", False),
+            "is_retweet": tweet.get("is_retweet", False),
+            "images": tweet.get("images", []),
             "fetched_at": datetime.now().astimezone().isoformat(),
             "url": f"https://x.com/elonmusk/status/{tweet['id']}"
         }
