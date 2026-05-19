@@ -404,9 +404,6 @@ function renderTweets(tweets) {
           <div class="elon-handle">@elonmusk</div>
         </div>
         <div class="tweet-time">${formatDate(tweet.created_at)}</div>
-        ${tweet.is_retweet ? '<div class="tweet-badge rt">🔁 轉推</div>' : ''}
-        ${tweet.pinned ? '<div class="tweet-badge pinned">📌 置頂</div>' : ''}
-        ${!tweet.is_retweet && !tweet.pinned ? '<div class="tweet-badge">新</div>' : ''}
       </div>
 
       ${tweet.images && tweet.images.length > 0 ? `
