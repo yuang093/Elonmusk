@@ -357,7 +357,10 @@ function renderTweets(tweets) {
 
   empty.style.display = 'none';
 
-  list.innerHTML = tweets.map(tweet => {
+  list.innerHTML = tweets
+    .slice()
+    .sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
+    .map(tweet => {
     const metrics = tweet.metrics || {};
     const likes = metrics.like_count || 0;
     const rts = metrics.retweet_count || 0;
