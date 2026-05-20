@@ -9,6 +9,7 @@ Elon Musk Tweet Fetcher & Translator (Browser Edition - Cookies Enabled)
 """
 
 import os
+import re
 import json
 import time
 from datetime import datetime, timezone
@@ -166,21 +167,24 @@ def translate_to_chinese(text):
     api_key = get_env("MINIMAX_API_KEY")
     if not api_key:
         return text
-    
+
     try:
         from openai import OpenAI
         client = OpenAI(api_key=api_key, base_url="https://api.minimax.io/v1")
-        
+
         response = client.chat.completions.create(
             model="MiniMax-M2.7",
             messages=[
-                {"role": "system", "content": "你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。不要翻譯人名。只輸出翻譯結果，不要其他解釋。"},
+                {"role": "system", "content": "你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。不要翻譯人名。不要輸出任何思考過程，只直接輸出翻譯結果。"},
                 {"role": "user", "content": text}
             ],
             temperature=0.7,
             max_tokens=500
         )
-        return response.choices[0].message.content.strip()
+        raw = response.choices[0].message.content.strip()
+        # Strip <think>...</think> thinking blocks
+        clean = re.sub(r'<think>[\s\S]*?</think>', '', raw).strip()
+        return clean
     except Exception as e:
         print(f"  ⚠️ Translation failed: {e}")
         return text
@@ -273,18 +277,15 @@ def main():
     
     print(f"📌 Found {len(new_tweets)} new tweet(s)")
     
+    # Build all entries first
+    new_entries = []
     for tweet in reversed(new_tweets):
         text = tweet["text"]
-        created = datetime.fromisoformat(tweet["created_at"].replace("Z", "+00:00"))
-        today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
 
-        if created >= today:
-            print(f"  → Translating: {text[:60]}...")
-            translation = translate_to_chinese(text)
-        else:
-            print(f"  → Skipping translation (older than today): {text[:60]}...")
-            translation = ""
-        
+        # Translate ALL new tweets
+        print(f"  → Translating: {text[:60]}...")
+        translation = translate_to_chinese(text)
+
         entry = {
             "id": tweet["id"],
             "created_at": tweet["created_at"],
@@ -299,18 +300,12 @@ def main():
             "fetched_at": datetime.now().astimezone().isoformat(),
             "url": f"https://x.com/elonmusk/status/{tweet['id']}"
         }
-        
-        tweets.insert(0, entry)
-        
-        msg = format_tweet_message(tweet, translation, tweet["id"])
-        try:
-            send_telegram(msg)
-            print(f"  ✅ Telegram sent: {tweet['id']}")
-        except Exception as e:
-            print(f"  ⚠️ Telegram failed: {e}")
-        
-        time.sleep(1)
-    
+        new_entries.append(entry)
+
+    # Insert all new entries at top
+    tweets = new_entries + tweets
+
+    # Save once
     save_tweets(tweets)
     print(f"✅ Done! Total tweets stored: {len(tweets)}")
 
