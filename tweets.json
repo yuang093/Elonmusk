@@ -1,5 +1,82 @@
 [
   {
+    "id": "2057571230589366643",
+    "created_at": "2026-05-21T21:16:23.000Z",
+    "original": "Interesting",
+    "translation": "有趣/有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-22T06:00:54.232191+08:00",
+    "url": "https://x.com/elonmusk/status/2057571230589366643"
+  },
+  {
+    "id": "2057468285612900610",
+    "created_at": "2026-05-21T14:27:19.000Z",
+    "original": "'s composer 2.5, the SpaceXAI acquisition seems inevitable. The model is highly complimentary to Grok 4.3, and Cursor would give them a huge boost in Ent. exposure. $60B is probably a steal at this point. It's also a giant red flag for Anthropic.",
+    "translation": "composer 2.5發布了，看來收購SpaceXAI是遲早的事。這模型跟Grok 4.3搭配起來超互補，Cursor能讓他們在企業端的曝光度大幅提升。這個時機點以600億美元拿下根本是撿到便宜。這對Anthropic來說也是個警訊啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI2WqEYXYAALjhE?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HI2W9rbXkAEh1Ky?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-22T06:01:04.081876+08:00",
+    "url": "https://x.com/elonmusk/status/2057468285612900610"
+  },
+  {
+    "id": "2057572977483346017",
+    "created_at": "2026-05-21T21:23:20.000Z",
+    "original": "Yeah, we need to fund making life multiplanetary somehow!",
+    "translation": "對啊，我們得想辦法資助讓人類成為多星球物種！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-22T06:01:13.221857+08:00",
+    "url": "https://x.com/elonmusk/status/2057572977483346017"
+  },
+  {
+    "id": "2057529485956665716",
+    "created_at": "2026-05-21T18:30:31.000Z",
+    "original": "'s plan from day one, it's no secret...\n\nJay Ritter, a finance professor at the University of Florida and director of its market research program, the IPO Initiative, told Forbes he was concerned that ",
+    "translation": "從第一天開始的計畫，這已經不是秘密了...\n\nJay Ritter，佛羅里達大學的金融教授、也是其 IPO Initiative 市場研究計畫的負責人，告訴 Forbes 他很擔心...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI3QKcwWoAAUYw1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-22T06:01:17.808253+08:00",
+    "url": "https://x.com/elonmusk/status/2057529485956665716"
+  },
+  {
+    "id": "2057548298026713113",
+    "created_at": "2026-05-21T19:45:16.000Z",
+    "original": "There is a particular sort of dishonesty available only to a man with credentials. The ordinary liar must hope his audience does not check. The credentialed liar trusts that his audience will not...",
+    "translation": "有一種特別的謊，只有那些有頭銜的人才能撒。一般騙子得巴不得觀眾不會去查。但有文憑的騙子則相信觀眾根本懶得查...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI3Q6ZpWMAAbvFS?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-22T06:01:24.337988+08:00",
+    "url": "https://x.com/elonmusk/status/2057548298026713113"
+  },
+  {
     "id": "2057513042578174348",
     "created_at": "2026-05-21T17:25:10.000Z",
     "original": "I called my engineer friend at SpaceX the other day.\n\n1am Pacific. 3am in Starbase.\n\nHe was still in the office and not going home any time soon. \n\nAnd he was happy. Energized. Because he's directly influencing the course of a multi-planetary future for humanity. \n\nOn a",
