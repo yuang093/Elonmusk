@@ -1,5 +1,21 @@
 [
   {
+    "id": "2057374408918945882",
+    "created_at": "2026-05-21T08:14:17.000Z",
+    "original": "New CursorBench results just dropped. \n\nTwo big takeaways.\n\nComposer 2.5 is way better than most people think. \n\n63.2% score at $0.55 per task. \n\nNearly matching Opus 4.7 Max and GPT 5.5 Extra High at 20x less cost. \n\nThis is insane value.\n\nGemini 3.5 Flash is #10 at 49.8%.",
+    "translation": "新的 CursorBench 結果出來了。\n\n兩個重點。\n\nComposer 2.5 比大家想的強多了。\n\n63.2% 分數，每個任務只要 0.55 美元。\n\n幾乎追平 Opus 4.7 Max 和 GPT 5.5 Extra High，成本只要 1/20。\n\n這CP值太扯了吧。\n\nGemini 3.5 Flash 排第10名，49.8%。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HIxGTqQWsAArZI4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-21T17:00:46.047260+08:00",
+    "url": "https://x.com/elonmusk/status/2057374408918945882"
+  },
+  {
     "id": "2057279388920762800",
     "created_at": "2026-05-21T01:56:43.000Z",
     "original": "normies are so close to realizing that almost every piece of mainstream media, from Euphoria to this comic book slop, exists to portray normal, strong, white guys as pathetic and secretly gay",
