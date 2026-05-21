@@ -1,5 +1,95 @@
 [
   {
+    "id": "2057281968342241459",
+    "created_at": "2026-05-21T02:06:58.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-21T11:00:40.418262+08:00",
+    "url": "https://x.com/elonmusk/status/2057281968342241459"
+  },
+  {
+    "id": "2057276363719967132",
+    "created_at": "2026-05-21T01:44:42.000Z",
+    "original": "Adam Lowisz X Meetup ",
+    "translation": "Adam Lowisz X 見面會",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HIzp8wtW0AEoG0X?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-21T11:00:45.675587+08:00",
+    "url": "https://x.com/elonmusk/status/2057276363719967132"
+  },
+  {
+    "id": "2057285765831458979",
+    "created_at": "2026-05-21T02:22:03.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-21T11:00:50.543867+08:00",
+    "url": "https://x.com/elonmusk/status/2057285765831458979"
+  },
+  {
+    "id": "2057280507713335771",
+    "created_at": "2026-05-21T02:01:10.000Z",
+    "original": ": SPLC CEO Bryan Fair will appear before Committee on Tuesday, June 9, 2026, at 10:00 a.m. ET.\n\nThe Committee also subpoenaed the SPLC for documents about its coordination with the Biden-Harris Administration and funding of extremists.\n\nRead the full subpoena cover",
+    "translation": "SPLC 執行長 Bryan Fair 將於 2026 年 6 月 9 日星期二上午 10 點（美東時間）出席委員會聽證會。\n\n委員會也向 SPLC 發出傳票，要求調閱其與拜登-賀錦麗政府協調及資助極端分子的相關文件。\n\n查看完整傳票封面",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HIztBysW4AAIktO?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HIztBytW8AAFTxG?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HIztBy0WAAAPmMx?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-05-21T11:01:01.060492+08:00",
+    "url": "https://x.com/elonmusk/status/2057280507713335771"
+  },
+  {
+    "id": "2057281743854751829",
+    "created_at": "2026-05-21T02:06:04.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-21T11:01:03.265036+08:00",
+    "url": "https://x.com/elonmusk/status/2057281743854751829"
+  },
+  {
+    "id": "2057286455165379019",
+    "created_at": "2026-05-21T02:24:48.000Z",
+    "original": "The legacy of Model S & X will live on in our vision for autonomy",
+    "translation": "Model S & X 的 Legacy 會在我們自動駕駛的願景中延續下去",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-21T11:01:16.997194+08:00",
+    "url": "https://x.com/elonmusk/status/2057286455165379019"
+  },
+  {
     "id": "2057272975242748372",
     "created_at": "2026-05-21T01:31:14.000Z",
     "original": "About to hand over the last Model S & X cars ever made",
