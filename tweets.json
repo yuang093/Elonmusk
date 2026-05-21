@@ -1,23 +1,39 @@
 [
   {
+    "id": "2057513042578174348",
+    "created_at": "2026-05-21T17:25:10.000Z",
+    "original": "I called my engineer friend at SpaceX the other day.\n\n1am Pacific. 3am in Starbase.\n\nHe was still in the office and not going home any time soon. \n\nAnd he was happy. Energized. Because he's directly influencing the course of a multi-planetary future for humanity. \n\nOn a",
+    "translation": "我前幾天打給我在SpaceX的工程師朋友。\n\n太平洋時間凌晨一點，Starbase凌晨三點。\n\n他還在辦公室，而且一時半刻不會回家。\n\n但他很快樂、很High。因為他正在直接影響人類邁向多行星未來的進程。\n\n就...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI3BMcwaQAExkno?format=png&name=small"
+    ],
+    "fetched_at": "2026-05-22T03:01:10.849419+08:00",
+    "url": "https://x.com/elonmusk/status/2057513042578174348"
+  },
+  {
     "id": "2057501273151217771",
     "created_at": "2026-05-21T16:38:24.000Z",
     "original": "For the next month, we’re doubling Cursor usage for new users you invite on the Teams plan. Enjoy!",
-    "translation": "下個月的話，你邀請的新用戶在 Teams 方案中，Cursor 用量直接翻倍！Enjoy！",
+    "translation": "這個月只要透過 Teams 方案邀請新用戶，Cursor 用量直接幫你翻倍！快去邀人吧～",
     "metrics": {},
     "lang": "en",
     "pinned": false,
     "is_retweet": true,
     "is_quote": false,
     "images": [],
-    "fetched_at": "2026-05-22T00:48:37.346012+08:00",
+    "fetched_at": "2026-05-22T00:48:58.270321+08:00",
     "url": "https://x.com/elonmusk/status/2057501273151217771"
   },
   {
     "id": "2057474659067552013",
     "created_at": "2026-05-21T14:52:39.000Z",
     "original": "“We need to fill up the moon sand with footprints.” My five year-old said this to me over the weekend out of the blue as kids often do. He’s been begging us to take him to Kennedy Space Center. He knows who the Soviets were because of his book on the space race. He can name all",
-    "translation": "「我們得在月球沙子上踩滿腳印。」我五歲的兒子上周末冷不丁冒出這麼一句，小孩嘛常這樣。他一直求我們帶他去甘迺迪太空中心。因為他讀的太空競賽的書，他知道蘇聯人是誰。他能說出所有……",
+    "translation": "「我們要在月球沙子上踩滿腳印。」我五歲的",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -26,22 +42,36 @@
     "images": [
       "https://pbs.twimg.com/media/HI2aNtzboAAzl5H?format=jpg&name=small"
     ],
-    "fetched_at": "2026-05-22T00:48:47.889007+08:00",
+    "fetched_at": "2026-05-22T00:49:12.092977+08:00",
     "url": "https://x.com/elonmusk/status/2057474659067552013"
   },
   {
     "id": "2057497821658399041",
     "created_at": "2026-05-21T16:24:41.000Z",
     "original": "SpaceX is actively hiring world-class engineers/physicists for SpaceXAI, even if you have zero prior experience in AI. Smart humans figure it out fast.\n\nPlease send an email with ~3 bullet points demonstrating evidence of exceptional ability to ai_eng@spacex.com.",
-    "translation": "SpaceX正在瘋狂招募SpaceXAI的頂尖工程師/物理學家，就算你之前完全沒碰過AI也沒關係。聰明人學東西就是快。\n\n有興趣的話，寄封email到 ai_eng@spacex.com，大概3個bullet points展現你多猛的實力就好。",
+    "translation": "SpaceX正在大力招募世界級工程師/物理學師加入SpaceXAI，就算你之前完全沒有AI經驗也沒關係。聰明的人學得很快。\n\n發一封郵件到 ai_eng@spacex.com，大概附三個bullet point來展現你有多猛就行了。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
     "is_retweet": true,
     "is_quote": false,
     "images": [],
-    "fetched_at": "2026-05-22T00:48:58.400537+08:00",
+    "fetched_at": "2026-05-22T00:49:14.347081+08:00",
     "url": "https://x.com/elonmusk/status/2057497821658399041"
+  },
+  {
+    "id": "2057502564627681295",
+    "created_at": "2026-05-21T16:43:32.000Z",
+    "original": "This was my favorite moment from Elon, Franz, and Lars yesterday. \n\nElon: \"I’ll tell you something, maybe at a fundamental level why the Model S/X succeeded, which is that, those cars were designed with love.\"\n\nLars: \"Absolutely.\"\n\nElon: \"That would be my advice for people out ",
+    "translation": "這是昨天我最喜歡的片段\n\nElon：「我跟你說，也許從根本上來說 Model S/X 為啥能成功，就是因為那些車是用愛設計的。」\n\nLars：「完全同意。」\n\nElon：「那我對大家的建議就是...」\n\n（後面被截掉了）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-22T00:49:24.644165+08:00",
+    "url": "https://x.com/elonmusk/status/2057502564627681295"
   },
   {
     "id": "2057469422298669214",
