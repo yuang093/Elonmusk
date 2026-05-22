@@ -1,5 +1,33 @@
 [
   {
+    "id": "2057436115175457044",
+    "created_at": "2026-05-21T12:19:29.000Z",
+    "original": "Grok Build 0.1 might be one of the most underestimated AI models right now.\n\nWe tested it in Kilo Code by asking it to build 5 websites from scratch.\n\nHere are the results:",
+    "translation": "Grok Build 0.1 可能會是目前最被低估的 AI 模型之一。\n\n我們在 Kilo Code 上測試了一下，讓它從零開始做 5 個網站。\n\n結果如下：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T04:01:22.299806+08:00",
+    "url": "https://x.com/elonmusk/status/2057436115175457044"
+  },
+  {
+    "id": "2057882844295532722",
+    "created_at": "2026-05-22T17:54:38.000Z",
+    "original": ". We overhauled every page to better showcase our various models and products, and help developers, enterprises and users get started quickly.\n\nNow live → ",
+    "translation": "我們把每個頁面都大翻新了，這樣才能更好地展示我們的各種模型和產品，並幫助開發者、企業和使用者快速上手。\n\n現在上線啦 →",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T04:01:26.250908+08:00",
+    "url": "https://x.com/elonmusk/status/2057882844295532722"
+  },
+  {
     "id": "2057839480350834878",
     "created_at": "2026-05-22T15:02:19.000Z",
     "original": "Elon Musk",
