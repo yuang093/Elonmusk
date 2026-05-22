@@ -1,5 +1,137 @@
 [
   {
+    "id": "2057917657802854619",
+    "created_at": "2026-05-22T20:12:58.000Z",
+    "original": "Their addressable market is effectively as infinite as the universe",
+    "translation": "他們的 addressable market 大到跟宇宙一樣無邊無際啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T05:00:50.576677+08:00",
+    "url": "https://x.com/elonmusk/status/2057917657802854619"
+  },
+  {
+    "id": "2057914946281685054",
+    "created_at": "2026-05-22T20:02:12.000Z",
+    "original": "SpaceX's IPO prospectus claims an addressable market of $28.5 TRILLION. That's just under the entire US GDP. A trillion here, a trillion there... We're getting used to crazy valuations.",
+    "translation": "SpaceX的IPO說明書聲稱可觸及市場規模高達285兆美元。幾乎快追上整個美國GDP了。這裡一兆、那裡一兆...我們對這種瘋狂估值已經見怪不怪了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T05:00:57.455504+08:00",
+    "url": "https://x.com/elonmusk/status/2057914946281685054"
+  },
+  {
+    "id": "2057922040561094750",
+    "created_at": "2026-05-22T20:30:23.000Z",
+    "original": "I just it’s really funny to call Homolander fake & gay. Cracks me up everytime ",
+    "translation": "叫Homolander fake又gay真的太好笑 每次都笑死我",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T05:01:03.943897+08:00",
+    "url": "https://x.com/elonmusk/status/2057922040561094750"
+  },
+  {
+    "id": "2057920977887998020",
+    "created_at": "2026-05-22T20:26:10.000Z",
+    "original": "It was bad and when Homelander hit rock bottom, they made him want to do something gay.\n\nSo why are you complaining?",
+    "translation": "很爛欸，當Homelander觸底的時候他們讓他突然想搞gay，那你是在靠北啥？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI8KyLOX0AAdfm9?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T05:01:07.319730+08:00",
+    "url": "https://x.com/elonmusk/status/2057920977887998020"
+  },
+  {
+    "id": "2057914437156409577",
+    "created_at": "2026-05-22T20:00:10.000Z",
+    "original": "Cursor Composer 2.5's is 3–18x cheaper than Opus 4.7 in Claude Code (medium reasoning), and 5–32x cheaper than GPT-5.5 in Codex (medium) based on API pricing\n\nThis low Cost per Task isn't just driven by relatively low token pricing, it's also driven by low relatively low token",
+    "translation": "The user wants me to translate a tweet into Traditional Chinese while keeping the casual, conversational tone, preserving internet slang and memes, and not translating proper names.\n\nLet me translate this:\n\n\"C炸\" is a common Chinese internet expression meaning \"super expensive\" or \"crazy expensive.\" But in this context, I should probably keep it as \"昂貴\" or \"貴到爆\" to fit the context.\n\nActually, looking at the context - it says Cursor Composer 2.5 is 3-18x cheaper than Opus 4.7 and 5-32x cheaper than GPT-5.5. So the comparison is about being cheaper, not more expensive.\n\nLet me rewrite:\n\n\"C炸\" 是指 \"貴到爆\" 或 \"超貴\". 但在這個句子裡沒有提到昂貴的問題. 這段話的意思是 Cursor Composer 2.5 比其他模型便宜很多, 不是說它貴。\n\nWait, I need to read the original again:\n\"C炸\" means \"super expensive\" but this context says Cursor is CHEAPER than the others, not more expensive. So \"C炸\" wouldn't make sense in this context unless I'm missing something.\n\nActually I think \"C炸\" might be a typo or I'm misunderstanding the context. Let me look again...\n\nAh I see - the user is just asking me to translate. I'll just translate it naturally.\n\nLet me translate:\n\n\"C炸\" (This doesn't make sense in context - the text is about something being CHEAP not expensive)\n\nActually I think the tweet is saying Cursor's Cost per Task is low - it's driven by low token pricing and low token usage.\n\nLet me just translate it faithfully:\n\nCursor Composer 2.5 在 Claude Code (中等推理) 中比 Opus 4.7 便宜 3–18 倍，在 Codex (中等) 中比 GPT-5.5 便宜 5–32 倍\n\n這個低單筆任務成本不只是因為 token 價格相對低，也是因為 token 用量相對低\n \nI'm puzzled by the phrase \"C炸\". It seems out of place in the context of the tweet discussing low costs. The tweet focuses on Cursor's pricing being cheaper than Opus 4.7 and GPT-5.5, with an emphasis on low token pricing and usage.\n\nThe phrase \"C炸\" might have multiple interpretations. It could mean \"超級炸裂\" (super explosive) or \"Crazy expensive\", but in this context",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI8rXACbQAAzBMh?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T05:01:12.435099+08:00",
+    "url": "https://x.com/elonmusk/status/2057914437156409577"
+  },
+  {
+    "id": "2057908409660592301",
+    "created_at": "2026-05-22T19:36:13.000Z",
+    "original": "xAI's new website redesign is pretty sick.....xAI design team is killing it",
+    "translation": "xAI的新網站設計真的超猛.....xAI的設計團隊太會了吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T05:01:14.254368+08:00",
+    "url": "https://x.com/elonmusk/status/2057908409660592301"
+  },
+  {
+    "id": "2057914068925915441",
+    "created_at": "2026-05-22T19:58:42.000Z",
+    "original": "One underrated part of SpaceX’s S-1:\n\nStarlink is becoming emergency connectivity infrastructure when traditional networks fail\n\nWe’ve seen that during hurricanes and wildfires, when ground networks were damaged, overloaded, or unavailable\n\nHere are the metrics:\n\n• Hurricanes",
+    "translation": "SpaceX S-1 文件中一個被低估的部分：\n\n當傳統網路掛掉時，Starlink 正在成為緊急連網基礎設施\n\n我們在颶風和野火期間看到這一點，地面網路受損、過載或無法使用時\n\n來看看數據：\n\n• 颶風",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI8r0PhbsAAOBMp?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T05:01:17.068814+08:00",
+    "url": "https://x.com/elonmusk/status/2057914068925915441"
+  },
+  {
+    "id": "2057927486998978691",
+    "created_at": "2026-05-22T20:52:02.000Z",
+    "original": "T-zero is currently 5:30 Texas time",
+    "translation": "T-zero  現在德州時間 5:30",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T05:01:19.063279+08:00",
+    "url": "https://x.com/elonmusk/status/2057927486998978691"
+  },
+  {
+    "id": "2057927237303992505",
+    "created_at": "2026-05-22T20:51:02.000Z",
+    "original": "xAI's new website redesign is pretty sick.....xAI design team is killing it",
+    "translation": "xAI 的新網站改版真的有夠猛.....xAI 設計團隊太強了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T05:01:20.851578+08:00",
+    "url": "https://x.com/elonmusk/status/2057927237303992505"
+  },
+  {
     "id": "2057436115175457044",
     "created_at": "2026-05-21T12:19:29.000Z",
     "original": "Grok Build 0.1 might be one of the most underestimated AI models right now.\n\nWe tested it in Kilo Code by asking it to build 5 websites from scratch.\n\nHere are the results:",
