@@ -1,5 +1,141 @@
 [
   {
+    "id": "2058221895053377880",
+    "created_at": "2026-05-23T16:21:54.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T01:00:57.382719+08:00",
+    "url": "https://x.com/elonmusk/status/2058221895053377880"
+  },
+  {
+    "id": "2058171651280261516",
+    "created_at": "2026-05-23T13:02:15.000Z",
+    "original": "Starship was the greatest thing humanity ever built without AI assistance. It will be the last. Everything after this will be designed with AI. The era of human-only engineering is over.",
+    "translation": "Starship是人類在沒有AI幫忙的情況下建造出最猛的東西。也是最後一個了。以後所有東西都會用AI設計。純人類工程的時代結束了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T01:01:04.567911+08:00",
+    "url": "https://x.com/elonmusk/status/2058171651280261516"
+  },
+  {
+    "id": "2058222322176098337",
+    "created_at": "2026-05-23T16:23:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T01:01:08.357728+08:00",
+    "url": "https://x.com/elonmusk/status/2058222322176098337"
+  },
+  {
+    "id": "2058171976087175405",
+    "created_at": "2026-05-23T13:03:32.000Z",
+    "original": "BREAKING: Police REFUSE to release Henry Nowak’s chilling Snapchat & bodycam footage.\n\nVictim’s final moments hidden from public amid trial.\n\nHenry bled out AND DIED in cuffs ",
+    "translation": "突發：警方拒絕公開 Henry Nowak 那段令人毛骨悚然的 Snapchat 訊息和執法記錄器畫面\n\n審判期間，受害者最後的時刻就這樣被藏起來了\n\nHenry 在手銬下血流不止、直接斷氣了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJAYgLCXEAAUzze?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-24T01:01:18.166008+08:00",
+    "url": "https://x.com/elonmusk/status/2058171976087175405"
+  },
+  {
+    "id": "2058222660006384095",
+    "created_at": "2026-05-23T16:24:56.000Z",
+    "original": "Good for the Sikh community!",
+    "translation": "錫克教社群太棒了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T01:01:21.878910+08:00",
+    "url": "https://x.com/elonmusk/status/2058222660006384095"
+  },
+  {
+    "id": "2058188208060408151",
+    "created_at": "2026-05-23T14:08:02.000Z",
+    "original": "Yet the Sikh community spoke out and our government and mainstream media stay silent ",
+    "translation": "錫克教社群都站出來發聲了，我們政府和主流媒體還在那邊裝死",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJAnRBlXUAA1uw1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-24T01:01:24.062705+08:00",
+    "url": "https://x.com/elonmusk/status/2058188208060408151"
+  },
+  {
+    "id": "2058220599583920153",
+    "created_at": "2026-05-23T16:16:45.000Z",
+    "original": "We need heat shields to protect us, since we use the air to slow us down as we return to Earth. \nFrom orbital speed, it gets to 1650°C / 3000°F. From the Moon: 2750°C / 5000°F. \nFor yesterday's Starship suborbital test flight, peak was 1450°C / 2600°F. Great to see the ",
+    "translation": "我們需要熱防護罩來保護我們，因為我們利用大氣來減速、返回地球。\n從軌道速度返回，溫度達到1650°C / 3000°F。從月球返回：2750°C / 5000°F。\n昨天的Starship亞軌道測試飛行，峰值達到1450°C / 2600°F。太棒了，看到⋯⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJAPpLJXEAEvubl?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-24T01:01:42.167069+08:00",
+    "url": "https://x.com/elonmusk/status/2058220599583920153"
+  },
+  {
+    "id": "2058169629839683871",
+    "created_at": "2026-05-23T12:54:13.000Z",
+    "original": " was starting SpaceX, the original idea when he was running around with Adeo and they were looking at some rockets and",
+    "translation": "那時候正要創辦SpaceX，一開始的想法就是他跟Adeo到處晃，然後兩人在那邊看一堆火箭...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T01:01:48.201111+08:00",
+    "url": "https://x.com/elonmusk/status/2058169629839683871"
+  },
+  {
+    "id": "2058164276557230097",
+    "created_at": "2026-05-23T12:32:57.000Z",
+    "original": " at Starbase Mission Control during yesterday’s Starship flight ",
+    "translation": "在昨天Starship飛行期間的Starbase任務控制中心",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJARfvXWEAAzxh2?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJARfvPWIAA7ZQL?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJARfvXXsAA1ZO3?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-05-24T01:01:54.587324+08:00",
+    "url": "https://x.com/elonmusk/status/2058164276557230097"
+  },
+  {
     "id": "2058035645369491558",
     "created_at": "2026-05-23T04:01:48.000Z",
     "original": "Elon Musk",
