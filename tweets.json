@@ -1,5 +1,172 @@
 [
   {
+    "id": "2058021986295501254",
+    "created_at": "2026-05-23T03:07:32.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T12:00:55.393899+08:00",
+    "url": "https://x.com/elonmusk/status/2058021986295501254"
+  },
+  {
+    "id": "2058025532894187868",
+    "created_at": "2026-05-23T03:21:37.000Z",
+    "original": "And what a glorious death it was!",
+    "translation": "多光榮的死法啊！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T12:01:01.340481+08:00",
+    "url": "https://x.com/elonmusk/status/2058025532894187868"
+  },
+  {
+    "id": "2057969098839949663",
+    "created_at": "2026-05-22T23:37:23.000Z",
+    "original": "THEY FULLY SHOWED THE DEATH",
+    "translation": "他們直接演出死亡了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI9f-JyWQAAlXET?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T12:01:12.441658+08:00",
+    "url": "https://x.com/elonmusk/status/2057969098839949663"
+  },
+  {
+    "id": "2058025927989190976",
+    "created_at": "2026-05-23T03:23:12.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T12:01:13.832193+08:00",
+    "url": "https://x.com/elonmusk/status/2058025927989190976"
+  },
+  {
+    "id": "2057871090496725281",
+    "created_at": "2026-05-22T17:07:56.000Z",
+    "original": "i got in this race because Karen Bass let my entire town burn down while drinking in Ghana",
+    "translation": "我參選就是因為 Karen Bass 在迦納喝酒的時候讓我家整個燒光",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T12:01:25.406355+08:00",
+    "url": "https://x.com/elonmusk/status/2057871090496725281"
+  },
+  {
+    "id": "2058015769506562391",
+    "created_at": "2026-05-23T02:42:50.000Z",
+    "original": "Congrats and a huge thank you to the SpaceX team that always delivers.   This was an incredible first flight of a brand new vehicle.   Our collective future flying amongst the stars has become so much closer.",
+    "translation": "恭喜～還有感謝 SpaceX 團隊，你們真的超強。這台全新載具的首飛太猛了。咱們一起飛向星辰的未來又更近一步了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T12:01:35.101874+08:00",
+    "url": "https://x.com/elonmusk/status/2058015769506562391"
+  },
+  {
+    "id": "2058021274056614304",
+    "created_at": "2026-05-23T03:04:42.000Z",
+    "original": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+    "translation": "SpaceX 專門設計、製造和發射先進火箭還有太空船。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T12:01:37.214199+08:00",
+    "url": "https://x.com/elonmusk/status/2058021274056614304"
+  },
+  {
+    "id": "2057992407996624990",
+    "created_at": "2026-05-23T01:10:00.000Z",
+    "original": "why else are we here \nif not to live \nwith unreasonable passion for things",
+    "translation": "不然我們是為什麼活著\n不就是為了\n對事物保持那股莫名的熱情嗎",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI91L66XgAAcr2r?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T12:01:46.314282+08:00",
+    "url": "https://x.com/elonmusk/status/2057992407996624990"
+  },
+  {
+    "id": "2057973025870377038",
+    "created_at": "2026-05-22T23:52:59.000Z",
+    "original": "SpaceX has just launched and deployed ~45 tons to space.\n\nThis was one of the heaviest payloads since Polyus launched by Energia in 1987 and Skylab launched by Saturn V in 1973!",
+    "translation": "SpaceX 剛發射並部署了約 45 噸的物資到太空。\n\n這是自 1987 年能源號發射 Polyus 以及 1973 年土星五號發射太空實驗室以來最重的載荷之一了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI9Y96EXEAAtKPC?format=png&name=360x360",
+      "https://pbs.twimg.com/media/HI9jaLuW8AAarp1?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HI9jeXVX0AE-5-K?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-05-23T12:01:50.351572+08:00",
+    "url": "https://x.com/elonmusk/status/2057973025870377038"
+  },
+  {
+    "id": "2057981056402203124",
+    "created_at": "2026-05-23T00:24:53.000Z",
+    "original": "Today SpaceX launched ~45tons of Starlink mass simulators on Starship Flight 12, the highest payload tonnage to space since Saturn V's Skylab (77t) in 1973.\n\nThis is a huge milestone for spaceflight and cannot be ignored, the future of space and this program is so bright!!",
+    "translation": "今天SpaceX在星艦第12次飛行發射了大約45噸的Starlink質量模擬器，這是自1973年土星五號發射太空實",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI9qOqRXMAEbzv5?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HI9qXLIWsAA9H0M?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T12:02:04.337562+08:00",
+    "url": "https://x.com/elonmusk/status/2057981056402203124"
+  },
+  {
+    "id": "2058025860918329754",
+    "created_at": "2026-05-23T03:22:56.000Z",
+    "original": "Elon Musk reposted",
+    "translation": "馬斯克轉發了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI-TmjfbwAA4OYx?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T12:02:06.255251+08:00",
+    "url": "https://x.com/elonmusk/status/2058025860918329754"
+  },
+  {
     "id": "2058017273202290881",
     "created_at": "2026-05-23T02:48:48.000Z",
     "original": "No burn-throughs. Shield held.",
