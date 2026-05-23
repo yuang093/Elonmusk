@@ -1,5 +1,51 @@
 [
   {
+    "id": "2058035645369491558",
+    "created_at": "2026-05-23T04:01:48.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T13:00:59.487227+08:00",
+    "url": "https://x.com/elonmusk/status/2058035645369491558"
+  },
+  {
+    "id": "2058012934375346665",
+    "created_at": "2026-05-23T02:31:34.000Z",
+    "original": "What's funny is everyone at the Olympics etc is JUICED TO THE GILLS as well.\n\nBUT they have to avoid detection.\n\nThe key difference is the enhanced games requires no masking, hiding or tapering off sauce.\n\nThis ironically means using many SAFER forms of juice instead of higher",
+    "translation": "好笑的是奧運之類的比賽大家也是嗨到不行。但他們得躲過檢測。關鍵差異是強化版奧運不需要遮掩、躲藏或慢慢減量。這諷刺地意味著可以用更安全的嗨藥形式，而不是更高劑量的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI93HciaoAA-GJC?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T13:01:04.622383+08:00",
+    "url": "https://x.com/elonmusk/status/2058012934375346665"
+  },
+  {
+    "id": "2058039896279745004",
+    "created_at": "2026-05-23T04:18:42.000Z",
+    "original": "Breathtakingly Beautiful",
+    "translation": "美到令人窒息",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI-gYMkW4AABqqq?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T13:01:10.193578+08:00",
+    "url": "https://x.com/elonmusk/status/2058039896279745004"
+  },
+  {
     "id": "2058021986295501254",
     "created_at": "2026-05-23T03:07:32.000Z",
     "original": "Elon Musk",
