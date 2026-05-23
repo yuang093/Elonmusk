@@ -1,5 +1,55 @@
 [
   {
+    "id": "2057974036261409278",
+    "created_at": "2026-05-22T23:57:00.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-23T09:01:06.670597+08:00",
+    "url": "https://x.com/elonmusk/status/2057974036261409278"
+  },
+  {
+    "id": "2057975208149946613",
+    "created_at": "2026-05-23T00:01:39.000Z",
+    "original": " on a hell of a V3 Starship launch. One step closer to the Moon…one step closer to Mars ",
+    "translation": "這V3 Starship發射也太猛了吧！離月球又近一步…離火星又近一步",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI9li1dWcAATNSB?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HI9li1XX0AAlPmR?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HI9li1bXYAA8eZG?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HI9li1cXgAAikId?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-05-23T09:01:17.061872+08:00",
+    "url": "https://x.com/elonmusk/status/2057975208149946613"
+  },
+  {
+    "id": "2057959756778930390",
+    "created_at": "2026-05-22T23:00:15.000Z",
+    "original": "We are living in the best timeline\n\nIf this doesn't inspire instinctual awe in you, I don't know what possibly could\n\nHumanity will be multi-planetary",
+    "translation": "我們活在最好的時間線\n\n如果這都沒辦法讓你本能地感到敬畏，我真的不知道還有什麼能做到了\n\n人類會成為多行星物種",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HI9XTn7bgAA7NSv?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HI9XUH_bYAAW_hV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-23T09:01:30.116489+08:00",
+    "url": "https://x.com/elonmusk/status/2057959756778930390"
+  },
+  {
     "id": "2057969484879528267",
     "created_at": "2026-05-22T23:38:55.000Z",
     "original": "Splashdown confirmed! Congratulations to the entire SpaceX team on the twelfth flight test of Starship!",
