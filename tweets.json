@@ -1,5 +1,145 @@
 [
   {
+    "id": "2058231897528877246",
+    "created_at": "2026-05-23T17:01:39.000Z",
+    "original": "My favorite photo from yesterday: A powerful sight as the latest iteration of Starship climbs through Texan skies. Captured via a sound-triggered camera, this camera captured the chaotic scene far better than I could from a safe distance.\n\nPrints available in the reply.",
+    "translation": "昨天最愛的一張照片：最新版的星艦爬升穿越德州天空，場面超震撼。這張是用聲音觸發相機拍的，比我遠遠站安全距離拍的好太多。\n\n有想要印出來收藏的話，回覆裡有連結。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJBPAIrWIAAH1_a?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-24T09:00:51.766654+08:00",
+    "url": "https://x.com/elonmusk/status/2058231897528877246"
+  },
+  {
+    "id": "2058344861896478807",
+    "created_at": "2026-05-24T00:30:31.000Z",
+    "original": "Fully reusable rockets bias towards higher T/W, as propellant cost dominates cost per ton to orbit.\n\nEven for Falcon 9, which is ~80% reusable, losing the upper stage costs way more than the propellant, so relatively inefficient use of propellant (low T/W) still reduces $/ton to",
+    "translation": "完全可復用的火箭會偏向前往更高的 T/W，因為燃料成本才是每噸上軌道的成本大頭。\n\n即使是 Falcon 9 這種約 80% 可復用的火箭，弄丟上級的成本遠比燃料貴，所以相對低效的燃料使用（低 T/W）仍然能降低每噸的美元成本。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T09:01:02.366348+08:00",
+    "url": "https://x.com/elonmusk/status/2058344861896478807"
+  },
+  {
+    "id": "2058290932773228838",
+    "created_at": "2026-05-23T20:56:14.000Z",
+    "original": "When you nail thrust to weight ratio, you can get off the pad properly.",
+    "translation": "當你把推重比抓穩的時候，就能順利升空啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T09:01:19.733122+08:00",
+    "url": "https://x.com/elonmusk/status/2058290932773228838"
+  },
+  {
+    "id": "2058345024513880173",
+    "created_at": "2026-05-24T00:31:10.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T09:01:21.132094+08:00",
+    "url": "https://x.com/elonmusk/status/2058345024513880173"
+  },
+  {
+    "id": "2058327712947646487",
+    "created_at": "2026-05-23T23:22:23.000Z",
+    "original": "It’s actually insane how well Starship V3’s heat shield held up during flight 12. \n\nOne massive step towards rapid reusability. Huge progress.",
+    "translation": "V3 Starship 的隔熱罩在第12次飛行中撐成這樣真的太猛了。\n\n距離快速重複使用又邁進了一大步，太讚了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJCmJE-XEAAanpB?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-24T09:01:26.390174+08:00",
+    "url": "https://x.com/elonmusk/status/2058327712947646487"
+  },
+  {
+    "id": "2058307547573145779",
+    "created_at": "2026-05-23T22:02:15.000Z",
+    "original": "Onboard views from Starship and Super Heavy V3, which are equipped with upgraded cameras capable of streaming 4K video through every phase of flight via ",
+    "translation": "星艦與超重型火箭 V3 的船內視角，配備升級版攝影機，能在飛行每個階段串流 4K 影片，透過...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJCQUnFXcAEl6_F?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJCQV_LWUAAL76d?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJCQXuOWkAAF3rY?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJCQZPpXQAAqDXO?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-05-24T09:01:40.591097+08:00",
+    "url": "https://x.com/elonmusk/status/2058307547573145779"
+  },
+  {
+    "id": "2058292397419937833",
+    "created_at": "2026-05-23T21:02:03.000Z",
+    "original": "BREAKING: Elon Musk hires Nicki Minaj as Chief Gyatt Officer at SpaceX",
+    "translation": "突發：馬斯克聘請 Nicki Minaj 擔任 SpaceX 首席雞雞官",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJCGAg1aUAA2j1L?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJCF_f4aUAAOtIg?format=png&name=360x360"
+    ],
+    "fetched_at": "2026-05-24T09:01:45.766865+08:00",
+    "url": "https://x.com/elonmusk/status/2058292397419937833"
+  },
+  {
+    "id": "2058348332360097947",
+    "created_at": "2026-05-24T00:44:19.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-24T09:01:48.417252+08:00",
+    "url": "https://x.com/elonmusk/status/2058348332360097947"
+  },
+  {
+    "id": "2058209966712889731",
+    "created_at": "2026-05-23T15:34:30.000Z",
+    "original": "How lefties think the economy works",
+    "translation": "左派覺得經濟是怎麼運作的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJA7C3sX0AADm2h?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-24T09:01:52.726114+08:00",
+    "url": "https://x.com/elonmusk/status/2058209966712889731"
+  },
+  {
     "id": "2058252724471267740",
     "created_at": "2026-05-23T18:24:24.000Z",
     "original": "This is important",
