@@ -1,5 +1,79 @@
 [
   {
+    "id": "2056401962640224641",
+    "created_at": "2026-05-18T15:50:08.000Z",
+    "original": "I loved the Project Hail Mary movie (and the book).\n\nScience, technology, competence, and openness – this is my culture.",
+    "translation": "Project Hail Mary 這部電影我真的超愛的（書也是）。\n\n科學、科技、專業能力、還有開放的心態——這就是我的文化。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T04:00:39.582963+08:00",
+    "url": "https://x.com/elonmusk/status/2056401962640224641"
+  },
+  {
+    "id": "2058633428594315756",
+    "created_at": "2026-05-24T19:37:11.000Z",
+    "original": "There will also ultimately be >100k V3/V4/V5 satellites for Starlink broadband and direct to cellphone connectivity. \n\nIf growth continues, Starlink will one day carry the majority of Internet traffic. At that point, it is the Internet and everything else just connects to",
+    "translation": "最終也會有超過 10 萬顆 V3/V4/V5 衛星用於 Starlink 寬頻和直連手機服務\n\n如果繼續這樣成長下去，Starlink 有天會吃掉大部分網路流量。到那時候，它就是網路本體，其他的都只是連上去而已",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T04:00:47.304473+08:00",
+    "url": "https://x.com/elonmusk/status/2058633428594315756"
+  },
+  {
+    "id": "2058610825594855631",
+    "created_at": "2026-05-24T18:07:22.000Z",
+    "original": "Starlink V3 is a massive capacity leap\n\nFrom SpaceX’s S-1:\n\nStarlink V2\n• Launched February 2023\n• 96 Gbps downlink capacity\n\nStarlink V3\n• Launch targeted for 2026\n• 1,024 Gbps downlink capacity\n\nThat is roughly a 10.7× jump\n\nThis is the next phase of Starlink:\n\n• More",
+    "translation": "Starlink V3 是個容量大躍進\n\n根據 SpaceX 的 S-1 文件：\n\nStarlink V2\n• 2023 年 2 月發射\n• 96 Gbps 下載容量\n\nStarlink V3\n• 預計 2026 年發射\n• 1,024 Gbps 下載容量\n\n大約是 10.7 倍的跳躍\n\n這就是 Starlink 的下一個階段：\n\n• 更多⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJGnocgaoAAzblO?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-25T04:00:51.750357+08:00",
+    "url": "https://x.com/elonmusk/status/2058610825594855631"
+  },
+  {
+    "id": "2058633781569798287",
+    "created_at": "2026-05-24T19:38:35.000Z",
+    "original": "We strive to entertain",
+    "translation": "我們努力帶給大家歡樂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T04:00:57.989829+08:00",
+    "url": "https://x.com/elonmusk/status/2058633781569798287"
+  },
+  {
+    "id": "2058606096323956788",
+    "created_at": "2026-05-24T17:48:35.000Z",
+    "original": "SpaceX (fully aware of an impending IPO) set up drones specifically to capture this fireball and chose to livestream it. Let that sink in.",
+    "translation": "SpaceX（完全知道他們快IPO了）特別出動無人機去拍那個火球還開直播。讓你好好想想這代表什麼。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJGjVWEWAAAWyqk?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-25T04:01:09.834790+08:00",
+    "url": "https://x.com/elonmusk/status/2058606096323956788"
+  },
+  {
     "id": "2058611152905462095",
     "created_at": "2026-05-24T18:08:40.000Z",
     "original": "Elon Musk",
