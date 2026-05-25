@@ -1,5 +1,77 @@
 [
   {
+    "id": "2058711579529458131",
+    "created_at": "2026-05-25T00:47:44.000Z",
+    "original": "@RupertLowe10",
+    "translation": "@RupertLowe10",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T09:01:15.019851+08:00",
+    "url": "https://x.com/elonmusk/status/2058711579529458131"
+  },
+  {
+    "id": "2058701440369963253",
+    "created_at": "2026-05-25T00:07:26.000Z",
+    "original": "More guts than any politician in the UK",
+    "translation": "比英國那些政客都還要有種",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJH6CkJWgAAPhgj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-25T09:01:27.274908+08:00",
+    "url": "https://x.com/elonmusk/status/2058701440369963253"
+  },
+  {
+    "id": "2058714460173353429",
+    "created_at": "2026-05-25T00:59:11.000Z",
+    "original": "The key is just closing the loop on solving progressively harder problems, which we have plenty of at my companies",
+    "translation": "重點就是把解決越來越難問題的迴路給補上，這種問題在我公司要多少有多少",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T09:01:30.058747+08:00",
+    "url": "https://x.com/elonmusk/status/2058714460173353429"
+  },
+  {
+    "id": "2058710409813651756",
+    "created_at": "2026-05-25T00:43:05.000Z",
+    "original": "Western Civilization didn't flourish because \"white males\" stopped other groups from succeeding.\n\nThe West thrived because of rational thought, individual rights, and free enterprise.\n\n\"White males\" that invented the steam engine, electric generation, the combustion engine, x.com/NC7983/status/…",
+    "translation": "西方文明的繁榮可不是因為「白人男性」阻止了其他族群成功。\n\n西方之所以興盛，靠的是理性思維、個人權利和自由企業。\n\n那些發明蒸汽機、發電機、內燃機的「白人男性」x.com/NC7983/status/…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T09:01:35.335846+08:00",
+    "url": "https://x.com/elonmusk/status/2058710409813651756"
+  },
+  {
+    "id": "2058710684066521323",
+    "created_at": "2026-05-25T00:44:10.000Z",
+    "original": "Bug fixes shipping to Grok Build 0.1.219 (release notes will be available in the TUI)\n\n- fixing usage limit bugs with prompt caching\n- fix layout-shifted chars in kitty terminal\n- replace Shift+Enter w/ Alt-Enter on VTE-based terminals (GNOME Terminal, Ptyxis, kgx, Tilix, etc.)\n-",
+    "translation": "Grok Build 0.1.219 的 bug 修復來啦（更新日誌稍後在 TUI 裡見）\n\n- 修了一下 prompt caching 相關的用量限制 bug\n- 修掉 kitty 終端機裡字元跑版的問題",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T09:01:45.656215+08:00",
+    "url": "https://x.com/elonmusk/status/2058710684066521323"
+  },
+  {
     "id": "2058697839702605893",
     "created_at": "2026-05-24T23:53:08.000Z",
     "original": "Such injustice!",
