@@ -1,5 +1,137 @@
 [
   {
+    "id": "2059002703959769356",
+    "created_at": "2026-05-25T20:04:33.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T05:01:23.800017+08:00",
+    "url": "https://x.com/elonmusk/status/2059002703959769356"
+  },
+  {
+    "id": "2058716852151619599",
+    "created_at": "2026-05-25T01:08:41.000Z",
+    "original": " \n\nElon,\n\nMy husband Ted and I share this X account, and we’ve posted together many times. But today I wanted to write to you personally, from my own heart.\n\nI want to thank you for creating tools that help me learn something new every single day, that make my life",
+    "translation": "Elon，\n\n我和老公Ted共用這個X帳號，我們一起發文很多次了。但今天我想親自跟你說話，來自我內心深處。\n\n我想謝謝你創造了這些工具，讓我每天都能學到新東西，讓我的生活⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJIIEJlbQAAAEKn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-26T05:01:27.920352+08:00",
+    "url": "https://x.com/elonmusk/status/2058716852151619599"
+  },
+  {
+    "id": "2058941289450897426",
+    "created_at": "2026-05-25T16:00:31.000Z",
+    "original": "Chicago is basically just a warzone",
+    "translation": "芝加哥根本就是戰區",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJLUMMracAArNdf?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-26T05:01:30.303271+08:00",
+    "url": "https://x.com/elonmusk/status/2058941289450897426"
+  },
+  {
+    "id": "2059002244305973472",
+    "created_at": "2026-05-25T20:02:44.000Z",
+    "original": "SpaceX put 10 megawatts of solar power in space across 3000 gen1 Starlink satellites, then they put 100 megawatts in space with 7000 gen2. soon, they're doing 1000 megawatts with gen3. SpaceX is basically 10xing space solar every few years!",
+    "translation": "SpaceX放了好幾千顆第一代星鏈衛星上去，總共有10 MW太陽能，後來又放7000顆第二代，變成100 MW。現在第三代要搞到1000 MW。SpaceX基本上每隔幾年就把太空太陽能發電量×10啊！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T05:01:33.733537+08:00",
+    "url": "https://x.com/elonmusk/status/2059002244305973472"
+  },
+  {
+    "id": "2058974659648123084",
+    "created_at": "2026-05-25T18:13:07.000Z",
+    "original": "Grok Build is now available in Beta for all SuperGrok and X Premium+ users.\n\nUse Plan Mode, create images and videos with Imagine, and build automations or orchestrators with the CLI.\n\nVisit ",
+    "translation": "Grok Build 測試版上線啦！所有 SuperGrok 和 X Premium+ 用戶都能用。用 Plan Mode、Imagine 做圖片和影片，還能用 CLI 打造自動化流程或 orchestrator。快去 visit 啦～",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T05:01:42.116480+08:00",
+    "url": "https://x.com/elonmusk/status/2058974659648123084"
+  },
+  {
+    "id": "2059002579707654199",
+    "created_at": "2026-05-25T20:04:04.000Z",
+    "original": "NEW: Spencer Pratt fires back at reporter after he was asked about his plan for the homeless, says they will all end up in Seattle.\n\nReporter: \"What are your plans for the over 40,000 homeless in Los Angeles?\"\n\nPratt: \"Well, they're not homeless, they're drug addicts... These",
+    "translation": "突發：Spencer Pratt 被問到對遊民的計畫後嗆記者，說他們最後都會跑去西雅圖。\n\n記者：「你對洛杉磯超過四萬名遊民有什麼計畫？」\n\nPratt：「呃，他們不是遊民，是毒蟲... 這些人」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T05:01:49.488384+08:00",
+    "url": "https://x.com/elonmusk/status/2059002579707654199"
+  },
+  {
+    "id": "2059005185867792572",
+    "created_at": "2026-05-25T20:14:25.000Z",
+    "original": ": Chicago is basically just a warzone",
+    "translation": "芝加哥根本就是戰區吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJLUMMracAArNdf?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-26T05:01:53.516995+08:00",
+    "url": "https://x.com/elonmusk/status/2059005185867792572"
+  },
+  {
+    "id": "2059005390201704834",
+    "created_at": "2026-05-25T20:15:14.000Z",
+    "original": "Grok Build is now available in Beta for all SuperGrok and X Premium+ users.\n\nUse Plan Mode, create images and videos with Imagine, and build automations or orchestrators with the CLI.\n\nVisit ",
+    "translation": "Grok Build 測試版現在開放給所有 SuperGrok 和 X Premium+ 用戶使用啦！\n\n可以用 Plan Mode、用 Imagine 生成圖片和影片、還能用 CLI 建立自動化流程或編排器。\n\n快去試試看 👇",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T05:02:00.986874+08:00",
+    "url": "https://x.com/elonmusk/status/2059005390201704834"
+  },
+  {
+    "id": "2059016015644614797",
+    "created_at": "2026-05-25T20:57:27.000Z",
+    "original": "Try it out! Favorite features:\n- <1 second web/X search\n- Editing and creating assets with Imagine\n- Great subagent/worktree integrations x.com/xai/status/205…",
+    "translation": "快試試看！最愛的功能：\n- <1 秒的 web/X 搜尋\n- 用 Imagine 編輯和創作素材\n- 超棒的 subagent/worktree 整合 x.com/xai/status/205…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T05:02:05.634629+08:00",
+    "url": "https://x.com/elonmusk/status/2059016015644614797"
+  },
+  {
     "id": "2059001669136855370",
     "created_at": "2026-05-25T20:00:26.000Z",
     "original": "With rare exceptions, the countries colonized by Europe were actually unprofitable. \n\nMore was spent on building up their infrastructure and creating cities than was earned from exports.",
