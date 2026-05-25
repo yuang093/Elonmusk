@@ -1,5 +1,49 @@
 [
   {
+    "id": "2058748539128201547",
+    "created_at": "2026-05-25T03:14:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T12:00:58.729785+08:00",
+    "url": "https://x.com/elonmusk/status/2058748539128201547"
+  },
+  {
+    "id": "2058747872619761795",
+    "created_at": "2026-05-25T03:11:57.000Z",
+    "original": "Western civilization has collapsed before.\n\nBut a few scholars preserved the ideas that once made Rome great. They made a backup, and it did eventually come all the way back.\n\nIt just took one thousand years. ",
+    "translation": "西方文明之前也崩過一次。\n\n但有幾個學者把當年羅馬偉大時的想法保存下來了，做了個備份，然後還真的東山再起了。\n\n就只是花了整整一千年的時間而已。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJIQQFAaMAAITNo?format=png&name=small"
+    ],
+    "fetched_at": "2026-05-25T12:01:06.198686+08:00",
+    "url": "https://x.com/elonmusk/status/2058747872619761795"
+  },
+  {
+    "id": "2058264829131997457",
+    "created_at": "2026-05-23T19:12:30.000Z",
+    "original": "how it started.                       how it's going.",
+    "translation": "一開始是這樣的\n現在變成這樣了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-25T12:01:08.843344+08:00",
+    "url": "https://x.com/elonmusk/status/2058264829131997457"
+  },
+  {
     "id": "2058705425282081038",
     "created_at": "2026-05-25T00:23:16.000Z",
     "original": "Grok Build should watch and learn from Claude Code and Cursor inside Marcohard.",
