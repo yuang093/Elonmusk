@@ -1,5 +1,67 @@
 [
   {
+    "id": "2059341684702412911",
+    "created_at": "2026-05-26T18:31:33.000Z",
+    "original": "wtf you talking about, kid?\n\nI co-founded OpenAI ten years ago. I understand the difficulty.",
+    "translation": "靠你在說啥啊，小鬼？\n\n我十年前共同創辦了 OpenAI，我知道這有多困難。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T03:01:24.312206+08:00",
+    "url": "https://x.com/elonmusk/status/2059341684702412911"
+  },
+  {
+    "id": "2059272018319602056",
+    "created_at": "2026-05-26T13:54:43.000Z",
+    "original": "What you say is true, but nonetheless our AI will be great. Whether it is the best remains to be seen, but I will never give up. Never.\n\nSpace(XAI) is only 3 years old. That’s half the age of Anthropic and quarter the age of OpenAI. \n\nLet’s see where things stand 3 years from",
+    "translation": "你說的沒錯，但我們的 AI 依舊會很猛。是不是最好還有待觀察，但我絕對不會放棄。絕對不會。\n\nSpace (XAI) 才成立三年，是 Anthropic 的一半、OpenAI 的四分之一而已。\n\n三年後再來看看局勢吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJQAur_XAAATMU6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T03:01:29.520935+08:00",
+    "url": "https://x.com/elonmusk/status/2059272018319602056"
+  },
+  {
+    "id": "2059339897123607037",
+    "created_at": "2026-05-26T18:24:26.000Z",
+    "original": "'s Starship rocket will play a big role in these missions.\n\n\"The Moon Base is a home away from Earth for Artemis astronauts who will live and",
+    "translation": "「Starship 火箭將在這些任務中扮演重要角色。\n\n「月球基地是 Artemis 太空人在地球以外的另一個家，他們將在此生活並…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJQ92m-WgAASByI?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJQ931KXcAABaR3?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJQ94eOWAAA44m9?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-05-27T03:01:34.776451+08:00",
+    "url": "https://x.com/elonmusk/status/2059339897123607037"
+  },
+  {
+    "id": "2059345041806553416",
+    "created_at": "2026-05-26T18:44:53.000Z",
+    "original": ", our lunar habitat where astronauts will work and live. ",
+    "translation": "我們的月球棲息地，航天員之後會在那邊上班和住的地方。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T03:01:39.458578+08:00",
+    "url": "https://x.com/elonmusk/status/2059345041806553416"
+  },
+  {
     "id": "2059208483342266655",
     "created_at": "2026-05-26T09:42:15.000Z",
     "original": "This is not Somalia!\n\nIt's not Nigeria or Sudan either.\n\nThis is Belgium - This is the European Union.",
