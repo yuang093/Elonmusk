@@ -1,5 +1,47 @@
 [
   {
+    "id": "2059268164060422398",
+    "created_at": "2026-05-26T13:39:24.000Z",
+    "original": "SpaceX had achieved nothing of note after 3 years and was written off as dead after 6 years with 3 consecutive launch failures.\n\nBut you may have noticed that things are different now.",
+    "translation": "SpaceX 折騰了三年啥也沒折騰出來，六年後直接因為連續三次發射失敗被唱衰到不行。\n\n但你可能也注意到了，現在可是完全不同的光景了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T22:00:57.275342+08:00",
+    "url": "https://x.com/elonmusk/status/2059268164060422398"
+  },
+  {
+    "id": "2059265588677976277",
+    "created_at": "2026-05-26T13:29:10.000Z",
+    "original": "What you say is true, but nonetheless our AI will be great. Whether it is the best remains to be seen, but I will never give up. Never.\n\nSpace(XAI) is only 3 years old. That’s half the age of Anthropic and quarter the age of OpenAI. \n\nLet’s see where things stand 3 years from",
+    "translation": "你說的沒錯，但我們的 AI 就是會很強。至於會不會最好嘛，這就留給時間證明了，但我絕對不會放棄。絕對不會。\n\nSpace(XAI) 才成立 3 年而已，比 Anthropic 小一半、比 OpenAI 小四分之一。\n\n3 年後再看看局勢如何吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T22:01:09.143943+08:00",
+    "url": "https://x.com/elonmusk/status/2059265588677976277"
+  },
+  {
+    "id": "2059213633482051791",
+    "created_at": "2026-05-26T10:02:43.000Z",
+    "original": "Elon doesn't need to run the best AI model. He needs to control the best hardware. Nvidia is the most valuable company on Earth and their models aren't the most popular. The hyperscaler play works.",
+    "translation": "Elon不需要跑最好的AI模型。他需要控制最好的硬體。Nvidia是地球上最有價值的公司，但他們的模型不是最受歡迎的。超大規模雲端的做法是對的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T22:01:13.972588+08:00",
+    "url": "https://x.com/elonmusk/status/2059213633482051791"
+  },
+  {
     "id": "2059080740881502364",
     "created_at": "2026-05-26T01:14:39.000Z",
     "original": "Beginner video: How to install & use Grok Build (made for non-technical SuperGrok and X Premium+ users)\n\nI got so many questions from friends, so I made this simple step-by-step guide.\n\nYou’ll see exactly how to:\n• Install Grok Build in seconds with one command\n• Create real ",
