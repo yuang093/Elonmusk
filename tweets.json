@@ -1,5 +1,125 @@
 [
   {
+    "id": "2059164965748064718",
+    "created_at": "2026-05-26T06:49:19.000Z",
+    "original": "Elon Musk reposted",
+    "translation": "馬斯克轉發了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJOfngBWUAAMcgl?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T00:01:31.873578+08:00",
+    "url": "https://x.com/elonmusk/status/2059164965748064718"
+  },
+  {
+    "id": "2059296198150803596",
+    "created_at": "2026-05-26T15:30:48.000Z",
+    "original": "It will not cut battery costs in half, but it will significantly reduce the cost of battery cathode production",
+    "translation": "不會讓電池成本直接砍半啦，但陰極生產的成本會明顯變低是真的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T00:01:37.207393+08:00",
+    "url": "https://x.com/elonmusk/status/2059296198150803596"
+  },
+  {
+    "id": "2059236606058365190",
+    "created_at": "2026-05-26T11:34:00.000Z",
+    "original": " Tesla quietly filed a patent that could cut battery production costs by nearly half.\n\nThe breakthrough is a new way to make battery cathodes without toxic liquid solvents, using a microscopic \"spider web\" structure that binds the materials together instead. \n\nIt also triples",
+    "translation": "Tesla悄悄遞出專利 竟然可能把電池生產成本砍到幾乎對半\n\n這個突破是做出電池陰極的新方法 不用有毒液體溶劑 而是靠顯微鏡等級的「蜘蛛網」結構把材料黏在一起\n\n而且還能提升三倍...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJPZOpiW4AEymN6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T00:01:42.019158+08:00",
+    "url": "https://x.com/elonmusk/status/2059236606058365190"
+  },
+  {
+    "id": "2059296499444351255",
+    "created_at": "2026-05-26T15:32:00.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T00:01:46.993400+08:00",
+    "url": "https://x.com/elonmusk/status/2059296499444351255"
+  },
+  {
+    "id": "2059275296050741666",
+    "created_at": "2026-05-26T14:07:44.000Z",
+    "original": "A very sad announcement.\n\nI have just been convicted a second time for 'hate speech' and it is only due to a technicality that I could not immediately be sent to jail —to the judge's frustration.\n\nIn an ironic turn of events it's actually thanks to my previous prison sentence",
+    "translation": "一個非常悲傷的公告。\n\n我剛剛因為「仇恨言論」第二次被判有罪了 — 只是因為技術問題讓我沒辦法立刻被關進去，法官對此很不爽。\n\n諷刺的是，這次竟然是靠我之前的牢獄刑期...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJP8SGHXIAAp4yk?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T00:01:57.837048+08:00",
+    "url": "https://x.com/elonmusk/status/2059275296050741666"
+  },
+  {
+    "id": "2059296718391279767",
+    "created_at": "2026-05-26T15:32:52.000Z",
+    "original": "Hitler was also left, just a different type of left. Hardcore socialist.",
+    "translation": "希特勒也是左派，只是不同類型的左派。超級社會主義者。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T00:02:04.739619+08:00",
+    "url": "https://x.com/elonmusk/status/2059296718391279767"
+  },
+  {
+    "id": "2059263754060095797",
+    "created_at": "2026-05-26T13:21:52.000Z",
+    "original": "Something I told 14 yo: There's a kind of politician who tells people \"Your life is bad because <outgroup> stole what's rightfully yours. Vote for me and I'll get it back for you.\" They do it on both the left (Lenin) and right (Hitler), and they're invariably bad news.",
+    "translation": "跟14歲小朋友說的事：有種政客會告訴你「你過得這麼慘都是因為<外團體>偷走本該屬於你們的東西，投我就幫你搶回來。」左派（列寧）右派（希特勒）都吃這套，而且通常都是大麻煩。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T00:02:09.070067+08:00",
+    "url": "https://x.com/elonmusk/status/2059263754060095797"
+  },
+  {
+    "id": "2059302994890440961",
+    "created_at": "2026-05-26T15:57:48.000Z",
+    "original": "\n \nA more seamless, high-speed in-flight connection — built for streaming, browsing, gaming, and staying connected in real time, gate to gate.\n\nWant to learn more? Head to our Newsroom.",
+    "translation": "更流暢的高速機上連線 — 專為串流、瀏覽、遊戲和即時保持連線而生，從登機門到登機門都能用。\n\n想了解更多？去我們的新聞中心看看吧。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJQRdAwWoAEHQ05?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T00:02:14.854461+08:00",
+    "url": "https://x.com/elonmusk/status/2059302994890440961"
+  },
+  {
     "id": "2059287487273382024",
     "created_at": "2026-05-26T14:56:11.000Z",
     "original": "Just press Cmd + Shift + Ctrl + 3, then Cmd + V paste the screenshot directly into Grok Build and ask it to inspire, guide, explain, debug, or recreate what you want\n\nIt’s much easier to explain ideas visually instead of trying to type out every tiny detail manually\n\nThe workflow",
