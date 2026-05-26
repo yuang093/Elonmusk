@@ -1,5 +1,51 @@
 [
   {
+    "id": "2059363883287269660",
+    "created_at": "2026-05-26T19:59:45.000Z",
+    "original": "Once again, important to emphasize that there are two different systems: Starlink for civilian usage and Starshield that is built & operated for US govt.\n\nWe try hard to keep these separate.",
+    "translation": "再次強調，很重要的是有兩個不同的系統：星鏈是給一般大眾用的民用服務，而星盾則是專門給美國政府建造和營運的。\n\n我們很努力讓這兩套系統分開運作。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T04:00:38.251026+08:00",
+    "url": "https://x.com/elonmusk/status/2059363883287269660"
+  },
+  {
+    "id": "2059362297597010222",
+    "created_at": "2026-05-26T19:53:27.000Z",
+    "original": "Belgian man convicted of hate speech describes the judicial rationale for his latest conviction.\n\nI asked Gemini: Is this man's account of his conviction accurate?\n\nGemini replied that it was grossly inaccurate.\n\nSo, I copied and pasted Gemini's response, and asked Grok to reply ",
+    "translation": "一名因仇恨言論被定罪的比利時男子，說明他最近一次被定罪的司法理由。\n\n我問 Gemini：這個人對他被定罪的描述是否屬實？\n\nGemini 回答說這完全不符實情。\n\n所以，我把 Gemini 的回覆複製貼上，問 Grok 怎麼看。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJQ5avrXcAAlzBu?format=png&name=small"
+    ],
+    "fetched_at": "2026-05-27T04:00:45.018899+08:00",
+    "url": "https://x.com/elonmusk/status/2059362297597010222"
+  },
+  {
+    "id": "2059363470488092778",
+    "created_at": "2026-05-26T19:58:07.000Z",
+    "original": "NASA just officially unveiled their master plan for a permanent Moon Base at the lunar South Pole\n\nThis is not just about flags and footprints. NASA is moving to establish an enduring, sustained human presence, and they are heavily relying on commercial innovators to build it",
+    "translation": "NASA 正式揭曉了他們在月球南極建立永久基地的總規劃\n\n這可不只是插旗子、踩腳印而已。NASA 這次是玩真的，要在月球上建立一個持久、持續的人類存在，而且還要大力倚靠商業創新者來幫忙打造這一切",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJRFurPXcAAUlFE?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T04:00:52.196636+08:00",
+    "url": "https://x.com/elonmusk/status/2059363470488092778"
+  },
+  {
     "id": "2059341684702412911",
     "created_at": "2026-05-26T18:31:33.000Z",
     "original": "wtf you talking about, kid?\n\nI co-founded OpenAI ten years ago. I understand the difficulty.",
