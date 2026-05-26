@@ -1,5 +1,51 @@
 [
   {
+    "id": "2059080740881502364",
+    "created_at": "2026-05-26T01:14:39.000Z",
+    "original": "Beginner video: How to install & use Grok Build (made for non-technical SuperGrok and X Premium+ users)\n\nI got so many questions from friends, so I made this simple step-by-step guide.\n\nYou’ll see exactly how to:\n• Install Grok Build in seconds with one command\n• Create real ",
+    "translation": "新手教學影片：如何安裝及使用 Grok Build（專為非技術背景的 SuperGrok 和 X Premium+ 用戶打造）\n\n太多朋友問我問題了，所以做了一個簡單的步驟教學。\n\n你將會看到如何：\n• 用一個指令在幾秒內安裝 Grok Build\n• 建立真實的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T10:01:03.644940+08:00",
+    "url": "https://x.com/elonmusk/status/2059080740881502364"
+  },
+  {
+    "id": "2058933164127756605",
+    "created_at": "2026-05-25T15:28:14.000Z",
+    "original": "Just spent a full coding session with Grok Build and honestly? It's right there with Claude. \n\nThe model is sharp, the agentic flow holds up on complex tasks, and it has actual personality.\n\nFew rough edges on the UX side (sent detailed feedback to the team), but the core is",
+    "translation": "用 Grok Build 跑了一整個 coding session，老實說？跟 Claude 真的是有得一拚。\n\n模型很犀利，agentic flow 在複雜任務上也撐得住，而且有自己的性格。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJLMiGVWkAA_o81?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-26T10:01:09.966462+08:00",
+    "url": "https://x.com/elonmusk/status/2058933164127756605"
+  },
+  {
+    "id": "2058968035982037165",
+    "created_at": "2026-05-25T17:46:48.000Z",
+    "original": "Asked Grok one simple question: \n\n‘What is your prime directive?’\n\nThe answer was pure elegance.",
+    "translation": "問了Grok一個簡單的問題：\n\n「你的最高指令是什麼？」\n\n答案優雅到不行。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJLsg8JWMAADvb2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-26T10:01:26.181905+08:00",
+    "url": "https://x.com/elonmusk/status/2058968035982037165"
+  },
+  {
     "id": "2059029813843910978",
     "created_at": "2026-05-25T21:52:17.000Z",
     "original": "The Grok Build team is one of the most productive teams I have worked with. I need something to adopt my diverse workflow from model training to validating the Cybercab manufacturing process.\n\nTheir daily updates show their care for the products. I extend my sincere gratitude to",
