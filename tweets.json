@@ -1,5 +1,47 @@
 [
   {
+    "id": "2059287487273382024",
+    "created_at": "2026-05-26T14:56:11.000Z",
+    "original": "Just press Cmd + Shift + Ctrl + 3, then Cmd + V paste the screenshot directly into Grok Build and ask it to inspire, guide, explain, debug, or recreate what you want\n\nIt’s much easier to explain ideas visually instead of trying to type out every tiny detail manually\n\nThe workflow",
+    "translation": "只要按 Cmd + Shift + Ctrl + 3，然後 Cmd + V 把截圖直接貼到 Grok Build 裡，再叫它幫你找靈感、引導你、解釋給你聽、除錯，或是重新創作你想要的東西\n\n用視覺方式表達想法真的輕鬆多了，不用一個一個小細節慢慢打字打下來\n\n Workflow 就是這樣",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T23:01:12.010049+08:00",
+    "url": "https://x.com/elonmusk/status/2059287487273382024"
+  },
+  {
+    "id": "2059287677497692287",
+    "created_at": "2026-05-26T14:56:56.000Z",
+    "original": "Reality always wins",
+    "translation": "現實永遠是贏家",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T23:01:17.171610+08:00",
+    "url": "https://x.com/elonmusk/status/2059287677497692287"
+  },
+  {
+    "id": "2059090906796744900",
+    "created_at": "2026-05-26T01:55:02.000Z",
+    "original": "Product >> Brand x.com/icannot_enough…",
+    "translation": "產品 >> 品牌 x.com/icannot_enough…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-26T23:01:22.299511+08:00",
+    "url": "https://x.com/elonmusk/status/2059090906796744900"
+  },
+  {
     "id": "2059268164060422398",
     "created_at": "2026-05-26T13:39:24.000Z",
     "original": "SpaceX had achieved nothing of note after 3 years and was written off as dead after 6 years with 3 consecutive launch failures.\n\nBut you may have noticed that things are different now.",
