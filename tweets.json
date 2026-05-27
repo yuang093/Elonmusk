@@ -1,5 +1,111 @@
 [
   {
+    "id": "2059768737486778594",
+    "created_at": "2026-05-27T22:48:30.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-28T07:00:58.156002+08:00",
+    "url": "https://x.com/elonmusk/status/2059768737486778594"
+  },
+  {
+    "id": "2059755073803022340",
+    "created_at": "2026-05-27T21:54:12.000Z",
+    "original": "40% of UK births are from foreign parents…\n\nThink about that for a second.\nEngland was 99.9% White British in 1950.\n\nNo Western nation voted or fought for this.",
+    "translation": "英國 40% 的新生兒是外國父母生的...\n\n讓你好好想一下這件事。\n1950 年的英格蘭，99.9% 都是白英國人。\n\n沒有任何西方國家為此投票或為此打仗過。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJW3QNfXcAI5RC_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-28T07:01:03.134694+08:00",
+    "url": "https://x.com/elonmusk/status/2059755073803022340"
+  },
+  {
+    "id": "2059770461609988490",
+    "created_at": "2026-05-27T22:55:21.000Z",
+    "original": "Important to know what really happened",
+    "translation": "要知道到底發生了什麼才重要啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-28T07:01:06.106833+08:00",
+    "url": "https://x.com/elonmusk/status/2059770461609988490"
+  },
+  {
+    "id": "2059635744621142197",
+    "created_at": "2026-05-27T14:00:02.000Z",
+    "original": "The parents of 26-year-old OpenAI whistleblower Suchir Balaji, who was found dead in his San Francisco home a month after he went public accusing the company of breaking laws to train ChatGPT, are intensifying their efforts to challenge the official ruling of suicide.",
+    "translation": "OpenAI 吹哨人 Suchir Balaji 的爸媽正在加強火力，要推翻官方的自殺裁決。這位 26 歲的年輕人，在跳出來指控公司違法訓練 ChatGPT 後一個月，就被發現陳屍在舊金山的家裡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJVLy1-WkAAlChz?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-28T07:01:11.225985+08:00",
+    "url": "https://x.com/elonmusk/status/2059635744621142197"
+  },
+  {
+    "id": "2059732520485175424",
+    "created_at": "2026-05-27T20:24:35.000Z",
+    "original": " is probably our greatest commercial space company, hands down. We rely on SpaceX heavily to put our astronauts to and from the international space station.\"",
+    "translation": "毫無懸念就是我們最厲害的商業太空公司。我們超級依賴SpaceX把太空人送上國際太空站再接回來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJWJC9RXcAEthnv.jpg"
+    ],
+    "fetched_at": "2026-05-28T07:01:18.143584+08:00",
+    "url": "https://x.com/elonmusk/status/2059732520485175424"
+  },
+  {
+    "id": "2059729539287167068",
+    "created_at": "2026-05-27T20:12:44.000Z",
+    "original": "We spent a ton of time making worktrees actually work well for agent swarms and large repos.\n\nWhen you’re running 10s of agents that ship, you quickly realize you need worktree, but git’s defaults are brutal at this scale.\nSlow creation, every agent copying the whole repo, can’t",
+    "translation": "我們花了大量時間優化 worktree，讓它真的能在 agent swarms 和大型 repos 上運作良好。\n\n當你在跑好幾十個負責出貨的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-28T07:01:27.179064+08:00",
+    "url": "https://x.com/elonmusk/status/2059729539287167068"
+  },
+  {
+    "id": "2059733567337296187",
+    "created_at": "2026-05-27T20:28:45.000Z",
+    "original": " → Human Spaceflight → Space Station → scroll all the way down → “Play Now”\n\nIt’s a live Dragon docking simulator where you try docking with the ISS yourself\n\nAnd really… this game",
+    "translation": "→ Human Spaceflight → Space Station → 一直往下滑到底 → \"Play Now\"\n\n這是一個實況版的龍飛船對接模擬器，讓你體驗自己對接ISS的感覺\n\n然後真的...這遊戲",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJWkCgeXIAI84Ee?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-28T07:01:39.199926+08:00",
+    "url": "https://x.com/elonmusk/status/2059733567337296187"
+  },
+  {
     "id": "2059672129201643863",
     "created_at": "2026-05-27T16:24:37.000Z",
     "original": "We pay immigrants to come to our countries to rape.",
