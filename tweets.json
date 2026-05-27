@@ -1,5 +1,77 @@
 [
   {
+    "id": "2059472875082625156",
+    "created_at": "2026-05-27T03:12:51.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T12:01:13.026104+08:00",
+    "url": "https://x.com/elonmusk/status/2059472875082625156"
+  },
+  {
+    "id": "2059382254191652896",
+    "created_at": "2026-05-26T21:12:45.000Z",
+    "original": " . I think of myself as a wide ranging systems engineer, looking for value at every level from the chip specs to the user interface, but SA exposes me to additional levels of \"the system\", both above (datacenters) and below",
+    "translation": "我覺得自己是個涉獵很廣的系統工程師，從晶片規格到使用者介面都會在各個層級找價值，但SA讓我接觸到更多「系統」的層面，不只是往上（資料中心）還有往下",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T12:01:29.233084+08:00",
+    "url": "https://x.com/elonmusk/status/2059382254191652896"
+  },
+  {
+    "id": "2059472491115123177",
+    "created_at": "2026-05-27T03:11:19.000Z",
+    "original": "Dries has just been convicted again: This time for speaking the truth about the disastrous consequences of mass migration.\n\nThe most insane part is that the Belgian court even admitted Dries spoke the truth, as what he said was factual, but deems it a crime because it could x.com/dvanlangenhove…",
+    "translation": "Dries又被判有罪了：這次是因為說出大量移民災難性後",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T12:01:37.799066+08:00",
+    "url": "https://x.com/elonmusk/status/2059472491115123177"
+  },
+  {
+    "id": "2059364834265985082",
+    "created_at": "2026-05-26T20:03:32.000Z",
+    "original": "Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate, data-driven  political speech about mass migration — as this ruling appears to explicitly contemplate.  \n\nDoing so means that people willing to be convicted of “racism” get a",
+    "translation": "那些擔心所謂「右派」崛起的人，不該把精準、數據驅動的移民言論入罪——這裁決看起來明確暗示了這一點。\n\n這麼做的話，代表那些願意被扣「種族主義」帽子的人會變成...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJP8SGHXIAAp4yk?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T12:01:44.441035+08:00",
+    "url": "https://x.com/elonmusk/status/2059364834265985082"
+  },
+  {
+    "id": "2059471983684055257",
+    "created_at": "2026-05-27T03:09:18.000Z",
+    "original": "Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI)\n\n- add “Yes, and don't ask again for anything (always-approve mode)\"\n- add alpha/stable to welcome screen\n- JetBrains/JediTerm terminal detection so TUI does not get confused and detect it as some",
+    "translation": "錯誤修正已部署到 Grok Build 0.2.3（發布說明可在 TUI 中查看）\n\n- 新增「好，而且之後都不要再問我（always-approve 模式）」\n- 在歡迎畫面加入 alpha/stable 標示\n- JetBrains/JediTerm 終端機偵測，這樣 TUI 不會搞混誤判成別的東東了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T12:01:51.894754+08:00",
+    "url": "https://x.com/elonmusk/status/2059471983684055257"
+  },
+  {
     "id": "2059361223469039793",
     "created_at": "2026-05-26T19:49:11.000Z",
     "original": "US SPACE FORCE AWARDS SPACEX $2.29 BILLION CONTRACT FOR MILITARY SPACE DATA NETWORK",
