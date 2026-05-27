@@ -1,5 +1,93 @@
 [
   {
+    "id": "2059494556647694439",
+    "created_at": "2026-05-27T04:39:00.000Z",
+    "original": " with a lunar terrain vehicle award. Their Crewed Lunar Vehicle is a rover designed to transport astronauts and supplies across the lunar surface.\n\nThis vehicle will be deployed to the Moon by 2028 through our commercial lunar payload services",
+    "translation": "拿到月球車獎項了啦～他們的載人月球車是一台 rover，專門用來在月球表面載太空人和送物資的。\n\n這台車車預計在 2028 年前會透過我們的商業月球快遞服務送上月球🌙",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJTLW0mXwAEGeey?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T21:05:31.418077+08:00",
+    "url": "https://x.com/elonmusk/status/2059494556647694439"
+  },
+  {
+    "id": "2059581363674837150",
+    "created_at": "2026-05-27T10:23:56.000Z",
+    "original": "Will raise limits",
+    "translation": "要調高限制了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T21:05:38.288881+08:00",
+    "url": "https://x.com/elonmusk/status/2059581363674837150"
+  },
+  {
+    "id": "2059574515265413632",
+    "created_at": "2026-05-27T09:56:44.000Z",
+    "original": "Elon please don't forget about Grok Imagine bros. Our rate limits have been cut by 80 - 90% in the last month. Can you help us, please?",
+    "translation": "Elon拜託別忘了Grok Imagine的兄弟們啊 我們的API額度最近一個月被砍了80到90% 可以幫幫我們嗎🙏",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJUUBkUXIAMh-h-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-27T21:05:44.729672+08:00",
+    "url": "https://x.com/elonmusk/status/2059574515265413632"
+  },
+  {
+    "id": "2059475181102596421",
+    "created_at": "2026-05-27T03:22:01.000Z",
+    "original": "Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI)\n\n- add “Yes, and don't ask again for anything (always-approve mode)\"\n- add alpha/stable to welcome screen\n- JetBrains/JediTerm terminal detection so TUI does not get confused and detect it as some",
+    "translation": "Bug 修復送到 Grok Build 0.2.3 啦（更新日誌會在 TUI 裡放出來）\n\n- 新增「是，而且之後不要再問了（always-approve 模式）」\n- 在歡迎畫面加上 alpha/stable 標示\n- 加上 JetBrains/JediTerm 終端機偵測，這樣 TUI 不會搞混把它偵測成別的什麼鬼玩意兒",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T21:05:52.984912+08:00",
+    "url": "https://x.com/elonmusk/status/2059475181102596421"
+  },
+  {
+    "id": "2059585639092531620",
+    "created_at": "2026-05-27T10:40:56.000Z",
+    "original": "People will just think it’s AI ",
+    "translation": "大家只會覺得是 AI 啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T21:06:00.921237+08:00",
+    "url": "https://x.com/elonmusk/status/2059585639092531620"
+  },
+  {
+    "id": "2059378419213766752",
+    "created_at": "2026-05-26T20:57:31.000Z",
+    "original": "Isn’t it  cheaper to keep staging it in a Hollywood studio?",
+    "translation": "難道在好萊塢片場一直這樣搞不會更省錢嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-27T21:07:06.661912+08:00",
+    "url": "https://x.com/elonmusk/status/2059378419213766752"
+  },
+  {
     "id": "2059577563593474472",
     "created_at": "2026-05-27T10:08:50.000Z",
     "original": "\"Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was still working. I think he must have gone till 2am. So I don't know anybody who works as hard as him. He's really in the technical details of it.\"\n\n一 David Sacks",
