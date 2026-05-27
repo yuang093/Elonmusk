@@ -1,5 +1,33 @@
 [
   {
+    "id": "2059698864479949006",
+    "created_at": "2026-05-27T18:10:51.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-28T03:01:33.518073+08:00",
+    "url": "https://x.com/elonmusk/status/2059698864479949006"
+  },
+  {
+    "id": "2059605788939649177",
+    "created_at": "2026-05-27T12:01:00.000Z",
+    "original": "\"Elon Musk is probably doing more for America than any other American. He's single handedly bringing manufacturing back to America. SpaceX is in some ways the most important defense contractor in America. What he's doing with Starlink is amazing for the world.  He's creating all",
+    "translation": "Elon Musk 做的事情可能比任何美國人都多。他一個人就把製造業拉回美國了。SpaceX 在某種程度上是美國最重要的國防承包商。他做的 Starlink 對全世界都超猛的。他在創造所有...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-28T03:01:39.083850+08:00",
+    "url": "https://x.com/elonmusk/status/2059605788939649177"
+  },
+  {
     "id": "2059494556647694439",
     "created_at": "2026-05-27T04:39:00.000Z",
     "original": " with a lunar terrain vehicle award. Their Crewed Lunar Vehicle is a rover designed to transport astronauts and supplies across the lunar surface.\n\nThis vehicle will be deployed to the Moon by 2028 through our commercial lunar payload services",
