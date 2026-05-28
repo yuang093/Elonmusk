@@ -1,5 +1,140 @@
 [
   {
+    "id": "2060013732999405631",
+    "created_at": "2026-05-28T15:02:01.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T01:02:55.361662+08:00",
+    "url": "https://x.com/elonmusk/status/2060013732999405631"
+  },
+  {
+    "id": "2059927516073041932",
+    "created_at": "2026-05-28T09:19:26.000Z",
+    "original": "Four stabbed by knifeman shouting 'Allahu Akbar' at Switzerland train station in front of terrified children ",
+    "translation": "瑞士火車站有男子持刀砍人，高喊「真主至大」，嚇壞的小孩面前4人被刺傷",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJZVJ9-W0AAkZ1K?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-29T01:03:08.121591+08:00",
+    "url": "https://x.com/elonmusk/status/2059927516073041932"
+  },
+  {
+    "id": "2060014496845087063",
+    "created_at": "2026-05-28T15:05:03.000Z",
+    "original": "Those hateful police are accessories to murder",
+    "translation": "那些該死的警察根本就是幫兇",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T01:03:16.527098+08:00",
+    "url": "https://x.com/elonmusk/status/2060014496845087063"
+  },
+  {
+    "id": "2059992044467057110",
+    "created_at": "2026-05-28T13:35:50.000Z",
+    "original": " laughed as Henry Nowak was dying, they took his and his dad's phones to search for \"racism\" in a sickening attempt to justify his murder!",
+    "translation": "LOL 當亨利·諾瓦克快死的時候他們在那邊笑，還把他跟他爸的手機拿去搜「種族主義」，噁爆了，根本是想洗白他的謀殺！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJaP1-YWsAIoyqc?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-29T01:03:21.252359+08:00",
+    "url": "https://x.com/elonmusk/status/2059992044467057110"
+  },
+  {
+    "id": "2060015761868173813",
+    "created_at": "2026-05-28T15:10:05.000Z",
+    "original": "We do kinda have that at Starbase",
+    "translation": "我們在Starbase也算是有啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T01:03:23.926360+08:00",
+    "url": "https://x.com/elonmusk/status/2060015761868173813"
+  },
+  {
+    "id": "2059957128106778867",
+    "created_at": "2026-05-28T11:17:06.000Z",
+    "original": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.\n\nThe potential speed improvement vs JAX for large training runs is",
+    "translation": "SpaceX 快要搞完 V1.0 了，是他們自己寫的 C 語言 AI 訓練框架，精準對應 22 萬張 GB300 加上 800G 網卡，大量用到管線並行，就是盡量逼近裸機效能。\n\n跟 JAX 比起來，大規模訓練的速度提升幅度是",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJZwFuxXgAIsypZ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-29T01:03:31.506019+08:00",
+    "url": "https://x.com/elonmusk/status/2059957128106778867"
+  },
+  {
+    "id": "2060016443295682995",
+    "created_at": "2026-05-28T15:12:47.000Z",
+    "original": "Not even close to good enough. Those officers committed a serious crime.",
+    "translation": "根本遠遠不夠好啊，那些員警犯了重罪。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T01:03:37.866222+08:00",
+    "url": "https://x.com/elonmusk/status/2060016443295682995"
+  },
+  {
+    "id": "2060012855445876762",
+    "created_at": "2026-05-28T14:58:32.000Z",
+    "original": "BREAKING: HAMPSHIRE POLICE APOLOGISE FOR ARRESTING HENRY NOWAK AS HE DIED IN STREET\n\nRobert France, temporary deputy chief constable for Hampshire Police has said he's \"sorry\" his officers arrested Henry in the moments before he died\n\nNOT GOOD ENOUGH\nThey must pay for their",
+    "translation": "突發：漢普郡警察為在Henry Nowak街頭斷氣前將他逮捕而道歉\n\n漢普郡警察代理副局長Robert France表示，他對員警在Henry死前那幾分鐘將他逮捕感到「遺憾」\n\n不夠誠意\n他們必須為此付出代價",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJaioEUXcAY0An1?format=png&name=360x360",
+      "https://pbs.twimg.com/media/HJaiqpXXgAEQ3IW?format=png&name=small"
+    ],
+    "fetched_at": "2026-05-29T01:03:49.430259+08:00",
+    "url": "https://x.com/elonmusk/status/2060012855445876762"
+  },
+  {
+    "id": "2060038394428964893",
+    "created_at": "2026-05-28T16:40:01.000Z",
+    "original": "Next will be writing the inference stack in C for simultaneous high-speed RL across a large block of GB300s. \n\n(We do use a little C++ tbh, but not much)",
+    "translation": "下一步要在 C 語言寫推論堆疊，來對一大堆 GB300 做同時高速 RL。\n\n（說實話我們確實有用一點點 C++，但真的不多）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T01:03:56.590288+08:00",
+    "url": "https://x.com/elonmusk/status/2060038394428964893"
+  },
+  {
     "id": "2059678993268322357",
     "created_at": "2026-05-27T16:51:53.000Z",
     "original": "For the first year on record, wind and solar produced more electricity than coal in the U.S.",
