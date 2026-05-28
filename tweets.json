@@ -1,5 +1,21 @@
 [
   {
+    "id": "2059678993268322357",
+    "created_at": "2026-05-27T16:51:53.000Z",
+    "original": "For the first year on record, wind and solar produced more electricity than coal in the U.S.",
+    "translation": "美國史上頭一回，風力和太陽能發的電比煤炭還要多！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJVzIUlWoAMRt_m?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-28T18:01:27.075878+08:00",
+    "url": "https://x.com/elonmusk/status/2059678993268322357"
+  },
+  {
     "id": "2059880289514696927",
     "created_at": "2026-05-28T06:11:46.000Z",
     "original": "SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens.\n\nThis is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic’s. \n\nWe won’t leave them hanging and will provide a",
