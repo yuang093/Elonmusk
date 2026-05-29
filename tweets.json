@@ -1,5 +1,49 @@
 [
   {
+    "id": "2060111150029914577",
+    "created_at": "2026-05-28T21:29:07.000Z",
+    "original": "Starlink powers the world’s biggest satellite constellation in low Earth orbit. \n\nWhat does that mean for you? We're rolling out the world’s fastest, most reliable high-speed inflight Wi-Fi now — with waaaaay more on the horizon. By the end of this year, we expect that 880+",
+    "translation": "Starlink 為全球最大的低軌衛星網路提供服務。\n\n這對你有什麼影響？我們正在推出全球最快、最可靠的高速機上 Wi-Fi — 而且未來還會有更多、更更多、更多。預計到今年年底會有 880+...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T08:01:35.435362+08:00",
+    "url": "https://x.com/elonmusk/status/2060111150029914577"
+  },
+  {
+    "id": "2060134654125154434",
+    "created_at": "2026-05-28T23:02:31.000Z",
+    "original": "We gave Grok Build 0.1 one prompt: build a webhook delivery service in TypeScript, Bun, and SQLite.\n\nIt planned it, built it, and shipped a working demo.\nTotal cost: $1.65.\n\nZero tool-calling failures.\nHere's exactly what happened, file by file.",
+    "translation": "We need to translate the tweet into Traditional Chinese, maintaining a casual, conversational tone, preserving memes and internet slang, not translating names. So we need to convert the English tweet into Chinese (Traditional) with appropriate colloquial style. Should keep \"Grok Build 0.1\", \"TypeScript\", \"Bun\", \"SQLite\". Also keep \"webhook delivery service\". Probably \"We gave Grok Build 0.1 one prompt: build a webhook delivery service in TypeScript, Bun, and SQLite.\" => we translate, but keep names: \"Grok Build 0.1\". \"We gave Grok Build 0.1 one prompt: ...\" could be \"我們給了 Grok Build 0.1 一個 prompt：...\" Keep the colon and the phrase. Might translate \"We gave Grok Build 0.1 one prompt\" to \"我們給了 Grok Build 0.1 一個 prompt\". But maybe \"We gave Grok Build 0.1 one prompt\" => \"我們給了 Grok Build 0.1 一個 prompt：\" Use colon. Keep English phrase \"prompt\". Possibly can keep \"prompt\" as is. Keep \"webhook delivery service\". Keep \"TypeScript, Bun, and SQLite\". Possibly preserve \"Zero tool-calling failures.\" We can translate to \"零工具調用失敗\". Might keep \"Zero tool-calling failures\" because it's a phrase. Keep \"Here's exactly what happened, file by file.\" => \"以下是具體經過，檔案逐個呈現。\" Or \"以下是實際發生的過程，檔案逐個\" something. Keep \"Total cost: $1.65.\" Keep \"$1.65\". Use NT$ maybe? But it's USD. Keep \"$1.65\". Keep \"It planned it, built it, and shipped a working demo.\" => \"它計畫、建造、並交付了一個可運行的 demo。\" Use \"demo\". Might keep \"demo\". Keep \"We gave Grok Build 0.1 one prompt: build a webhook delivery service in TypeScript, Bun, and SQLite.\" => \"我們給了 Grok Build 0.1 一個 prompt：在 TypeScript、Bun、SQLite 中構建一個 webhook 交付服務。\" Keep \"webhook\". Could translate \"webhook\" as \"webhook\". It's a known term. Keep \"delivery service\" as \"交付服務\". Should keep \"交付",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJbrcV2WwAE-AyE?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-29T08:01:47.227858+08:00",
+    "url": "https://x.com/elonmusk/status/2060134654125154434"
+  },
+  {
+    "id": "2060141783632515383",
+    "created_at": "2026-05-28T23:30:51.000Z",
+    "original": " installed on 80% of its entire fleet by the end of this year.\n\nSouthwest expects to have 300+ of its airplanes to have Starlink by end of 2026.",
+    "translation": "預計年底前會裝到整個機隊的 80%。\n\nSouthwest 預計 2026 年底會有 300+ 架飛機用上 Starlink。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-29T08:01:55.940174+08:00",
+    "url": "https://x.com/elonmusk/status/2060141783632515383"
+  },
+  {
     "id": "2060004145944576352",
     "created_at": "2026-05-28T14:23:56.000Z",
     "original": "No - the Kirpan must not be banned. Instead, all good citizens must have the right to possess and carry defensive weapons.\n\nThe police will not be there to protect you or your children.\n\nCriminals will always be armed because they don't care about the law.\n\nOnly a good armed",
