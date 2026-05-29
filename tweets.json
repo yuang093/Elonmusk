@@ -1,5 +1,51 @@
 [
   {
+    "id": "2060483139374358651",
+    "created_at": "2026-05-29T22:07:17.000Z",
+    "original": "SpaceX put 10 megawatts of solar power in space across 3000 gen1 Starlink satellites, then they put 100 megawatts in space with 7000 gen2. soon, they're doing 1000 megawatts with gen3. SpaceX is basically 10xing space solar every few years!",
+    "translation": "SpaceX在3000顆第一代Starlink衛星上放了10百萬瓦的太陽能，然後用7000顆第二代放了100百萬瓦到太空。很快的，第三代要做到1000百萬瓦了。SpaceX基本上每幾年就會把太空太陽能提升10倍啊！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-05-30T07:01:50.603878+08:00",
+    "url": "https://x.com/elonmusk/status/2060483139374358651"
+  },
+  {
+    "id": "2060487009890680906",
+    "created_at": "2026-05-29T22:22:39.000Z",
+    "original": "UPDATE (AS OF MAY 29, 2026):\n\n0 stories from AP on Henry Nowak\n0 stories from PBS on Henry Nowak\n0 stories from NYT on Henry Nowak\n0 stories from NPR on Henry Nowak\n0 stories from WSJ on Henry Nowak\n0 stories from CNN on Henry Nowak\n0 stories from WaPo on Henry Nowak\n0 stories",
+    "translation": "更新（截至2026年5月29日）：\n\nAP上關於Henry Nowak的報導：0篇\nPBS上關於Henry Nowak的報導：0篇\n紐時上關於Henry Nowak的報導：0篇\nNPR上關於Henry Nowak的報導：0篇\nWSJ上關於Henry Nowak的報導：0篇\nCNN上關於Henry Nowak的報導：0篇\n華郵上關於Henry Nowak的報導：0篇\n0篇報導",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJg1dugWIAQfkEU?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-30T07:01:55.720183+08:00",
+    "url": "https://x.com/elonmusk/status/2060487009890680906"
+  },
+  {
+    "id": "2060417181553463301",
+    "created_at": "2026-05-29T17:45:11.000Z",
+    "original": "On the remarkable return on capital potential for Starlink on Starship.\n\nIncluding customer acquisition cost, ground station capex, and an expendable top stage, we think SpaceX should be able to launch its 10th commercial starship rocket for ~$500m.\n\nThe bandwidth it launches",
+    "translation": "關於Starlink用Starship發射時驚人的資本回報潛力。\n\n包含客戶獲取成本、地面站資本支出，以及一次性上面級，我們覺得SpaceX應該能以大約5億美元發射第10枚商業Starship火箭。\n\n它發射的頻寬",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJgSM6QbYAAGzgp?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-05-30T07:02:01.933746+08:00",
+    "url": "https://x.com/elonmusk/status/2060417181553463301"
+  },
+  {
     "id": "2060392249402552457",
     "created_at": "2026-05-29T16:06:07.000Z",
     "original": "grok-build-0.1 is now available via the xAI API in public beta.\n\nThis is the same model that powers the Grok Build CLI and excels at agentic coding.\n\nPriced at $1/m input and $2/m output, it’s extremely cost effective, intelligent, and fast.",
