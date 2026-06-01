@@ -1,5 +1,65 @@
 [
   {
+    "id": "2061268637311484251",
+    "created_at": "2026-06-01T02:08:34.000Z",
+    "original": "Worked like a charm. \n\nTime to return to this approach.",
+    "translation": "就像施了魔法一樣有效。\n\n該回歸這招了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-01T11:00:57.105833+08:00",
+    "url": "https://x.com/elonmusk/status/2061268637311484251"
+  },
+  {
+    "id": "2061220386038063478",
+    "created_at": "2026-05-31T22:56:50.000Z",
+    "original": "250 years of continuously extinguishing the bottom ~2% of men who could not behave produced the modern Englishman and Anglo-American , who from the early 1700s to early 2000s almost entirely created the modern world.",
+    "translation": "連續250年把那2%行為不端的底層男性剔除掉，就這樣搞出了現代英國人和盎格魯裔美國人，這群人從1700年代到2000年代幾乎獨力打造了整個現代世界。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJrtAgRXYAErZR2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-01T11:01:08.651380+08:00",
+    "url": "https://x.com/elonmusk/status/2061220386038063478"
+  },
+  {
+    "id": "2061268036208971886",
+    "created_at": "2026-06-01T02:06:10.000Z",
+    "original": "Honestly Grok should be the best AI for creating bangers.\n\nHumans get good at posting from RL with Audience / Engagement Feedback\n\nElon has the best dataset of rollouts for this by far \n\nAnd many people use Grok to create posts yet they don't backprop the engagement signal\n",
+    "translation": "說真的，Grok 應該是最會生成爆款文的AI。\n\n人類透過觀眾/互動回饋的強化學習，能學會怎麼發文\n\nElon 手上握有最豐富的 rollout 數據庫\n\n結果很多人用 Grok 創作卻不回傳 engagement 訊號做 backprop\n\n（浪費啊）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-01T11:01:15.551939+08:00",
+    "url": "https://x.com/elonmusk/status/2061268036208971886"
+  },
+  {
+    "id": "2061268418750476762",
+    "created_at": "2026-06-01T02:07:42.000Z",
+    "original": " Model 3 plunged 300 feet off a Malibu cliff this weekend and the two passengers survived with only moderate injuries.\n\nTesla makes the safest vehicles.",
+    "translation": "一台 Model 3 這週末墜落馬里布懸崖300英尺，結果車上兩位乘客只受了中等傷勢。\n\n特斯拉打造最安全的車。👍",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJnNdjUXYAUTwbK.jpg"
+    ],
+    "fetched_at": "2026-06-01T11:01:27.970487+08:00",
+    "url": "https://x.com/elonmusk/status/2061268418750476762"
+  },
+  {
     "id": "2061221736650363051",
     "created_at": "2026-05-31T23:02:12.000Z",
     "original": "Elon Musk",
