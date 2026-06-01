@@ -1,5 +1,35 @@
 [
   {
+    "id": "2061493428337410460",
+    "created_at": "2026-06-01T17:01:48.000Z",
+    "original": "Let’s not get carried away. This is a short-term deal.",
+    "translation": "別太嗨了，這只是短期交易而已。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-02T02:00:38.351624+08:00",
+    "url": "https://x.com/elonmusk/status/2061493428337410460"
+  },
+  {
+    "id": "2061490588240027951",
+    "created_at": "2026-06-01T16:50:31.000Z",
+    "original": "Anthropic paying spaceXai $24b in revenue per nameplate GW. \n\nSpaceXai spent $29b per GW building out that capacity.\n\nIf the contract were to last 5 years, $50+ billion in cumulative pre-tax cashflow.\n \nBeing wildly efficient at converting cash into physical compute assets in a",
+    "translation": "Anthropic 付給 spaceXai 每個 nameplate GW $24b 的營收\n\nSpaceXai 建置這些容量每 GW 花了 $29b\n\n如果合約為期 5 年，會有 $50+ billion 的累計稅前現金流\n\n在把現金轉換成實體算力資產這塊變得非常有效率 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJviumfa8AITcZ2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-02T02:00:44.572210+08:00",
+    "url": "https://x.com/elonmusk/status/2061490588240027951"
+  },
+  {
     "id": "2061008355099877815",
     "created_at": "2026-05-31T08:54:18.000Z",
     "original": "Anyone who used a computer between 1985-2010. What’s the one game you still think about?",
