@@ -1,5 +1,52 @@
 [
   {
+    "id": "2062295139910045744",
+    "created_at": "2026-06-03T22:07:31.000Z",
+    "original": "Crazy what the Mars Rover drew with its wheels ",
+    "translation": "瘋了 好奇號用輪子畫了這個 😱",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ6-gGebMAA9k92?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-04T07:00:42.326442+08:00",
+    "url": "https://x.com/elonmusk/status/2062295139910045744"
+  },
+  {
+    "id": "2062280288039031185",
+    "created_at": "2026-06-03T21:08:30.000Z",
+    "original": " sent this to me\n\nOne of their engineers was doing lithography and the residue left this pattern\n\nThis actually happened\n\nDivine intervention\n\nImmaculate conception\n\nHardware is hard ",
+    "translation": "朋友傳給我的\n\n他們的工程師在做光蝕刻，結果殘留物留下了這個圖案\n\n這是真的\n\n神蹟降臨\n\n聖母顯靈\n\n硬體是真的硬",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ6w_h2bgAA4In4?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HJ6w_hyakAAPt9d?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-04T07:00:48.980410+08:00",
+    "url": "https://x.com/elonmusk/status/2062280288039031185"
+  },
+  {
+    "id": "2062244906714963971",
+    "created_at": "2026-06-03T18:47:55.000Z",
+    "original": "Ordering lunch to the 𝕏 office using 𝕏 Money funded by my 𝕏 paycheck that was deposited to my 𝕏 account",
+    "translation": "用X發的薪水、匯進X帳戶的錢，再用X Money訂午餐送到X辦公室",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-04T07:00:56.038594+08:00",
+    "url": "https://x.com/elonmusk/status/2062244906714963971"
+  },
+  {
     "id": "2062271108968222964",
     "created_at": "2026-06-03T20:32:02.000Z",
     "original": "Elon Musk",
