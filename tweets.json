@@ -1,5 +1,35 @@
 [
   {
+    "id": "2062246990289727642",
+    "created_at": "2026-06-03T18:56:11.000Z",
+    "original": "Fact: he died of 11ng/ml Fentanyl.",
+    "translation": "Fact: he died of 11ng/ml Fentanyl.",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ6StacWcAAqPQm?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-04T04:00:56.980071+08:00",
+    "url": "https://x.com/elonmusk/status/2062246990289727642"
+  },
+  {
+    "id": "2062255860433506323",
+    "created_at": "2026-06-03T19:31:26.000Z",
+    "original": "Meet Go. Gopuff's AI shopping genius, co-developed with SpaceXAI. Just say what you need. It's already on its way.",
+    "translation": "來認識一下 Go，Gopuff 的 AI 購物小幫手，跟 SpaceXAI 聯手打造的。說出你想要啥，東西直接幫你送到。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-04T04:01:02.973556+08:00",
+    "url": "https://x.com/elonmusk/status/2062255860433506323"
+  },
+  {
     "id": "2062227526890750261",
     "created_at": "2026-06-03T17:38:51.000Z",
     "original": "Elon Musk",
