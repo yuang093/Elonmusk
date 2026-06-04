@@ -1,5 +1,19 @@
 [
   {
+    "id": "2062662195192697233",
+    "created_at": "2026-06-04T22:26:04.000Z",
+    "original": "Starlink V3 satellites have >10X bandwidth of V2 and there’ll be >10X launched, which means >100X more bandwidth. \n\nAlso, altitude will be 350km vs 550km, so min latency can be cut in half. \n\nLight travels 300km/ms in space, so physics round trip min latency drops to <5ms.",
+    "translation": "Starlink V3 衛星的頻寬是 V2 的十倍以上，而且發射數量也會超過十倍，也就是說總頻寬增加了超過一百倍。\n\n另外高度從 550 公里降到 350 公里，最小延遲直接砍半。\n\n光在太空跑 300 公里只需要一毫秒，所以物理上來回的最短延遲直接殺到 5 毫秒以下。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T07:01:32.093959+08:00",
+    "url": "https://x.com/elonmusk/status/2062662195192697233"
+  },
+  {
     "id": "2062649940086550959",
     "created_at": "2026-06-04T21:37:22.000Z",
     "original": "Elon Musk",
