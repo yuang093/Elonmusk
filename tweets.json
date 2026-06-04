@@ -1,5 +1,95 @@
 [
   {
+    "id": "2062613794883338659",
+    "created_at": "2026-06-04T19:13:44.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T04:01:08.774290+08:00",
+    "url": "https://x.com/elonmusk/status/2062613794883338659"
+  },
+  {
+    "id": "2062559623341563995",
+    "created_at": "2026-06-04T15:38:29.000Z",
+    "original": "\"It's very important not to politicise a personal tragedy.\"",
+    "translation": "把個人悲劇政治化是很不好的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ-vDDyWUAAhCqA?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-05T04:01:11.964980+08:00",
+    "url": "https://x.com/elonmusk/status/2062559623341563995"
+  },
+  {
+    "id": "2062613867818025232",
+    "created_at": "2026-06-04T19:14:02.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T04:01:15.780085+08:00",
+    "url": "https://x.com/elonmusk/status/2062613867818025232"
+  },
+  {
+    "id": "2062514147225382994",
+    "created_at": "2026-06-04T12:37:47.000Z",
+    "original": "it's inevitable that within the next couple of years you'll just be able to prompt grok with \n\"make an historically accurate movie of the Odyssey\"",
+    "translation": "用不了多久，你就會發現自己可以直接叫 Grok 幫你搞一部符合史實的《奧德賽》電影，遲早的事啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T04:01:23.360219+08:00",
+    "url": "https://x.com/elonmusk/status/2062514147225382994"
+  },
+  {
+    "id": "2062613724523864464",
+    "created_at": "2026-06-04T19:13:28.000Z",
+    "original": "Starlink V3 satellites\n\nBandwidth per Satellite:\n• V2: 96 Gbps\n• V3: 1,024 Gbps\n\nBandwidth per Launch:\nV2: 2,600 Gbps\nV3: 61,000 Gbps\n\nDeployment per Launch:\n• V2: 27 satellites (on Falcon 9)\n• V3: 60 (on Starship)\n\nStarlink V3 satellites will begin to be deployed in late ",
+    "translation": "Starlink V3 衛星\n\n單顆衛星頻寬：\n• V2: 96 Gbps\n• V3: 1,024 Gbps\n\n每次發射頻寬：\nV2: 2,600 Gbps\nV3: 61,000 Gbps\n\n每次發射部署數量：\n• V2: 27 顆（用獵鷹9）\n• V3: 60 顆（用星艦）\n\nStarlink V3 satellites will begin to be deployed in late",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ-S1uSWAAAl2_w?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-05T04:01:27.669659+08:00",
+    "url": "https://x.com/elonmusk/status/2062613724523864464"
+  },
+  {
+    "id": "2062517983159747008",
+    "created_at": "2026-06-04T12:53:01.000Z",
+    "original": "BREAKING: SPECIALIST DOCTOR SAYS HENRY NOWAK COULD HAVE LIVED IF NOT FOR POLICE\n\nIn summary:\n\n- Henry was alive when they arrived and likely clotted\n- Aggressive police intervention likely tore clot\n- Major Trauma department was minutes away from scene\n- Judge and Pathologist",
+    "translation": "突發：專科醫生表示，如果沒有警察介入，HENRY NOWAK 本來可以活下來\n\n摘要：\n\n- 他們到場時HENRY還活著，很可能是血塊凝結了\n- 激烈的警方介入可能扯開了血塊\n- 創傷中心就在幾分鐘路程外\n- 法官和病理學家",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ-HCtEXcAEqUpV?format=png&name=small"
+    ],
+    "fetched_at": "2026-06-05T04:01:32.019261+08:00",
+    "url": "https://x.com/elonmusk/status/2062517983159747008"
+  },
+  {
     "id": "2062561362719498706",
     "created_at": "2026-06-04T15:45:24.000Z",
     "original": "Konstantin Kisin",
