@@ -1,5 +1,79 @@
 [
   {
+    "id": "2062649940086550959",
+    "created_at": "2026-06-04T21:37:22.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T06:01:10.992613+08:00",
+    "url": "https://x.com/elonmusk/status/2062649940086550959"
+  },
+  {
+    "id": "2062457012475068836",
+    "created_at": "2026-06-04T08:50:45.000Z",
+    "original": "The core part of the Henry Nowak murder (the part we must not forget and must seriously engage with) is that his killer and family instinctively thought to fabricate a racism narrative because they knew it would give them an immediate advantage and invert the roles at the scene.",
+    "translation": "Henry Nowak謀殺案最核心的部分（我們不能忘記且必須認真面對的）是，凶手和家屬本能地想到要捏造種族歧視的劇本，因為他們知道這會立刻讓他們佔上風、在現場顛倒黑白。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T06:01:15.888469+08:00",
+    "url": "https://x.com/elonmusk/status/2062457012475068836"
+  },
+  {
+    "id": "2062550795417977340",
+    "created_at": "2026-06-04T15:03:24.000Z",
+    "original": "SpaceX’s literally destroyed the cost to orbit so much even you can afford the ticket to ride on it in the future\n\n- For decades, launch cost to low Earth orbit was roughly $18,500 per kg\n\n- Falcon 9 brought that down to around $2,700 per kg\n- Falcon Heavy pushed it closer to",
+    "translation": "SpaceX 直接把上軌道的成本打到爛，未來你都可以負擔得起上去的票價了\n\n- 幾十年來，發射到近地軌道的成本大約是每公斤 18,500 美元\n- 獵鷹 9 號把它壓到每公斤約 2,700 美元\n- 獵鷹重型又進一步壓到...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ-jQFZWEAE6UYV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-05T06:01:23.204473+08:00",
+    "url": "https://x.com/elonmusk/status/2062550795417977340"
+  },
+  {
+    "id": "2062649992553107475",
+    "created_at": "2026-06-04T21:37:35.000Z",
+    "original": "Right-wing extremism is so uncommon that left-wing extremists have to fund it. x.com/tyler2oneil/st…",
+    "translation": "右翼極端主義實在太少見了，左翼極端主義者只好自己出錢養它。 x.com/tyler2oneil/st…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-05T06:01:28.866922+08:00",
+    "url": "https://x.com/elonmusk/status/2062649992553107475"
+  },
+  {
+    "id": "2062534741706817842",
+    "created_at": "2026-06-04T13:59:37.000Z",
+    "original": "Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account with $2,000 or more in the account (down from up to $500k before).\n\n\"SpaceX has decided to reserve a much higher percentage of the offering (up to 30%), which means",
+    "translation": "富達宣布，將開放 SpaceX IPO 給任何擁有零售券商帳戶且帳戶餘額達 2,000 美元以上的客戶（門檻直接從最高 50 萬美元大砍）\n\nSpaceX 決定保留更高比例的配額（最高 30%），這代表...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HJ-YET5XcAAJUKb?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-05T06:01:35.589066+08:00",
+    "url": "https://x.com/elonmusk/status/2062534741706817842"
+  },
+  {
     "id": "2062639074523926956",
     "created_at": "2026-06-04T20:54:12.000Z",
     "original": "Elon Musk",
