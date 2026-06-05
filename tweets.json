@@ -1,5 +1,139 @@
 [
   {
+    "id": "2062897357314789662",
+    "created_at": "2026-06-05T14:00:31.000Z",
+    "original": "i still think about this",
+    "translation": "我到現在還在想這件事",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKDiE0CWYAArhoz?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-06T03:01:00.903385+08:00",
+    "url": "https://x.com/elonmusk/status/2062897357314789662"
+  },
+  {
+    "id": "2062773563736854937",
+    "created_at": "2026-06-05T05:48:36.000Z",
+    "original": "How did white people become the protectors and defenders of every group except white people?",
+    "translation": "白人怎麼變成除了白人以外所有群體的守護者和保衛者了啊？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-06T03:01:13.140033+08:00",
+    "url": "https://x.com/elonmusk/status/2062773563736854937"
+  },
+  {
+    "id": "2062904232466899127",
+    "created_at": "2026-06-05T14:27:50.000Z",
+    "original": "Europe has no-go zones in Paris and London. \n\nThat’s our future if we don’t stop mass Islamic immigration.",
+    "translation": "歐洲的巴黎和倫敦有「禁區」。\n\n如果我們不阻止伊斯蘭移民大軍，這就是我們的未來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-06T03:01:18.723731+08:00",
+    "url": "https://x.com/elonmusk/status/2062904232466899127"
+  },
+  {
+    "id": "2062955283610218847",
+    "created_at": "2026-06-05T17:50:42.000Z",
+    "original": "Tesla Cybercab will change the look of roads forever.\n\nThe future is autonomous.",
+    "translation": "Tesla Cybercab 要把馬路look整個改寫了\n\n未來是自動駕駛的時代！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKEWz4BawAEd8L6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-06T03:01:27.574458+08:00",
+    "url": "https://x.com/elonmusk/status/2062955283610218847"
+  },
+  {
+    "id": "2062766715222577250",
+    "created_at": "2026-06-05T05:21:23.000Z",
+    "original": "Drop the fiction. Just science.",
+    "translation": "別扯那些有的沒的，給我來點科學的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-06T03:01:29.974233+08:00",
+    "url": "https://x.com/elonmusk/status/2062766715222577250"
+  },
+  {
+    "id": "2062921474311397560",
+    "created_at": "2026-06-05T15:36:21.000Z",
+    "original": " was pretty fun. I really like how the agents help visualize some of the important historical events.\n\nI was trying to iterate through the clothing and voices from the ancient Chinese drawing to reflect on the historical fact and it was fun to",
+    "translation": "滿好玩的。我真的很喜歡 agents 幫忙把重要的歷史事件視覺化出來這點。\n\n我一直在古代中國畫中來回折騰服裝和聲音，想要反映歷史事實，玩起來超有趣的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKD3GZiaIAAZW7s?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-06T03:01:39.322991+08:00",
+    "url": "https://x.com/elonmusk/status/2062921474311397560"
+  },
+  {
+    "id": "2062971446843015595",
+    "created_at": "2026-06-05T18:54:55.000Z",
+    "original": "SpaceX just quietly amended its S-1 announcing another mega deal\n\n$920M/month from Google from October 2026 through June 2029\n\nWith both parties being able to terminate the agreement with 90 days notice\n\nThings are getting exciting ",
+    "translation": "SpaceX 低調修改了 S-1 文件，宣布了另一筆大交易\n\n從 2026 年 10 月到 2029 年 6 月，每月從 Google 拿到 9.2 億美元\n\n而且雙方都能在 90 天通知後終止合約\n\n事情越來越刺激了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKElKTdaoAA1WaQ?format=png&name=small"
+    ],
+    "fetched_at": "2026-06-06T03:01:46.365783+08:00",
+    "url": "https://x.com/elonmusk/status/2062971446843015595"
+  },
+  {
+    "id": "2062672165476929715",
+    "created_at": "2026-06-04T23:05:41.000Z",
+    "original": "Elon Musk says Orbital AI Data Centers will be easier than Communication Satellites for SpaceX:\n\n\"The Starlink V3 communications satellites is an incredibly complex machine. The AI Data Center will be much simpler by comparison. \n\nIt’s really just solar power, plus radiator, some",
+    "translation": "馬斯克說SpaceX的軌道AI資料中心會比通訊衛星更容易：「星鏈V3通訊衛星是一台極度複雜的機器。相較之下，AI資料中心會簡單很多，基本上就是太陽能發電、加散熱片、還有一些...」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-06T03:01:53.674334+08:00",
+    "url": "https://x.com/elonmusk/status/2062672165476929715"
+  },
+  {
+    "id": "2062972771487953130",
+    "created_at": "2026-06-05T19:00:11.000Z",
+    "original": "In response to the Ebola outbreak in eastern Democratic Republic of Congo, the Starlink team has provided 150 kits to ",
+    "translation": "針對剛果民主共和國東部的伊波拉疫情，Starlink團隊已提供了150套設備給",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-06T03:02:02.553358+08:00",
+    "url": "https://x.com/elonmusk/status/2062972771487953130"
+  },
+  {
     "id": "2062952081602842834",
     "created_at": "2026-06-05T17:37:58.000Z",
     "original": "Elon Musk",
