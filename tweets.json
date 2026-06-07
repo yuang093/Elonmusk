@@ -1,5 +1,93 @@
 [
   {
+    "id": "2063609209241903262",
+    "created_at": "2026-06-07T13:09:10.000Z",
+    "original": "One thing I learned at SpaceX. Good ideas aren’t worth anything. Lots of people have good ideas, and they are willing to share them. What actually is valuable is the implementation. If you can make a good idea a reality, that is the secret sauce. \n\nThere were several times when",
+    "translation": "在SpaceX學到一件事。好點子一文不值。很多人都有好點子，而且很樂意分享。真正有價值的是執行力。如果你能把好點子付諸實現，那才是關鍵。\n\n有好幾次...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T06:00:56.834920+08:00",
+    "url": "https://x.com/elonmusk/status/2063609209241903262"
+  },
+  {
+    "id": "2063740937973477699",
+    "created_at": "2026-06-07T21:52:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T06:01:00.089940+08:00",
+    "url": "https://x.com/elonmusk/status/2063740937973477699"
+  },
+  {
+    "id": "2063740767307247954",
+    "created_at": "2026-06-07T21:51:56.000Z",
+    "original": "Indeed. It’s not that good ideas aren’t important, they’re just overrated relative to implementation. \n\nThe IDEA of going to the Moon is EASY, but GOING to the Moon is HARD.",
+    "translation": "確實。好點子不是不重要，只是跟執行比起來，被過譽了。\n\n去月球的「點子」很簡單，但「真的去」月球很難。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T06:01:04.662009+08:00",
+    "url": "https://x.com/elonmusk/status/2063740767307247954"
+  },
+  {
+    "id": "2063635135744946422",
+    "created_at": "2026-06-07T14:52:11.000Z",
+    "original": "More of these types of stories should be written about SpaceX’s IPO.\n\nThousands of folks who would traditionally not had access to ownership in a company are about to have an awesome outcome.\n\nI had the good fortune to be able to a few hundred welders and technicians. Most will",
+    "translation": "這種關於 SpaceX IPO 的故事應該多寫一點。\n\n成千上萬傳統上根本沒有機會擁有公司所有權的人，即將迎來超棒的結局。\n\n我很幸運能夠幫到幾百位焊接師傅和技師。大多數人將會⋯\n\n（推文未完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKNlzmaWIAAoc9j?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-08T06:01:10.511413+08:00",
+    "url": "https://x.com/elonmusk/status/2063635135744946422"
+  },
+  {
+    "id": "2063741293834985766",
+    "created_at": "2026-06-07T21:54:01.000Z",
+    "original": "When statistically impossible things happen, we should not be expected as a society to accept them. Evidence of fraud isn’t limited to video surveillance. Statistical impossibilities are hard evidence of fraud.",
+    "translation": "當統計上不可能的事情發生的時候，我們不該被期待，作為一個社會要去接受它們。舞弊的證據不限於影像監視。統計上的不可能是舞弊的鐵證。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T06:01:18.821121+08:00",
+    "url": "https://x.com/elonmusk/status/2063741293834985766"
+  },
+  {
+    "id": "2063722531853394342",
+    "created_at": "2026-06-07T20:39:28.000Z",
+    "original": "“Socialism needs propaganda because reality always ends up contradicting it.”\n\n- Aleksandr Solzhenitsyn -",
+    "translation": "「社會主義就是要靠宣傳啦，現實最後肯定會出來打臉它的。」\n\n— 索忍尼辛",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKO7LWpXsAAXjOA?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-08T06:01:25.003133+08:00",
+    "url": "https://x.com/elonmusk/status/2063722531853394342"
+  },
+  {
     "id": "2063575806253711831",
     "created_at": "2026-06-07T10:56:26.000Z",
     "original": "A woke word you need to learn:\n\n“malinformation”\n\nInformation that is factually correct but politically damaging.\n\nIt perfectly sums up where we’re at.",
