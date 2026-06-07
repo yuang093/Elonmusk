@@ -1,5 +1,21 @@
 [
   {
+    "id": "2063412033266053340",
+    "created_at": "2026-06-07T00:05:39.000Z",
+    "original": "Grok Build update just released v0.2.31\n\nRelease Notes:\n\nBug Fixes:\n• Marketplace skills without proper descriptions are now hidden from listings instead of flooding the model with tables.\n• Prompts submitted rapidly now stay in correct submission order in the queue. ",
+    "translation": "Grok Build 更新了 v0.2.31 版本！\n\n更新內容：\n\n問題修復：\n•  Marketplace 上沒有完善描述的 skills 現在會被隱藏起來，不會再塞爆模型一堆表格了。\n•  快速連續送的 prompts 現在會按照正確的順序排進佇列裡。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKJ6dSdakAAcSeP?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-07T09:01:32.004015+08:00",
+    "url": "https://x.com/elonmusk/status/2063412033266053340"
+  },
+  {
     "id": "2063401703316029768",
     "created_at": "2026-06-06T23:24:36.000Z",
     "original": "It’s going through RL right now",
