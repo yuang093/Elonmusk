@@ -1,5 +1,37 @@
 [
   {
+    "id": "2063678897343132091",
+    "created_at": "2026-06-07T17:46:05.000Z",
+    "original": "It takes a conspiracy theorist \n\nTo believe California’s election is secure",
+    "translation": "要相信加州選舉很安全\n你需要是個陰謀論者",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T03:00:49.914600+08:00",
+    "url": "https://x.com/elonmusk/status/2063678897343132091"
+  },
+  {
+    "id": "2063664190473351169",
+    "created_at": "2026-06-07T16:47:38.000Z",
+    "original": "California Is Blocking a Federal Audit of Its Voter Rolls\n\nCalifornia allows first-time voters to register using forms of ID that most Americans would find surprising, including:\n\n-Gym membership card\n-Employer ID card\n-Credit or debit card\n-Prescription drug label\n-Insurance",
+    "translation": "加州正在阻擋聯邦對其選民名冊的審計\n\n加州允許首次投票的選民用一些大多數美國人都會覺得驚訝的身份證件來登記， 包括：\n\n- 健身房會員卡\n- 員工證\n- 信用卡或金融卡\n- 處方藥標籤\n- 保險卡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKObo8dboAAMzOQ?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HKObo8gaQAAX85t?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HKObo8fbgAAQ3Dx?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-08T03:00:56.560040+08:00",
+    "url": "https://x.com/elonmusk/status/2063664190473351169"
+  },
+  {
     "id": "2063511977457267031",
     "created_at": "2026-06-07T06:42:48.000Z",
     "original": "Elon Musk’s ultimate goal for the future of humanity:\n\n• Humanity as a thriving, multi-planetary species\n• An economy of total abundance powered by AI & robotics\n• Uninterrupted global connectivity\n• Maximum personal freedom with zero government oppression\n• A growing",
