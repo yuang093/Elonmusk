@@ -1,5 +1,110 @@
 [
   {
+    "id": "2063796755787899220",
+    "created_at": "2026-06-08T01:34:24.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T10:01:20.773713+08:00",
+    "url": "https://x.com/elonmusk/status/2063796755787899220"
+  },
+  {
+    "id": "2063794318268154220",
+    "created_at": "2026-06-08T01:24:43.000Z",
+    "original": "Who are the people in LA saying \"I want Nithya!\"",
+    "translation": "LA說「我想要Nithya！」的人到底是誰啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T10:01:41.490263+08:00",
+    "url": "https://x.com/elonmusk/status/2063794318268154220"
+  },
+  {
+    "id": "2063784193688056310",
+    "created_at": "2026-06-08T00:44:29.000Z",
+    "original": " for second place in the Los Angeles mayoral race.\n\nIf the count ended today, Raman would advance to the November runoff against Mayor ",
+    "translation": "在洛杉矶市长选战中获得第二名。如果今天截止计票，拉曼（Raman）將晋级11月决选，与现任市长对决⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKQIp2LXcAIWCss?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HKP_pp4bwAAw8FO?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-06-08T10:01:53.476440+08:00",
+    "url": "https://x.com/elonmusk/status/2063784193688056310"
+  },
+  {
+    "id": "2063801769109463339",
+    "created_at": "2026-06-08T01:54:19.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T10:02:00.609419+08:00",
+    "url": "https://x.com/elonmusk/status/2063801769109463339"
+  },
+  {
+    "id": "2063759167865917505",
+    "created_at": "2026-06-07T23:05:03.000Z",
+    "original": "What’s up with Skid Row being so passionate about electing Raman? ",
+    "translation": "Skid Row 對選 Raman 這麼熱情是在衝三小？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T10:02:11.623040+08:00",
+    "url": "https://x.com/elonmusk/status/2063759167865917505"
+  },
+  {
+    "id": "2063758288475558250",
+    "created_at": "2026-06-07T23:01:33.000Z",
+    "original": "Don't think I've seen anyone produce this yet.\n\nMayoral and Gov race results, side by side, in LA Council Districts.\n\nInteresting ones:\n\nCD 4 went Bass /Pratt & Steyer top Gov?\nCDs 3/5/12 went Pratt/Hilton\nCD 7 Pratt/Becerra\nCD 11 Pratt/Steyer??\nCD 13 is the only Raman / Steyer",
+    "translation": "應該還沒看過有人做出過這個\n\n洛加大選區的市長跟州長選舉結果並排\n\n有趣的來了：\n\n第4區 Bass / 州長 Pratt & Steyer 領先？\n第3/5/12區 Pratt/Hilton\n第7區 Pratt/Becerra\n第11區 Pratt/Steyer??\n第13區是唯一的 Raman / Steyer",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKMCvGFaEAA70mY?format=png&name=small"
+    ],
+    "fetched_at": "2026-06-08T10:02:38.718754+08:00",
+    "url": "https://x.com/elonmusk/status/2063758288475558250"
+  },
+  {
+    "id": "2063796964878119012",
+    "created_at": "2026-06-08T01:35:14.000Z",
+    "original": "How did a blue city only increase votes for Nithya by mail, without increasing votes for Karen Bass? This is fraud.",
+    "translation": "LA這個藍色城市，只增加了Nithya的mail投票，Karen Bass的票完全沒增加？這根本是作弊吧。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKQI9JwaYAAdJxx?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-08T10:02:49.153574+08:00",
+    "url": "https://x.com/elonmusk/status/2063796964878119012"
+  },
+  {
     "id": "2063767251832971311",
     "created_at": "2026-06-07T23:37:10.000Z",
     "original": "Many such stories",
