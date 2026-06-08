@@ -1,5 +1,80 @@
 [
   {
+    "id": "2064061025888907312",
+    "created_at": "2026-06-08T19:04:31.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-09T04:01:16.546921+08:00",
+    "url": "https://x.com/elonmusk/status/2064061025888907312"
+  },
+  {
+    "id": "2064023529234813213",
+    "created_at": "2026-06-08T16:35:31.000Z",
+    "original": "Keir Starmer thinks VPNs are a far-right conspiracy theory.",
+    "translation": "Keir Starmer覺得VPN是極右陰謀論。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-09T04:01:22.610937+08:00",
+    "url": "https://x.com/elonmusk/status/2064023529234813213"
+  },
+  {
+    "id": "2064061453200498857",
+    "created_at": "2026-06-08T19:06:13.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-09T04:01:25.038078+08:00",
+    "url": "https://x.com/elonmusk/status/2064061453200498857"
+  },
+  {
+    "id": "2064030830536658959",
+    "created_at": "2026-06-08T17:04:32.000Z",
+    "original": " ELON MUSK JUST NOW: \"There are large numbers of anti-White hate crimes every day in America. Every day.\"\n\nHe's right, and the fake news doesn't want to acknowledge it because they discriminate against white people.",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKTowt_WcAAw3iC?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HKTo-IJWwAAyk_z?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-09T04:01:30.640048+08:00",
+    "url": "https://x.com/elonmusk/status/2064030830536658959"
+  },
+  {
+    "id": "2064061331418828888",
+    "created_at": "2026-06-08T19:05:44.000Z",
+    "original": "For the first time ever, an imported vehicle became the best-selling car in South Korea and it’s the Tesla Model Y\n\nNot just the best-selling EV\n\nThe best-selling vehicle overall\n\nHistoric moment in Hyundai and Kia’s home market ",
+    "translation": "史上頭一遭，一台進口車成為韓國最暢銷的車，然後就是特斯拉 Model Y\n\n不只是最暢銷的電動車\n\n是最暢銷的車款，整體的那種\n\n在現代和起亞的主場，這真的很歷史性的一刻",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKS2a__bAAAdBdN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-09T04:01:39.981732+08:00",
+    "url": "https://x.com/elonmusk/status/2064061331418828888"
+  },
+  {
     "id": "2064000760434811182",
     "created_at": "2026-06-08T15:05:03.000Z",
     "original": "BREAKING: 𝕏.com surpassed TikTok last month, registering 4.20 billion website visits. ",
