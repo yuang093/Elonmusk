@@ -1,5 +1,61 @@
 [
   {
+    "id": "2063818718430314777",
+    "created_at": "2026-06-08T03:01:41.000Z",
+    "original": "Good point",
+    "translation": "說得對",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T12:02:54.356149+08:00",
+    "url": "https://x.com/elonmusk/status/2063818718430314777"
+  },
+  {
+    "id": "2063667849345012089",
+    "created_at": "2026-06-07T17:02:11.000Z",
+    "original": "Have you spent time inspecting reasoning traces of your kids? ",
+    "translation": "你有沒有花時間檢查過你家小孩的思考痕跡啊？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T12:03:06.404008+08:00",
+    "url": "https://x.com/elonmusk/status/2063667849345012089"
+  },
+  {
+    "id": "2063601241779781938",
+    "created_at": "2026-06-07T12:37:30.000Z",
+    "original": "Voyager 1 is 24 billion kilometers from Earth.\n\nIt communicates with us using a 23-watt transmitter.\nLess than a refrigerator light bulb.\n\nThe signal takes 22 hours to reach us, traveling at the speed of light.\n\nBy the time it arrives, it's 20 billion times weaker than the power",
+    "translation": "旅行者1號距離地球240億公里。\n\n它用23瓦的發射器跟我們溝通。\n比冰箱燈泡還要省電。\n\n訊號以光速前進，需要22小時才能抵達我們。\n\n當它到達時，強度只剩原本的200億分之一。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T12:03:16.198156+08:00",
+    "url": "https://x.com/elonmusk/status/2063601241779781938"
+  },
+  {
+    "id": "2063787649694134663",
+    "created_at": "2026-06-08T00:58:13.000Z",
+    "original": "A Tesla is twice as likely to reach 250,000 miles as a Subaru  “No engine, no oil changes, no timing chains, no fuel injectors, and far fewer moving parts overall”",
+    "translation": "Tesla 開到 25 萬英里的機率是 Subaru 的兩倍\n\n「沒有引擎、沒有換機油、沒有正時皮帶、沒有噴油嘴，整體活動零件少很多」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-08T12:03:28.789693+08:00",
+    "url": "https://x.com/elonmusk/status/2063787649694134663"
+  },
+  {
     "id": "2063802518107312203",
     "created_at": "2026-06-08T01:57:18.000Z",
     "original": "Charlie Kirk in September 2020:",
