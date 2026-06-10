@@ -1,5 +1,63 @@
 [
   {
+    "id": "2064520885923377302",
+    "created_at": "2026-06-10T01:31:50.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-10T15:01:35.504159+08:00",
+    "url": "https://x.com/elonmusk/status/2064520885923377302"
+  },
+  {
+    "id": "2064333229134348537",
+    "created_at": "2026-06-09T13:06:09.000Z",
+    "original": "If I ever have my head cut off by an African \n\nPlease politicise my murder \n\nPlease use it to push a far right agenda \n\nPlease start a Reconquista",
+    "translation": "如果哪天我的頭被非洲人砍了\n\n拜託把我的謀殺政治化\n\n拜託用來推廣極右翼議程\n\n拜託發動復國運動",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-10T15:01:46.237637+08:00",
+    "url": "https://x.com/elonmusk/status/2064333229134348537"
+  },
+  {
+    "id": "2064602899846508764",
+    "created_at": "2026-06-10T06:57:44.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-10T15:01:51.905912+08:00",
+    "url": "https://x.com/elonmusk/status/2064602899846508764"
+  },
+  {
+    "id": "2064580051602186310",
+    "created_at": "2026-06-10T05:26:57.000Z",
+    "original": "Grok Build is pretty good at optimizing my code in one shot.\n\nPrompt: \n\nI want you to optimize it entirely on GPU to speed it up. Measure two metrics: the result must compare with the golden image (CPU) and be nearly identical (PSNR > 40dB), with fast pixels per second.\n\nMake a",
+    "translation": "Grok Build 一次就能優化好我的 code，超猛的。\n\nPrompt:\n\n幫我把這個全部改成 GPU 優化加速。測量兩個指標：結果要跟 golden image（CPU）比對，几乎一模一样（PSNR > 40dB），而且 pixels per second 要快。\n\nMake a",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKba2bXbAAAhjMm?format=png&name=900x900"
+    ],
+    "fetched_at": "2026-06-10T15:02:00.002105+08:00",
+    "url": "https://x.com/elonmusk/status/2064580051602186310"
+  },
+  {
     "id": "2064518334989709396",
     "created_at": "2026-06-10T01:21:42.000Z",
     "original": "Elon Musk",
