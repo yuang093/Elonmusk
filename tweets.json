@@ -1,5 +1,93 @@
 [
   {
+    "id": "2065135592820613372",
+    "created_at": "2026-06-11T18:14:28.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T03:00:52.439104+08:00",
+    "url": "https://x.com/elonmusk/status/2065135592820613372"
+  },
+  {
+    "id": "2065064171960488054",
+    "created_at": "2026-06-11T13:30:40.000Z",
+    "original": "We don't need Einstein-level breakthroughs for AI to begin improving itself.",
+    "translation": "不需要什麼愛因斯坦等級的大突破，AI 就能開始自我提升了好嗎",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T03:00:57.930264+08:00",
+    "url": "https://x.com/elonmusk/status/2065064171960488054"
+  },
+  {
+    "id": "2065135949315543131",
+    "created_at": "2026-06-11T18:15:53.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T03:01:01.949725+08:00",
+    "url": "https://x.com/elonmusk/status/2065135949315543131"
+  },
+  {
+    "id": "2064989908771406248",
+    "created_at": "2026-06-11T08:35:34.000Z",
+    "original": "A party political broadcast on behalf of Restore Britain from Owen Jones in the Guardian.\n\nThank you, Owen.",
+    "translation": "代表",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKguKoKW4AEGqNf?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T03:01:15.466230+08:00",
+    "url": "https://x.com/elonmusk/status/2064989908771406248"
+  },
+  {
+    "id": "2065123011985105024",
+    "created_at": "2026-06-11T17:24:28.000Z",
+    "original": " satellites from California",
+    "translation": "加州的人造衛星",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKjKVhdbMAAZwlw?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T03:01:24.283841+08:00",
+    "url": "https://x.com/elonmusk/status/2065123011985105024"
+  },
+  {
+    "id": "2065125605847577024",
+    "created_at": "2026-06-11T17:34:47.000Z",
+    "original": "- Netherlands\n- Lithuania \n- Estonia\n- Denmark x.com/teslaeurope/st…",
+    "translation": "- 荷蘭\n- 立陶宛\n- 愛沙尼亞\n- 丹麥 x.com/teslaeurope/st…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T03:01:31.885366+08:00",
+    "url": "https://x.com/elonmusk/status/2065125605847577024"
+  },
+  {
     "id": "2065126119053922582",
     "created_at": "2026-06-11T17:36:49.000Z",
     "original": "Elon Musk",
