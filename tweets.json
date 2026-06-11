@@ -1,5 +1,47 @@
 [
   {
+    "id": "2065072480079777877",
+    "created_at": "2026-06-11T14:03:41.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-11T23:01:58.957780+08:00",
+    "url": "https://x.com/elonmusk/status/2065072480079777877"
+  },
+  {
+    "id": "2065052140272238791",
+    "created_at": "2026-06-11T12:42:51.000Z",
+    "original": "I had to read this three times before I could believe it was real.\n\nRotherham. A small town in northern England.\n\nFor sixteen years, at least 1,400 children — some as young as eleven — were raped, gang-raped, and trafficked between cities by organized groups of men.\n\nEleven years",
+    "translation": "我讀了三遍才敢相信這是真的。\n\nRotherham，英格蘭北部的一個小鎮。\n\n連續十六年，至少1400名兒童——有些才十一歲——遭到強姦、輪姦，並被犯罪組織在各大城市之間販運。\n\n十一年了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-11T23:02:04.469784+08:00",
+    "url": "https://x.com/elonmusk/status/2065052140272238791"
+  },
+  {
+    "id": "2064941776356737451",
+    "created_at": "2026-06-11T05:24:18.000Z",
+    "original": "Elon Musk unveiling Falcon Heavy at the National Press Club in Washington D.C., 15 years ago",
+    "translation": "15年前 Elon Musk 在華盛頓特區的國家新聞俱樂部發表 Falcon Heavy",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-11T23:02:07.255067+08:00",
+    "url": "https://x.com/elonmusk/status/2064941776356737451"
+  },
+  {
     "id": "2065069082022449653",
     "created_at": "2026-06-11T13:50:10.000Z",
     "original": "Good question",
