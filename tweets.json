@@ -1,5 +1,65 @@
 [
   {
+    "id": "2064940903010103722",
+    "created_at": "2026-06-11T05:20:50.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-11T14:01:13.027620+08:00",
+    "url": "https://x.com/elonmusk/status/2064940903010103722"
+  },
+  {
+    "id": "2064792507024654358",
+    "created_at": "2026-06-10T19:31:10.000Z",
+    "original": "She did the meme.",
+    "translation": "她做了那個迷因",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKed11hWgAAZkWD?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-11T14:01:18.903967+08:00",
+    "url": "https://x.com/elonmusk/status/2064792507024654358"
+  },
+  {
+    "id": "2064814863227183552",
+    "created_at": "2026-06-10T21:00:00.000Z",
+    "original": "The beauty of the Basilica of the Sagrada Familia inspires us to learn ever more from our Master and Lord the art of living according to His Gospel. As we lift our gaze toward Him, the Crucified and Risen One, let us commit ourselves to lift up those who lie in the dust (cf. 1",
+    "translation": "聖家堂之美激發我們更努力地向我們的主和主宰學習活出祂福音的智慧。當我們仰望祂——那位被釘十架且復活的主——讓我們委身去扶起那些落在灰塵中的人。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-11T14:02:01.358783+08:00",
+    "url": "https://x.com/elonmusk/status/2064814863227183552"
+  },
+  {
+    "id": "2064525896413774042",
+    "created_at": "2026-06-10T01:51:45.000Z",
+    "original": "I stopped by the new Reflecting Pool. It is simply glorious. There were a thousand people, everywhere, taking pictures and just  enjoying its beauty. Thank you President Trump for restoring our city’s national treasure.",
+    "translation": "我去逛了一下新的倒影池。真的美到不行。現場滿坑滿谷的人，大家都在拍照、盡情享受它的美。謝謝川普總統修復了我們城市的國家瑰寶。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKarXGjX0AAcaDe?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-11T14:02:09.055829+08:00",
+    "url": "https://x.com/elonmusk/status/2064525896413774042"
+  },
+  {
     "id": "2064923368462205292",
     "created_at": "2026-06-11T04:11:10.000Z",
     "original": "Elon Musk",
