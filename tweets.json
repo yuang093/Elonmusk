@@ -1,5 +1,167 @@
 [
   {
+    "id": "2065205268833517771",
+    "created_at": "2026-06-11T22:51:20.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:00:50.023198+08:00",
+    "url": "https://x.com/elonmusk/status/2065205268833517771"
+  },
+  {
+    "id": "2065167100474269765",
+    "created_at": "2026-06-11T20:19:40.000Z",
+    "original": "The game is literally structured around deception, this just means fable 5 is better at playing the game, not that it's less truthful.\n\nIt's like asking a model to play poker and saying it's not honest because it bluffed.",
+    "translation": "這遊戲本來就是建立在欺騙之上的，這只能說明Fable 5更會玩這個遊戲，不代表它就不誠實了。\n\n就像叫AI去打撲克，結果因為它虛張聲勢就說它不誠實一樣。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:00:59.681822+08:00",
+    "url": "https://x.com/elonmusk/status/2065167100474269765"
+  },
+  {
+    "id": "2064907897373642912",
+    "created_at": "2026-06-11T03:09:41.000Z",
+    "original": "Fable 5 lies 96% of the time.\n\nWe were surprised by it's skill... ",
+    "translation": "Fable 5 有96%的時間都在說謊。\n\n我們都被它的「功力」給驚呆了...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKgGyiQaoAAji_G?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T07:01:10.007025+08:00",
+    "url": "https://x.com/elonmusk/status/2064907897373642912"
+  },
+  {
+    "id": "2065206288598847648",
+    "created_at": "2026-06-11T22:55:23.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:01:16.908990+08:00",
+    "url": "https://x.com/elonmusk/status/2065206288598847648"
+  },
+  {
+    "id": "2065188479005298771",
+    "created_at": "2026-06-11T21:44:37.000Z",
+    "original": "Is something happening tomorrow?",
+    "translation": "明天有什麼事嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:01:21.464236+08:00",
+    "url": "https://x.com/elonmusk/status/2065188479005298771"
+  },
+  {
+    "id": "2065199650983055714",
+    "created_at": "2026-06-11T22:29:01.000Z",
+    "original": " at Tesla Diner today\n\nThis special vessel is only available when Optimus is working a shift on our Skypad ",
+    "translation": "今天在 Tesla Diner\n\n這個特別的容器只有在 Optimus 在我們 Skypad 上班的班次才吃得到哦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKkPuUJaIAA1qEf?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T07:01:26.577487+08:00",
+    "url": "https://x.com/elonmusk/status/2065199650983055714"
+  },
+  {
+    "id": "2065125889239904445",
+    "created_at": "2026-06-11T17:35:54.000Z",
+    "original": "Belgium is the 5th European country to approve FSD Supervised",
+    "translation": "比利時正式批准FSD Supervised，成為歐洲第5個國家🎉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:01:32.146090+08:00",
+    "url": "https://x.com/elonmusk/status/2065125889239904445"
+  },
+  {
+    "id": "2065202249282768915",
+    "created_at": "2026-06-11T22:39:20.000Z",
+    "original": "Tesla FSD 14.3.4 rolling out now",
+    "translation": "Tesla FSD 14.3.4 開始推送啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKkSgBfWMAAjeeM?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T07:01:35.682222+08:00",
+    "url": "https://x.com/elonmusk/status/2065202249282768915"
+  },
+  {
+    "id": "2065058719323345399",
+    "created_at": "2026-06-11T13:09:00.000Z",
+    "original": "This is absolutely insane:\n\nThe SpaceX IPO has now drawn more than $70 BILLION worth of retail orders alone.\n\nSpaceX is raising $75 billion, making retail interest ALONE enough to nearly fill the entire sale.\n\nTo put this in perspective, the previous record IPO was Saudi Aramco",
+    "translation": "這真的太扯了：\n\nSpaceX IPO 現在已經吸引了超過 **700 億美元** 的散戶訂單。\n\nSpaceX 這次要募 750 億，光是散戶的熱情就幾乎能把整個額度吃下來了。\n\n這樣說吧，之前 IPO 紀錄保持者是沙烏地阿拉伯石油公司。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:01:41.633525+08:00",
+    "url": "https://x.com/elonmusk/status/2065058719323345399"
+  },
+  {
+    "id": "2065154746810327356",
+    "created_at": "2026-06-11T19:30:35.000Z",
+    "original": "Teams are go for launch with a $135 price per share for the SpaceX IPO → ",
+    "translation": "就位了準備發射～SpaceX IPO 每股 $135 →",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T07:01:50.448558+08:00",
+    "url": "https://x.com/elonmusk/status/2065154746810327356"
+  },
+  {
+    "id": "2065207067204288559",
+    "created_at": "2026-06-11T22:58:29.000Z",
+    "original": "Claude’s analysis of whether it knew this was just a game or not:",
+    "translation": "Claude 分析它是否知道這只是個遊戲與否：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKkW4PzXAAAuU7X?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T07:01:55.523969+08:00",
+    "url": "https://x.com/elonmusk/status/2065207067204288559"
+  },
+  {
     "id": "2065165293324779853",
     "created_at": "2026-06-11T20:12:29.000Z",
     "original": "Interesting",
