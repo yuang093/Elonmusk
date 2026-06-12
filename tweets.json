@@ -1,5 +1,22 @@
 [
   {
+    "id": "2065327439476375760",
+    "created_at": "2026-06-12T06:56:48.000Z",
+    "original": "Grok Build just got a major update with a ton of new features and improvements\n\nRelease Notes: v0.2.51\n\nBreaking Changes:\n• grok mcp add now accepts positional arguments (e.g. grok mcp add filesystem -- npx ...), supports --scope project, and adds -e/-H flags for env/headers.",
+    "translation": "Grok Build 大更新來了，新增一堆功能和改進\n\n更新日誌：v0.2.51\n\n重大變更：\n• grok mcp add 現在接受位置參數（例如 grok mcp add filesystem -- npx ...）、支援 --scope project，並新增 -e/-H 參數用於環境變數和請求頭。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKmDjDibwAAac2l?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HKe1xJqbgAAYQLy?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-06-12T16:01:26.016895+08:00",
+    "url": "https://x.com/elonmusk/status/2065327439476375760"
+  },
+  {
     "id": "2065317926668833238",
     "created_at": "2026-06-12T06:19:00.000Z",
     "original": "Good interview",
