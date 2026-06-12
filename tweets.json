@@ -1,5 +1,47 @@
 [
   {
+    "id": "2065486459960807820",
+    "created_at": "2026-06-12T17:28:41.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-13T06:01:06.529628+08:00",
+    "url": "https://x.com/elonmusk/status/2065486459960807820"
+  },
+  {
+    "id": "2065475825802350692",
+    "created_at": "2026-06-12T16:46:26.000Z",
+    "original": "SpaceX, even now, feels like something that should only exist in sci-fi. It will surely inspire generations of kids to dream bigger.\n\nCongrats ",
+    "translation": "就算到現在，SpaceX 還是讓人覺得怎麼看都只該存在於科幻片裡吧。一定會激勵好多代孩子敢做大夢。恭喜 🎉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-13T06:01:17.128476+08:00",
+    "url": "https://x.com/elonmusk/status/2065475825802350692"
+  },
+  {
+    "id": "2065547393974636647",
+    "created_at": "2026-06-12T21:30:49.000Z",
+    "original": "\n\nNVIDIA's partnership with SpaceX spans nearly a decade, from hand-delivering the world's first ",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-13T06:01:24.884692+08:00",
+    "url": "https://x.com/elonmusk/status/2065547393974636647"
+  },
+  {
     "id": "2065484792964010167",
     "created_at": "2026-06-12T17:22:04.000Z",
     "original": "Elon Musk",
