@@ -1,5 +1,68 @@
 [
   {
+    "id": "2065212887220555790",
+    "created_at": "2026-06-11T23:21:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T08:01:14.730745+08:00",
+    "url": "https://x.com/elonmusk/status/2065212887220555790"
+  },
+  {
+    "id": "2065166860690018704",
+    "created_at": "2026-06-11T20:18:43.000Z",
+    "original": "SpaceX Starbase: Helping Lift Brownsville Out of Poverty and Bring Wealth to Local Families\n\nFor many years, Brownsville and the Rio Grande Valley carried the difficult reputation of being among the poorest regions in the United States. High poverty rates shaped daily life for",
+    "translation": "SpaceX 星基地：幫助布朗斯維爾擺脫貧困 為當地家庭帶來財富\n\n多年來，布朗斯維爾和格蘭德河谷一直是美國最貧困的地區之一，高貧窮率影響著居民的日常生活...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKjud97XEAAWLwR?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HKjud-BXMAAfEOu?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HKjud-qXcAAHDJM?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HKjud9_XIAAU-cy?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-12T08:01:22.818963+08:00",
+    "url": "https://x.com/elonmusk/status/2065166860690018704"
+  },
+  {
+    "id": "2065143638838157559",
+    "created_at": "2026-06-11T18:46:26.000Z",
+    "original": "The Grok Build Plugin Marketplace is now in beta. \n\nBuild with MongoDB, Vercel, Sentry, Cloudflare, and Chrome DevTools plugins from your terminal.\n\nRead more ",
+    "translation": "Grok Build Plugin 市集現在 open beta 啦！\n\n在 terminal 就能串接 MongoDB、Vercel、Sentry、Cloudflare 還有 Chrome DevTools 插件來開發。\n\n看更多",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-12T08:01:26.260846+08:00",
+    "url": "https://x.com/elonmusk/status/2065143638838157559"
+  },
+  {
+    "id": "2065206932135428143",
+    "created_at": "2026-06-11T22:57:56.000Z",
+    "original": "JUST IN: SpaceX IPO reportedly expected to mint 4,000 new millionaires — “from engineers to cafeteria workers”",
+    "translation": "快訊：據報導SpaceX IPO預計將催生4000位新百萬富翁——「從工程師到餐廳員工都有」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKkWvdLb0AAbDZ8?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-12T08:01:29.828826+08:00",
+    "url": "https://x.com/elonmusk/status/2065206932135428143"
+  },
+  {
     "id": "2065205268833517771",
     "created_at": "2026-06-11T22:51:20.000Z",
     "original": "Elon Musk",
