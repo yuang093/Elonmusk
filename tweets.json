@@ -1,5 +1,35 @@
 [
   {
+    "id": "2065911856523288917",
+    "created_at": "2026-06-13T21:39:04.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-14T06:01:23.690491+08:00",
+    "url": "https://x.com/elonmusk/status/2065911856523288917"
+  },
+  {
+    "id": "2065858457916391803",
+    "created_at": "2026-06-13T18:06:52.000Z",
+    "original": "NEWS: It has been reported that Stephen Ogilvie, the man attacked by a migrant in Belfast has sadly lost sight in both eyes",
+    "translation": "突發新聞：據報導，在 Belfast 被移民攻擊的 Stephen Ogilvie，很遺憾雙眼都失明了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKtnLzSWgAACqUS?format=png&name=360x360"
+    ],
+    "fetched_at": "2026-06-14T06:01:27.687897+08:00",
+    "url": "https://x.com/elonmusk/status/2065858457916391803"
+  },
+  {
     "id": "2065706985878675838",
     "created_at": "2026-06-13T08:04:59.000Z",
     "original": "Elon Musk",
