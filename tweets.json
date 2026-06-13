@@ -1,5 +1,83 @@
 [
   {
+    "id": "2065704199531155560",
+    "created_at": "2026-06-13T07:53:54.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-13T16:00:57.285756+08:00",
+    "url": "https://x.com/elonmusk/status/2065704199531155560"
+  },
+  {
+    "id": "2065351999416361216",
+    "created_at": "2026-06-12T08:34:23.000Z",
+    "original": "At this rate, Elon Musk is making Tony Stark look underfunded.",
+    "translation": "照這個燒錢速度下去，東尼史塔克都要覺得自己經費不足了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKmasdeaYAAyQ_x?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-13T16:01:05.611143+08:00",
+    "url": "https://x.com/elonmusk/status/2065351999416361216"
+  },
+  {
+    "id": "2065702920427896916",
+    "created_at": "2026-06-13T07:48:49.000Z",
+    "original": "SpaceX is a company whose mission is *axiomatically* the love of humanity \n\nTo extend the light of consciousness\n\nThe power of this kind of love is hard to quantify but clearly makes the impossible far more probable. ",
+    "translation": "SpaceX這間公司，使命*無需證明地*就是對人類的愛\n\n將意識之光向外延伸\n\n這種愛的力量很難量化，但顯然能讓不可能的事變得更可能成真",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKoYJmibMAA7FNx?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-13T16:01:23.323532+08:00",
+    "url": "https://x.com/elonmusk/status/2065702920427896916"
+  },
+  {
+    "id": "2065646527947964784",
+    "created_at": "2026-06-13T04:04:44.000Z",
+    "original": "When most companies' opening remarks during their IPOs were about profit, today it hits something different.\n\nIt is hope.\n\nThe once-inspiring future that excited us when we were young but that we dropped after growing up—we have found it again.",
+    "translation": "當大部分公司IPO時的開場白都在談利潤，今天風向變了。\n\n變成了「希望」。\n\n那個曾經讓我們小時候熱血沸騰的未來，長大後卻放棄了——沒想到我們又找回來了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKqmkc7aAAAdMLv?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-13T16:01:27.689751+08:00",
+    "url": "https://x.com/elonmusk/status/2065646527947964784"
+  },
+  {
+    "id": "2065705276334833951",
+    "created_at": "2026-06-13T07:58:11.000Z",
+    "original": "They did it.\n\nSpaceX has now launched more satellites than the rest of humanity, combined, all time. ",
+    "translation": "他們做到了。\n\nSpaceX現在發射的衛星數量，已經比人類歷史上其他所有國家加起來還多了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKooKo9XMAA4j6u?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-13T16:01:35.736829+08:00",
+    "url": "https://x.com/elonmusk/status/2065705276334833951"
+  },
+  {
     "id": "2065527353422291049",
     "created_at": "2026-06-12T20:11:11.000Z",
     "original": "The vibes at the SpaceXAI office in Palo Alto are immaculate today",
