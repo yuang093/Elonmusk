@@ -1,5 +1,79 @@
 [
   {
+    "id": "2066198978480185376",
+    "created_at": "2026-06-14T16:39:59.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T03:00:56.608465+08:00",
+    "url": "https://x.com/elonmusk/status/2066198978480185376"
+  },
+  {
+    "id": "2066124279448559907",
+    "created_at": "2026-06-14T11:43:09.000Z",
+    "original": "How to Earn a Billion Dollars: ",
+    "translation": "如何賺到十億美元：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T03:01:01.697351+08:00",
+    "url": "https://x.com/elonmusk/status/2066124279448559907"
+  },
+  {
+    "id": "2066226701567230419",
+    "created_at": "2026-06-14T18:30:08.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T03:01:05.208328+08:00",
+    "url": "https://x.com/elonmusk/status/2066226701567230419"
+  },
+  {
+    "id": "2066086202311164055",
+    "created_at": "2026-06-14T09:11:51.000Z",
+    "original": "Top quality work by ",
+    "translation": "頂級品質作品 by",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKw2ct9XkAACCfQ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-15T03:01:07.506353+08:00",
+    "url": "https://x.com/elonmusk/status/2066086202311164055"
+  },
+  {
+    "id": "2066218672772001876",
+    "created_at": "2026-06-14T17:58:14.000Z",
+    "original": "SpaceX is solving the biggest bottleneck in spaceflight\n\nThe COST\n\nFor decades, the average launch cost to low Earth orbit was around $18,500 per kg\n\nFalcon 9 cut that to about $2,700 per kg - roughly an 85% reduction\n\nFalcon Heavy pushed it closer to $1,400 per kg - roughly a",
+    "translation": "SpaceX正在解決太空飛行最大的瓶頸\n\n成本\n\n數十年來，到低地球軌道的平均發射成本大約是每公斤18,500美元\n\n獵鷹9號把它砍到約每公斤2,700美元——大約降了85%\n\n獵鷹重型則壓到接近每公斤1,400美元——大約是",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKyu7OeakAAxnKA?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-15T03:01:18.793016+08:00",
+    "url": "https://x.com/elonmusk/status/2066218672772001876"
+  },
+  {
     "id": "2066217882988482587",
     "created_at": "2026-06-14T17:55:06.000Z",
     "original": "Elon Musk",
