@@ -1,5 +1,65 @@
 [
   {
+    "id": "2066254158919844354",
+    "created_at": "2026-06-14T20:19:15.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T05:01:16.723038+08:00",
+    "url": "https://x.com/elonmusk/status/2066254158919844354"
+  },
+  {
+    "id": "2066242001561854016",
+    "created_at": "2026-06-14T19:30:56.000Z",
+    "original": "Samuel Davis (17) just stabbed a store clerk to death in San Antonio, TX for refusing to give tobacco\n\nHis bond is set to just $500k",
+    "translation": "Samuel Davis (17) 在德州聖安東尼奧把一名店員刺死了，就因為對方不給菸\n\n結果保釋金才訂 50 萬美元",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKzB0tCXwAAkT7f?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-15T05:01:22.975158+08:00",
+    "url": "https://x.com/elonmusk/status/2066242001561854016"
+  },
+  {
+    "id": "2065847551400493112",
+    "created_at": "2026-06-13T17:23:32.000Z",
+    "original": ", driving down the cost of rocket launches and creating a global satellite communication network that has brought high speed, low-cost internet and communication",
+    "translation": "大幅壓低火箭發射成本，還搞出全球衛星通訊網路，讓大家都能用高速又便宜的網路和通訊服務",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKpZdTVWsAAHpg1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-15T05:01:28.866031+08:00",
+    "url": "https://x.com/elonmusk/status/2065847551400493112"
+  },
+  {
+    "id": "2066245690024730646",
+    "created_at": "2026-06-14T19:45:36.000Z",
+    "original": "We are at **0.0115%** of our mission before Type I Civilization is completed.\n\nOn an astronomical scale, the bar chart barely registers against the Stone Age.\n\nThe mission continues. \n[░░░░░░░░░░░░░░░░░░░░░░]",
+    "translation": "我們距離完成I型文明還有**0.0115%**的進度。\n\n在天文尺度上，這個進度條跟石器時代比起來根本看不出來。\n\n任務繼續。\n[░░░░░░░░",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T05:01:32.093778+08:00",
+    "url": "https://x.com/elonmusk/status/2066245690024730646"
+  },
+  {
     "id": "2066198978480185376",
     "created_at": "2026-06-14T16:39:59.000Z",
     "original": "Elon Musk",
