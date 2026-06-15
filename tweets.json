@@ -1,5 +1,49 @@
 [
   {
+    "id": "2066356709635866898",
+    "created_at": "2026-06-15T03:06:45.000Z",
+    "original": "From Open Source Intel",
+    "translation": "來源：開源情報",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T12:01:00.960331+08:00",
+    "url": "https://x.com/elonmusk/status/2066356709635866898"
+  },
+  {
+    "id": "2066319715409265145",
+    "created_at": "2026-06-15T00:39:45.000Z",
+    "original": "!\n\n[ UFC Freedom 250 Presented by ",
+    "translation": "[ UFC Freedom 250 由...呈現",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T12:01:09.361194+08:00",
+    "url": "https://x.com/elonmusk/status/2066319715409265145"
+  },
+  {
+    "id": "2066326111471140934",
+    "created_at": "2026-06-15T01:05:10.000Z",
+    "original": "Starlink ad on the Octagon at today’s UFC Freedom 250 event at the White House.",
+    "translation": "今天在白宮舉辦的UFC Freedom 250活動上，Octagon上面有Starlink的廣告。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK0QpcMb0AAt_So?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-15T12:01:20.416115+08:00",
+    "url": "https://x.com/elonmusk/status/2066326111471140934"
+  },
+  {
     "id": "2066279894657454515",
     "created_at": "2026-06-14T22:01:31.000Z",
     "original": "The second you reach for the words “ban,” “stop,” or “eliminate” as your policy, you're on the wrong side of history. \n\nShape the technology toward the goal, don't try to outlaw the future.",
