@@ -1,5 +1,78 @@
 [
   {
+    "id": "2066530803979362371",
+    "created_at": "2026-06-15T14:38:32.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T23:01:34.468261+08:00",
+    "url": "https://x.com/elonmusk/status/2066530803979362371"
+  },
+  {
+    "id": "2066531432739013062",
+    "created_at": "2026-06-15T14:41:02.000Z",
+    "original": "The post satirically announces a fictional Mistral AI model called \"Le Chaton Fat\" (The Fat Kitten), claiming a 30T+ MoE with 256 experts, 1M context window, multimodality, and top benchmarks over Claude and GPT models.\nIt features an AI-generated fake Mistral announcement page with a photo of an overweight cat alongside fabricated performance charts and specs, quoting a \"Big if true\" post.\nThis starts a viral meme thread joking about extreme AI hype, with later fake updates on EU bans and superhuman abilities, confirmed as satire by replies noting no actual Mistral release exists.",
+    "translation": "這篇推文用諷刺口吻宣布了一個名為「Le Chaton Fat」（肥貓）的虛構 Mistral AI 模型，聲稱擁有 30T+ MoE、256 個專家、100 萬上下文視窗、多模態能力，以及在各種基準測試中打敗 Claude 和 GPT 模型。\n\n文中附上了一個 AI 生成的山寨 Mistral 公告頁面，配圖是一隻胖胖的貓咪，還有偽造的性能圖表和規格參數，並引用了一則「如果是真的就太猛了」的推文。\n\n這引發了一連串病毒式傳播的迷因討論，大家都在嘲笑過度膨脹的 AI 行銷話術。之後還有一堆假消息更新，說什麼歐盟禁令、貓咪獲得超能力之類的。不過留言區有網友出來打假，表示這根本不是真的 Mistral 產品。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T23:01:40.134239+08:00",
+    "url": "https://x.com/elonmusk/status/2066531432739013062"
+  },
+  {
+    "id": "2066267845546442762",
+    "created_at": "2026-06-14T21:13:38.000Z",
+    "original": " has officially confirmed the upcoming release of Le Chaton Fat\n\n- 30T MoE with 256 experts\n- 1M context window\n- multimodal and multilingual\n- outperforms Fable 5 on every benchmark",
+    "translation": "正式確認 Le Chaton Fat 即將發布\n\n- 30T MoE，256 個專家\n- 1M 上下文窗口\n- 多模態、多語言\n- 在所有基準測試上都打趴 Fable 5",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKzbbLlbYAAroFW?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HKjLoQoWkAA8cdj?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-06-15T23:01:43.686510+08:00",
+    "url": "https://x.com/elonmusk/status/2066267845546442762"
+  },
+  {
+    "id": "2066229489424842838",
+    "created_at": "2026-06-14T18:41:13.000Z",
+    "original": "Alex Soros is interesting because he’s a billionaire heir who dedicates his life to making cities less safe.  He’s like a Reverse Batman.",
+    "translation": "Alex Soros 這人真的很有趣，身為億萬富翁的繼承人，結果人生目標是讓城市變得更危險。根本就是個反過來的蝙蝠俠。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T23:01:52.193046+08:00",
+    "url": "https://x.com/elonmusk/status/2066229489424842838"
+  },
+  {
+    "id": "2066506543164432822",
+    "created_at": "2026-06-15T13:02:08.000Z",
+    "original": "Has anyone tried using the technology we have to build a genuinely trustworthy news source? X's Grok appears to be the only one working overtime. \n\nThe space is wide open and empty...",
+    "translation": "有沒有人試過用我們現有的技術，來打造一個真正可信的新聞來源啊？X的Grok看起來是唯一在那邊拼命加班的\n\n這個市場根本沒人在競爭，荒涼到不行...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-15T23:01:59.849912+08:00",
+    "url": "https://x.com/elonmusk/status/2066506543164432822"
+  },
+  {
     "id": "2066356709635866898",
     "created_at": "2026-06-15T03:06:45.000Z",
     "original": "From Open Source Intel",
