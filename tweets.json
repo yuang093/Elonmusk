@@ -1,5 +1,167 @@
 [
   {
+    "id": "2066665863168602354",
+    "created_at": "2026-06-15T23:35:13.000Z",
+    "original": "SpaceX trading at $200... Monster!",
+    "translation": "SpaceX 來到 200 塊了... 太猛了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK5FohKXUAEkkVo?format=png&name=240x240"
+    ],
+    "fetched_at": "2026-06-16T14:00:59.901876+08:00",
+    "url": "https://x.com/elonmusk/status/2066665863168602354"
+  },
+  {
+    "id": "2066759607058645259",
+    "created_at": "2026-06-16T05:47:43.000Z",
+    "original": "SpaceX has over 10,000 satellites in orbit, which is vastly more than everyone else combined, so we are familiar with the subject",
+    "translation": "SpaceX 在軌道上有超過一萬顆衛星，比其他所有人的加起來還多好幾倍，所以我們對這個領域可是熟悉得很",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:01:02.183391+08:00",
+    "url": "https://x.com/elonmusk/status/2066759607058645259"
+  },
+  {
+    "id": "2066611588761862510",
+    "created_at": "2026-06-15T19:59:33.000Z",
+    "original": "Space radiators are not sci-fi. The ISS already uses this physics. SpaceX is just scaling it with Starship\n\nPeople act like cooling a data center in space is some impossible sci-fi problem. It is not. The physics is simple:\n\nOn Earth, heat can leave through air, water, fans,",
+    "translation": "太空散熱器不是科幻。國際太空站已經在用這個原理了。SpaceX 只是用星艦把它規模化而已\n\n大家好像覺得在太空冷卻資料中心是什麼不可能的科幻問題。不是的啦。物理很簡單：\n\n在地球上，熱可以透過空氣、水、風扇...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK4USGOaAAA1cpS?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-16T14:01:14.574243+08:00",
+    "url": "https://x.com/elonmusk/status/2066611588761862510"
+  },
+  {
+    "id": "2066760081681895784",
+    "created_at": "2026-06-16T05:49:36.000Z",
+    "original": "Yeah, it makes no sense. Some companies or individuals are behind this and pulling the strings.",
+    "translation": "對啊，根本說不通。肯定有某些公司或個人在搞鬼，在背後操控這一切。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:01:17.351760+08:00",
+    "url": "https://x.com/elonmusk/status/2066760081681895784"
+  },
+  {
+    "id": "2066729975005557229",
+    "created_at": "2026-06-16T03:49:58.000Z",
+    "original": "The NAACP of Mississippi is trying to shut down xAI’s data center that powers Grok under the guise of a Clean Air Act enforcement action.  But the Executive Branch—not the NAACP—is responsible for enforcing federal law.  The NAACP’s lawsuit threatens American national, energy,",
+    "translation": "密西西比州的NAACP試圖假借Clean Air Act執法之名，關閉為Grok供電的xAI資料中心。但執行聯邦法律的應該是行政部門——而不是NAACP。NAACP的訴訟正在威脅美國的國家、能源...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:01:41.183342+08:00",
+    "url": "https://x.com/elonmusk/status/2066729975005557229"
+  },
+  {
+    "id": "2066761308733854043",
+    "created_at": "2026-06-16T05:54:29.000Z",
+    "original": "Elon Musk",
+    "translation": "伊隆·馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:01:46.816292+08:00",
+    "url": "https://x.com/elonmusk/status/2066761308733854043"
+  },
+  {
+    "id": "2066710169179054097",
+    "created_at": "2026-06-16T02:31:16.000Z",
+    "original": "Wait til the haters see how fast Elon makes his second Trillion",
+    "translation": "等著看 Elon 賺到第二兆多快，黑粉又要酸了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:01:57.022789+08:00",
+    "url": "https://x.com/elonmusk/status/2066710169179054097"
+  },
+  {
+    "id": "2066762750387499312",
+    "created_at": "2026-06-16T06:00:12.000Z",
+    "original": "Community Note is funny ",
+    "translation": "Community Note 真的很好笑",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK6dxJabQAAGAob?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-16T14:02:01.143159+08:00",
+    "url": "https://x.com/elonmusk/status/2066762750387499312"
+  },
+  {
+    "id": "2066694585942978648",
+    "created_at": "2026-06-16T01:29:21.000Z",
+    "original": "SpaceX is now bigger than Amazon at a $2.7 trillion valuation after the stock jumped 12.56% overnight.",
+    "translation": "SpaceX現在估值2.7兆美元，已經超越Amazon了，股價一夜飆漲12.56%。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK5fxcVbIAA9A2o?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-16T14:02:12.186199+08:00",
+    "url": "https://x.com/elonmusk/status/2066694585942978648"
+  },
+  {
+    "id": "2066639370489413900",
+    "created_at": "2026-06-15T21:49:56.000Z",
+    "original": "In the ancient world, the way many people gained great wealth was by forming gangs of strong men, beating up their neighbors, and taking their stuff. \n\nPeople still speak with admiration of men like Alexander the Great and Julius Caesar, but they were little better than gangsters",
+    "translation": "在遠古時代，很多人變有錢的方式就是找一票壯漢，去痛扁鄰居然後把他們的東西搶走。\n\n到現在還有人很崇拜亞歷山大大帝和凱撒，但他們根本就是黑幫性質的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:02:16.179576+08:00",
+    "url": "https://x.com/elonmusk/status/2066639370489413900"
+  },
+  {
+    "id": "2066760894194082081",
+    "created_at": "2026-06-16T05:52:50.000Z",
+    "original": "0:00 / 2:06",
+    "translation": "0:00 / 2:06",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-16T14:02:18.674297+08:00",
+    "url": "https://x.com/elonmusk/status/2066760894194082081"
+  },
+  {
     "id": "2066662446501445708",
     "created_at": "2026-06-15T23:21:38.000Z",
     "original": "Elon Musk",
