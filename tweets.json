@@ -1,5 +1,38 @@
 [
   {
+    "id": "2067110814746910918",
+    "created_at": "2026-06-17T05:03:17.000Z",
+    "original": "Grok Voice just ranked #1 on Vapi’s Humanness Index and it's scary good\n\nThat is a huge deal\n\nThis benchmark is simple:\nListeners hear blind same-voice battles and pick which voice sounds more human\n\nGrok TTS scored 100 in humanness matching the human baseline\n\nThat means Grok is",
+    "translation": "Grok Voice 直接在 Vapi 的「人類感指數」拿下第一名，真的有夠猛\n\n這真的很猛\n\n這個評測很簡單：\n listener 會聽盲測的同語音對決，然後選哪個聲音聽起來更像人\n\nGrok TTS 拿到了 100 分的人類感分數，直接對標人類基準線\n\n這代表 Grok 語音已經...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK_aVBka8AEQp5z?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-17T14:01:21.197044+08:00",
+    "url": "https://x.com/elonmusk/status/2067110814746910918"
+  },
+  {
+    "id": "2067124745146171701",
+    "created_at": "2026-06-17T05:58:39.000Z",
+    "original": "NEWS: SpaceX will break its own news on X, not on newswires, an SEC filing shows\n\nThe company named its X account ",
+    "translation": "NEWS：SEC申報文件顯示，SpaceX將在X上發布自家新聞，而非透過新聞通訊社\n\n該公司將其X帳號命名為…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK7xcmyawAAbQ__?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HK7xch9aoAAVR4J?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-17T14:01:28.584821+08:00",
+    "url": "https://x.com/elonmusk/status/2067124745146171701"
+  },
+  {
     "id": "2067084894434668825",
     "created_at": "2026-06-17T03:20:18.000Z",
     "original": " is now available on Amazon Bedrock. \n\nCustomers pick the right model for the right job, and we keep making that easier: ",
