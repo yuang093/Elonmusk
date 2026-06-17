@@ -12,6 +12,9 @@ fetch.log
 .fetch_state.json
 .apify_used_today
 
+# Backup artifacts
+tweets.json.before
+
 # Python
 __pycache__/
 *.py[cod]
