@@ -1,5 +1,35 @@
 [
   {
+    "id": "2067058907764371585",
+    "created_at": "2026-06-17T01:37:02.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-17T10:01:04.428061+08:00",
+    "url": "https://x.com/elonmusk/status/2067058907764371585"
+  },
+  {
+    "id": "2067048037562695998",
+    "created_at": "2026-06-17T00:53:50.000Z",
+    "original": "NEW: DOJ has published the complaints/ affidavits for five individuals involved in the alleged UFC drone plot.\n\nBryan Omar Roa and Michael Alan Thomas Complaint – CDCA - ",
+    "translation": "最新消息：司法部公布了涉嫌所謂UFC",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HK9na7qWQAAIij4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-17T10:01:20.511705+08:00",
+    "url": "https://x.com/elonmusk/status/2067048037562695998"
+  },
+  {
     "id": "2067006638662586797",
     "created_at": "2026-06-16T22:09:20.000Z",
     "original": "A Model Y driver started experiencing a medical emergency with chest pain mid-drive & called his son.\n\nHis son then remotely rerouted the car – which had FSD Supervised enabled – to the nearest hospital & let them know the vehicle was en route. ER staff were standing by on",
