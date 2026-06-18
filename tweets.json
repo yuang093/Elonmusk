@@ -1,5 +1,77 @@
 [
   {
+    "id": "2067501533130801638",
+    "created_at": "2026-06-18T06:55:52.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-18T15:01:20.366794+08:00",
+    "url": "https://x.com/elonmusk/status/2067501533130801638"
+  },
+  {
+    "id": "2067473495920140363",
+    "created_at": "2026-06-18T05:04:27.000Z",
+    "original": "If deployed widely - I bet this will save the US healthcare system at least 100x all of MJ’s profit to date. \n\nIt’s a great example of how much better someone like David is able to allocate capital than ~the rest of the world. \n\nThe AI boom should empower a generation of people",
+    "translation": "如果這玩意兒廣泛部署——我敢說這能幫美國醫療系統省下的錢，絕對是MJ到目前為止總利潤的100倍以上。\n\n這就是一個很好的例子，展示了像David這樣的人配置資本的能力，比~全世界其他人都強多少。\n\nAI熱潮應該會造福一整代人",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-18T15:02:04.907948+08:00",
+    "url": "https://x.com/elonmusk/status/2067473495920140363"
+  },
+  {
+    "id": "2067443741082681621",
+    "created_at": "2026-06-18T03:06:13.000Z",
+    "original": "Grok Imagine 1.5\nGrumpy cat talks",
+    "translation": "Grok Imagine 1.5\n不爽貓開聊啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-18T15:02:11.551366+08:00",
+    "url": "https://x.com/elonmusk/status/2067443741082681621"
+  },
+  {
+    "id": "2067487814451933415",
+    "created_at": "2026-06-18T06:01:21.000Z",
+    "original": "𝕏 is the #1 news app in the UK.\n\nThis is exactly why the BBC, The Telegraph and other UK legacy media keep pushing negative fake attacks on Elon Musk.\n\nThey are getting destroyed in the rankings. The British public has rejected them.\n\nLegacy media is finished. They are lashing",
+    "translation": "X是英國排名第一的新聞App。\n\n這就是為什麼BBC、每日電訊報和其他英國傳統媒體一直在對馬斯克放負面假料攻擊。\n\n他們在排行榜上被碾壓了，英國民眾已經放生他們了。\n\n傳統媒體已經GG了。他們在拼命...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLExNbEbsAA08gR?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-18T15:02:19.392608+08:00",
+    "url": "https://x.com/elonmusk/status/2067487814451933415"
+  },
+  {
+    "id": "2067092897951109427",
+    "created_at": "2026-06-17T03:52:06.000Z",
+    "original": "Grok Imagine Video 1.5 is here\n\nOur new image-to-video model with sharper realism, better physics and faster generations ",
+    "translation": "Grok Imagine Video 1.5 來啦\n\n我們新的圖生影片模型，畫面更清晰真實、物理互動更棒、生成速度更快",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-18T15:02:25.928343+08:00",
+    "url": "https://x.com/elonmusk/status/2067092897951109427"
+  },
+  {
     "id": "2067272144074264711",
     "created_at": "2026-06-17T15:44:21.000Z",
     "original": "\"My favorite enterprise AI service is Cursor. It is an AI coder & every one of our engineers, 100% is now assisted by AI coders & our productivity has gone up incredibly. These companies are some of the fastest-growing companies in world & they address enterprise\"\n\n— Jensen Huang",
