@@ -1,5 +1,65 @@
 [
   {
+    "id": "2067667126656143860",
+    "created_at": "2026-06-18T17:53:53.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk（馬斯克）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-19T02:00:37.860711+08:00",
+    "url": "https://x.com/elonmusk/status/2067667126656143860"
+  },
+  {
+    "id": "2067626295463198824",
+    "created_at": "2026-06-18T15:11:38.000Z",
+    "original": "Katie Miller",
+    "translation": "Katie Miller",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLGvJ_NWcAI68_j?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-19T02:00:42.182089+08:00",
+    "url": "https://x.com/elonmusk/status/2067626295463198824"
+  },
+  {
+    "id": "2067391985443287488",
+    "created_at": "2026-06-17T23:40:34.000Z",
+    "original": "I have always been of the opinion that unpopularity earned by doing what is right is not unpopularity at all, but glory.\n\n-Cicero",
+    "translation": "我一直覺得啦，因為做正確的事而被嫌、被酸，那根本就不是什麼不受歡迎，那是榮耀好吧！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLDaDiFWkAA3xeT?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-19T02:00:57.288884+08:00",
+    "url": "https://x.com/elonmusk/status/2067391985443287488"
+  },
+  {
+    "id": "2067668243985137664",
+    "created_at": "2026-06-18T17:58:19.000Z",
+    "original": "I sometimes wonder if part of the reason late-stage Rome was sacked was because they couldn’t get a permit in time to marshal the legions",
+    "translation": "我時常在想，羅馬帝國晚期會被洗劫，是不是因為他們來不及拿到集結軍團的許可證啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-19T02:01:04.138424+08:00",
+    "url": "https://x.com/elonmusk/status/2067668243985137664"
+  },
+  {
     "id": "2067646319615746303",
     "created_at": "2026-06-18T16:31:12.000Z",
     "original": "Vastly bigger",
