@@ -1,5 +1,50 @@
 [
   {
+    "id": "2067646319615746303",
+    "created_at": "2026-06-18T16:31:12.000Z",
+    "original": "Vastly bigger",
+    "translation": "大很多",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-19T01:01:22.470377+08:00",
+    "url": "https://x.com/elonmusk/status/2067646319615746303"
+  },
+  {
+    "id": "2067590678557937954",
+    "created_at": "2026-06-18T12:50:06.000Z",
+    "original": "The grooming gang scandals in the UK are increasingly looking like a bigger scandal than the Epstein scandal.",
+    "translation": "英國的組織性侵醜聞越看越像是比艾普斯坦醜聞更大的瓜了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLGOtqxaYAAt92h?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HK8B_8vXUAAefiA?format=png&name=240x240"
+    ],
+    "fetched_at": "2026-06-19T01:01:30.027956+08:00",
+    "url": "https://x.com/elonmusk/status/2067590678557937954"
+  },
+  {
+    "id": "2067646181379854418",
+    "created_at": "2026-06-18T16:30:39.000Z",
+    "original": "Grok models are now available on Databricks Agent Bricks.\n\nBring SpaceXAI's latest models to your enterprise data to power capable AI agents.\n\n",
+    "translation": "Grok 模型現在可以在 Databricks Agent Bricks 上用啦。\n\n把 SpaceXAI 最新模型接進你的企業資料，打造超猛的 AI 代理。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-19T01:01:36.886340+08:00",
+    "url": "https://x.com/elonmusk/status/2067646181379854418"
+  },
+  {
     "id": "2067501533130801638",
     "created_at": "2026-06-18T06:55:52.000Z",
     "original": "Elon Musk",
