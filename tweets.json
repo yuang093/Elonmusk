@@ -1,5 +1,126 @@
 [
   {
+    "id": "2068757798167482573",
+    "created_at": "2026-06-21T18:07:49.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-22T05:00:36.516463+08:00",
+    "url": "https://x.com/elonmusk/status/2068757798167482573"
+  },
+  {
+    "id": "2068757120460497114",
+    "created_at": "2026-06-21T18:05:07.000Z",
+    "original": "How’s your Father’s Day going? Mine is fixing a burst pipe. Very fitting.",
+    "translation": "父親節過得怎樣？我在修爆水管。很應景吧。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-22T05:00:50.777951+08:00",
+    "url": "https://x.com/elonmusk/status/2068757120460497114"
+  },
+  {
+    "id": "2068799220576813508",
+    "created_at": "2026-06-21T20:52:25.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-22T05:00:56.412455+08:00",
+    "url": "https://x.com/elonmusk/status/2068799220576813508"
+  },
+  {
+    "id": "2068786080191758518",
+    "created_at": "2026-06-21T20:00:12.000Z",
+    "original": "Marc Andreessen ",
+    "translation": "Marc Andreessen",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLXN-boboAEOdt_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-22T05:00:59.379951+08:00",
+    "url": "https://x.com/elonmusk/status/2068786080191758518"
+  },
+  {
+    "id": "2068799336738091102",
+    "created_at": "2026-06-21T20:52:52.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-22T05:01:02.767711+08:00",
+    "url": "https://x.com/elonmusk/status/2068799336738091102"
+  },
+  {
+    "id": "2068775711200997686",
+    "created_at": "2026-06-21T19:19:00.000Z",
+    "original": "Fuck off.\n\nHappy Fathers Day",
+    "translation": "滾。\n\n父親節快樂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLVEsnrasAAKMyI?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-22T05:01:09.233298+08:00",
+    "url": "https://x.com/elonmusk/status/2068775711200997686"
+  },
+  {
+    "id": "2068763409940705752",
+    "created_at": "2026-06-21T18:30:07.000Z",
+    "original": " satellites from California",
+    "translation": "加州的衛星",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLW5G6kWYAAY7DZ?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HLW5IxPWkAENZ0r?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-22T05:01:14.475843+08:00",
+    "url": "https://x.com/elonmusk/status/2068763409940705752"
+  },
+  {
+    "id": "2068724810528743573",
+    "created_at": "2026-06-21T15:56:44.000Z",
+    "original": "I’ve been living immersed in South Korea for the last month with my wife and daughter. \n\nWe just leave the stroller outside if we go in anywhere. \n\nBecause no one’s going to steal it. \n\nI met a friend for lunch. He rode his bicycle. He just left it outside in an alley without a",
+    "translation": "我跟老婆女兒在南韓住了一個月了\n\n不管去哪裡我們都直接把嬰兒車放外面\n\n因為根本不會有人偷啦\n\n跟朋友吃午餐 他騎腳踏車來的 就直接停在巷子裡連…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLWWP84bIAE770X?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-22T05:01:23.291839+08:00",
+    "url": "https://x.com/elonmusk/status/2068724810528743573"
+  },
+  {
     "id": "2068585451250995524",
     "created_at": "2026-06-21T06:42:58.000Z",
     "original": "No Taxation Without Annihilation\n\nThe Anti-Antimatter-Tax Party fights for our freedom.\n\nAATP LFG!",
