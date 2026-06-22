@@ -1,5 +1,54 @@
 [
   {
+    "id": "2069054725451104325",
+    "created_at": "2026-06-22T13:47:42.000Z",
+    "original": "BREAKING: SpaceX just received an investment-grade credit rating from Fitch for its new bond offering.\n\n• Fitch gave SpaceX a BBB+ rating, which means its debt is seen as reasonably safe for big investors.\n\n• All three major rating agencies now rate SpaceX as investment grade:",
+    "translation": "突發：SpaceX 剛拿到 Fitch 給的投資級信用評級，這次發債用的。\n\n• Fitch 給了 SpaceX BBB+ 評級，代表他們的債務在大型投資人眼裡算是相對安全的。\n\n• 三大評級機構現在全部都把 SpaceX 列入投資等級了：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLbCThYaQAAsbIl?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-22T23:01:08.502784+08:00",
+    "url": "https://x.com/elonmusk/status/2069054725451104325"
+  },
+  {
+    "id": "2068902907685273791",
+    "created_at": "2026-06-22T03:44:26.000Z",
+    "original": " Sergeant Lee Marten. Following his ALS diagnosis last year, Lee is the first Canadian to receive a Neuralink telepathy chip implant — technology that could allow him to control a phone or laptop using only his thoughts.\n\nA team",
+    "translation": "李·馬丁中士。去年確診ALS後，李成為首位接受Neuralink心思感應晶片植入的加拿大人——這項技術可以讓他只靠念力就能操控手機或筆電。\n\n一個團隊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLY4OVJbAAA4UKJ?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HI8_IumbIAE4aV-?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-06-22T23:01:14.961740+08:00",
+    "url": "https://x.com/elonmusk/status/2068902907685273791"
+  },
+  {
+    "id": "2068899004872835302",
+    "created_at": "2026-06-22T03:28:55.000Z",
+    "original": "The Falcon program has now delivered more mass to orbit in recent years than the rest of the world combined and more individual satellites than all of humanity launched in the previous 60+ years of spaceflight\n\nThe Merlin engine is quite literally the most successful rocket",
+    "translation": "獵鷹計畫近年來送到軌道的質量已經比全世界加起來還多，發射的衛星數量也比人類過去60多年太空飛行的總數還要多",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLY0rEXaUAEQwNL?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-22T23:01:29.100284+08:00",
+    "url": "https://x.com/elonmusk/status/2068899004872835302"
+  },
+  {
     "id": "2068880183663206685",
     "created_at": "2026-06-22T02:14:08.000Z",
     "original": "China added a Germany-sized low carbon electricity grid last year. \n\nNearly 500 TWh more generation, almost all solar and wind, built in factories that still burn coal. Carbon payback came in under two years and power sector emissions still fell.\n\nGermany already had zero carbon",
