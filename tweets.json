@@ -1,5 +1,21 @@
 [
   {
+    "id": "2068725993976856707",
+    "created_at": "2026-06-21T16:01:26.000Z",
+    "original": "We just need to celebrate having kids.\n\nHappy Father's Day.",
+    "translation": "我們就是需要慶祝有小孩這件事啦。\n\n父親節快樂！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLWXU_1aMAAUsD8?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-22T09:00:42.187905+08:00",
+    "url": "https://x.com/elonmusk/status/2068725993976856707"
+  },
+  {
     "id": "2068830099449766067",
     "created_at": "2026-06-21T22:55:07.000Z",
     "original": "AI probably exceeds the sum of all human intelligence in 4 or 5 years",
