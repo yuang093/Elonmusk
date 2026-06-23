@@ -1,5 +1,65 @@
 [
   {
+    "id": "2069267179007103001",
+    "created_at": "2026-06-23T03:51:55.000Z",
+    "original": "Judge Sparkle ",
+    "translation": "法官 Sparkle",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-23T12:01:17.886704+08:00",
+    "url": "https://x.com/elonmusk/status/2069267179007103001"
+  },
+  {
+    "id": "2069154287934951731",
+    "created_at": "2026-06-22T20:23:19.000Z",
+    "original": " Judge Sparkle Sooknanan has struck down the Trump administration's expanded SAVE voter-verification system, ruling that federal agencies unlawfully created a centralized database containing Social Security and citizenship data to facilitate mass voter verification.",
+    "translation": "法官 Sparkle Sooknanan 否決了川普政府擴展的 SAVE 選民驗證系統，裁定聯邦機構非法創建了一個包含社安號和公民身份數據的集中資料庫，用來進行大規模選民驗證。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLcRxseXsAAbMc0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-23T12:01:27.720268+08:00",
+    "url": "https://x.com/elonmusk/status/2069154287934951731"
+  },
+  {
+    "id": "2069267784702230582",
+    "created_at": "2026-06-23T03:54:19.000Z",
+    "original": "Given that there is an inverse correlation between USAID funding and malaria deaths, therefore, by their logic, cutting USAID funding saves lives!",
+    "translation": "既然USAID funding跟瘧疾死亡人數是負相關，那照他們的邏輯，砍經費反而是在救人诶",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-23T12:01:38.474618+08:00",
+    "url": "https://x.com/elonmusk/status/2069267784702230582"
+  },
+  {
+    "id": "2069235790560043009",
+    "created_at": "2026-06-23T01:47:11.000Z",
+    "original": "These are false projections based on a deeply flawed methodology.\n\nThe Lancet paper found a correlation between USAID spending and lower mortality rates. It did not prove that USAID spending directly caused those outcomes.\n\nThe authors then assumed causation and reversed the",
+    "translation": "這是基於一個有嚴重缺陷的方法論所做的錯誤預測。\n\n這篇 Lancet 論文發現 USAID 支出與較低死亡率之間存在相關性，但並沒有證明 USAID 支出直接導致了這些結果。\n\n作者們然後就假設了因果關係，然後把因果顛倒了…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLdhSInXoAAHtWH?format=jpg&name=900x900"
+    ],
+    "fetched_at": "2026-06-23T12:01:47.432369+08:00",
+    "url": "https://x.com/elonmusk/status/2069235790560043009"
+  },
+  {
     "id": "2069239044249120929",
     "created_at": "2026-06-23T02:00:07.000Z",
     "original": "Elon Musk",
