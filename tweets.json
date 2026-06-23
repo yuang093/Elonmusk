@@ -1,5 +1,63 @@
 [
   {
+    "id": "2069239044249120929",
+    "created_at": "2026-06-23T02:00:07.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-23T10:00:58.840202+08:00",
+    "url": "https://x.com/elonmusk/status/2069239044249120929"
+  },
+  {
+    "id": "2069222322956025907",
+    "created_at": "2026-06-23T00:53:40.000Z",
+    "original": "Spain is being used as Europe’s open gateway for illegal migration.\n\nThe country now has over 9 million immigrants, nearly 20% of its entire population. \n\nIn 2026, the government is fast tracking amnesty for another 500,000 illegal migrants already inside the country.\n\nThis is a",
+    "translation": "西班牙現在被當作歐洲非法移民的開放大門。\n\n這個國家現在有超過900萬移民，佔總人口的近20%。\n\n2026年，政府正在加速為另外50萬已經在國內的非法移民特赦。\n\n這簡直是...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-23T10:01:04.504077+08:00",
+    "url": "https://x.com/elonmusk/status/2069222322956025907"
+  },
+  {
+    "id": "2069238705928143129",
+    "created_at": "2026-06-23T01:58:46.000Z",
+    "original": "Here is what we know: U.S. taxpayer money, funneled through USAID and NIH, funded gain-of-function research at the Wuhan Institute of Virology. That research likely caused the COVID pandemic that killed millions and cost trillions.\n\nDr. Fauci personally signed off on these",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-23T10:01:20.498168+08:00",
+    "url": "https://x.com/elonmusk/status/2069238705928143129"
+  },
+  {
+    "id": "2069163603274678396",
+    "created_at": "2026-06-22T21:00:20.000Z",
+    "original": "BREAKING: Starlink will bring live sports streaming to Virgin Atlantic flights.\n\n• The service will be free through Virgin Atlantic’s high-speed Starlink WiFi.\n\n• FIFA World Cup 2026 matches will be available live during flights.\n\n• Passengers can watch live sports on personal",
+    "translation": "獨家：Starlink 將在維珍航空航班上提供體育賽事直播。\n\n• 透過維珍航空的高速 Starlink WiFi 即可免費觀看。\n\n• 2026 世界盃足球賽的比賽可在飛行中即時觀看。\n\n• 旅客可用個人裝置觀看直播體育賽事。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLclVK0bkAAWDJY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-23T10:01:28.509458+08:00",
+    "url": "https://x.com/elonmusk/status/2069163603274678396"
+  },
+  {
     "id": "2069197433653825876",
     "created_at": "2026-06-22T23:14:46.000Z",
     "original": "I introduced the first bill to ban stock trading among members of Congress.  The ",
