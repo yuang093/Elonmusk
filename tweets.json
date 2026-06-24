@@ -1,5 +1,49 @@
 [
   {
+    "id": "2069563583382630894",
+    "created_at": "2026-06-23T23:29:43.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-24T08:00:59.741853+08:00",
+    "url": "https://x.com/elonmusk/status/2069563583382630894"
+  },
+  {
+    "id": "2069534957244907802",
+    "created_at": "2026-06-23T21:35:58.000Z",
+    "original": ".\n\nWill this be the official name for the SpaceX AI satellite constellation?",
+    "translation": "這會是 SpaceX AI 衛星星座的正式名稱嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLh2hXuWcAAmn2l?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-24T08:01:06.458179+08:00",
+    "url": "https://x.com/elonmusk/status/2069534957244907802"
+  },
+  {
+    "id": "2069488592443851030",
+    "created_at": "2026-06-23T18:31:44.000Z",
+    "original": "We will find fraud. We will stop it. We will recover taxpayer dollars whenever the law permits, and we will restore integrity to the programs that millions of Americans rely on for their care. x.com/HHSResponse/st…",
+    "translation": "我們會把那些搞詐騙的通通揪出來，會直接給他阻止，只要法律允許，納稅人的錢一定追回來，而且那些幾百萬美國人靠它吃飯的照護計畫，我們會把誠信還給它們。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-24T08:01:20.992989+08:00",
+    "url": "https://x.com/elonmusk/status/2069488592443851030"
+  },
+  {
     "id": "2069535601892987275",
     "created_at": "2026-06-23T21:38:32.000Z",
     "original": "BREAKING: American Airlines has just confirmed it will begin rolling out Starlink across more than 500 narrowbody aircraft starting early next year.",
