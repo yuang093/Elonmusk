@@ -1,5 +1,93 @@
 [
   {
+    "id": "2069768562072289781",
+    "created_at": "2026-06-24T13:04:14.000Z",
+    "original": " will be installed on more than 80 giant Oldendorff ships.\n\nOldendorff is one of the world’s largest dry bulk shipping companies.\n\n\"With vessels operating in diverse regions and trading routes, reliable and resilient connectivity plays an increasingly important",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLlKt5cXoAAVloT?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-25T00:01:29.864339+08:00",
+    "url": "https://x.com/elonmusk/status/2069768562072289781"
+  },
+  {
+    "id": "2069807753581998120",
+    "created_at": "2026-06-24T15:39:58.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T00:01:36.077687+08:00",
+    "url": "https://x.com/elonmusk/status/2069807753581998120"
+  },
+  {
+    "id": "2069768843912786018",
+    "created_at": "2026-06-24T13:05:21.000Z",
+    "original": "I was delighted the first time he mentioned one of my shareware games in Byte, and it was a pleasure to later get to know him personally when he was a fixture at the Space Access conferences.\n\nOn SpaceX -- The idea that a single commercial company would eventually be launching",
+    "translation": "第一次在 Byte 雜誌上看到他提到我的共享軟體遊戲時我真的超級嗨，後來能在 Space Access 研討會上見到本人也很爽，他那時候可是常駐咖呢。\n\n關於 SpaceX — 想到未來會有一家民營公司最終能發射火箭...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T00:01:49.245597+08:00",
+    "url": "https://x.com/elonmusk/status/2069768843912786018"
+  },
+  {
+    "id": "2069768841043845436",
+    "created_at": "2026-06-24T13:05:20.000Z",
+    "original": "I’m reading an old collection of interconnected science fiction stories by Jerry Pournelle, written in the early 70s. His best books were later co-authored with Larry Niven, but it is still solid work in my favored “competence porn” genre, with entrepreneurs as protagonists.\n\nIt",
+    "translation": "我在讀一本Jerry Pournelle寫於70年代初的老科幻短篇集，相互關聯的那種。他後來跟Larry Niven合寫的那些書才是巔峰之作，但這本也還是相當硬核的「能力爽文」（competence porn）啦，主角都是創業者，超對我胃口。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLlLFrnWwAAOHcf?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-25T00:01:59.058965+08:00",
+    "url": "https://x.com/elonmusk/status/2069768841043845436"
+  },
+  {
+    "id": "2069807896767107532",
+    "created_at": "2026-06-24T15:40:32.000Z",
+    "original": "BREAKING: Starlink will help power emergency communications across all 78 Puerto Rico municipalities.\n\n• Announced by Puerto Rico Governor Jenniffer González Colón\n\n• Puerto Rico will equip emergency management offices with Starlink satellite internet.\n\n• Starlink will donate",
+    "translation": "突發：Starlink 將協助為波多黎各全部 78 個市提供緊急通訊支援 🛰️\n\n• 由波多黎各州長 Jenniffer González Colón 宣布\n\n• 波多黎各將為緊急管理辦公室配備 Starlink 衛星網路\n\n• Starlink 將捐贈⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T00:02:08.848219+08:00",
+    "url": "https://x.com/elonmusk/status/2069807896767107532"
+  },
+  {
+    "id": "2069724387855503501",
+    "created_at": "2026-06-24T10:08:42.000Z",
+    "original": "The strange thing about progress is that it only counts if you ignore where we started.\n\nEvery civilisation practised slavery.\n\nThe civilisation that ended it is now told it should feel guilty forever for having once participated. How does that make any sense?",
+    "translation": "進步這玩意最諷刺的地方就是，你得忽略我們從哪裡起步，它才算是進步。\n\n每個文明都搞過奴隸制。\n\n而現在，廢掉奴隸制的這個文明，反而被要求為曾經參與過的事永遠感到內疚。這算什麼道理？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T00:02:19.733363+08:00",
+    "url": "https://x.com/elonmusk/status/2069724387855503501"
+  },
+  {
     "id": "2069687831375831179",
     "created_at": "2026-06-24T07:43:26.000Z",
     "original": "Maybe first attempt at this for Neuralink later this year",
