@@ -1,5 +1,142 @@
 [
   {
+    "id": "2070019833127907423",
+    "created_at": "2026-06-25T05:42:41.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T14:00:56.679128+08:00",
+    "url": "https://x.com/elonmusk/status/2070019833127907423"
+  },
+  {
+    "id": "2070021507645071804",
+    "created_at": "2026-06-25T05:49:21.000Z",
+    "original": "We need a complete overhaul of the algorithm",
+    "translation": "我們需要徹底改造演算法",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T14:01:01.706780+08:00",
+    "url": "https://x.com/elonmusk/status/2070021507645071804"
+  },
+  {
+    "id": "2069825182689317301",
+    "created_at": "2026-06-24T16:49:13.000Z",
+    "original": "I’ve been on Twitter for almost 2 decades now so I can say with confidence that it has never been this toxic and Reddit-like. I think the alg actively encourages it and people get RL’d by it. Main reason I’ve been coming here less and posting less.",
+    "translation": "在推特上已經快",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T14:01:17.219550+08:00",
+    "url": "https://x.com/elonmusk/status/2069825182689317301"
+  },
+  {
+    "id": "2069808735212716225",
+    "created_at": "2026-06-24T15:43:52.000Z",
+    "original": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, x.com/claudeai/statu…",
+    "translation": "這是一種與 Claude 互動的新範式，與組織內所有人類活動更加「無縫接軌」。一旦你搞定所有底層工程工作，讓這一切「直接就能用」（例如跨工具、整合、運算環境、記憶體、x.com/claudeai/statu…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-25T14:01:29.253153+08:00",
+    "url": "https://x.com/elonmusk/status/2069808735212716225"
+  },
+  {
+    "id": "2069773502702399668",
+    "created_at": "2026-06-24T13:23:52.000Z",
+    "original": "Democrats have reached such an extreme that they’re electing someone to Congress who straight up wants to \"eradicate\" America. And not only does she believe this but she founded an activist organization to collapse America from inside. This should be a MASSIVE political scandal.",
+    "translation": "民主黨已經極端到直接選了一個想要「消滅」美國的人進國會。不僅她自己這麼想，她還創辦了一個從內部搞垮美國的行動組織。這應該是個超大的政治醜聞。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLjcInWW0AAC8kS?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-25T14:01:36.468652+08:00",
+    "url": "https://x.com/elonmusk/status/2069773502702399668"
+  },
+  {
+    "id": "2069850990317289923",
+    "created_at": "2026-06-24T18:31:46.000Z",
+    "original": "There are a few things that I look back on as my mistakes in the early days.\n\nQuake was overly ambitious technically. We could have done all the great multiplayer and modding work inside a Doom++ engine, allowing the designers to work with a more stable base instead of x.com/SandyofCthulhu…",
+    "translation": "回顧過去，早期真的有些決定是做錯的。Quake 在技術層面真的太過野心了。我們本來可以在 Doom++ 引擎裡完成所有那些很棒的多人連線和模組功能，讓設計師能在更穩定的基礎上工作，而不是跑去折騰那些有的沒的...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLmWgSqW8AAhsq3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-25T14:01:48.368809+08:00",
+    "url": "https://x.com/elonmusk/status/2069850990317289923"
+  },
+  {
+    "id": "2069990565530214798",
+    "created_at": "2026-06-25T03:46:24.000Z",
+    "original": "“We are going to have a multi-racial nation in Singapore. This is not a Malay nation. This is not a Chinese nation. This is not an Indian nation. Everybody will have his place here, equal: language, culture, religion.”\n— Lee Kuan Yew, August 9, 1965\n\nLKY’s quote echoes",
+    "translation": "「我們會在新加坡建立一個多元種族的國家。這不是馬來人的國家。這不是華人的國家。這不是印度人的國家。每個人在這裡都有他的位置，平等：不論語言、文化、宗教。」\n— 李光耀，1965年8月9日\n\n李光耀這句話至今仍在迴響",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLoVcn9W8AA7YT6?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HLoVcn9WAAAm7BL?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-25T14:02:02.096838+08:00",
+    "url": "https://x.com/elonmusk/status/2069990565530214798"
+  },
+  {
+    "id": "2069967837414768784",
+    "created_at": "2026-06-25T02:16:05.000Z",
+    "original": "Communism through (my) ages:\n1) When I was 15, a teacher told me \"It isn't as bad as they say, and makes a lot of sense.\"\n2) At about 19, college friends, \"Socialism isn't communism.\"\n3) At 20, on meeting my grandfather-in-law, \"They are evil. We escaped in 1949.\"\n4) At 30,",
+    "translation": "共產主義這一路走來：\n\n1) 15歲，老師跟我說：「其實沒那麼糟，挺有道理的」\n2) 19歲，大學同學說：「社會主義不等於共產主義啦」\n3) 20歲，見到岳父的爺爺，他說：「那群人壞透了，我們1949年逃出來的」\n4) 30歲，",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLoAwPIWYAEJ0cL?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-25T14:02:14.874100+08:00",
+    "url": "https://x.com/elonmusk/status/2069967837414768784"
+  },
+  {
+    "id": "2069807759466627280",
+    "created_at": "2026-06-24T15:39:59.000Z",
+    "original": "Took them 8 minutes to figure out he was stabbed after handcuffing Henry Nowak. BBC apparently got the whole video and police let him bleed out for 8 minutes.",
+    "translation": "他們給Henry Nowak銬上手銬後，花了8分鐘才發現他被刺了。BBC顯然拿到了完整影片，而員警就這樣讓他流了8分鐘的血。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLln6LCWIAAtDfr?format=png&name=small"
+    ],
+    "fetched_at": "2026-06-25T14:02:22.499883+08:00",
+    "url": "https://x.com/elonmusk/status/2069807759466627280"
+  },
+  {
     "id": "2070007969715245082",
     "created_at": "2026-06-25T04:55:33.000Z",
     "original": "Daraliza Avila Chevalier won the Democratic primary for NY-13 against incumbent Adriano Espaillat, confirming her as the nominee.\nShe founded CUAD (Columbia University Apartheid Divest), whose published statement explicitly calls for divestment \"to undermine and eradicate America as we know it\" and to extend Palestinian resistance into \"unrest and violence in America.\"\nElected members must take an oath to support and defend the Constitution; historical House precedents allow judging qualifications and fitness, though speech alone rarely disqualifies someone from seating.",
