@@ -1,5 +1,153 @@
 [
   {
+    "id": "2070142917553905979",
+    "created_at": "2026-06-25T13:51:47.000Z",
+    "original": "Imagine how much propaganda it took to convince women that this is oppressive.",
+    "translation": "想像一下要洗多少腦才能說服女性相信這是壓迫。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLqgAXQW8AAhFKG?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-26T13:01:04.667032+08:00",
+    "url": "https://x.com/elonmusk/status/2070142917553905979"
+  },
+  {
+    "id": "2070357191480037521",
+    "created_at": "2026-06-26T04:03:14.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T13:01:13.556859+08:00",
+    "url": "https://x.com/elonmusk/status/2070357191480037521"
+  },
+  {
+    "id": "2070004892652240912",
+    "created_at": "2026-06-25T04:43:19.000Z",
+    "original": "Being a good engineer often means picking up things that other people neglected or refused to take ownership of.",
+    "translation": "當一個好工程師，往往意味著要去揀別人不想碰的爛攤子。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T13:01:21.718410+08:00",
+    "url": "https://x.com/elonmusk/status/2070004892652240912"
+  },
+  {
+    "id": "2070357310896066816",
+    "created_at": "2026-06-26T04:03:42.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T13:01:29.287967+08:00",
+    "url": "https://x.com/elonmusk/status/2070357310896066816"
+  },
+  {
+    "id": "2069812404293337437",
+    "created_at": "2026-06-24T15:58:27.000Z",
+    "original": "The strength of a currency is how much kWh you can acquire per dollar. It measures both energy and time, which cannot be printed out of thin air.",
+    "translation": "一種貨幣的強度，取決於你每塊錢能換到多少度電。這同時衡量了能源和時間，而這兩樣東西都沒辦法憑空印出來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T13:01:38.166248+08:00",
+    "url": "https://x.com/elonmusk/status/2069812404293337437"
+  },
+  {
+    "id": "2070367901157040598",
+    "created_at": "2026-06-26T04:45:47.000Z",
+    "original": "Same, people were talking about it on PoE2",
+    "translation": "同感，大家在聊PoE2的時候都有提到這件事",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T13:01:45.484248+08:00",
+    "url": "https://x.com/elonmusk/status/2070367901157040598"
+  },
+  {
+    "id": "2070245094293434631",
+    "created_at": "2026-06-25T20:37:48.000Z",
+    "original": "Just overheard a group of normal people talking about Citizen Vigilante",
+    "translation": "剛不小心聽到一堆正常人在聊 Citizen Vigilante",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLr88UGbEAAbzYf?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-26T13:01:54.237274+08:00",
+    "url": "https://x.com/elonmusk/status/2070245094293434631"
+  },
+  {
+    "id": "2070368000339759244",
+    "created_at": "2026-06-26T04:46:11.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T13:01:58.405313+08:00",
+    "url": "https://x.com/elonmusk/status/2070368000339759244"
+  },
+  {
+    "id": "2069995639044501786",
+    "created_at": "2026-06-25T04:06:33.000Z",
+    "original": "Introducing /goal in Grok Build.\n\nExecute long-running tasks autonomously, with multiple rounds of subagents implementing and verifying a single goal.",
+    "translation": "Grok Build 推出 /goal 功能囉～\n\n就是要讓你可以自主執行那些跑很久的任務，會有好幾輪 subagents 幫你實作和驗證同一個目標。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLoaDNuaIAAiu_w?format=png&name=240x240"
+    ],
+    "fetched_at": "2026-06-26T13:02:06.234409+08:00",
+    "url": "https://x.com/elonmusk/status/2069995639044501786"
+  },
+  {
+    "id": "2070355234342207574",
+    "created_at": "2026-06-26T03:55:27.000Z",
+    "original": "Griffin and Xavier 20 years ago x.com/mayemusk/statu…",
+    "translation": "Griffin 跟 Xavier 20年前的照片 x.com/mayemusk/statu…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLthHUoW0AAZpoN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-26T13:02:14.261209+08:00",
+    "url": "https://x.com/elonmusk/status/2070355234342207574"
+  },
+  {
     "id": "2069480462066860380",
     "created_at": "2026-06-23T17:59:25.000Z",
     "original": "SpaceX has cool star names for stuff.\n\n• Starfall: Will enable access to microgravity environment for scientific research & in-space manufacturing\n\n• Stargaze: Tracks objects in orbit to prevent collisions\n\n• Starshield: Secured satellite network designed specifically for",
