@@ -1,5 +1,78 @@
 [
   {
+    "id": "2070560026406560232",
+    "created_at": "2026-06-26T17:29:14.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-27T02:01:23.425230+08:00",
+    "url": "https://x.com/elonmusk/status/2070560026406560232"
+  },
+  {
+    "id": "2070303825940893922",
+    "created_at": "2026-06-26T00:31:11.000Z",
+    "original": "This film is banned in Germany for its depiction of a vigilante who targets migrant criminals, and corrupt officials.\n\nWhat are the odds it causes the Streisand effect?",
+    "translation": "這部片在德國被禁了，因為它描繪了一個私刑者專門對付移民罪犯和腐敗官員。\n\n會變成史翠珊效應嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLsyW6sXYAAWjSo?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HLsjW7GaoAAU5sW?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-06-27T02:01:30.841327+08:00",
+    "url": "https://x.com/elonmusk/status/2070303825940893922"
+  },
+  {
+    "id": "2070560874067116157",
+    "created_at": "2026-06-26T17:32:36.000Z",
+    "original": "One of the reasons that I don't accept the \"nuking USAID killed millions of people\" framing is because most of the people saying this never took the stance that the US was a tremendously good and heroic force for saving millions of people",
+    "translation": "我不接受「炸掉USAID害死數百萬人」這種說法的原因之一是，這樣說的人大多從來沒有認為美國是個超棒超英勇的力量、拯救了數百萬人。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-27T02:01:40.124342+08:00",
+    "url": "https://x.com/elonmusk/status/2070560874067116157"
+  },
+  {
+    "id": "2070561905094128047",
+    "created_at": "2026-06-26T17:36:42.000Z",
+    "original": "Equality of outcomes requires vast inequalities of power to attempt it and an unending inequality in power to maintain it.",
+    "translation": "結果平等這件事，要做到它就得靠極端的權力不平等，要維持它更是需要沒完沒了的權力不平等。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-27T02:01:46.669412+08:00",
+    "url": "https://x.com/elonmusk/status/2070561905094128047"
+  },
+  {
+    "id": "2070562012350824519",
+    "created_at": "2026-06-26T17:37:07.000Z",
+    "original": "Trump: Haiti is a shithole country\n\nLegacy Media: THAT’S RACIST, IT’S BEAUTIFUL \n\n…\n\nTrump: We’re sending the Haitians that are here temporarily, back to Haiti\n\nLegacy Media: That is so cruel, their country is so bad that they will suffer and die if they’re forced to live there!",
+    "translation": "川普：海地是個鳥不生蛋的國家\n\n傳統媒體：種族歧視！太扯了！\n\n…\n\n川普：我們要把暫時在這裡的海地人送回海地\n\n傳統媒體：這太殘忍了啦，他們的國家那麼爛，被迫回去會過得很慘甚至會死耶！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-27T02:01:57.272860+08:00",
+    "url": "https://x.com/elonmusk/status/2070562012350824519"
+  },
+  {
     "id": "2070521368756588670",
     "created_at": "2026-06-26T14:55:37.000Z",
     "original": "True, we should switch to naming process nodes according to the number of atoms wide of the smallest feature size. That would be most accurate imo.",
