@@ -1,5 +1,35 @@
 [
   {
+    "id": "2070261211493507205",
+    "created_at": "2026-06-25T21:41:51.000Z",
+    "original": "Call me an idiot, but I just sent $25 directly to Elon Musk, the richest man in the world using ",
+    "translation": "叫我白癡吧，但我剛剛直接轉了25塊給馬斯克，全世界最有錢的那個人，用...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLsLmaAXsAIP7AV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-26T14:01:36.294014+08:00",
+    "url": "https://x.com/elonmusk/status/2070261211493507205"
+  },
+  {
+    "id": "2070355899542077665",
+    "created_at": "2026-06-26T03:58:06.000Z",
+    "original": "X labeled this post as containing Graphic Content.",
+    "translation": "X把這篇文標記成含有暴力/血腥內容",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-26T14:01:47.202051+08:00",
+    "url": "https://x.com/elonmusk/status/2070355899542077665"
+  },
+  {
     "id": "2070142917553905979",
     "created_at": "2026-06-25T13:51:47.000Z",
     "original": "Imagine how much propaganda it took to convince women that this is oppressive.",
