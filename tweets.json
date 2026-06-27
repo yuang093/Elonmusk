@@ -1,5 +1,67 @@
 [
   {
+    "id": "2070708572636549199",
+    "created_at": "2026-06-27T03:19:30.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-27T12:01:24.600646+08:00",
+    "url": "https://x.com/elonmusk/status/2070708572636549199"
+  },
+  {
+    "id": "2070664398666858562",
+    "created_at": "2026-06-27T00:23:58.000Z",
+    "original": "Never deleting this app. ",
+    "translation": "這App我死都不刪",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLx6RcUWoAE-Kvj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-27T12:01:36.591651+08:00",
+    "url": "https://x.com/elonmusk/status/2070664398666858562"
+  },
+  {
+    "id": "2070709889849298958",
+    "created_at": "2026-06-27T03:24:44.000Z",
+    "original": "The rise of white supremacy was a media generated narrative.\n\nThis fact is observable:",
+    "translation": "白人至上主義的興起是媒體炒作出來敘事。\n\n這個事實可以觀察到：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLxhk8ya0AARx_R?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-27T12:01:46.086088+08:00",
+    "url": "https://x.com/elonmusk/status/2070709889849298958"
+  },
+  {
+    "id": "2070665783525474743",
+    "created_at": "2026-06-27T00:29:28.000Z",
+    "original": "“Capitalism is not a profit system, it is a profit and loss system, and the losses are more important than the profits.”\n—Milton Friedman\n\nBut the US education system runs on the exact opposite principle.\n\nNo failure allowed. Instead of closing or losing funding, failing schools",
+    "translation": "「資本主義不是一個利潤系統，而是一個盈虧系統，而且虧損比利潤更重要。」— 米爾頓·傅利曼\n\n但美國教育系統的運作原則卻完全相反。\n\n不准失敗。失敗的學校不會被關閉或失去資金，而是…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLsdE1XXUAAIzNL?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-06-27T12:01:59.331357+08:00",
+    "url": "https://x.com/elonmusk/status/2070665783525474743"
+  },
+  {
     "id": "2070662791313404044",
     "created_at": "2026-06-27T00:17:35.000Z",
     "original": "Elon Musk",
