@@ -1,5 +1,35 @@
 [
   {
+    "id": "2071179181673865687",
+    "created_at": "2026-06-28T10:29:32.000Z",
+    "original": "They should just post it here",
+    "translation": "就直接po在這裡啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-28T19:01:53.332757+08:00",
+    "url": "https://x.com/elonmusk/status/2071179181673865687"
+  },
+  {
+    "id": "2070742742133780960",
+    "created_at": "2026-06-27T05:35:16.000Z",
+    "original": "A big problem with research studies on AI models is that given how long the peer review process is, the results are always out-of-date by the time the paper is published.\n\nThis time, we have something better!\n\nThe typical reaction to research results like this roughly goes",
+    "translation": "AI 模型研究的最大問題就是同行評審太久了，等論文發表的時候結果都已經過時了。\n\n這次我們有更好的選擇！\n\n看到這種研究結果，大家通常的反應大概是",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HLurUeYXAAAmuTO?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-28T19:02:08.815293+08:00",
+    "url": "https://x.com/elonmusk/status/2070742742133780960"
+  },
+  {
     "id": "2071168189623619741",
     "created_at": "2026-06-28T09:45:51.000Z",
     "original": "Elon Musk",
