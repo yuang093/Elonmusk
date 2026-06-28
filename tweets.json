@@ -1,5 +1,110 @@
 [
   {
+    "id": "2071168189623619741",
+    "created_at": "2026-06-28T09:45:51.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-28T18:01:41.419024+08:00",
+    "url": "https://x.com/elonmusk/status/2071168189623619741"
+  },
+  {
+    "id": "2071156650569060529",
+    "created_at": "2026-06-28T09:00:00.000Z",
+    "original": "Happy Birthday to Elon Musk.\n\nFrom helping build Tesla into the world's leading EV company to making reusable rockets a reality at SpaceX, Musk has spent decades pushing the boundaries of innovation.\n\nHis influence has also expanded into politics and public policy, making him one",
+    "translation": "祝 Elon Musk 生日快樂！\n\n從幫助特斯拉成為全球領先的電動車公司，到讓 SpaceX 的可重複使用火箭成真，馬斯克這幾十年來一直在挑戰創新的邊界\n\n他的影響力也擴展到政治和公共政策領域，讓他成為...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HL1C51IWcAAXbIV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-28T18:02:01.802202+08:00",
+    "url": "https://x.com/elonmusk/status/2071156650569060529"
+  },
+  {
+    "id": "2071168511364513833",
+    "created_at": "2026-06-28T09:47:08.000Z",
+    "original": "Sadly, yes",
+    "translation": "唉 沒錯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-28T18:02:11.574540+08:00",
+    "url": "https://x.com/elonmusk/status/2071168511364513833"
+  },
+  {
+    "id": "2070940629606051967",
+    "created_at": "2026-06-27T18:41:36.000Z",
+    "original": "Jeff Bezos' ex-wife MacKenzie Scott has given over $26,300,000,000 to charity, making her one of the biggest individual donors in history.\n\nShe wants to spend the majority of her Bezos fortune on helping others and making the world a better place.",
+    "translation": "Jeff Bezos的前妻MacKenzie Scott已經捐出超過263億美元做慈善，成為史上最大方的個人捐助者之一。\n\n她想把從Bezos那分到的大部分財產都拿來幫助別人、讓世界變得更好。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HL1CGoqWkAA9O4r?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HL1C5Q8W0AAp9Z2?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-06-28T18:02:46.636429+08:00",
+    "url": "https://x.com/elonmusk/status/2070940629606051967"
+  },
+  {
+    "id": "2071168807931183435",
+    "created_at": "2026-06-28T09:48:18.000Z",
+    "original": "Pretty much. It’s not promoted in any other countries …",
+    "translation": "差不多就是這樣啦…在其他國家都沒有在推的樣子…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-28T18:02:58.675723+08:00",
+    "url": "https://x.com/elonmusk/status/2071168807931183435"
+  },
+  {
+    "id": "2070953669860720853",
+    "created_at": "2026-06-27T19:33:26.000Z",
+    "original": "@RealJamesWoods",
+    "translation": "@RealJamesWoods",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HL2BYzIbcAApVvN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-28T18:03:05.589663+08:00",
+    "url": "https://x.com/elonmusk/status/2070953669860720853"
+  },
+  {
+    "id": "2070987522336010277",
+    "created_at": "2026-06-27T21:47:57.000Z",
+    "original": "\"To anyone I have offended, I just want to say I reinvented electric cars and I am sending people to Mars on a Rocketship, did you think I was also gonna be a chill normal dude?\"\n",
+    "translation": "「對於任何被我得罪到的人，我只是想說，我重新發明了電動車，還有用火箭把人送上火星，你以為我會是一個冷靜正常的普通小子嗎？」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-28T18:03:11.493942+08:00",
+    "url": "https://x.com/elonmusk/status/2070987522336010277"
+  },
+  {
     "id": "2071142204027142179",
     "created_at": "2026-06-28T08:02:36.000Z",
     "original": "Elon Musk",
