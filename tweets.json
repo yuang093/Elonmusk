@@ -1,5 +1,49 @@
 [
   {
+    "id": "2071761813247860834",
+    "created_at": "2026-06-30T01:04:42.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-30T10:01:05.257952+08:00",
+    "url": "https://x.com/elonmusk/status/2071761813247860834"
+  },
+  {
+    "id": "2071699999360999925",
+    "created_at": "2026-06-29T20:59:04.000Z",
+    "original": "Europe’s ‘Diversity’ is a Slaughterhouse. \n\nA Turkish man has gunned down 6 women at a German facility for pregnant mothers. \n\nWorld’s strictest gun laws…6 are dead anyway…",
+    "translation": "歐洲的「多元」就是個屠宰場。\n\n一名土耳其男子在德國的孕婦照護機構槍殺了6名女性。\n\n世界上最嚴格的槍枝管制...還不是死了6個人...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMAoKm2WsAAAKI8?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-06-30T10:01:12.989174+08:00",
+    "url": "https://x.com/elonmusk/status/2071699999360999925"
+  },
+  {
+    "id": "2071705010694767042",
+    "created_at": "2026-06-29T21:18:59.000Z",
+    "original": "Alibaba allegedly ran 28.8 million fraudulent API exchanges across 25,000 fake accounts to steal Claude's intelligence. If confirmed, it's the largest AI model theft ever attempted. The same week, the White House restricted GPT 5.6 to 20 companies, OpenAI delayed its IPO, and",
+    "translation": "Alibaba 疑似透過 2,880 萬次虛假 API 交換和 25,000 個假帳號來盜取 Claude 的智慧成果。如果屬實，這將是史上最大規模的 AI 模型竊取案。同週，白宮將 GPT 5.6 的使用權限制在 20 家公司，OpenAI 也延後了 IPO⋯⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-06-30T10:01:19.335265+08:00",
+    "url": "https://x.com/elonmusk/status/2071705010694767042"
+  },
+  {
     "id": "2071758422727610786",
     "created_at": "2026-06-30T00:51:14.000Z",
     "original": "Makes sense",
