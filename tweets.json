@@ -1,5 +1,96 @@
 [
   {
+    "id": "2072023218693533863",
+    "created_at": "2026-06-30T18:23:26.000Z",
+    "original": "There are always momentary dips, even in a rapidly growing economy. \n\nThe productivity gains from AI and robotics are so enormous, however, that the macro trend is overwhelmingly up.",
+    "translation": "經濟再怎麼快速成長，難免都會有短暫的陣痛期。\n\n但 AI 跟機器人帶來的生產力提升實在太扯了，宏觀來看整體趨勢根本壓倒性往上衝。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T03:00:44.018353+08:00",
+    "url": "https://x.com/elonmusk/status/2072023218693533863"
+  },
+  {
+    "id": "2071977210337227117",
+    "created_at": "2026-06-30T15:20:37.000Z",
+    "original": "I’m a venture capitalist, and I’m telling you to root for the crash that torches my own asset class. I mean it. The valuations are silly, the data-center spending is feverish, and half the people I...",
+    "translation": "我是個創投，我跟你說要去支持那個把我自己的資產類別燒個精光的崩盤。我說真的。估值整個荒謬，資料中心的支出燒錢燒到發燒，然後我認識的人有一半...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HKpj1zzacAAPwDt?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-01T03:00:53.848808+08:00",
+    "url": "https://x.com/elonmusk/status/2071977210337227117"
+  },
+  {
+    "id": "2072023764104020095",
+    "created_at": "2026-06-30T18:25:36.000Z",
+    "original": "Pretty much",
+    "translation": "差不多吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T03:00:57.857286+08:00",
+    "url": "https://x.com/elonmusk/status/2072023764104020095"
+  },
+  {
+    "id": "2071962759462314052",
+    "created_at": "2026-06-30T14:23:11.000Z",
+    "original": ": “the drop in births among women ages 20 to 29 accounts for 78% of overall decline in the total fertility rate.”",
+    "translation": "「20到29歲女性的生育數下降，佔了整體生育率下降的78%」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMEKs07WwAADUCF?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-01T03:01:02.251424+08:00",
+    "url": "https://x.com/elonmusk/status/2071962759462314052"
+  },
+  {
+    "id": "2071993098641756518",
+    "created_at": "2026-06-30T16:23:45.000Z",
+    "original": "The media bias against Elon is absolutely insane\n\nThey don’t report on him\nThey hunt for ways to make him look evil\nIs it a lie? Doesn’t matter\nIs there proof? Still doesn’t matter\n\nThey will lie, twist, exaggerate, or straight-up fabricate stories just to paint him as the",
+    "translation": "媒體對Elon的 bias 真的超級扯\n\n他們根本不報導他\n就是拼命找方法把他塑造成壞人\n是謊言？沒差\n有證據嗎？還是不重要\n\n他們會撒謊、扭曲、誇大，或是直接捏造故事，就是要把Elon塑造成...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMEyvZUaUAMZ5kl?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HLowkgFbQAAoVLt?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-07-01T03:01:10.023419+08:00",
+    "url": "https://x.com/elonmusk/status/2071993098641756518"
+  },
+  {
+    "id": "2071726757124903211",
+    "created_at": "2026-06-29T22:45:24.000Z",
+    "original": " stack is the most advanced autonomous vehicle stack in the world. I’m fairly certain they were already using end-to-end AI. Whether their AI did reasoning or not in somewhat secondary to that first part.”",
+    "translation": "我敢說這是世界上最先進的自動駕駛堆疊了。我相當確定他們早就在用端到端AI了。無論他們的AI有沒有做推理，這都稍微次要於前面那點啦。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T03:01:16.851165+08:00",
+    "url": "https://x.com/elonmusk/status/2071726757124903211"
+  },
+  {
     "id": "2071920282395369658",
     "created_at": "2026-06-30T11:34:24.000Z",
     "original": "BREAKING: Philippines becomes the first country in Southeast Asia to commercially launch Starlink Direct-to-Cell through a mobile network. \n\nGlobe has secured regulatory approval to offer Starlink Direct-to-Cell service nationwide.",
