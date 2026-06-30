@@ -1,5 +1,65 @@
 [
   {
+    "id": "2071974514896826712",
+    "created_at": "2026-06-30T15:09:54.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T00:01:49.164326+08:00",
+    "url": "https://x.com/elonmusk/status/2071974514896826712"
+  },
+  {
+    "id": "2071761720733814916",
+    "created_at": "2026-06-30T01:04:20.000Z",
+    "original": "Terrence Popp",
+    "translation": "Terrence Popp",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMBgTbuWMAA23Bm?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-01T00:01:51.511375+08:00",
+    "url": "https://x.com/elonmusk/status/2071761720733814916"
+  },
+  {
+    "id": "2071978911919923676",
+    "created_at": "2026-06-30T15:27:22.000Z",
+    "original": "It sounds crazy, But it actually seems True!",
+    "translation": "聽起來很瘋，但好像是真的欸！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T00:01:57.873043+08:00",
+    "url": "https://x.com/elonmusk/status/2071978911919923676"
+  },
+  {
+    "id": "2071984597311557807",
+    "created_at": "2026-06-30T15:49:58.000Z",
+    "original": "I will take that as a compliment",
+    "translation": "那我就當你在稱讚我囉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMEq-2PWAAA186p?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-01T00:02:06.262911+08:00",
+    "url": "https://x.com/elonmusk/status/2071984597311557807"
+  },
+  {
     "id": "2071840246577467489",
     "created_at": "2026-06-30T06:16:22.000Z",
     "original": "PEOPLE ARE BLAMING ELON MUSK FOR “DEATHS” FROM USAID CUTS — BUT THE DATA AND REALITY SAY OTHERWISE\n\nOpponents are loudly claiming that cutting wasteful USAID spending is killing people in poor countries.\n\nHere’s what’s actually happening:\n\n•  No evidence of mass deaths —",
