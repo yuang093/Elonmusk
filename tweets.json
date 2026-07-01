@@ -1,5 +1,66 @@
 [
   {
+    "id": "2072317728015466642",
+    "created_at": "2026-07-01T13:53:42.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T22:00:58.218106+08:00",
+    "url": "https://x.com/elonmusk/status/2072317728015466642"
+  },
+  {
+    "id": "2072290583406596607",
+    "created_at": "2026-07-01T12:05:51.000Z",
+    "original": "Director of Citizen Vigilante, Uwe Boll:\n\n\"If it were six neo-Nazis raping a migrant woman in the film, it would have been the opening film of the Berlinale.\"\n\nHe's not wrong.",
+    "translation": "《公民義警》導演Uwe Boll：\n\n「如果電影裡是六個新納粹強暴一個移民女性，這部片早就成為柏林影展的開幕片了。」\n\n他說的沒毛病。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T22:01:04.199975+08:00",
+    "url": "https://x.com/elonmusk/status/2072290583406596607"
+  },
+  {
+    "id": "2072304588586147937",
+    "created_at": "2026-07-01T13:01:30.000Z",
+    "original": "Another major Grok Build update just landed, bringing new features, smarter workflows, performance improvements, and important bug fixes\n\nRelease Notes: v0.2.79 — 2026-06-30\n\nFeatures:\n• Contextual hints now surface shortcuts like plan mode and clipboard paste when relevant.\n• ",
+    "translation": "Grok Build 又迎來大更新啦！新功能、智慧工作流、效能提升，還有重要的 bug 修復\n\n更新說明：v0.2.79 — 2026-06-30\n\n新功能：\n• 現在會根據上下文適時跳出捷徑提示，例如計畫模式和剪貼簿貼上功能。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMHsY72acAAuvH4?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HMHGrQwbIAA031L?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-07-01T22:01:13.085768+08:00",
+    "url": "https://x.com/elonmusk/status/2072304588586147937"
+  },
+  {
+    "id": "2072315431881453800",
+    "created_at": "2026-07-01T13:44:35.000Z",
+    "original": "Creating AI voice agents has become ridiculously easy\n\nxAI’s Grok Voice Agent Builder lets you deploy a human-like voice agent in under 2 minutes - no coding required\n\nIt is currently in beta, but the stack is already powerful:\n• Natural real-time conversations\n• Sub-second",
+    "translation": "建立 AI 語音代理現在已經變得超級簡單\n\nxAI 的 Grok Voice Agent Builder 讓你可以在不到 2 分鐘內部署一個像真人的語音代理，完全不需要寫程式碼\n\n目前還在 beta，但技術棧已經很猛了：\n• 自然流暢的即時對話\n• 延遲不到一秒",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMJWuU4bkAEdU_y?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-01T22:01:20.044808+08:00",
+    "url": "https://x.com/elonmusk/status/2072315431881453800"
+  },
+  {
     "id": "2072217780636753929",
     "created_at": "2026-07-01T07:16:33.000Z",
     "original": "Elon Musk",
