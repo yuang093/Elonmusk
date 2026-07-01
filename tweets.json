@@ -1,5 +1,35 @@
 [
   {
+    "id": "2072097988064018595",
+    "created_at": "2026-06-30T23:20:32.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMGSEYZakAA9Duj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-01T08:00:49.465526+08:00",
+    "url": "https://x.com/elonmusk/status/2072097988064018595"
+  },
+  {
+    "id": "2072095000041807988",
+    "created_at": "2026-06-30T23:08:40.000Z",
+    "original": "\n\nHow it started  v/s. How it's going",
+    "translation": "當初 vs. 現在",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T08:00:55.170648+08:00",
+    "url": "https://x.com/elonmusk/status/2072095000041807988"
+  },
+  {
     "id": "2072085972066717768",
     "created_at": "2026-06-30T22:32:47.000Z",
     "original": " will enable quadriplegics to use their hands and walk again and the completely blind to see. \n\nJesus-level miracles.",
