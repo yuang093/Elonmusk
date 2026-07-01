@@ -1,5 +1,35 @@
 [
   {
+    "id": "2072196187265106381",
+    "created_at": "2026-07-01T05:50:45.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-01T14:00:56.345803+08:00",
+    "url": "https://x.com/elonmusk/status/2072196187265106381"
+  },
+  {
+    "id": "2071948517837353292",
+    "created_at": "2026-06-30T13:26:36.000Z",
+    "original": "The Road to Serfdom made simple:\n\n1. Plan the whole economy: someone must decide what gets made and who gets what, since people don’t naturally agree on one set of priorities.\n\n2. These decisions are too big and detailed for normal democratic debate, so power shifts to a smaller x.com/brivael/status…",
+    "translation": "《通往奴役之路》簡單說：\n\n1. 計畫整個經濟：總得有人決定要生產什麼、誰能拿到什麼，因為人們不會天然就對一套優先順序達成共識。\n\n2. 這些決定太龐大又太瑣碎，一般的民主辯論根本塞不下，所以權力就會轉移到一個更小的…… x.com/brivael/status…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMEKMayXoAA3EF4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-01T14:01:06.330319+08:00",
+    "url": "https://x.com/elonmusk/status/2071948517837353292"
+  },
+  {
     "id": "2072182962318377407",
     "created_at": "2026-07-01T04:58:12.000Z",
     "original": "Elon Musk",
