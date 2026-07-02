@@ -1,5 +1,80 @@
 [
   {
+    "id": "2072516329123553608",
+    "created_at": "2026-07-02T03:02:53.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T12:01:25.619846+08:00",
+    "url": "https://x.com/elonmusk/status/2072516329123553608"
+  },
+  {
+    "id": "2072348738878615877",
+    "created_at": "2026-07-01T15:56:56.000Z",
+    "original": "Yesterday marks the last day of paper retirement processing in the federal government. We're turning the page on a decades-old process and embracing a fully digital future for federal retirement services. By modernizing how retirement applications are processed, we're delivering",
+    "translation": "昨天是聯邦政府紙本退休作業的最後一天啦！我們終於翻過這頁，告別幾十年的老舊流程，全面擁抱聯邦退休服務的數位未來。透過現代化退休申請的處理方式，我們將為大家帶來更棒的服務！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMJpLm6XgAAQwsi?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-02T12:01:41.739968+08:00",
+    "url": "https://x.com/elonmusk/status/2072348738878615877"
+  },
+  {
+    "id": "2072518690999075120",
+    "created_at": "2026-07-02T03:12:16.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T12:01:45.837042+08:00",
+    "url": "https://x.com/elonmusk/status/2072518690999075120"
+  },
+  {
+    "id": "2072484306992136483",
+    "created_at": "2026-07-02T00:55:38.000Z",
+    "original": "@cantstopmilady",
+    "translation": "@cantstopmilady",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMLxcG5XkAAucdA?format=png&name=900x900",
+      "https://pbs.twimg.com/media/HMLxfKdXIAAqTpC?format=png&name=900x900"
+    ],
+    "fetched_at": "2026-07-02T12:01:51.518035+08:00",
+    "url": "https://x.com/elonmusk/status/2072484306992136483"
+  },
+  {
+    "id": "2072286660889338287",
+    "created_at": "2026-07-01T11:50:15.000Z",
+    "original": "Claude will refuse work on purely political grounds.\n\nWhen you ask it to set up a website arguing for Indigenous People's Rights to the own Ancestral Lands, it will be cheerful and happy -- until you tell it the Indigenous People are White Europeans.\n\nThen, and only then, it",
+    "translation": "Claude會純粹因為政治理由就拒絕工作。\n\n當你請它建立一個主張原住民對祖先土地所有權的網站時，它會很開心很嗨——直到你告訴它那些原住民是歐洲白人。\n\n然後，而且只有在那個時候，它才...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T12:02:06.460951+08:00",
+    "url": "https://x.com/elonmusk/status/2072286660889338287"
+  },
+  {
     "id": "2072504907962499528",
     "created_at": "2026-07-02T02:17:29.000Z",
     "original": "Elon Musk",
