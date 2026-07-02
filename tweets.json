@@ -1,5 +1,81 @@
 [
   {
+    "id": "2072803370616700972",
+    "created_at": "2026-07-02T22:03:29.000Z",
+    "original": "Introducing Model Y Long Wheelbase – now available in the US & Puerto Rico\n\nA 3-row, 6-seat configuration that brings exceptional interior space with ample headroom & legroom for all passengers\n\n0-60 in 4.4 seconds\n325 miles of range\n\n– Front row: Heated/ventilated seats w/",
+    "translation": "Introducing Model Y Long Wheelbase – 現在在美國和波多黎各都能訂啦\n\n三排六座的設定，給所有乘客滿滿的頭部空間和腿部空間\n\n0-60 只要 4.4 秒\n續航 325 英里\n\n– 前座：加熱/通風座椅 w/",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMPVu0naIAAF7Mn?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMPVu3qbQAA62JG?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMPVu3kbwAATyDD?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-03T07:06:33.894396+08:00",
+    "url": "https://x.com/elonmusk/status/2072803370616700972"
+  },
+  {
+    "id": "2072450928087900404",
+    "created_at": "2026-07-01T22:43:00.000Z",
+    "original": "Looking forward to the long weekend",
+    "translation": "好期待連假啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMLTBXjbQAAShwR?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-03T07:06:38.562078+08:00",
+    "url": "https://x.com/elonmusk/status/2072450928087900404"
+  },
+  {
+    "id": "2072770755478290569",
+    "created_at": "2026-07-02T19:53:52.000Z",
+    "original": "Finally, Grok’s Speech-to-Text is now live in Grok Build\n\nYou can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice\n\nJust talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to",
+    "translation": "Finally，Grok 的語音轉文字功能終於在 Grok Build 上線啦\n\n現在你可以直接用 /voice 或 Ctrl + Space 對你的 coding agents 說話，靠的是 Grok Voice\n\n就正常聊個 15 分鐘左右，Grok 即時幫你轉錄，完全不用動手的那種",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-03T07:06:45.551088+08:00",
+    "url": "https://x.com/elonmusk/status/2072770755478290569"
+  },
+  {
+    "id": "2072817687256834529",
+    "created_at": "2026-07-02T23:00:22.000Z",
+    "original": "0:00 / 0:07",
+    "translation": "0:00 / 0:07",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-03T07:06:48.547994+08:00",
+    "url": "https://x.com/elonmusk/status/2072817687256834529"
+  },
+  {
+    "id": "2072667103396806925",
+    "created_at": "2026-07-02T13:02:00.000Z",
+    "original": "Q2 2026\n\nProduction: 451,758\n\nDeliveries: 480,126\n\nEnergy storage deployments: 13.5 GWh\n\nOur Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT\n\n→",
+    "translation": "Q2 2026\n\n生產：451,758\n\n交付：480,126\n\n儲能部署：13.5 GWh\n\n我們的 Q2 公司更新將在 7/22 下午 4:30 CT 在 X 上直播\n\n→",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-03T07:06:54.569886+08:00",
+    "url": "https://x.com/elonmusk/status/2072667103396806925"
+  },
+  {
     "id": "2072688729827721494",
     "created_at": "2026-07-02T14:27:56.000Z",
     "original": "honestly, \"labs\" is such bullshit. What fucking \"labs\"? Why are we calling Anthropic a \"lab\"? It's a $1T+ corporation/ideological conspiracy with like 5000 members building a superweapon in secrecy, dropping hints from time to time. DeepSeek is a lab. this is a ticking time bomb",
