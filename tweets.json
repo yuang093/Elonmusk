@@ -1,5 +1,81 @@
 [
   {
+    "id": "2072504907962499528",
+    "created_at": "2026-07-02T02:17:29.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T11:00:32.060414+08:00",
+    "url": "https://x.com/elonmusk/status/2072504907962499528"
+  },
+  {
+    "id": "2072487177305612732",
+    "created_at": "2026-07-02T01:07:02.000Z",
+    "original": "Marc Andreessen ",
+    "translation": "Marc Andreessen",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HML0GrraQAAp3Dl?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-02T11:00:34.623387+08:00",
+    "url": "https://x.com/elonmusk/status/2072487177305612732"
+  },
+  {
+    "id": "2072505234468065522",
+    "created_at": "2026-07-02T02:18:47.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T11:00:39.329197+08:00",
+    "url": "https://x.com/elonmusk/status/2072505234468065522"
+  },
+  {
+    "id": "2072335927553163296",
+    "created_at": "2026-07-01T15:06:01.000Z",
+    "original": "Yesterday was the end of paper retirement processing at OPM, a major milestone in modernizing how we serve the federal workforce. Read the ",
+    "translation": "昨天是OPM紙本退休處理的最終日，這是優化我們服務聯邦員工方式的一個重大里程碑。請看（推文未完）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T11:00:45.461812+08:00",
+    "url": "https://x.com/elonmusk/status/2072335927553163296"
+  },
+  {
+    "id": "2072464558732824680",
+    "created_at": "2026-07-01T23:37:09.000Z",
+    "original": "Teams recently completed build and acceptance testing of our 1,000th Merlin 1D engine for Falcon’s first stage! With Falcon’s reusability, recovering these engines has enabled continued reliability enhancements, making Merlin one of the most reliable rocket engines ever",
+    "translation": "我們的團隊最近完成第1000台 Merlin 1D 引擎的組裝和驗收測試啦！這是用在 Falcon 第一級的喔！靠著 Falcon 的可回收設計，回收這些引擎讓我們能持續優化可靠性，Merlin 根本就是史上最可靠的火箭引擎之一了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMLfHqEbUAA-kFk?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HMLfZp8a0AAnMqA?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMLfbEkbIAAazEE?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-02T11:00:55.683087+08:00",
+    "url": "https://x.com/elonmusk/status/2072464558732824680"
+  },
+  {
     "id": "2072408701554897130",
     "created_at": "2026-07-01T19:55:12.000Z",
     "original": "Tesla’s Supercharger network just delivered a monster Q2\n\nIn Q2 2026, Tesla Superchargers delivered 2 terawatt-hours of electricity globally\n\nThat is enough electricity to power roughly 180,000+ U.S. homes for an entire year\n\nThe scale is getting insane:\n• 2 TWh delivered\n• 60",
