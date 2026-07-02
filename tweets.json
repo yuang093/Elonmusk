@@ -1,5 +1,35 @@
 [
   {
+    "id": "2072652219527368921",
+    "created_at": "2026-07-02T12:02:51.000Z",
+    "original": "BREAKING: Japan is testing Starlink-powered fire hydrant signs as emergency communication hubs.\n\n• Japan has approximately 120,000 fire hydrant signs installed nationwide.\n\n• The technical demonstration was conducted by Shokasen Hyoshiki Co., Ltd., a company that manages fire",
+    "translation": "突發：日本正在測試以 Starlink 供電的消防栓標誌作為緊急通訊樞紐。\n\n• 日本全國約有 12 萬個消防栓標誌。\n\n• 技術展示由 Shokasen Hyoshiki Co., Ltd. 進行，該公司負責管理消防...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMOKNbqboAEUO2b?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-02T23:00:50.553217+08:00",
+    "url": "https://x.com/elonmusk/status/2072652219527368921"
+  },
+  {
+    "id": "2072696059835367870",
+    "created_at": "2026-07-02T14:57:04.000Z",
+    "original": "Starship 60-second static fire ahead of the thirteenth flight test",
+    "translation": "星艦第13次試飛前先來個60秒靜態點火🔥",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-02T23:00:55.813921+08:00",
+    "url": "https://x.com/elonmusk/status/2072696059835367870"
+  },
+  {
     "id": "2072552862995878226",
     "created_at": "2026-07-02T05:28:03.000Z",
     "original": "Elon Musk",
