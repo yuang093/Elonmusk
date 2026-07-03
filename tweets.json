@@ -1,5 +1,79 @@
 [
   {
+    "id": "2073132599636070550",
+    "created_at": "2026-07-03T19:51:43.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T04:01:22.288502+08:00",
+    "url": "https://x.com/elonmusk/status/2073132599636070550"
+  },
+  {
+    "id": "2073047733858902025",
+    "created_at": "2026-07-03T14:14:29.000Z",
+    "original": "U.S. Department of Energy",
+    "translation": "美國能源部（DOE）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMTx6T7WkAAEVkV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-04T04:01:26.394099+08:00",
+    "url": "https://x.com/elonmusk/status/2073047733858902025"
+  },
+  {
+    "id": "2073132699699610064",
+    "created_at": "2026-07-03T19:52:07.000Z",
+    "original": "It happened again",
+    "translation": "又發生了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T04:01:30.919243+08:00",
+    "url": "https://x.com/elonmusk/status/2073132699699610064"
+  },
+  {
+    "id": "2073007528791662703",
+    "created_at": "2026-07-03T11:34:44.000Z",
+    "original": "BREAKING:\n\nSwedish police officially confirms that their colleague was beaten to death at the World Cup fan zone in Copenhagen. He was a father of 2 young girls\n\nThe African migrant who attacked him is a repeat offender who had already been sentenced for previous violent assaults",
+    "translation": "BREAKING：\n\n瑞典警方正式證實，他們的同事在哥本哈根世界盃球迷區被打死了。他是個2個小姑娘的爸\n\n打人的非洲移民是累犯，之前就因為暴力攻擊被判過刑了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMTNW-VWkAAUh0w?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-04T04:01:41.687746+08:00",
+    "url": "https://x.com/elonmusk/status/2073007528791662703"
+  },
+  {
+    "id": "2073132524063060174",
+    "created_at": "2026-07-03T19:51:25.000Z",
+    "original": "This is because the anti-capitalist left is not actually against people being crazy rich. They're against certain types of people being crazy rich.\n\nArtists and athletes make sense to them because they've played music and sports and because their success can be explained by x.com/robkhenderson/…",
+    "translation": "這是因為反資本主義的左派並不是真的反對有錢人暴富。他們只是反對某些特定類型的人暴富。\n\n藝術家和運動員在他們眼裡就說得通，因為這些人玩音樂打球，而且他們的成功可以用x.com/robkhenderson/…來解釋",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T04:01:47.512035+08:00",
+    "url": "https://x.com/elonmusk/status/2073132524063060174"
+  },
+  {
     "id": "2072926639919333406",
     "created_at": "2026-07-03T06:13:18.000Z",
     "original": "Elon Musk",
