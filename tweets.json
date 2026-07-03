@@ -1,5 +1,111 @@
 [
   {
+    "id": "2072888774090965025",
+    "created_at": "2026-07-03T03:42:50.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-03T12:01:12.959360+08:00",
+    "url": "https://x.com/elonmusk/status/2072888774090965025"
+  },
+  {
+    "id": "2072784376602022009",
+    "created_at": "2026-07-02T20:48:00.000Z",
+    "original": "Swedish Christian Zedig was attacked and murdered by an African migrant for unknown reasons yesterday while watching football at a fan zone in Copenhagen. He was a father of two small children.\n\nDanish police have launched a manhunt and released photos of the murderer.\n\nAnother",
+    "translation": "瑞典人Christian Zedig昨天在哥本哈根的球迷廣場看足球時，遭到一名非洲移民無故攻擊並遇害。他是一名兩個小孩的父親。\n\n丹麥警方已展開緝凶行動並公布了凶手照片。\n\n另一個",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMQCZzMXYAAPNqq?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-03T12:01:30.945350+08:00",
+    "url": "https://x.com/elonmusk/status/2072784376602022009"
+  },
+  {
+    "id": "2072888926138683424",
+    "created_at": "2026-07-03T03:43:27.000Z",
+    "original": "Many such cases",
+    "translation": "類似的案例很多啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-03T12:01:38.803416+08:00",
+    "url": "https://x.com/elonmusk/status/2072888926138683424"
+  },
+  {
+    "id": "2072836149312372982",
+    "created_at": "2026-07-03T00:13:44.000Z",
+    "original": "\"If Kristof does not believe me - then perhaps he will believe his own publication home. New York Times, back in 2014, called South Sudan 'in many ways an American creation, carved out of war-torn Sudan in a referendum largely orchestrated by the United States, its fragile",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMQwgSKa0AAy-v1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-03T12:02:01.636358+08:00",
+    "url": "https://x.com/elonmusk/status/2072836149312372982"
+  },
+  {
+    "id": "2072890026363347288",
+    "created_at": "2026-07-03T03:47:49.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-03T12:02:04.029917+08:00",
+    "url": "https://x.com/elonmusk/status/2072890026363347288"
+  },
+  {
+    "id": "2072854594602823690",
+    "created_at": "2026-07-03T01:27:01.000Z",
+    "original": "So glad they didn’t say “well, we don’t have 60 votes, so let’s recess and then move on to something else.”\n\nWho’s with me?",
+    "translation": "太開心他們沒說「唉我們沒有60票，那就先休會去做別的事吧」。有人一樣的嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMRCRMlWQAADpkB?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-03T12:02:16.144514+08:00",
+    "url": "https://x.com/elonmusk/status/2072854594602823690"
+  },
+  {
+    "id": "2072833182635024712",
+    "created_at": "2026-07-03T00:01:56.000Z",
+    "original": "First builds of Model Y Long Wheelbase at Giga Texas",
+    "translation": "德州 Gigafactory Model Y Long Wheelbase 首批組裝下線啦 🎉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMQVentaEAAtUDq?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-03T12:02:29.371164+08:00",
+    "url": "https://x.com/elonmusk/status/2072833182635024712"
+  },
+  {
     "id": "2072803370616700972",
     "created_at": "2026-07-02T22:03:29.000Z",
     "original": "Introducing Model Y Long Wheelbase – now available in the US & Puerto Rico\n\nA 3-row, 6-seat configuration that brings exceptional interior space with ample headroom & legroom for all passengers\n\n0-60 in 4.4 seconds\n325 miles of range\n\n– Front row: Heated/ventilated seats w/",
