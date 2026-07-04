@@ -1,5 +1,107 @@
 [
   {
+    "id": "2073202837862195297",
+    "created_at": "2026-07-04T00:30:49.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T09:01:26.937276+08:00",
+    "url": "https://x.com/elonmusk/status/2073202837862195297"
+  },
+  {
+    "id": "2073202884712480914",
+    "created_at": "2026-07-04T00:31:00.000Z",
+    "original": "Gad’s right again",
+    "translation": "Gad 又說對了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T09:01:31.290119+08:00",
+    "url": "https://x.com/elonmusk/status/2073202884712480914"
+  },
+  {
+    "id": "2073171709322993979",
+    "created_at": "2026-07-03T22:27:07.000Z",
+    "original": "On the very day Americans are celebrating 250 years of our nation’s history, this man chooses to weaponize that very history against us.\n\nAmerica welcomed someone who wasn’t born here, gave him the opportunity to become mayor of the richest and most influential city in the world,",
+    "translation": "在美國人慶祝建國250週年的這一天，這個人選擇用這段歷史來攻擊我們。\n\n美國接納了一個不是在此出生的人，給了他機會成為全世界最富有、最有影響力的城市的市長。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T09:01:42.346395+08:00",
+    "url": "https://x.com/elonmusk/status/2073171709322993979"
+  },
+  {
+    "id": "2073202292942315943",
+    "created_at": "2026-07-04T00:28:39.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T09:01:47.503028+08:00",
+    "url": "https://x.com/elonmusk/status/2073202292942315943"
+  },
+  {
+    "id": "2073069223274836096",
+    "created_at": "2026-07-03T15:39:53.000Z",
+    "original": "\n\nScientists want to send a mission called Uranus Orbiter and Probe — a spacecraft that would travel all the way to Uranus, drop a probe into its atmosphere, and then stay behind in orbit to study the planet, its rings,",
+    "translation": "科學家們想要發送一個叫「Uranus Orbiter and Probe」的任務——就是要發射一艘太空船飛到天王星、往下丟一顆探測器進大氣層，然後自己留在軌道上研究這顆行星、它的環，",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMUFdjnWIAAEX5g?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-04T09:01:55.953447+08:00",
+    "url": "https://x.com/elonmusk/status/2073069223274836096"
+  },
+  {
+    "id": "2073172238527091179",
+    "created_at": "2026-07-03T22:29:13.000Z",
+    "original": "  4th of July American manufacturing extravaganza with the latest temple to metal built by ",
+    "translation": "美國國慶日🇺🇸 美國製造大狂歡 最新金屬神殿 built by...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T09:02:06.778059+08:00",
+    "url": "https://x.com/elonmusk/status/2073172238527091179"
+  },
+  {
+    "id": "2073072460761808912",
+    "created_at": "2026-07-03T15:52:45.000Z",
+    "original": "Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds.  Total tunnel weight: ~100 million pounds!",
+    "translation": "TBC Dubai 的預製混凝土作業來啦～Dubai Loop 第一階段會用到大約 25,000 段管片，每段約 4,000 磅重。總隧道重量：差不多 1 億磅！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMUIas5bAAAJ4Ex?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-04T09:02:16.191159+08:00",
+    "url": "https://x.com/elonmusk/status/2073072460761808912"
+  },
+  {
     "id": "2073158269976121848",
     "created_at": "2026-07-03T21:33:43.000Z",
     "original": "Mamdani has built nothing. He is a taker, never a maker.",
