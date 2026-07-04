@@ -1,5 +1,47 @@
 [
   {
+    "id": "2073170944357798373",
+    "created_at": "2026-07-03T22:24:05.000Z",
+    "original": "Given enough compute, all moats are shallow.",
+    "translation": "只要算力到位，什麼護城河都是假的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T19:01:04.948608+08:00",
+    "url": "https://x.com/elonmusk/status/2073170944357798373"
+  },
+  {
+    "id": "2073322950997266577",
+    "created_at": "2026-07-04T08:28:06.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T19:01:09.628356+08:00",
+    "url": "https://x.com/elonmusk/status/2073322950997266577"
+  },
+  {
+    "id": "2073249911676801406",
+    "created_at": "2026-07-04T03:37:52.000Z",
+    "original": "Remember when everyone thought that having humans write code was the future. What was that all about?",
+    "translation": "還記得那時候大家都覺得以後是人寫程式的時代嗎 到底是怎樣啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T19:01:14.593509+08:00",
+    "url": "https://x.com/elonmusk/status/2073249911676801406"
+  },
+  {
     "id": "2073318999136563642",
     "created_at": "2026-07-04T08:12:24.000Z",
     "original": "Elon Musk",
