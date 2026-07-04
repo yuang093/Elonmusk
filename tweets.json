@@ -1,5 +1,19 @@
 [
   {
+    "id": "2073245901016166547",
+    "created_at": "2026-07-04T03:21:56.000Z",
+    "original": "0:00 / 4:55",
+    "translation": "0:00 / 4:55",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-04T12:01:37.408724+08:00",
+    "url": "https://x.com/elonmusk/status/2073245901016166547"
+  },
+  {
     "id": "2073215139055284607",
     "created_at": "2026-07-04T01:19:42.000Z",
     "original": "Elon Musk",
