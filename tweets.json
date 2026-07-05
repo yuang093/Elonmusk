@@ -1,5 +1,33 @@
 [
   {
+    "id": "2073723870058860566",
+    "created_at": "2026-07-05T11:01:13.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-05T20:01:21.070538+08:00",
+    "url": "https://x.com/elonmusk/status/2073723870058860566"
+  },
+  {
+    "id": "2071990142064324766",
+    "created_at": "2026-06-30T16:12:00.000Z",
+    "original": "Sweet Land - an ode to America's 250th year. ",
+    "translation": "Sweet Land — 致敬美國250週年",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-05T20:01:33.563358+08:00",
+    "url": "https://x.com/elonmusk/status/2071990142064324766"
+  },
+  {
     "id": "2073713962542338054",
     "created_at": "2026-07-05T10:21:51.000Z",
     "original": "Elon Musk",
