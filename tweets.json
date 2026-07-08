@@ -1,5 +1,83 @@
 [
   {
+    "id": "2074919573611237883",
+    "created_at": "2026-07-08T18:12:31.000Z",
+    "original": "Grok 4.5 is now officially available in Grok Build......try it now",
+    "translation": "Grok 4.5 正式在 Grok Build 上線了......快去試試吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMuWa6kasAAxYGI?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T05:01:31.574190+08:00",
+    "url": "https://x.com/elonmusk/status/2074919573611237883"
+  },
+  {
+    "id": "2074948489792860456",
+    "created_at": "2026-07-08T20:07:25.000Z",
+    "original": "SpaceXAI just released Grok 4.5, and it ranks #4 on GDPval-AA v2 with an Elo of 1543 - behind only the latest Claude releases from Anthropic on real-world agentic knowledge work tasks\n\nGrok 4.5 achieved this score at a cost of $0.49 per GDPval task to sit clearly on the Pareto",
+    "translation": "SpaceXAI 剛發",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMusq8CbEAAaXDx?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T05:01:43.897690+08:00",
+    "url": "https://x.com/elonmusk/status/2074948489792860456"
+  },
+  {
+    "id": "2074915723487678904",
+    "created_at": "2026-07-08T17:57:13.000Z",
+    "original": "Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.",
+    "translation": "Grok 4.5 是為現實世界的工程打造的。它在大規模程式碼庫上表現出色，還能處理跨多個儲存庫、數百種技能和各種工具的長時間運行任務。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMuRWn0aQAAs60z?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T05:01:49.941340+08:00",
+    "url": "https://x.com/elonmusk/status/2074915723487678904"
+  },
+  {
+    "id": "2074955486441492823",
+    "created_at": "2026-07-08T20:35:13.000Z",
+    "original": "Grok groks engineering. \n\nNext month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company.",
+    "translation": "Grok 這名字可不是白取的，它真的很懂工程。\n\n下個月的發布又是一波大升級，咱們要在特斯拉、SpaceX、Neuralink 和 Boring Company 把現實世界的工程問題全部搞定。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMuRWn0aQAAs60z?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T05:01:59.250131+08:00",
+    "url": "https://x.com/elonmusk/status/2074955486441492823"
+  },
+  {
+    "id": "2074956673630793891",
+    "created_at": "2026-07-08T20:39:56.000Z",
+    "original": "I got to try Grok 4.5 in early access in Cursor for the past few days and I absolutely enjoyed it.\n\nIt feels like Opus 4.8 at 2x the speed at a much cheaper price point. \n\nI tasked it to brainstorm > plan > implement a big feature for my game (this act 1 boss fight) and it did ",
+    "translation": "這幾天在 Cursor 搶先體驗了 Grok 4.5，真的超級爽。\n\n感覺就像是用兩倍速度跑 Opus 4.8，而且價格還便宜很多。\n\n我讓它幫我：發想點子 > 制定計畫 > 實作遊戲裡的一個大功能（第一幕 Boss 戰），它直接搞定！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T05:02:07.756918+08:00",
+    "url": "https://x.com/elonmusk/status/2074956673630793891"
+  },
+  {
     "id": "2074916251743457787",
     "created_at": "2026-07-08T17:59:19.000Z",
     "original": ". \n\nIt's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. \n\nFirst of many releases. More soon.",
