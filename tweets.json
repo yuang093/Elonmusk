@@ -1,5 +1,63 @@
 [
   {
+    "id": "2074916251743457787",
+    "created_at": "2026-07-08T17:59:19.000Z",
+    "original": ". \n\nIt's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. \n\nFirst of many releases. More soon.",
+    "translation": "這是個Opus級模型，速度快又便宜。比起我們之前開發的所有模型都有顯著升級，包括Composer 2.5，已經成為團隊不少人天天在用的日常主力了。首發！敬請期待更多。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMuQw2BXUAAJaQd?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-09T04:01:07.279083+08:00",
+    "url": "https://x.com/elonmusk/status/2074916251743457787"
+  },
+  {
+    "id": "2074932046632267901",
+    "created_at": "2026-07-08T19:02:04.000Z",
+    "original": "Grok 4.5 now available to all Vercel customers x.com/vercel_dev/sta…",
+    "translation": "Grok 4.5 現在所有 Vercel 用戶都能用啦 x.com/vercel_dev/sta…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T04:01:13.281402+08:00",
+    "url": "https://x.com/elonmusk/status/2074932046632267901"
+  },
+  {
+    "id": "2074915721684086811",
+    "created_at": "2026-07-08T17:57:12.000Z",
+    "original": "Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency.\n\n",
+    "translation": "宣布 Grok 4.5 正式發布，這是我們第一款專門為 coding 和 agents 訓練的模型。與 Cursor 合作訓練，在速度跟成本效益上都能達到 frontier 等級的智慧水準。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T04:01:17.822660+08:00",
+    "url": "https://x.com/elonmusk/status/2074915721684086811"
+  },
+  {
+    "id": "2074931504921350242",
+    "created_at": "2026-07-08T18:59:55.000Z",
+    "original": "BREAKING: Rupert Lowe talks to Joe Rogan about the \"Rape Gang Inquiry\" report.\n\n\"The genesis of the rape gangs was this multicultural invasion of Europe. They wanted open borders.\"\n\n\"We've estimated a minimum of a quarter million rapes have taken place. It's probably much, much",
+    "translation": "快訊：魯伯特·洛威上喬·羅根的節目聊「強姦幫派調查」報告。\n\n「強姦幫派的根源就是歐洲遭受的多元文化入侵。他們想要開放邊界。」\n\n「我們保守估計至少有25萬起強姦案。實際數字可能遠遠、遠遠更多……」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T04:01:24.543422+08:00",
+    "url": "https://x.com/elonmusk/status/2074931504921350242"
+  },
+  {
     "id": "2074911567192232175",
     "created_at": "2026-07-08T17:40:42.000Z",
     "original": "How is it with creative tasks like writing?",
