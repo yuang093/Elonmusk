@@ -1,5 +1,145 @@
 [
   {
+    "id": "2074956948831924402",
+    "created_at": "2026-07-08T20:41:02.000Z",
+    "original": "Grok 4.5 in Grok Build also stands out for its efficiency. Grok 4.5 in Grok Build cost $2.49 per task while Fable 5 in Claude Code cost $11.80 and GPT-5.5 in Codex $5.07. This is driven by relatively low token pricing and the model using far fewer tokens than comparable models",
+    "translation": "Grok Build 裡的 Grok 4.5 效率也是狠甩對手。Grok 4.5 在 Grok Build 每個任務只要 2.49 美元，Fable 5 在 Claude Code 要 11.80 美元，GPT-5.5 在 Codex 更貴要 5.07 美元。這主要是因為 token 算力定價相對低，加上模型本身用的 token 就比同級產品少很多。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMu5kMwXoAAaTnp?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T06:01:20.610190+08:00",
+    "url": "https://x.com/elonmusk/status/2074956948831924402"
+  },
+  {
+    "id": "2074968423394578602",
+    "created_at": "2026-07-08T21:26:37.000Z",
+    "original": "In fairness, Fable is definitely better than Grok 4.5, but most tasks don’t require Fable-level capability",
+    "translation": "老實說Fable確實比Grok 4.5好用啦，但大部分任務根本用不著那麼猛的等級吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T06:01:28.133254+08:00",
+    "url": "https://x.com/elonmusk/status/2074968423394578602"
+  },
+  {
+    "id": "2074959672982073572",
+    "created_at": "2026-07-08T20:51:51.000Z",
+    "original": "Grok 4.5 delivering Fable level performance at like 1/17th the cost! ",
+    "translation": "Grok 4.5 居然能達到 Fable 等級的表現，成本卻只要大約 1/17！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMu80pdaEAAAXlj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T06:01:34.223456+08:00",
+    "url": "https://x.com/elonmusk/status/2074959672982073572"
+  },
+  {
+    "id": "2074957763101475263",
+    "created_at": "2026-07-08T20:44:16.000Z",
+    "original": "SpaceXAI’s Grok 4.5 scores 54 to place fourth on the Artificial Analysis Intelligence Index following only Fable 5, GPT-5.5, and Opus 4.8. It scores on par with GPT-5.5 in Codex on the Artificial Analysis Coding Agent Index in the Grok Build harness, at much lower cost\n\nGrok 4.5",
+    "translation": "SpaceXAI 的 Grok 4.5 拿了 54 分，在人工分析智慧指數排名第四，前面只有 Fable 5、GPT-5.5 和 Opus 4.8。在 Grok Build 測試框架下的編碼代理指數中，Grok 4.5 和 GPT-5.5 在 Codex 項目表現持平，但成本低很多\n\nGrok 4.5",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMu5OK1XgAAUFaY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T06:01:42.071616+08:00",
+    "url": "https://x.com/elonmusk/status/2074957763101475263"
+  },
+  {
+    "id": "2074969374843154500",
+    "created_at": "2026-07-08T21:30:24.000Z",
+    "original": "I think AI has just hit a gigantic threshold, and Grok 4.5 is the PERFECT example as to why that is.\n\nOne of the hardest parts of working with AI is iterating on a project or task that you're working on.\n\nAs the models have gotten smarter (and more expensive), it's taking longer",
+    "translation": "我覺得 AI 剛剛跨過了一個超大的門檻，而 Grok 4.5 就是最好的例子。\n\n使用 AI 最困難的部分之一，就是來來回回優化你正在做的專案或任務。\n\n隨著模型變得越來越聰明（也越來越貴），處理的時間反而越來越久了...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T06:01:51.750459+08:00",
+    "url": "https://x.com/elonmusk/status/2074969374843154500"
+  },
+  {
+    "id": "2074970378682724661",
+    "created_at": "2026-07-08T21:34:24.000Z",
+    "original": "Grok 4.5.\n\nPareto dominant for coding by the numbers.\n\nWe will see on the all-important vibes.\n\nInstinct is the benchmarks are likely directionally accurate given the stated focus on real world utility.",
+    "translation": "Grok 4.5 在coding上直接碾壓。我們就等著看實際體驗的vibes了。看他們說要強調現實世界實用性這個方向，直覺告訴我benchmark的結果大方向應該是靠譜的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMut7yhXMAI_OQp?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HMut7ycXkAEQE8L?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMut7ycWkAASWON?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-09T06:02:00.674624+08:00",
+    "url": "https://x.com/elonmusk/status/2074970378682724661"
+  },
+  {
+    "id": "2074971034218860963",
+    "created_at": "2026-07-08T21:37:00.000Z",
+    "original": "Very excited for this model. It’s an enormous improvement over composer 2.5 and trained entirely from scratch. It’s been a pleasure working with the SpaceXAI team on it.\n\nEven more excited by the slope of the effort and the models to come. x.com/cursor_ai/stat…",
+    "translation": "這個模型真的太令人期待了！比 composer 2.5 進步超多，而且是從零開始训练的。和 SpaceXAI 團隊一起合作真的很快樂。\n\n更讓人興奮的是接下來的努力和即將推出的模型。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T06:02:07.183305+08:00",
+    "url": "https://x.com/elonmusk/status/2074971034218860963"
+  },
+  {
+    "id": "2074861235292782835",
+    "created_at": "2026-07-08T14:20:42.000Z",
+    "original": "BREAKING: Tesla Cybertruck’s bulletproof body helped protect a toddler, an infant, and neighbors during a shooting.\n\nCybertruck became a real-life shelter during a chaotic 4th of July neighborhood party.\n\n• Owner says guns were drawn after an altercation\n• Cybertruck sheltered",
+    "translation": "突發：特斯拉Cybertruck的防彈車身在槍擊案中保護了一名幼童、一名嬰兒和鄰居。\n\nCybertruck在混亂的國慶派對上成為了現實生活中的庇護所。\n\n• 車主表示衝突後有人拔槍\n• Cybertruck保護了車內的人",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMtjSWTawAA91Jo?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T06:02:15.100491+08:00",
+    "url": "https://x.com/elonmusk/status/2074861235292782835"
+  },
+  {
+    "id": "2074971866662359519",
+    "created_at": "2026-07-08T21:40:18.000Z",
+    "original": "Grok 4.5 is #1 on Harvey's Legal Agent Benchmark",
+    "translation": "Grok 4.5 在 Harvey 的法律代理基準測試中拿下第一名啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMu6U_6agAAP_Fo?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T06:02:23.577893+08:00",
+    "url": "https://x.com/elonmusk/status/2074971866662359519"
+  },
+  {
     "id": "2074919573611237883",
     "created_at": "2026-07-08T18:12:31.000Z",
     "original": "Grok 4.5 is now officially available in Grok Build......try it now",
