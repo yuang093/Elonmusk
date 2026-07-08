@@ -1,5 +1,35 @@
 [
   {
+    "id": "2074911567192232175",
+    "created_at": "2026-07-08T17:40:42.000Z",
+    "original": "How is it with creative tasks like writing?",
+    "translation": "那寫作這類創意任務怎麼樣？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T03:01:22.376846+08:00",
+    "url": "https://x.com/elonmusk/status/2074911567192232175"
+  },
+  {
+    "id": "2074931787533328622",
+    "created_at": "2026-07-08T19:01:03.000Z",
+    "original": "We've partnered with SpaceXAI to train Grok 4.5.\n\nIt’s our most powerful model yet and the first we've built for more than software engineering.",
+    "translation": "我們和 SpaceXAI 合作訓練 Grok 4.5 了啦～\n\n這是目前為止我們最猛的模型，而且也是第一個不只做軟體工程的！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMuQw2BXUAAJaQd?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-09T03:01:31.829968+08:00",
+    "url": "https://x.com/elonmusk/status/2074931787533328622"
+  },
+  {
     "id": "2074907662576201993",
     "created_at": "2026-07-08T17:25:11.000Z",
     "original": "They hate America",
