@@ -1,5 +1,63 @@
 [
   {
+    "id": "2074579250187792499",
+    "created_at": "2026-07-07T19:40:11.000Z",
+    "original": "It is racist to make white characters non-white to devalue whites.\n\nIt is sexist to make characters female to devalue males.\n\nWe are not racist or sexist.\n\nThe film is anti-white racist, and it is anti-male sexist.\n\nAnd so are you.",
+    "translation": "把白人角色改成非白人來貶低白人，這是種族歧視。\n把角色改成女性來貶低男性，這是性別歧視。\n我們不是種族歧視者，也不是性別歧視者。\n但那部電影是反白人的種族歧視，也是反男性的性別歧視。\n所以你也是。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T01:00:55.194137+08:00",
+    "url": "https://x.com/elonmusk/status/2074579250187792499"
+  },
+  {
+    "id": "2074889665119740341",
+    "created_at": "2026-07-08T16:13:40.000Z",
+    "original": "Grok 4.5 goes public tomorrow. Here’s everything that’s known.\n\nThe model runs on V9, xAI’s new 1.5 trillion parameter foundation, roughly three times the size of the v8-small architecture behind Grok 4.3. It’s the largest model the company has shipped, trained on Blackwell GPUs",
+    "translation": "Grok 4.5 明天正式開源！目前已知的所有情報都幫你整理好了\n\n這個模型跑在 V9 上，也就是 xAI 新一代 1.5 兆參數的基礎架構，規模大約是支撐 Grok 4.3 的 v8-small 架構的三倍。這是該公司至今推出過最大的模型，用 Blackwell GPU 訓練的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMsewuuaAAA13X8?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T01:01:04.751963+08:00",
+    "url": "https://x.com/elonmusk/status/2074889665119740341"
+  },
+  {
+    "id": "2074893922812252354",
+    "created_at": "2026-07-08T16:30:35.000Z",
+    "original": "We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests.\n\nThe 2T model will finish training this month and be available to customers next month.",
+    "translation": "我們會幾乎天天根據用戶需求，持續優化 Grok Build 工具和 1.5T 基礎模型。\n\n2T 模型這個月訓練完成，下個月就能開放給用戶使用了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T01:01:13.510848+08:00",
+    "url": "https://x.com/elonmusk/status/2074893922812252354"
+  },
+  {
+    "id": "2074750291229159794",
+    "created_at": "2026-07-08T06:59:51.000Z",
+    "original": " will make Grok 4.5 available to the public tomorrow.\n\nIt is an Opus-class model, but faster, more token-efficient and lower cost.",
+    "translation": "明天公開 Grok 4.5！是 Opus 級的模型，但更快、更省 token、還更便宜",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T01:01:22.425971+08:00",
+    "url": "https://x.com/elonmusk/status/2074750291229159794"
+  },
+  {
     "id": "2074533145576354071",
     "created_at": "2026-07-07T16:36:59.000Z",
     "original": "23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at knife point.\n\nAfter killing Tommie, Awad continued to rape the young girl next to",
