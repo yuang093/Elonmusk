@@ -1,5 +1,81 @@
 [
   {
+    "id": "2075252689529983026",
+    "created_at": "2026-07-09T16:16:12.000Z",
+    "original": "The upcoming wave of SpaceXAI Grok updates is insane\n\nGrok 4.5:\nThe 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week\n\nNext model:\nThe 2T foundation model is expected to finish training this",
+    "translation": "即將推出的 SpaceXAI Grok 更新潮超瘋的\n\nGrok 4.5：\n1.5T 的基礎模型幾乎每天都在優化，而且它的上下文視窗預計會一躍來到 100 萬 tokens，可能下週就會實現\n\n下一個模型：\n2T 的基礎模型預計這個月會完成訓練",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMy9Fm7awAA4fGr?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T03:01:25.152105+08:00",
+    "url": "https://x.com/elonmusk/status/2075252689529983026"
+  },
+  {
+    "id": "2075282994496000077",
+    "created_at": "2026-07-09T18:16:37.000Z",
+    "original": "The judge’s mind has been poisoned by the lunatic left from America",
+    "translation": "法官的腦子被美國的左派疯子给毒化了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T03:01:31.672922+08:00",
+    "url": "https://x.com/elonmusk/status/2075282994496000077"
+  },
+  {
+    "id": "2075205552364229103",
+    "created_at": "2026-07-09T13:08:53.000Z",
+    "original": "Homeschooling is legal in Brazil but a judge has just sentenced two parents to 50 days in prison for “intellectual neglect” because their 11- and 15-year-old daughters, accomplished pianists and polyglots, received no classes on gender theory, sex education, tolerance, diversity",
+    "translation": "巴西 homeschooling 是合法的，但法官竟然判了一對父母 50 天監禁，罪名是「智育疏忽」——原因是他們 11 歲和 15 歲的女兒，雖然鋼琴彈得很讚、會說好幾國語言，卻沒上過性別理論課、性教育課、包容課和多元課。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMycc2eXoAA4ptU?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T03:01:43.662204+08:00",
+    "url": "https://x.com/elonmusk/status/2075205552364229103"
+  },
+  {
+    "id": "2075283356439257417",
+    "created_at": "2026-07-09T18:18:03.000Z",
+    "original": "Grok 4.5 is the top non-Anthropic model on AA-Briefcase, combining frontier agentic knowledge work capabilities with leading cost and time-efficiency\n\nYesterday ",
+    "translation": "Grok 4.5 是 AA-Briefcase 上非 Anthropic 模型的第一名，把前沿的代理式知識工作能力和頂尖的成本/時間效率結合在一起了\n\n昨天",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMzRBTRb0AA0_Vn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T03:01:48.481140+08:00",
+    "url": "https://x.com/elonmusk/status/2075283356439257417"
+  },
+  {
+    "id": "2075290870358630812",
+    "created_at": "2026-07-09T18:47:55.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T03:01:52.390887+08:00",
+    "url": "https://x.com/elonmusk/status/2075290870358630812"
+  },
+  {
     "id": "2075261219624112216",
     "created_at": "2026-07-09T16:50:05.000Z",
     "original": "Guess not lol",
