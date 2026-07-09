@@ -1,5 +1,38 @@
 [
   {
+    "id": "2075176864558006425",
+    "created_at": "2026-07-09T11:14:54.000Z",
+    "original": " satellites from Florida",
+    "translation": "佛羅里達的衛星",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMyCSXWWgAAt_J2?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMyCSXjXUAAfuPA?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMyCU5DWAAAvyPf?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMyCU5QWIAAQUoo?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-10T00:01:21.242261+08:00",
+    "url": "https://x.com/elonmusk/status/2075176864558006425"
+  },
+  {
+    "id": "2075228817099231439",
+    "created_at": "2026-07-09T14:41:20.000Z",
+    "original": "Even Zuckerberg has to advertise his AI model on X.\n\nX is the real arena.",
+    "translation": "連祖克柏都得在X上打廣告推銷他的AI模型了。\n\nX才是真正的戰場啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T00:01:26.232013+08:00",
+    "url": "https://x.com/elonmusk/status/2075228817099231439"
+  },
+  {
     "id": "2075130137817825315",
     "created_at": "2026-07-09T08:09:13.000Z",
     "original": "Good review of Grok 4.5",
