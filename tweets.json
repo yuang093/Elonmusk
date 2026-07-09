@@ -1,5 +1,128 @@
 [
   {
+    "id": "2075114431462207817",
+    "created_at": "2026-07-09T07:06:48.000Z",
+    "original": "Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.",
+    "translation": "看來 Grok 4.5 起碼在幾個 benchmark 上衝到第一名了。比預期還猛。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMvAvWrXQAA266o?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T16:01:37.644315+08:00",
+    "url": "https://x.com/elonmusk/status/2075114431462207817"
+  },
+  {
+    "id": "2075113237331525995",
+    "created_at": "2026-07-09T07:02:04.000Z",
+    "original": "Impressive Intelligence vs. Cost for Grok 4.5\n\nI think given terafab + the Tesla FSD team's expertise in making very efficient AI models, this advantage will only continue to compound",
+    "translation": "Grok 4.5 的智慧表現與成本相比\n\n我覺得考慮到 teraflop + 特斯拉 FSD 團隊在打造高效 AI 模型方面的專業知識，這個優勢只會持續累積下去",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMxHv4ebgAAjIKz?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HMxH3UqacAA_6Gk?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-09T16:01:44.541621+08:00",
+    "url": "https://x.com/elonmusk/status/2075113237331525995"
+  },
+  {
+    "id": "2075036803023909196",
+    "created_at": "2026-07-09T01:58:20.000Z",
+    "original": "Grok Build mogs Claude Code & Codex TUIs i can't lie. \n\nNot to mention the perf of Grok 4.5...\n\nIt's not even a competition at this point.\n\nGood shit xAI team",
+    "translation": "Grok Build 碾壓了 Claude Code 跟 Codex 的 TUI，不吹不黑。\n\n更不用說 Grok 4.5 的效能了...\n\n這根本不是一個級別的對決。\n\n讚啦 xAI 團隊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMwCyWWaMAAPtJt?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T16:01:54.182875+08:00",
+    "url": "https://x.com/elonmusk/status/2075036803023909196"
+  },
+  {
+    "id": "2075116747342925967",
+    "created_at": "2026-07-09T07:16:01.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T16:01:56.172224+08:00",
+    "url": "https://x.com/elonmusk/status/2075116747342925967"
+  },
+  {
+    "id": "2075117340836962713",
+    "created_at": "2026-07-09T07:18:22.000Z",
+    "original": " did a live phone interview earlier today with a guest host of the Sean Hannity radio program, discussing his latest SpaceX timelines. I only caught about the last 5 minutes of it:\n\n“The best way to expand compute is really in space. There’s a lot of room in space and",
+    "translation": "今天稍早參加了Sean Hannity廣播節目的電話現場訪談，嘉賓主持人在聊他最新的SpaceX時程表。不過我只聽到大概最後5分鐘：\n\n「擴展算力的最好方法就是在太空。太空有超多空間，而且",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T16:02:05.328209+08:00",
+    "url": "https://x.com/elonmusk/status/2075117340836962713"
+  },
+  {
+    "id": "2074966046625194202",
+    "created_at": "2026-07-08T21:17:11.000Z",
+    "original": "How it feels to use Grok 4.5 ",
+    "translation": "用Grok 4.5的feel",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-09T16:02:13.334614+08:00",
+    "url": "https://x.com/elonmusk/status/2074966046625194202"
+  },
+  {
+    "id": "2075117841733353498",
+    "created_at": "2026-07-09T07:20:21.000Z",
+    "original": "SpaceXAI has added SWE Marathon benchmark to Grok 4.5 blog  \n\nGrok 4.5 ranks #1 in SWE Marathon",
+    "translation": "SpaceXAI 在 Grok 4.5 部落格新增了 SWE Marathon 基準測試\n\nGrok 4.5 在 SWE Marathon 拿下第一名 🥇",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMw8utHaQAAkar1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T16:02:16.348502+08:00",
+    "url": "https://x.com/elonmusk/status/2075117841733353498"
+  },
+  {
+    "id": "2075125320521310589",
+    "created_at": "2026-07-09T07:50:05.000Z",
+    "original": "Grok 4.5 is finally the model that can handle the entire workflow end-to-end:\n\n/design <what u want to do>\n/execute-plan <design_output> --effort <desired_effort> --instructions \"your specific guidance\"\n/pr-babysit add <tip of the stack>\n/loop 5m /pr-babysit check\n\nYou come back",
+    "translation": "Grok 4.5 終於是那個能從頭到尾一條龍包辦整個工作流的模型了：\n\n/設計 <你想做的事>\n/執行計畫 <設計輸出> --耗費心力 <想要的投入程度> --指示 \"你的具體指引\"\n/守護PR 新增 <堆疊頂端的東東>\n/輪迴 5分鐘 /守護PR 檢查\n\n等你回來",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMvN4pqXcAAJEW1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-09T16:02:26.662780+08:00",
+    "url": "https://x.com/elonmusk/status/2075125320521310589"
+  },
+  {
     "id": "2075111385013354883",
     "created_at": "2026-07-09T06:54:42.000Z",
     "original": "Elon Musk",
