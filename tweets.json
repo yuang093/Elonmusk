@@ -1,5 +1,19 @@
 [
   {
+    "id": "2075384621202878547",
+    "created_at": "2026-07-10T01:00:27.000Z",
+    "original": "Fable 5 vs Grok 4.5 vs GPT 5.5\n\nWe put three top-tier models to build a same game challenge.\n\nUsed Command Code /design, and the exact same prompt.\n\nResult:\nGrok 4.5 genuinely plays like a polished mobile game.\nFable 5 and GPT 5.5 feel too fast. Everything feels rushed, lacks",
+    "translation": "Fable 5 vs Grok 4.5 vs GPT 5.5\n\n我們讓三個頂尖模型參加同一款遊戲挑戰\n\n用 Command Code /design，用完全相同的 prompt\n\n結果：\nGrok 4.5 做出來真的像一款打磨得很棒的手遊\nFable 5 跟 GPT 5.5 感覺太快了 一切都太趕 少了...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T14:01:13.052133+08:00",
+    "url": "https://x.com/elonmusk/status/2075384621202878547"
+  },
+  {
     "id": "2075375036916187560",
     "created_at": "2026-07-10T00:22:22.000Z",
     "original": "GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK\n\nNew data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks.\n\nOn their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy):\n\n•  Grok 4.5: 29% mean pass",
