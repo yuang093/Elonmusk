@@ -1,5 +1,81 @@
 [
   {
+    "id": "2075687604444401833",
+    "created_at": "2026-07-10T21:04:23.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T06:01:41.283764+08:00",
+    "url": "https://x.com/elonmusk/status/2075687604444401833"
+  },
+  {
+    "id": "2075666403596612010",
+    "created_at": "2026-07-10T19:40:09.000Z",
+    "original": "I'm so angry... the OpenAI team is looking into it, but this feels like something that should happen with GPT-3.5.\n\nNot a mid-2026 frontier model on the highest reasoning level.",
+    "translation": "我氣死了...OpenAI團隊說在處理了，但這根本就是GPT-3.5就該做到的事吧。\n\n不是那種2026年中才出的頂級推理旗艦模型啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM43Sa1W8AAaqbV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-11T06:01:47.815883+08:00",
+    "url": "https://x.com/elonmusk/status/2075666403596612010"
+  },
+  {
+    "id": "2075687938118087055",
+    "created_at": "2026-07-10T21:05:43.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T06:01:49.968193+08:00",
+    "url": "https://x.com/elonmusk/status/2075687938118087055"
+  },
+  {
+    "id": "2075680682844569993",
+    "created_at": "2026-07-10T20:36:53.000Z",
+    "original": "Apple has sued OpenAI, alleging trade secret theft, saying that the company took Apple's intellectual property in order to develop its own consumer hardware.\n\nApple: \"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's",
+    "translation": "蘋果告 OpenAI 了！指控竊取商業機密，說 OpenAI 偷了蘋果的智慧財產權來開發自己的消費性硬體。\n\n蘋果表示：「最近有重大證據浮現，顯示 OpenAI 的員工不當竊取了蘋果的...」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM5L8BoXMAAZOGm?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-11T06:01:59.235968+08:00",
+    "url": "https://x.com/elonmusk/status/2075680682844569993"
+  },
+  {
+    "id": "2075687836091625704",
+    "created_at": "2026-07-10T21:05:19.000Z",
+    "original": "Grok 4.5 is now available as an orchestrator model in Computer for Consumer Pro and Max subscribers.\n\nWe evaluated it against five other orchestrator configurations on WANDR. It scored higher than every other configuration at roughly half the cost of Opus 4.8.",
+    "translation": "Grok 4.5 現在可以在 Computer 的 Consumer Pro 和 Max 訂閱方案中當協調模型用了。\n\n我們在 WANDR 上測試了五種不同的協調設定，結果 Grok 4.5 分數直接打趴其他所有設定，價格大概只要 Opus 4.8 的一半而已。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM450tCb0AAJgUc?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-11T06:02:07.635057+08:00",
+    "url": "https://x.com/elonmusk/status/2075687836091625704"
+  },
+  {
     "id": "2075611819872223385",
     "created_at": "2026-07-10T16:03:15.000Z",
     "original": " released 3 new models yesterday and we immediately tested it on our internal benchmark.\n\nAll three outperforming gpt-5.5 but ",
