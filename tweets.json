@@ -1,5 +1,65 @@
 [
   {
+    "id": "2075375036916187560",
+    "created_at": "2026-07-10T00:22:22.000Z",
+    "original": "GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK\n\nNew data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks.\n\nOn their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy):\n\n•  Grok 4.5: 29% mean pass",
+    "translation": "Grok 4.5 在實際專業工作基準測試中遙遙領先\n\nSnorkel 最新數據顯示，Grok 4.5 在現實世界的專業任務上表現優於其他前沿模型。\n\n在他們的 GDPval+ 基準測試（專家創建的經濟領域工作場所推理任務）中：\n\n• Grok 4.5：平均通過率 29%",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM02mMva8AAkbbn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T11:01:23.285311+08:00",
+    "url": "https://x.com/elonmusk/status/2075375036916187560"
+  },
+  {
+    "id": "2075402626284368071",
+    "created_at": "2026-07-10T02:11:59.000Z",
+    "original": "Starlink is delivering peak speeds of up to 10 Gbps symmetric in Utqiagvik, Alaska – the northernmost city in the United States, located 320 miles above the Arctic Circle\n\nThrough bonded gateways, Starlink can provide up to 20 Gbps symmetric, enabling high-capacity connectivity x.com/OptimERAxG/sta…",
+    "translation": "Starlink在阿拉斯加的Utqiagvik（美國最北端城市，位於北極圈以上320英里）達到最高10Gbps對稱速度\n\n透過bonded gateway，Starlink可以提供高達20Gbps對稱速度，實現高容量連線 x.com/OptimERAxG/sta…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T11:01:27.595289+08:00",
+    "url": "https://x.com/elonmusk/status/2075402626284368071"
+  },
+  {
+    "id": "2075363502441865592",
+    "created_at": "2026-07-09T23:36:32.000Z",
+    "original": "Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts.\n\nFive years ago this month, I had",
+    "translation": "Wally Funk 等了60年才上太空，沒有人比她更值得了。她1961年和Mercury 13一起受訓，測驗表現還比男生好，但結果還是被打槍。她從沒放棄飛行——19,600小時、數千名學生、一生的創舉。\n\n五年前的這個月，我...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM0sGslXUAAiioR?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T11:01:36.719977+08:00",
+    "url": "https://x.com/elonmusk/status/2075363502441865592"
+  },
+  {
+    "id": "2075403875410928124",
+    "created_at": "2026-07-10T02:16:57.000Z",
+    "original": "𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases.\n\nThis post by Mark Zuckerberg already received over 12 million views for free!",
+    "translation": "X真的是做產品公告的好平台，尤其是CEO親自下場的話。比起那些制式新聞稿，民眾對這種內容有興趣多了。\n\nMark Zuckerberg這篇文已經免費獲得超過1200萬觀看！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T11:01:49.053049+08:00",
+    "url": "https://x.com/elonmusk/status/2075403875410928124"
+  },
+  {
     "id": "2075373714007318896",
     "created_at": "2026-07-10T00:17:06.000Z",
     "original": " is this true?",
