@@ -1,5 +1,174 @@
 [
   {
+    "id": "2075204411018629474",
+    "created_at": "2026-07-09T13:04:21.000Z",
+    "original": "But how is it an error on Anthropics part? It’s not like it somehow vaulted grok 4.5, it was coming either way. And they just raised 80billion in the ipo. So they weren’t just going to vanish, and even without that - SpaceX cash flow I’m sure could have kept it all going.",
+    "translation": "但這怎麼會是Anthropic的問題啊？又不像是他們用什麼方法把Grok 4.5直接跳過了，反正遲早都會出來。而且他們IPO才剛融了800億好嗎，所以怎麼可能就這樣消失，就算沒有這筆錢——SpaceX的現金流肯定也能撐著繼續跑下去啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T08:01:15.028495+08:00",
+    "url": "https://x.com/elonmusk/status/2075204411018629474"
+  },
+  {
+    "id": "2075291102324641925",
+    "created_at": "2026-07-09T18:48:50.000Z",
+    "original": "You don’t seem to understand that SpaceX will be worth more than the rest of Earth if we accomplish our goals",
+    "translation": "你好像不太懂欸，如果我們達成目標，SpaceX 會比整個地球還值錢",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T08:01:21.317051+08:00",
+    "url": "https://x.com/elonmusk/status/2075291102324641925"
+  },
+  {
+    "id": "2075076023213850920",
+    "created_at": "2026-07-09T04:34:11.000Z",
+    "original": "Too early to tell right now but I wonder if History will look back at this $7.5-40B Anthropic/SpaceXai deal as the biggest unforced error of the AI era.\n\nDid the management team thought XAI was too far from the frontier to be a real threat ? Otherwise why give so much money to a",
+    "translation": "現在說這個還太早，但我不禁好奇，後世會不會把這筆 75-40 億美元的 Anthropic/SpaceX AI 交易視為 AI 時代最大的非受迫性失誤。\n\n管理團隊是不是覺得 XAI 離最前沿太遠了，根本不構成威脅？不然幹嘛砸這麼多錢給一家...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T08:01:28.579085+08:00",
+    "url": "https://x.com/elonmusk/status/2075076023213850920"
+  },
+  {
+    "id": "2075291754215977290",
+    "created_at": "2026-07-09T18:51:25.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T08:01:34.168557+08:00",
+    "url": "https://x.com/elonmusk/status/2075291754215977290"
+  },
+  {
+    "id": "2075256454022393865",
+    "created_at": "2026-07-09T16:31:09.000Z",
+    "original": "China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.",
+    "translation": "中國現在供應全球約九成的人形機器人，這事不能再小看了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T08:01:41.759830+08:00",
+    "url": "https://x.com/elonmusk/status/2075256454022393865"
+  },
+  {
+    "id": "2075270300196012263",
+    "created_at": "2026-07-09T17:26:10.000Z",
+    "original": "Grok 4.5 is dominating the latest AI leaderboards\n\nClaims the #1 spot:\n• #1 on AutomationBench-AA\n• #1 on Terminal-Bench v2\n• #1 on Harvey Legal Agent Benchmark\n• #1 on SWE Marathon\n• #1 on SWE-Atlas-QnA",
+    "translation": "Grok 4.5 直接制霸最新 AI 排行榜啦\n\n直接拿下第一名：\n• AutomationBench-AA 第一名\n• Terminal-Bench v2 第一名\n• Harvey Legal Agent Benchmark 第一名\n• SWE Marathon 第一名\n• SWE-Atlas-QnA 第一名",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMzXVcgboAAR3t-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T08:01:46.582018+08:00",
+    "url": "https://x.com/elonmusk/status/2075270300196012263"
+  },
+  {
+    "id": "2075353490713432440",
+    "created_at": "2026-07-09T22:56:45.000Z",
+    "original": "Super Heavy booster moved to the Starbase pad for testing ahead of Flight 13",
+    "translation": "Super Heavy 助推器已經被拉到星基地發射台準備測試了，期待第13飛",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM0idNoXAAAsP_8?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HM0idNpXcAAfVMa?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HM0i8UVXoAAz1gn?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-10T08:01:52.745826+08:00",
+    "url": "https://x.com/elonmusk/status/2075353490713432440"
+  },
+  {
+    "id": "2075327054942232713",
+    "created_at": "2026-07-09T21:11:42.000Z",
+    "original": "New renderings of SpaceX's AI satellite, called AI1.\n\n• AI chip vendor agnostic. System architecture supports compute modules from any provider.\n• 150 kW peak compute payload\n• 120 kW average compute payload\n• 70 kW per ton\n• Wingspan: 70 meters\n• Deployed height: 20 meters",
+    "translation": "SpaceX 旗下 AI 衛星「AI1」的最新渲染圖出爐啦！\n\n• AI 晶片供應商中立，系統架構支援任意廠商的運算模組\n• 峰值運算酬載 150 kW\n• 平均運算酬載 120 kW\n• 每噸 70 kW\n• 翼展：70 公尺\n• 部署高度：20 公尺",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM0KP2GXkAAM3rW?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HM0KSbVWUAAC3iH?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HM0KVBzWkAAxPuU?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HM0Kf-RXYAA-_K4?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-10T08:01:58.428999+08:00",
+    "url": "https://x.com/elonmusk/status/2075327054942232713"
+  },
+  {
+    "id": "2075228066649985064",
+    "created_at": "2026-07-09T14:38:21.000Z",
+    "original": "Defense is 8% of US government spending.\n\nEducation 15%!\n\nWelfare is 47%!",
+    "translation": "國防只佔美國政府支出的8%。\n\n教育15%！\n\n福利47%！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMyw7emXkAAChDn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-10T08:02:03.500941+08:00",
+    "url": "https://x.com/elonmusk/status/2075228066649985064"
+  },
+  {
+    "id": "2075368342014099576",
+    "created_at": "2026-07-09T23:55:45.000Z",
+    "original": "Grok 4.5 scores significantly better than other frontier models Opus 4.8 and GPT 5.5 across ALL professional work benchmarks.\n\nIt performs exceptionally well at law.",
+    "translation": "Grok 4.5 在所有專業工作基準測試中直接碾壓了其他前沿模型 Opus 4.8 和 GPT 5.5。\n\n法律方面更是猛到不行。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMz1l91W4AAHhfO?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-10T08:02:10.632097+08:00",
+    "url": "https://x.com/elonmusk/status/2075368342014099576"
+  },
+  {
+    "id": "2075367885438890134",
+    "created_at": "2026-07-09T23:53:57.000Z",
+    "original": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+    "translation": "SpaceX 設計、製造然後發射先進的火箭和太空船。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-10T08:02:14.779406+08:00",
+    "url": "https://x.com/elonmusk/status/2075367885438890134"
+  },
+  {
     "id": "2075252689529983026",
     "created_at": "2026-07-09T16:16:12.000Z",
     "original": "The upcoming wave of SpaceXAI Grok updates is insane\n\nGrok 4.5:\nThe 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week\n\nNext model:\nThe 2T foundation model is expected to finish training this",
