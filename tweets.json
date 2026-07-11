@@ -1,5 +1,77 @@
 [
   {
+    "id": "2075925698863099950",
+    "created_at": "2026-07-11T12:50:30.000Z",
+    "original": "Our token efficiency seems to be better than any other AI model  and we see many more ways to improve inference per watt, so I think Grok will continue to be the best value for money of the frontier models",
+    "translation": "我們的詞元效率比任何其他 AI 模型都還要強，而且還有很多方法可以進一步提升每瓦的推理效率，所以說我認為 Grok 會繼續是前沿模型中 CP 值最高的選擇",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T21:00:58.174302+08:00",
+    "url": "https://x.com/elonmusk/status/2075925698863099950"
+  },
+  {
+    "id": "2075835012386062356",
+    "created_at": "2026-07-11T06:50:08.000Z",
+    "original": "How sustainable are Grok prices? Are they going to have be ratcheted up significantly at some point?",
+    "translation": "Grok 的價格有多可持續？會不會遲早得大幅調漲？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T21:01:05.358890+08:00",
+    "url": "https://x.com/elonmusk/status/2075835012386062356"
+  },
+  {
+    "id": "2075926480387776675",
+    "created_at": "2026-07-11T12:53:36.000Z",
+    "original": "He might literally love scamming more than any human alive!",
+    "translation": "他真的是愛詐騙愛到沒人性了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T21:01:14.193464+08:00",
+    "url": "https://x.com/elonmusk/status/2075926480387776675"
+  },
+  {
+    "id": "2075926239848611976",
+    "created_at": "2026-07-11T12:52:39.000Z",
+    "original": "By “this” he means scamming ",
+    "translation": "他說的「這個」就是詐騙啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM8r6ehXUAA3UdR?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-11T21:01:19.553453+08:00",
+    "url": "https://x.com/elonmusk/status/2075926239848611976"
+  },
+  {
+    "id": "2075926721337991455",
+    "created_at": "2026-07-11T12:54:33.000Z",
+    "original": "From Déborah",
+    "translation": "嗨我是 Déborah",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T21:01:26.433622+08:00",
+    "url": "https://x.com/elonmusk/status/2075926721337991455"
+  },
+  {
     "id": "2075821265990905969",
     "created_at": "2026-07-11T05:55:31.000Z",
     "original": " BREAKING: Apple is suing OpenAI for stealing trade secrets\n\nAPPLE: OpenAI “deliberately and systematically” stole confidential info from Apple employees\n\nChang Liu (ex-Apple engineer) kept his Apple laptop, found “bug” to access Apple cloud storage\n\nLiu: “LOL, I found out I",
