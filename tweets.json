@@ -1,5 +1,109 @@
 [
   {
+    "id": "2075794982670123334",
+    "created_at": "2026-07-11T04:11:04.000Z",
+    "original": "You’re right, will fix",
+    "translation": "你說得對，會改",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T13:01:01.892236+08:00",
+    "url": "https://x.com/elonmusk/status/2075794982670123334"
+  },
+  {
+    "id": "2075678415563153605",
+    "created_at": "2026-07-10T20:27:53.000Z",
+    "original": "A SuperGrok Heavy subscription should include X Premium+",
+    "translation": "SuperGrok Heavy 訂閱方案應該要包含 X Premium+ 才對吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T13:01:06.487722+08:00",
+    "url": "https://x.com/elonmusk/status/2075678415563153605"
+  },
+  {
+    "id": "2075792911933853989",
+    "created_at": "2026-07-11T04:02:51.000Z",
+    "original": "Full-duration, 33-engine static fire of Super Heavy V3",
+    "translation": "Super Heavy V3 33 引擎全程靜態點火測試",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM5unqYWAAAosIJ?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-11T13:01:16.024236+08:00",
+    "url": "https://x.com/elonmusk/status/2075792911933853989"
+  },
+  {
+    "id": "2075793029693157579",
+    "created_at": "2026-07-11T04:03:19.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM5unqYWAAAosIJ?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-11T13:01:21.683667+08:00",
+    "url": "https://x.com/elonmusk/status/2075793029693157579"
+  },
+  {
+    "id": "2075794297631158373",
+    "created_at": "2026-07-11T04:08:21.000Z",
+    "original": "As usual, legacy media is misrepresenting the situation. \n\nI just asked Tesla & SpaceX to try out Grok 4.5 to see if it solves their task, not use it no matter what!\n\nThey should continue to use other AI models if those models outperform Grok.",
+    "translation": "一如往常，主流媒體又在帶風向了。\n\n我只是叫特斯拉和SpaceX試用一下Grok 4.5看看能不能派上用場，又不是叫他們無腦用到底！\n\n如果其他AI模型表現更好的話，該用就用啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM6z6aZWgAA9Lr7?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-11T13:01:33.792121+08:00",
+    "url": "https://x.com/elonmusk/status/2075794297631158373"
+  },
+  {
+    "id": "2075795264627933276",
+    "created_at": "2026-07-11T04:12:12.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T13:01:36.770804+08:00",
+    "url": "https://x.com/elonmusk/status/2075795264627933276"
+  },
+  {
+    "id": "2075192676593406032",
+    "created_at": "2026-07-09T12:17:43.000Z",
+    "original": "Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.",
+    "translation": "快來免費試用 Grok 4.5 吧！全新的 Opus 等級模型，速度快又便宜，很適合拿來做實際的程式開發和工程任務！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-11T13:01:44.786986+08:00",
+    "url": "https://x.com/elonmusk/status/2075192676593406032"
+  },
+  {
     "id": "2075749180903915709",
     "created_at": "2026-07-11T01:09:04.000Z",
     "original": "Elon Musk",
