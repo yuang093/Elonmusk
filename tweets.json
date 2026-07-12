@@ -1,5 +1,107 @@
 [
   {
+    "id": "2076336766273966256",
+    "created_at": "2026-07-12T16:03:56.000Z",
+    "original": "Absolutely",
+    "translation": "廢話啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T01:00:47.292913+08:00",
+    "url": "https://x.com/elonmusk/status/2076336766273966256"
+  },
+  {
+    "id": "2075955899034710419",
+    "created_at": "2026-07-11T14:50:30.000Z",
+    "original": "I think we would be surprised at how many people would quietly start to come out in support, if they were given “permission” by the public figures they rely on to open Overton Windows for them. That is pathetic, cowardly, lazy, & self-interested, because they are often consumed x.com/wesyang/status…",
+    "translation": "我覺得如果那些他們仰賴的公眾人物願意幫他們打開Overton Window，給他們「許可」的話，會有多少人默默開始站出來支持，其實挺讓人意外的。這真的很可悲、很懦弱、很懶、很自私，因為他們往往是x.com/wesyang/status…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T01:00:55.117115+08:00",
+    "url": "https://x.com/elonmusk/status/2075955899034710419"
+  },
+  {
+    "id": "2076336973912957358",
+    "created_at": "2026-07-12T16:04:45.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T01:00:57.224415+08:00",
+    "url": "https://x.com/elonmusk/status/2076336973912957358"
+  },
+  {
+    "id": "2076339127864152215",
+    "created_at": "2026-07-12T16:13:19.000Z",
+    "original": "Necessarily so, as power harnessed would be more than a trillion times what human civilization uses today. \n\nThe economy will be measured in energy and mass at that point, not dollars.",
+    "translation": "當然會這樣啊，畢竟掌控的能量會是人類文明現在用量的兆倍以上。\n\n到那時候經濟是以能量和質量來算的，不是美元啦。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T01:01:03.548654+08:00",
+    "url": "https://x.com/elonmusk/status/2076339127864152215"
+  },
+  {
+    "id": "2076323348217565485",
+    "created_at": "2026-07-12T15:10:37.000Z",
+    "original": "I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump.\n\nBefore AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next",
+    "translation": "我想提出一個反駁論點：LLM（或說 AI）沒辦法跳。\n\n在 AlphaGo 出現之前，AI 領域對圍棋也有過類似的論調：棋局有 2.08 × 10^170 種可能性，電腦根本裝不下，AI 根本不可能預測下一步的結果。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HMyFmI_bsAAzu2W?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T01:01:11.506654+08:00",
+    "url": "https://x.com/elonmusk/status/2076323348217565485"
+  },
+  {
+    "id": "2076340432464752656",
+    "created_at": "2026-07-12T16:18:30.000Z",
+    "original": "I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation.\n\nOur solar system has only a tiny percentage of non-solar atoms with which to build things.",
+    "translation": "我說能量和質量都要，因為在實用上它們是兩種不同的稀缺資源，儘管從技術上來說它們是「等價」的，就像愛因斯坦那個著名方程式描述的那樣。\n\n我們的太陽系可以用來建造東西的非太陽原子只有超級少數的一點點。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T01:01:18.106505+08:00",
+    "url": "https://x.com/elonmusk/status/2076340432464752656"
+  },
+  {
+    "id": "2076259670751100967",
+    "created_at": "2026-07-12T10:57:35.000Z",
+    "original": "Grok 4.5 is the truth seeking leader that other AIs can aspire to become",
+    "translation": "Grok 4.5 就是那個其他 AI 應該好好學學的求真領袖典範",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNBbKuDW4AAK3YN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T01:01:21.849060+08:00",
+    "url": "https://x.com/elonmusk/status/2076259670751100967"
+  },
+  {
     "id": "2076252465674977609",
     "created_at": "2026-07-12T10:28:57.000Z",
     "original": "Ok Grok 4.5 is insane.\n\nPeople are already building things that shouldn't be possible this fast.\n\n10 wild examples:",
