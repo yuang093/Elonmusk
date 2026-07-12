@@ -1,5 +1,126 @@
 [
   {
+    "id": "2076100183100682607",
+    "created_at": "2026-07-12T00:23:50.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-12T09:00:33.673133+08:00",
+    "url": "https://x.com/elonmusk/status/2076100183100682607"
+  },
+  {
+    "id": "2076038516056969424",
+    "created_at": "2026-07-11T20:18:47.000Z",
+    "original": "Incredible trade secrets as well, some of the best",
+    "translation": "商業機密也很猛，最頂的那種",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-12T09:00:39.073666+08:00",
+    "url": "https://x.com/elonmusk/status/2076038516056969424"
+  },
+  {
+    "id": "2076029296770957502",
+    "created_at": "2026-07-11T19:42:09.000Z",
+    "original": "Sam Altman wasn't afraid of Elon but he is terrified of Apple. You can tell by all his posting today",
+    "translation": "Sam Altman 不怕 Elon 但他超怕 Apple。看他今天瘋狂發文就知道他在抖了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-12T09:00:44.823086+08:00",
+    "url": "https://x.com/elonmusk/status/2076029296770957502"
+  },
+  {
+    "id": "2076100095867506809",
+    "created_at": "2026-07-12T00:23:29.000Z",
+    "original": "Starship’s thirteenth flight test is preparing to launch as early as Thursday, July 16 → ",
+    "translation": "Starship 第十三次試飛準備發射啦，最快這禮拜四（7/16）就能升空囉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-12T09:00:50.498622+08:00",
+    "url": "https://x.com/elonmusk/status/2076100095867506809"
+  },
+  {
+    "id": "2076102201575969192",
+    "created_at": "2026-07-12T00:31:51.000Z",
+    "original": " has just released The Neutrality Project: an independent study that proves the opposite.\n\nOut of 18 AI models tested, 54 out of 60 positions land to the left of center.\n\nGlobal x.com/neutralityorg/…",
+    "translation": "中立計畫剛發布了：一項獨立研究，證明了相反的結論。\n\n測了18個AI模型，60個立場裡有54個都偏左。\n\n全球 x.com/neutralityorg/…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM-ijyzWYAAGYv4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-12T09:01:00.131571+08:00",
+    "url": "https://x.com/elonmusk/status/2076102201575969192"
+  },
+  {
+    "id": "2076040435743506800",
+    "created_at": "2026-07-11T20:26:25.000Z",
+    "original": " is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right.\n\nNo other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize!",
+    "translation": "這是目前最中立的AI模型了。在政治左派和右派之間幾乎完美平衡。\n\n沒有其他模型能接近它的中立程度。太厉害了，這比大多數人想像的還要難做到！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM-TasHXsAAbDXb?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HM-P5L_WwAAZ7oY?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-07-12T09:01:03.666052+08:00",
+    "url": "https://x.com/elonmusk/status/2076040435743506800"
+  },
+  {
+    "id": "2076036462290624972",
+    "created_at": "2026-07-11T20:10:38.000Z",
+    "original": " is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.",
+    "translation": "進展得很順利，結果明確顯示 Grok 4.5 的訓練進一步朝向盡可能中立的方向，而且知道至少有一個模型處在這個中立地帶，確實感覺很不錯。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM-P5L_WwAAZ7oY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-12T09:01:11.804308+08:00",
+    "url": "https://x.com/elonmusk/status/2076036462290624972"
+  },
+  {
+    "id": "2076102645823971373",
+    "created_at": "2026-07-12T00:33:37.000Z",
+    "original": "SpaceX just announced that they will be deploying V3 Starlink satellites for the first time during their 13th Starship test flight next week! Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery.\n\nSummary of every ",
+    "translation": "SpaceX 剛宣布他們將在下週第 13 次 Starship 測試飛行中首次部署 V3 Starlink 衛星！六顆衛星已改裝了一系列相機來掃描 Starship 的隔熱盾並傳輸影像。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM-2MoCW4AAtgC_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-12T09:01:19.305211+08:00",
+    "url": "https://x.com/elonmusk/status/2076102645823971373"
+  },
+  {
     "id": "2076070258654183767",
     "created_at": "2026-07-11T22:24:55.000Z",
     "original": "We start flying them next year. Maybe you can come see them if your parole officer approves. \n\nAfter stealing an open source AI charity, you then stole all of Apple’s phone technology! Wow.\n\nWhat do you plan for an encore? That’s tough to beat.",
