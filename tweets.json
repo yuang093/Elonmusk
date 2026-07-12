@@ -1,5 +1,95 @@
 [
   {
+    "id": "2076432602999722000",
+    "created_at": "2026-07-12T22:24:45.000Z",
+    "original": " Computer \n\nIt finds the top topics people are discussing on tech and business podcasts, then lets me play a single stream across multiple podcasts by topic. \n\nWhen you click PLAY DEEP-LINK STREAM, it",
+    "translation": "它會找出大家在科技和商業播客上最常討論的熱門話題，然後讓你按話題在單一流暢聽多個播客。\n\n當你點擊 PLAY DEEP-LINK STREAM，它就會...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNBAZ7DW8AAvPDb?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T07:01:45.438274+08:00",
+    "url": "https://x.com/elonmusk/status/2076432602999722000"
+  },
+  {
+    "id": "2076433121893814735",
+    "created_at": "2026-07-12T22:26:49.000Z",
+    "original": "The path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together towards a common goal. “Critical Path” continues the ongoing Starship series, following SpaceX engineers through the final days before launch of the",
+    "translation": "通往發射的路上充滿了各種障礙，成功只能靠著一群人無私奉獻、攜手朝著共同目標努力才能達成。《Critical Path》系列延續了《Starship》紀錄片系列，帶領觀眾跟隨 SpaceX 工程師們一起走過發射前的最後幾天。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T07:01:49.976886+08:00",
+    "url": "https://x.com/elonmusk/status/2076433121893814735"
+  },
+  {
+    "id": "2076369936251851091",
+    "created_at": "2026-07-12T18:15:44.000Z",
+    "original": "The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed.\n\nIt would increase the ROI on AI spend for end customers by increasing intelligence per",
+    "translation": "AI 基礎設施的超級大牛 scenario 就是 *如果* 市佔率從某些擁有 90%+",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T07:01:58.673876+08:00",
+    "url": "https://x.com/elonmusk/status/2076369936251851091"
+  },
+  {
+    "id": "2076434607562531049",
+    "created_at": "2026-07-12T22:32:43.000Z",
+    "original": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
+    "translation": "Grok 4.5在一些軟體基準測試中排名甚至還略高於Fable，後者可是個超猛的模型耶！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HND6RSvXMAAzr_-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T07:02:03.001904+08:00",
+    "url": "https://x.com/elonmusk/status/2076434607562531049"
+  },
+  {
+    "id": "2076434715951689733",
+    "created_at": "2026-07-12T22:33:09.000Z",
+    "original": "Grok Build just received another update, bringing smoother navigation and improved keyboard workflows across the Agent Dashboard\n\nRelease Notes: v0.2.99 — 2026-07-12\n\nFeatures:\n• Multiline input now works on the agent dashboard the same way it does in regular sessions.\n• PageUp ",
+    "translation": "Grok Build 剛收到新更新，Agent Dashboard 導航更順了，鍵盤操作也優化不少\n\n更新內容：v0.2.99 — 2026-07-12\n\n新功能：\n• Agent Dashboard 的多行輸入現在跟一般 sessions 一樣好用了\n• PageUp...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNDnQMLaIAAebl5?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T07:02:08.511987+08:00",
+    "url": "https://x.com/elonmusk/status/2076434715951689733"
+  },
+  {
+    "id": "2076352093703794999",
+    "created_at": "2026-07-12T17:04:50.000Z",
+    "original": "Elon Musk explains why the Sun is humanity's ultimate energy source:\n\n\"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball\n\nA roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate",
+    "translation": "Elon Musk 解釋為什麼太陽是人類終極能源：\n\n「地球上絕大多數的能源本來就來自太陽。沒有的話，地球就是個凍死人的大冰球\n\n大概一塊 100 英里 x 100 英里的太陽能板區域....亞利桑那州一角落那麼大，就能發電...」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T07:02:15.491775+08:00",
+    "url": "https://x.com/elonmusk/status/2076352093703794999"
+  },
+  {
     "id": "2076411423563948142",
     "created_at": "2026-07-12T21:00:35.000Z",
     "original": "Sounds like we should lower our cached price",
