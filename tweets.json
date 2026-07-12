@@ -1,5 +1,49 @@
 [
   {
+    "id": "2076411423563948142",
+    "created_at": "2026-07-12T21:00:35.000Z",
+    "original": "Sounds like we should lower our cached price",
+    "translation": "聽起來咱們應該把快取價格調低一點了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T06:01:09.432167+08:00",
+    "url": "https://x.com/elonmusk/status/2076411423563948142"
+  },
+  {
+    "id": "2076144541669962060",
+    "created_at": "2026-07-12T03:20:06.000Z",
+    "original": "I take it all back. We just got access to eval Grok 4.5 and it has landed above GPT-5.6-Sol and just shy of Opus for browser use.\n\nBecause cache input is expensive, the overall cost is only 10% cheaper than opus. Its overall a bit faster. \n\nWe have another opus-class model in the",
+    "translation": "我全部收回。剛拿到 Grok 4.5 的測試權限，結果它的表現直接超越 GPT-5.6-Sol，瀏覽器使用場景下僅次於 Opus。\n\n不過因為快取輸入很貴，整體成本只比 Opus 便宜 10%。速度倒是快了一點點。\n\n咱們又有另一個 Opus 等級的模型惹～",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HM_SnOdbMAAlpsV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T06:01:14.231799+08:00",
+    "url": "https://x.com/elonmusk/status/2076144541669962060"
+  },
+  {
+    "id": "2076411563116835245",
+    "created_at": "2026-07-12T21:01:09.000Z",
+    "original": "I take it all back. We just got access to eval Grok 4.5 and it has landed above GPT-5.6-Sol and just shy of Opus for browser use.\n\nBecause cache input is expensive, the overall cost is only 10% cheaper than opus. Its overall a bit faster. \n\nWe have another opus-class model in the x.com/Alezander907/s…",
+    "translation": "我全部收回。這次拿到Grok 4.5的評估資格了，它的表現直接超越GPT-5.6-Sol，離Opus也就差一點點，在瀏覽器使用情境下。\n\n因為快取輸入很貴，整體成本只比Opus便宜10%。速度倒是稍微快一點。\n\n我們手上還有另一個Opus同等級的模型在x.com/Alezander907/s…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T06:01:18.946244+08:00",
+    "url": "https://x.com/elonmusk/status/2076411563116835245"
+  },
+  {
     "id": "2076358671798575154",
     "created_at": "2026-07-12T17:30:58.000Z",
     "original": "For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space\n\nStarlink V3 is designed to massively expand the network’s capacity and increase user speeds\n\nAfter deployment, the test satellites will:\n• Extend their solar arrays and antennas\n•",
