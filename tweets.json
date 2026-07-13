@@ -1,5 +1,35 @@
 [
   {
+    "id": "2076475640941830521",
+    "created_at": "2026-07-13T01:15:46.000Z",
+    "original": "SpaceXAI is a far better steward of frontier technology than others, and they have proven it time and time again\n\nYou don't become a trillionaire by ripping people off",
+    "translation": "SpaceXAI 作為前沿科技的守護者，比那些傢伙強多了，而且他們一次又一次地證明了這點\n\n靠坑人是不可能成為兆萬富翁的啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNDKw9uWoAAHaIo?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-13T15:01:37.577834+08:00",
+    "url": "https://x.com/elonmusk/status/2076475640941830521"
+  },
+  {
+    "id": "2076558971905650718",
+    "created_at": "2026-07-13T06:46:54.000Z",
+    "original": "The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
+    "translation": "公開版的 Mythos（Fable 裡 Claude 當備案的版本）被大幅 nerf 了，但反正大多數人能接觸到的也就這樣而已",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-13T15:01:45.511824+08:00",
+    "url": "https://x.com/elonmusk/status/2076558971905650718"
+  },
+  {
     "id": "2076546336959205592",
     "created_at": "2026-07-13T05:56:41.000Z",
     "original": "Grok update on this front coming soon",
