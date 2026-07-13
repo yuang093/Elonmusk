@@ -1,5 +1,47 @@
 [
   {
+    "id": "2076796854973423971",
+    "created_at": "2026-07-13T22:32:09.000Z",
+    "original": "A reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in",
+    "translation": "提醒一下：大部分的 AI 產業，用戶資料預設都會被保留，除非你自己手動去改隱私設定，而且就算你改了，退出選項通常只適用於未來的資料，還可能有一堆藏在法律小字裡的例外限制，根本很難驗證到底有沒有效",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-14T07:01:22.532098+08:00",
+    "url": "https://x.com/elonmusk/status/2076796854973423971"
+  },
+  {
+    "id": "2076747704248758617",
+    "created_at": "2026-07-13T19:16:51.000Z",
+    "original": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-14T07:01:31.554860+08:00",
+    "url": "https://x.com/elonmusk/status/2076747704248758617"
+  },
+  {
+    "id": "2076726650365264196",
+    "created_at": "2026-07-13T17:53:11.000Z",
+    "original": "The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
+    "translation": "Grok Build 預設是關閉的。你也可以跑 /privacy 指令，任何同步的資料都會被刪掉。ZDR 對 headless 和互動式使用都會遵守。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-14T07:01:35.084532+08:00",
+    "url": "https://x.com/elonmusk/status/2076726650365264196"
+  },
+  {
     "id": "2076702284571136097",
     "created_at": "2026-07-13T16:16:22.000Z",
     "original": "OpenAI has ZDR.",
