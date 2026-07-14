@@ -134,24 +134,36 @@ def fetch_elon_tweets_via_browser():
         try:
             # ── 1. Scrape "Posts" tab ────────────────────────────────────────────
             page.goto("https://x.com/elonmusk", wait_until="commit", timeout=25000)
-            time.sleep(3)
-            
+
+            # X.com CSP blocks wait_for_function; poll via evaluate instead.
+            # Wait up to 25s for >=6 tweet articles to render.
+            for _ in range(50):
+                n = page.evaluate('document.querySelectorAll("[data-testid=tweet]").length')
+                if n >= 6:
+                    break
+                time.sleep(0.5)
+
             for _ in range(3):
                 page.evaluate("window.scrollBy(0, 800)")
                 time.sleep(0.7)
-            
+
             posts_data = page.evaluate(EXTRACT_JS)
             tweets_data.extend(posts_data)
             print(f"  📋 Posts: found {len(posts_data)} tweets")
-            
+
             # ── 2. Scrape "With Replies" tab ─────────────────────────────────────
             page.goto("https://x.com/elonmusk/with_replies", wait_until="commit", timeout=25000)
-            time.sleep(3)
-            
+
+            for _ in range(50):
+                n = page.evaluate('document.querySelectorAll("[data-testid=tweet]").length')
+                if n >= 6:
+                    break
+                time.sleep(0.5)
+
             for _ in range(4):
                 page.evaluate("window.scrollBy(0, 800)")
                 time.sleep(0.7)
-            
+
             replies_data = page.evaluate(EXTRACT_JS)
             tweets_data.extend(replies_data)
             print(f"  📋 With Replies: found {len(replies_data)} tweets")
