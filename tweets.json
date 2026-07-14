@@ -1,5 +1,52 @@
 [
   {
+    "id": "2076905740531302479",
+    "created_at": "2026-07-14T05:44:50.000Z",
+    "original": "Elon buying Twitter and restoring free speech was unironically one of the most pivotal moments in the 21st century\n\nIts effects will be studied for generations ",
+    "translation": "Elon 買下 Twitter 並恢復言論自由，認真說是 21 世紀最關鍵的時刻之一\n\n這個影響會被研究好幾個世代",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNKmw-IWYAAt96B?format=jpg&name=240x240",
+      "https://pbs.twimg.com/media/HNI9QDYaEAAmiH5?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-07-14T14:01:55.002146+08:00",
+    "url": "https://x.com/elonmusk/status/2076905740531302479"
+  },
+  {
+    "id": "2076881971117011234",
+    "created_at": "2026-07-14T04:10:23.000Z",
+    "original": "Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today\n\nThere was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by",
+    "translation": "提醒一下，DeepSeek V3 18個月前發布的時候被認為是革命性的，但現在基本上用不了了\n\n那時候有個關於 vibe coding 的激烈辯論，論點是 LLM 永遠沒辦法創造新東西，因為它們被限制在...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-14T14:02:01.640773+08:00",
+    "url": "https://x.com/elonmusk/status/2076881971117011234"
+  },
+  {
+    "id": "2076909201524203973",
+    "created_at": "2026-07-14T05:58:35.000Z",
+    "original": "The Long-Horizon Terminal-Bench paper landed around May and concluded that the results showed headroom for improvement. The best of the 15 models they tested finished seven of the 46 tasks, and the mean across all models was about two. That ceiling is what fifth place looks like",
+    "translation": "那篇 Long-Horizon Terminal-Bench 論文大概五月出的，結論是說還有很大的進步空間。他們測試了 15 個模型，最強的那個只完成 46 個任務中的 7 個，全部模型的平均大概是兩個。這個天花板就是第五名的分數啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNKIpX6a8AApA8P?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-14T14:02:09.297539+08:00",
+    "url": "https://x.com/elonmusk/status/2076909201524203973"
+  },
+  {
     "id": "2076722045136843026",
     "created_at": "2026-07-13T17:34:53.000Z",
     "original": "Crazy what you can build with Grok 4.5 and Grok Build in minutes.",
