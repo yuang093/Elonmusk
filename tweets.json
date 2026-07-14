@@ -1,5 +1,95 @@
 [
   {
+    "id": "2076723840168632703",
+    "created_at": "2026-07-13T17:42:01.000Z",
+    "original": ": the Freedom Party is leading the polls massively at almost 40%\n\nGermany ",
+    "translation": "：自由黨在德國民調大幅領先，接近 40%",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-15T00:03:48.516937+08:00",
+    "url": "https://x.com/elonmusk/status/2076723840168632703"
+  },
+  {
+    "id": "2077022708693684548",
+    "created_at": "2026-07-14T13:29:37.000Z",
+    "original": "Starlink will provide high-speed, low-latency connectivity onboard ",
+    "translation": "星鏈將在船上提供高速、低延遲的網路連線服務",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNMLDzKXcAALRUe?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T00:03:54.032230+08:00",
+    "url": "https://x.com/elonmusk/status/2077022708693684548"
+  },
+  {
+    "id": "2077012251899277738",
+    "created_at": "2026-07-14T12:48:04.000Z",
+    "original": "Grok is the Flow LLM.\n\nGrok 4.5’s biggest advantage is its speed.\n\nIt’s smart enough to be comparable to the other models on most things.\n\nBut that speed allows you to make little tweaks to your system so that the output is PERFECT.\n\nWith the other models, it takes FOREVER to do",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNJguSbWYAAgktq?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T00:04:06.214957+08:00",
+    "url": "https://x.com/elonmusk/status/2077012251899277738"
+  },
+  {
+    "id": "2076879176628305957",
+    "created_at": "2026-07-14T03:59:16.000Z",
+    "original": " satellites from California",
+    "translation": "加州來的衛星",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNKNxsIWoAAjo0-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T00:04:12.422683+08:00",
+    "url": "https://x.com/elonmusk/status/2076879176628305957"
+  },
+  {
+    "id": "2077043449279262954",
+    "created_at": "2026-07-14T14:52:02.000Z",
+    "original": "We could have closed borders and a welfare state.\n\nOr we could have open borders and no welfare state.\n\nBut of course we’ve chosen the most foolish and destructive option available - open borders and a welfare state.\n\nThe worst of all possible worlds.",
+    "translation": "「可以關邊境＋福利制度\n也可以開放邊境＋沒福利\n但我們當然選了最蠢最破壞性的：開放邊境＋福利制度\n所有可能世界中最糟糕的結局。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-15T00:04:20.561400+08:00",
+    "url": "https://x.com/elonmusk/status/2077043449279262954"
+  },
+  {
+    "id": "2077044528234553709",
+    "created_at": "2026-07-14T14:56:19.000Z",
+    "original": "Whole Mars Catalog",
+    "translation": "整本火星目錄",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-15T00:04:26.207062+08:00",
+    "url": "https://x.com/elonmusk/status/2077044528234553709"
+  },
+  {
     "id": "2076905740531302479",
     "created_at": "2026-07-14T05:44:50.000Z",
     "original": "Elon buying Twitter and restoring free speech was unironically one of the most pivotal moments in the 21st century\n\nIts effects will be studied for generations ",
