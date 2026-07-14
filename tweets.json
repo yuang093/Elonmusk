@@ -1,5 +1,37 @@
 [
   {
+    "id": "2076722045136843026",
+    "created_at": "2026-07-13T17:34:53.000Z",
+    "original": "Crazy what you can build with Grok 4.5 and Grok Build in minutes.",
+    "translation": "用 Grok 4.5 跟 Grok Build 幾分鐘就能生出這些，真的太猛了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNH_mNIb0AEWMI6?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-14T12:02:15.304663+08:00",
+    "url": "https://x.com/elonmusk/status/2076722045136843026"
+  },
+  {
+    "id": "2076750536582529090",
+    "created_at": "2026-07-13T19:28:06.000Z",
+    "original": "SpaceX was founded on one powerful belief:\n\nA future where humanity is out exploring the stars is fundamentally more exciting than one where we are not\n\nEvery Falcon launch, every Starship test, and every step toward Mars is built around that belief\n\nThe goal is not just to reach",
+    "translation": "SpaceX的創立基於一個超有力量的信念：\n\n人類在星空中探索的未來，就是比我們沒有這麼做還要來得令人振奮\n\n每一次Falcon發射、每一次Starship測試、邁向火星的每一步，都是建立在這個信念之上\n\n目標不僅僅只是抵達...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNIX3fEaIAAP5WJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-14T12:02:25.060776+08:00",
+    "url": "https://x.com/elonmusk/status/2076750536582529090"
+  },
+  {
     "id": "2076796854973423971",
     "created_at": "2026-07-13T22:32:09.000Z",
     "original": "A reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in",
