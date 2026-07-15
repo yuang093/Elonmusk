@@ -1,5 +1,155 @@
 [
   {
+    "id": "2077414979364393305",
+    "created_at": "2026-07-15T15:28:22.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T00:01:40.107136+08:00",
+    "url": "https://x.com/elonmusk/status/2077414979364393305"
+  },
+  {
+    "id": "2077258240186794239",
+    "created_at": "2026-07-15T05:05:32.000Z",
+    "original": "I love Elon Musk",
+    "translation": "我超愛 Elon Musk 的啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T00:01:44.178777+08:00",
+    "url": "https://x.com/elonmusk/status/2077258240186794239"
+  },
+  {
+    "id": "2077418490042986824",
+    "created_at": "2026-07-15T15:42:19.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T00:01:48.355649+08:00",
+    "url": "https://x.com/elonmusk/status/2077418490042986824"
+  },
+  {
+    "id": "2077419076146630813",
+    "created_at": "2026-07-15T15:44:38.000Z",
+    "original": "Seems to be widespread agreement",
+    "translation": "好像大家都有共識了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T00:01:52.173386+08:00",
+    "url": "https://x.com/elonmusk/status/2077419076146630813"
+  },
+  {
+    "id": "2077154314989232197",
+    "created_at": "2026-07-14T22:12:35.000Z",
+    "original": "INSANE Drone Flyover of Tesla Giga Texas! \n\nI flew my FPV drone right over  Tesla’s massive Gigafactory in Texas and captured epic aerial views of  the factory.   \n\nThe sheer size of this place is mind-blowing!\n\nWatch the full flyover and  see why Giga Texas is one of the biggest",
+    "translation": "特斯拉 Giga Texas 瘋狂無人機航拍！\n\n我用穿越機直接飛過特斯拉在德州的巨大超級工廠，拍到了超猛的空拍畫面！\n\n這地方的規模真的扯到不行！\n\n看完整航拍影片，看看 Giga Texas 為什麼是數一數二大的工廠",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T00:02:01.017899+08:00",
+    "url": "https://x.com/elonmusk/status/2077154314989232197"
+  },
+  {
+    "id": "2077412964231991420",
+    "created_at": "2026-07-15T15:20:21.000Z",
+    "original": "Grok 4.5 just took the #1 spot on the Long-Horizon Terminal-Bench, outperforming Claude Fable 5, Claude Opus 4.8 and GPT-5.6-sol\n\nThis benchmark tests whether an AI agent can sustain progress across hundreds of dependent terminal actions for up to 90 minutes without losing the",
+    "translation": "Grok 4.5 直接空降 Long-Horizon Terminal-Bench 榜首，直接碾壓了 Claude Fable 5、Claude Opus 4.8 和 GPT-5.6-sol\n\n這個基準測試主要就是在看 AI 代理能不能在數百個相依的終端操作中維持進度，最久撐到 90 分鐘還不會崩壞XD",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNRjSKha4AA8xv2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T00:02:07.387234+08:00",
+    "url": "https://x.com/elonmusk/status/2077412964231991420"
+  },
+  {
+    "id": "2077415187846500563",
+    "created_at": "2026-07-15T15:29:11.000Z",
+    "original": "Grok 4.5 is #2 in FrontierSWE benchmark",
+    "translation": "Grok 4.5 在 FrontierSWE 基準測試拿到第二名",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNRIkFpbwAAI9s5?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T00:02:13.818672+08:00",
+    "url": "https://x.com/elonmusk/status/2077415187846500563"
+  },
+  {
+    "id": "2077415601610297535",
+    "created_at": "2026-07-15T15:30:50.000Z",
+    "original": "This is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. When we...",
+    "translation": "這是人類歷史上關鍵的一刻。通用人工智慧（AGI），一個具備大腦所有認知能力的系統，可能只剩下短短幾年了。當我們...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T00:02:20.490553+08:00",
+    "url": "https://x.com/elonmusk/status/2077415601610297535"
+  },
+  {
+    "id": "2077063479232795024",
+    "created_at": "2026-07-14T16:11:38.000Z",
+    "original": "An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!",
+    "translation": "Demis 的重要訊息。我們需要更多這種思維。這是個很好的提醒：我們的目標是建立一個促進創新、讓大家有選擇空間的前沿生態系，同時避免任何單一模型的發布就讓世界天翻地覆！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T00:02:27.885679+08:00",
+    "url": "https://x.com/elonmusk/status/2077063479232795024"
+  },
+  {
+    "id": "2077086951833063580",
+    "created_at": "2026-07-14T17:44:54.000Z",
+    "original": "This is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. When we...",
+    "translation": "這是人類歷史上超級關鍵的時刻啊。通用人工智慧（AGI），就是那種什麼都能做的大腦型系統，搞不好再幾年就要來了。當我們⋯⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T00:02:37.143706+08:00",
+    "url": "https://x.com/elonmusk/status/2077086951833063580"
+  },
+  {
     "id": "2077400333450400088",
     "created_at": "2026-07-15T14:30:10.000Z",
     "original": "Tesla has partnered with 7-Eleven Japan to begin installing Superchargers at the country’s largest convenience store chain.\n\nThe 150th Supercharger site in Japan was also the first of this new partnership, which opened on July 11 at the 7-Eleven Kawasaki Shimokodanaka East store",
