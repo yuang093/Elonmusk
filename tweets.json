@@ -1,5 +1,97 @@
 [
   {
+    "id": "2077042441698312486",
+    "created_at": "2026-07-14T14:48:02.000Z",
+    "original": "SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours\n\nSpaceX is moving at light speed right now\n\nFirst:\n• 27 Starlink satellites from Vandenberg\n\nThen, just 7 hours and 42 minutes later:\n• 29 more Starlink satellites from Florida",
+    "translation": "SpaceX在不到八小時內發射了兩枚獵鷹9號火箭，搭載56顆星鏈衛星\n\nSpaceX現在根本是以光速在運轉\n\n先是：\n• 從范登堡發射27顆星鏈衛星\n\n然後，僅僅7小時42分鐘後：\n• 從佛羅里達再發射29顆星鏈衛星",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNMjFLOXIAEnSrU?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T11:02:49.098649+08:00",
+    "url": "https://x.com/elonmusk/status/2077042441698312486"
+  },
+  {
+    "id": "2077204303568347312",
+    "created_at": "2026-07-15T01:31:13.000Z",
+    "original": "People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.",
+    "translation": "關於誰是最強的前沿模型大家可能吵翻天，但現在X的演算法是真的猛這點倒是共識啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-15T11:02:56.314262+08:00",
+    "url": "https://x.com/elonmusk/status/2077204303568347312"
+  },
+  {
+    "id": "2077217230895382826",
+    "created_at": "2026-07-15T02:22:35.000Z",
+    "original": "The next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity",
+    "translation": "新一代 Starlink 套件就是要給你可靠的高速家用網路啦！Starlink V5 體積更小、重量更輕，而且比 V4 更省電\n\n速度最高可達 375+ Mbps，V5 直接給你無縫連線體驗",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-15T11:03:03.948177+08:00",
+    "url": "https://x.com/elonmusk/status/2077217230895382826"
+  },
+  {
+    "id": "2077183806117920958",
+    "created_at": "2026-07-15T00:09:46.000Z",
+    "original": "Grok 4.5 Usage reset to 0% time to build.",
+    "translation": "Grok 4.5 使用量重置到 0%，衝啊！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNOh-BYaMAACiN1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T11:03:09.495520+08:00",
+    "url": "https://x.com/elonmusk/status/2077183806117920958"
+  },
+  {
+    "id": "2077152453557178625",
+    "created_at": "2026-07-14T22:05:11.000Z",
+    "original": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.\n\n• Size: 384 × 306 mm vs 594 × 383 mm\n• Weight: 1.1 kg vs 2.9 kg\n• Power: 35–50W vs 75–100W\n• Wind rating: 265 km/h vs 96+ km/h\n• Same 110° field of view\n• Speeds up to 375+ Mbps",
+    "translation": "快訊：新的 Starlink V5 比 V4 小了 48%、輕了 62%！\n\n• 尺寸：384 × 306 mm vs 594 × 383 mm\n• 重量：1.1 公斤 vs 2.9 公斤\n• 功耗：35–50W vs 75–100W\n• 抗風：265 km/h vs",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNOGulTaoAAiXxu?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T11:03:18.609762+08:00",
+    "url": "https://x.com/elonmusk/status/2077152453557178625"
+  },
+  {
+    "id": "2077219839626641676",
+    "created_at": "2026-07-15T02:32:57.000Z",
+    "original": "Grok 4.5 just ranked #2 on the FrontierSWE leaderboard, outperforming Claude Opus 4.8 and GPT-5.5\n\nIt delivers top-tier coding performance with exceptional speed, strong token efficiency and a much lower cost than many competing frontier models\n\nGrok 4.5 is already one of the",
+    "translation": "Grok 4.5 直接殺到 Fronti\n\nerSWE 排行榜第 2 名，打趴了 Claude Opus 4.8 和 GPT-5.5\n\n它的程式碼能力直接頂尖，速度快到嚇人，token 效率也很猛，而且價格比一堆同級 frontier 模型佛心多了\n\nGrok 4.5 已經是目前最強的之一...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNOX3doa8AAW1Ut?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-15T11:03:28.656229+08:00",
+    "url": "https://x.com/elonmusk/status/2077219839626641676"
+  },
+  {
     "id": "2076723840168632703",
     "created_at": "2026-07-13T17:42:01.000Z",
     "original": ": the Freedom Party is leading the polls massively at almost 40%\n\nGermany ",
