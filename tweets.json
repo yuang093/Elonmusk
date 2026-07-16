@@ -1,5 +1,139 @@
 [
   {
+    "id": "2077497569526084021",
+    "created_at": "2026-07-15T20:56:33.000Z",
+    "original": "When Obama called for voting for Macron, it was \"international solidarity\" and everyone found it normal.\n\nWhen Elon Musk tweets about a French candidate? Suddenly it's foreign interference, panic at the Arcom, and cries about sovereignty.\n\nFunny double standard.\n\nLaw No. 2024-850",
+    "translation": "Obama幫馬克宏催票 = 國際團結，大家都覺得完全正常\n\nElon Musk發個推文挺法國候選人？馬上變外國干預，法國最高視聽委員會（Arcom）緊急應變，全民高喊主權\n\n真有趣的雙重標準\n\n2024-850號法律",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNSVQ2SXkAApGA1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T12:09:55.595444+08:00",
+    "url": "https://x.com/elonmusk/status/2077497569526084021"
+  },
+  {
+    "id": "2077602771356811455",
+    "created_at": "2026-07-16T03:54:35.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T12:09:59.769684+08:00",
+    "url": "https://x.com/elonmusk/status/2077602771356811455"
+  },
+  {
+    "id": "2077492954340413776",
+    "created_at": "2026-07-15T20:38:12.000Z",
+    "original": "Elon Musk posted today about Marine Le Pen. Knowing him a bit, I don't think he's \"for\" her: he's picking the candidate who has the best shot at winning on an anti-immigration platform, because he's realized that's one of the big issues that needs fixing. Nothing more. Just a",
+    "translation": "Elon Musk 今天發文談論 Marine Le Pen。稍微了解他的話，我不覺得他「支持」她：他只是在選一個最有機會靠反移民政見贏的候選人，因為他意識到這是需要解決的重大問題之一。就這樣。沒別的了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNS7aSmXIAANU5h?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-16T12:10:06.912914+08:00",
+    "url": "https://x.com/elonmusk/status/2077492954340413776"
+  },
+  {
+    "id": "2077602969176903893",
+    "created_at": "2026-07-16T03:55:22.000Z",
+    "original": "Elon Musk",
+    "translation": "馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T12:10:17.905415+08:00",
+    "url": "https://x.com/elonmusk/status/2077602969176903893"
+  },
+  {
+    "id": "2077567218003427532",
+    "created_at": "2026-07-16T01:33:18.000Z",
+    "original": "Just vibe code slop and get it into production. Go as fast as you can. Later models will make the architecture beautiful in 6 months. That's not your job, human.",
+    "translation": "就 vibes code 狂出一堆 slop 然後直接上線。能多快就多快。之後的模型六個月內會幫你把架構整漂亮。那不是你的工作啦，人。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T12:10:34.061996+08:00",
+    "url": "https://x.com/elonmusk/status/2077567218003427532"
+  },
+  {
+    "id": "2077496523685056751",
+    "created_at": "2026-07-15T20:52:23.000Z",
+    "original": "We've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\n",
+    "translation": "我們已經開源 Grok Build 了，而且也幫所有使用者重置了使用上限。\n\n開源 Grok Build 就是希望大家都來幫忙打造一個可靠又強大的測試框架。來看看我們的程式碼吧，包括 Grok Build CLI 的 Git repo 哦。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T12:10:43.034160+08:00",
+    "url": "https://x.com/elonmusk/status/2077496523685056751"
+  },
+  {
+    "id": "2077501069127819347",
+    "created_at": "2026-07-15T21:10:27.000Z",
+    "original": "Grok Build is now fully open source, and SpaceXAI has made its privacy-first approach even stronger\n\nSpaceXAI has officially:\n• Open-sourced the Grok Build harness CLI\n• Reset usage limits for all users\n• Disabled data retention by default\n• Deleted all previously retained",
+    "translation": "Grok Build 現在完全開源啦，SpaceXAI 把隱私優先這塊做得更猛了\n\nSpaceXAI 正式宣布：\n• 開源了 Grok Build 工具 CLI\n• 重置所有用戶的使用限制\n• 預設關閉資料保留\n• 砍掉所有之前留存的資料",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T12:10:51.551091+08:00",
+    "url": "https://x.com/elonmusk/status/2077501069127819347"
+  },
+  {
+    "id": "2077440302676386009",
+    "created_at": "2026-07-15T17:08:59.000Z",
+    "original": "The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. \n\nMy photography is to hopefully provide an optimistic perspective of humanity's future among the stars.",
+    "translation": "對抗重力所需消耗的能量真的超級多，看了就會肅然起敬，但也同時提醒了大家人類到底有多猛。\n\n我的攝影作品就是希望可以帶給大家一個正向的視角，看看人類在星海之間的未來會長怎樣。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNSMp63a4AAkFkn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T12:11:02.968835+08:00",
+    "url": "https://x.com/elonmusk/status/2077440302676386009"
+  },
+  {
+    "id": "2077514657707991311",
+    "created_at": "2026-07-15T22:04:27.000Z",
+    "original": "BREAKING: SpaceXAI sues Grok user accused of creating illegal deepfakes.\n\nElon Musk previously warned that anyone using Grok to create illegal content would face the same consequences as someone uploading it.\n\n• A user created multiple accounts using false identities and",
+    "translation": "突發：SpaceXAI 控告被指控製作非法 deepfakes 的 Grok 用戶。\n\nElon Musk 之前就警告過，任何用 Grok 製作非法內容的人都會面臨與上傳者相同的後果。\n\n• 有用戶用假身份創建多個帳號並⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNTQkgJbsAAasRi?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T12:11:12.088805+08:00",
+    "url": "https://x.com/elonmusk/status/2077514657707991311"
+  },
+  {
     "id": "2077581166270435595",
     "created_at": "2026-07-16T02:28:44.000Z",
     "original": "Why are they so intent on self-destruction?",
