@@ -1,5 +1,37 @@
 [
   {
+    "id": "2077779871649181921",
+    "created_at": "2026-07-16T15:38:19.000Z",
+    "original": "It’s been very fast, and a pleasure to use. Nice work!",
+    "translation": "速度超快，用起來也很順手，做得好！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T02:03:09.558313+08:00",
+    "url": "https://x.com/elonmusk/status/2077779871649181921"
+  },
+  {
+    "id": "2077767492487774635",
+    "created_at": "2026-07-16T14:49:07.000Z",
+    "original": "Stacking Starship for Flight 13",
+    "translation": "疊Starship準備第13飛",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNWsWOBXUAAZpbn?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNWsYWDWUAAiucx?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNWsYpNXUAAK8-R?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-17T01:08:22.565664+08:00",
+    "url": "https://x.com/elonmusk/status/2077767492487774635"
+  },
+  {
     "id": "2077496574301847827",
     "created_at": "2026-07-15T20:52:35.000Z",
     "original": ", we are redefining access to education—bringing seamless, uninterrupted learning to 167 classrooms across 26 districts. By bridging the digital divide, we are breaking down geographical barriers and opening the door to quality education for 30,000",
