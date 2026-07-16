@@ -1,5 +1,112 @@
 [
   {
+    "id": "2077825887962337434",
+    "created_at": "2026-07-16T18:41:10.000Z",
+    "original": "I continue to be extremely impressed by Grok 4.5.\n\nIt outperforms Opus at CAD.\n\nExcellent for fast builds and quickly editing features.",
+    "translation": "Grok 4.5 持續讓我驚艷\n\n在 CAD 上直接碾壓 Opus\n\n很適合快速開發和快速改功能",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T06:02:33.664750+08:00",
+    "url": "https://x.com/elonmusk/status/2077825887962337434"
+  },
+  {
+    "id": "2077867371956412545",
+    "created_at": "2026-07-16T21:26:01.000Z",
+    "original": "Starlink's high-speed, low-latency internet is now available in Côte d'Ivoire! ",
+    "translation": "Starlink的高速、低延遲網路現在在象牙海岸可以用了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNW5FNNacAA-yRy?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-17T06:02:38.701680+08:00",
+    "url": "https://x.com/elonmusk/status/2077867371956412545"
+  },
+  {
+    "id": "2077819549991547320",
+    "created_at": "2026-07-16T18:15:59.000Z",
+    "original": "Love the new Starship Schematics T-shirt sold by SpaceX",
+    "translation": "愛死SpaceX新出的星艦示意圖T恤了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNXl3o4aQAE1NSO?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNXl3o4agAAlCch?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-17T06:02:44.451179+08:00",
+    "url": "https://x.com/elonmusk/status/2077819549991547320"
+  },
+  {
+    "id": "2077875206702448814",
+    "created_at": "2026-07-16T21:57:08.000Z",
+    "original": "Hello, Uruguay – we're here! ",
+    "translation": "哈囉，烏拉圭——我們來了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T06:02:48.268240+08:00",
+    "url": "https://x.com/elonmusk/status/2077875206702448814"
+  },
+  {
+    "id": "2077867066556547097",
+    "created_at": "2026-07-16T21:24:48.000Z",
+    "original": "Starship launch window opens at 5:45pm Texas time",
+    "translation": "德州時間下午 5:45，Starship 的發射窗口要開了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNWqJ_TXcAADsAJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-17T06:02:52.160857+08:00",
+    "url": "https://x.com/elonmusk/status/2077867066556547097"
+  },
+  {
+    "id": "2077862536876023911",
+    "created_at": "2026-07-16T21:06:48.000Z",
+    "original": "Impressive",
+    "translation": "太猛了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T05:08:20.327513+08:00",
+    "url": "https://x.com/elonmusk/status/2077862536876023911"
+  },
+  {
+    "id": "2077832874183860404",
+    "created_at": "2026-07-16T19:08:56.000Z",
+    "original": "Kimi K3 scores 57 on the Artificial Analysis Intelligence Index. Its intelligence is comparable to Opus 4.8 and GPT-5.5 but remains behind Fable 5 and GPT-5.6 Sol. Moonshot AI has expressed plans to release the 2.8T parameter model's weights, which would make it the leading open",
+    "translation": "Kimi K3 在 Artificial Analysis Intelligence Index 拿到 57 分，實力跟 Opus 4.8 和 GPT-5.5 差不多，但還是落後 Fable 5 和 GPT-",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNXwpcUaUAAcT8l?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-17T05:08:25.400310+08:00",
+    "url": "https://x.com/elonmusk/status/2077832874183860404"
+  },
+  {
     "id": "2077803428512969113",
     "created_at": "2026-07-16T17:11:55.000Z",
     "original": " are launching a trial in a limited area of the country to bring connectivity where it never reached before, paving the way for a one-of-a-kind mobile coverage in Italy.\n\nWhere there’s no terrestrial network",
