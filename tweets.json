@@ -1,5 +1,49 @@
 [
   {
+    "id": "2077495860003299725",
+    "created_at": "2026-07-15T20:49:45.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T08:01:15.917819+08:00",
+    "url": "https://x.com/elonmusk/status/2077495860003299725"
+  },
+  {
+    "id": "2077421474982531507",
+    "created_at": "2026-07-15T15:54:10.000Z",
+    "original": "One of the interns just tried zyn for the first time and can’t stop repeating “I know where I am at all times because I know where I’m not” in between hiccups",
+    "translation": "某個實習生剛剛第一次試了Zyn，現在就一直在那邊打嗝邊重複「我隨時都知道我在哪裡，因為我知道我在哪裡不在」😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-16T08:01:21.196717+08:00",
+    "url": "https://x.com/elonmusk/status/2077421474982531507"
+  },
+  {
+    "id": "2077512540431466565",
+    "created_at": "2026-07-15T21:56:02.000Z",
+    "original": "I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local):\n\nCore (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI.\n\nEverything else is off by",
+    "translation": "幫你檢查完開源的 Grok Build 了，不用謝。直接告訴你它會傳什麼資料出去（以及什麼會留在本地）：\n\n核心功能（躲不掉）→ 你的 prompt、對話還有 tool calls 都會送到 xAI 的 inference API。這就是 CLI 的意義，沒辦法。\n\n其他東西預設都是 off 的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNTNziSWoAEz-_U?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-16T08:01:27.436503+08:00",
+    "url": "https://x.com/elonmusk/status/2077512540431466565"
+  },
+  {
     "id": "2077495635687723408",
     "created_at": "2026-07-15T20:48:52.000Z",
     "original": "We've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\n",
