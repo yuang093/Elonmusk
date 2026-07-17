@@ -1,5 +1,194 @@
 [
   {
+    "id": "2078178473613369472",
+    "created_at": "2026-07-17T18:02:13.000Z",
+    "original": "Elon's claim that SpaceX will be worth more than Earth sounds insane until you realize that all owned material wealth on Earth is about $600 trillion and that every valuable resource on Earth exists in near infinite quantities in space.",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:01:53.085822+08:00",
+    "url": "https://x.com/elonmusk/status/2078178473613369472"
+  },
+  {
+    "id": "2078194851644838363",
+    "created_at": "2026-07-17T19:07:18.000Z",
+    "original": "There won’t be dollars or scarcity of goods & services for individual consumption in the future",
+    "translation": "未來壓根兒就不會有美元這玩意兒，也不用担心個人消費的東西和服務會不夠用啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:01:58.010173+08:00",
+    "url": "https://x.com/elonmusk/status/2078194851644838363"
+  },
+  {
+    "id": "2078109679373430938",
+    "created_at": "2026-07-17T13:28:51.000Z",
+    "original": "IMHO this is primarily because the *benefits* of AI are still spread on an *extreme* power law distribution. A few people, primarily in tech, are reaping enormous windfalls, while for the vast majority of the population AI seems extremely nebulous, at best.",
+    "translation": "個認為這主要是因為 AI 的*好處*目前還是呈現一個*極端*的冪律分佈。只有一小撮人，主要是科技業的，賺到超級大的甜頭，但對大多數人來說，AI 這東西超級抽象，頂多就感覺「哦有這東西」而已。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:02:05.219086+08:00",
+    "url": "https://x.com/elonmusk/status/2078109679373430938"
+  },
+  {
+    "id": "2078194912286130462",
+    "created_at": "2026-07-17T19:07:32.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:02:10.386708+08:00",
+    "url": "https://x.com/elonmusk/status/2078194912286130462"
+  },
+  {
+    "id": "2078121340352012765",
+    "created_at": "2026-07-17T14:15:11.000Z",
+    "original": "Great episode coming \n\nThe past two weeks has seen GLM 5.2, thinking machines, kimi and grok 4.5 — and that’s just the big leagues \n\nPace of innovation is blistering and accelerating\n\nWe’re blowing past AGI",
+    "translation": "精彩的一集要來囉\n\n過去兩週 GLM 5.2、Thinking Machines、Kimi 還有 Grok 4.5 接連出鞘 — 這還只是巨頭們的局\n\n創新速度簡直起飛還越來越猛\n\n我們直接碾過AGI了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:02:20.230915+08:00",
+    "url": "https://x.com/elonmusk/status/2078121340352012765"
+  },
+  {
+    "id": "2078195261315133534",
+    "created_at": "2026-07-17T19:08:55.000Z",
+    "original": "Interesting",
+    "translation": "有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:02:24.457561+08:00",
+    "url": "https://x.com/elonmusk/status/2078195261315133534"
+  },
+  {
+    "id": "2078102070482153717",
+    "created_at": "2026-07-17T12:58:37.000Z",
+    "original": "I've been using Kimi K3 for ~16 hours now.\n\nThe model is clearly good at a lot of different things (especially frontend), but non obvious reason why people are enjoying it so much is that it clearly does not follow the same rules in terms of safeguards and copyright.\n\nKimi will",
+    "translation": "我玩 Kimi K3 大概 16 個小時了。\n\n這模型在很多不同的事情上都很猛（尤其是前端），但大家這麼愛用的不那麼明顯的原因是，它顯然在安全限制和版權方面沒有遵守同樣的規則。\n\nKimi 會...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNbmwk1W0AAVctI?format=png&name=large"
+    ],
+    "fetched_at": "2026-07-18T04:02:35.076265+08:00",
+    "url": "https://x.com/elonmusk/status/2078102070482153717"
+  },
+  {
+    "id": "2078195617877143895",
+    "created_at": "2026-07-17T19:10:20.000Z",
+    "original": "Grok 4.5’s efficiency is ridiculous\n\nOn Artificial Analysis, it costs just $0.31 per Intelligence Index task while delivering frontier intelligence\n\nFor comparison:\n• Claude Fable 5 (max): $2.75\n• Claude Opus 4.8 (max): $1.80\n• GPT-5.6 Sol (max): $1.04\n• Kimi K3: $0.95\n•",
+    "translation": "Grok 4.5 的效率根本離譜\n\n在 Artificial Analysis 上，它每做一個 Intelligence Index 任務只要 0.31 美元，還能給你頂尖智能\n\n來做個對比：\n• Claude Fable 5（max）：$2.75\n• Claude Opus 4.8（max）：$1.80\n• GPT-5.6 Sol（max）：$1.04\n• Kimi K3：$0.95",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNci8GLacAApvhE?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T04:02:43.652307+08:00",
+    "url": "https://x.com/elonmusk/status/2078195617877143895"
+  },
+  {
+    "id": "2078200590765535431",
+    "created_at": "2026-07-17T19:30:06.000Z",
+    "original": "Grok Build and Grok 4.5 top user model preference x.com/kilocode/statu…",
+    "translation": "Grok Build 還有 Grok 4.5 直接拿下用戶模型偏好第一名 x.com/kilocode/statu…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T04:02:47.969734+08:00",
+    "url": "https://x.com/elonmusk/status/2078200590765535431"
+  },
+  {
+    "id": "2078162023657922728",
+    "created_at": "2026-07-17T16:56:51.000Z",
+    "original": "Interesting",
+    "translation": "有點意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T03:07:50.183345+08:00",
+    "url": "https://x.com/elonmusk/status/2078162023657922728"
+  },
+  {
+    "id": "2078110934740980193",
+    "created_at": "2026-07-17T13:33:50.000Z",
+    "original": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that",
+    "translation": "Kimi K3 可能會是 AI 領域的一個重要轉捩點。對 Anthropic 和 OpenAI 來說可能不太妙，但對世界上幾乎所有其他公司來說都是利多。我是非常認真這麼說的。雖然真正的「斯普特尼克時刻」會是一個開源前沿模型...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNbu4bhWoAATDPF?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HNbu4bjXkAADZnh?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T03:07:55.935776+08:00",
+    "url": "https://x.com/elonmusk/status/2078110934740980193"
+  },
+  {
+    "id": "2078194195924136159",
+    "created_at": "2026-07-17T19:04:41.000Z",
+    "original": "I said SpaceX will be worth more than Earth if we achieve our goals. \n\nObviously true.",
+    "translation": "我說如果我們達成目標，SpaceX 的價值會比地球還高。\n\n廢話，這不是很明顯嗎。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T03:08:00.215578+08:00",
+    "url": "https://x.com/elonmusk/status/2078194195924136159"
+  },
+  {
+    "id": "2078116343879245833",
+    "created_at": "2026-07-17T13:55:20.000Z",
+    "original": "Our lifespan is a session. Our memory is a context.\nOur senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our",
+    "translation": "我們的人生是一個工作階段\n我們的記憶是上下文\n我們的感官是輸入流\n我們的思維是推理步驟\n我們的決定是工具調用\n我們的習慣是系統提示詞\n我們的目標是目標函式\n我們的情緒是獎勵訊號\n我們的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T03:08:09.724878+08:00",
+    "url": "https://x.com/elonmusk/status/2078116343879245833"
+  },
+  {
     "id": "2077938572158550041",
     "created_at": "2026-07-17T02:08:56.000Z",
     "original": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.",
