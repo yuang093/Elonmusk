@@ -1,5 +1,63 @@
 [
   {
+    "id": "2078059241701601570",
+    "created_at": "2026-07-17T10:08:26.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T19:02:03.113183+08:00",
+    "url": "https://x.com/elonmusk/status/2078059241701601570"
+  },
+  {
+    "id": "2077753532409647185",
+    "created_at": "2026-07-16T13:53:39.000Z",
+    "original": "SECRETARY RUBIO: \"This is a distinctive and unique evil. It has always been driven by a hatred, above all else, for civilization itself.\"",
+    "translation": "魯比歐國務卿：「這是一種很獨特的邪惡。它的本質就是恨這個文明本身。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T19:02:15.780534+08:00",
+    "url": "https://x.com/elonmusk/status/2077753532409647185"
+  },
+  {
+    "id": "2078067051390746713",
+    "created_at": "2026-07-17T10:39:28.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-17T19:02:19.751350+08:00",
+    "url": "https://x.com/elonmusk/status/2078067051390746713"
+  },
+  {
+    "id": "2078062254046544149",
+    "created_at": "2026-07-17T10:20:24.000Z",
+    "original": "Turns out Elon was completely right\nThe coding moat is disappearing in real time",
+    "translation": "所以 Elon 說的完全是對的\ncoding moat 正在實時蒸發中",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNbCmKwaAAAYkqs?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-17T19:02:25.950141+08:00",
+    "url": "https://x.com/elonmusk/status/2078062254046544149"
+  },
+  {
     "id": "2078009334609461603",
     "created_at": "2026-07-17T06:50:07.000Z",
     "original": "Elon Musk",
