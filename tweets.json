@@ -1,5 +1,79 @@
 [
   {
+    "id": "2078243454203658356",
+    "created_at": "2026-07-17T22:20:26.000Z",
+    "original": "I think you’re right",
+    "translation": "我覺得你說得對",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T07:01:07.883018+08:00",
+    "url": "https://x.com/elonmusk/status/2078243454203658356"
+  },
+  {
+    "id": "2078161974408454516",
+    "created_at": "2026-07-17T16:56:39.000Z",
+    "original": " is now #1 in the Frontend Code Arena with 1679 pts, surpassing Claude Fable 5.\n\nThis is a 17-place jump from Kimi-k2.6 (#18 -> #1).\n\nIn Frontend, Kimi-K3 ranked #1 in 6 of 7 domains: Brand & Marketing, Reference-Based Design, Data & Analytics, ",
+    "translation": "目前以1679分登上Frontend Code Arena冠軍寶座，超越了Claude Fable 5。\n\n從Kimi-k2.6的第18名一口氣衝到第1名，進步了17個名次诶！\n\n在Frontend項目中，Kimi-K3在7個領域中有6個都拿下第一：品牌行銷、參考式設計、數據與分析、",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNXpi8UaIAAM6Ag?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T07:01:14.602434+08:00",
+    "url": "https://x.com/elonmusk/status/2078161974408454516"
+  },
+  {
+    "id": "2078244138626031912",
+    "created_at": "2026-07-17T22:23:09.000Z",
+    "original": "The survival probability of firms who maintain a significant short position in SpaceX over time is very low",
+    "translation": "那些長期維持著 SpaceX 大量空頭部位的公司的存活率低到不行",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T07:01:16.485597+08:00",
+    "url": "https://x.com/elonmusk/status/2078244138626031912"
+  },
+  {
+    "id": "2078207389073895676",
+    "created_at": "2026-07-17T19:57:07.000Z",
+    "original": "The guys shorting SpaceX right now went to Harvard, Wharton, and Stanford. Half a million dollars in tuition, perfect résumés, Excel models with 40 tabs. And a capacity for foresight strictly equal to zero.\n\nToday, Elon responded to them in one sentence:\n\n\"I said SpaceX will be",
+    "translation": "那些現在在放空 SpaceX 的家伙，哈佛、華頓、史丹佛畢業的。學費50萬美元，履歷完美，Excel 模型做了40個分頁。結果預知未來的能力？零。\n\n今天馬斯克一句話回應他們：\n\n「我說過 SpaceX 會",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T07:01:21.294550+08:00",
+    "url": "https://x.com/elonmusk/status/2078207389073895676"
+  },
+  {
+    "id": "2078250748920414692",
+    "created_at": "2026-07-17T22:49:25.000Z",
+    "original": "The FrontierCode leaderboard is now live: a dedicated page that tracks which models are writing code you’d actually merge. \n\nAll scores — including Grok 4.5 and Inkling — are available, along with full methodology and sample tasks.",
+    "translation": "FrontierCode 排行榜上線啦：一個專門追蹤哪些模型寫出來是你真的會 merge 的 code 的頁面\n\n所有分數 — 包括 Grok 4.5 和 Inkling — 都能看，還有完整的方法論和 sample",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNdZyjJXsAAMS53?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T07:01:29.202922+08:00",
+    "url": "https://x.com/elonmusk/status/2078250748920414692"
+  },
+  {
     "id": "2078178473613369472",
     "created_at": "2026-07-17T18:02:13.000Z",
     "original": "Elon's claim that SpaceX will be worth more than Earth sounds insane until you realize that all owned material wealth on Earth is about $600 trillion and that every valuable resource on Earth exists in near infinite quantities in space.",
