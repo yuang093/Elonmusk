@@ -1,5 +1,50 @@
 [
   {
+    "id": "2078495446322774405",
+    "created_at": "2026-07-18T15:01:45.000Z",
+    "original": "Interesting",
+    "translation": "有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-19T06:08:18.119219+08:00",
+    "url": "https://x.com/elonmusk/status/2078495446322774405"
+  },
+  {
+    "id": "2078334825442722173",
+    "created_at": "2026-07-18T04:23:30.000Z",
+    "original": "Kimi K3 scores 57 on the Artificial Analysis Intelligence Index. Its intelligence is comparable to Opus 4.8 and GPT-5.5 but remains behind Fable 5 and GPT-5.6 Sol. Moonshot AI has expressed plans to release the 2.8T parameter model's weights, which would make it the leading open",
+    "translation": "Kimi K3 在 Artificial Analysis 智慧指數拿下 57 分，智慧程度跟 Opus 4.8 和 GPT-5.5 差不多，但還是落後於 Fable 5 和 GPT-5.6 Sol。Moonshot AI 表示將會開源這個 2.8T 參數模型的權重，這樣一來就會成為領先的開源...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNe6R3rW4AAETyf?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HNXwpcUaUAAcT8l?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-07-19T06:08:22.982533+08:00",
+    "url": "https://x.com/elonmusk/status/2078334825442722173"
+  },
+  {
+    "id": "2078521506007560474",
+    "created_at": "2026-07-18T16:45:18.000Z",
+    "original": "Robot fights are fun ",
+    "translation": "機人大戰真的很好玩",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-19T06:08:26.916591+08:00",
+    "url": "https://x.com/elonmusk/status/2078521506007560474"
+  },
+  {
     "id": "2078397140435390690",
     "created_at": "2026-07-18T08:31:07.000Z",
     "original": "Elon Musk",
