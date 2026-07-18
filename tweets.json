@@ -1,5 +1,123 @@
 [
   {
+    "id": "2078270095332155526",
+    "created_at": "2026-07-18T00:06:17.000Z",
+    "original": "Indeed (sigh)",
+    "translation": "真的（嘆氣）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T10:02:07.333770+08:00",
+    "url": "https://x.com/elonmusk/status/2078270095332155526"
+  },
+  {
+    "id": "2078131363316744347",
+    "created_at": "2026-07-17T14:55:01.000Z",
+    "original": "I don't invest in space stocks because I cover space companies, or pretend to understand irrational market moves. But the idea that a space company stock would fall after an abort, which actually saved the rocket shows the company's procedures work as intended, is pretty dumb.",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T10:02:21.538731+08:00",
+    "url": "https://x.com/elonmusk/status/2078131363316744347"
+  },
+  {
+    "id": "2078289996323148076",
+    "created_at": "2026-07-18T01:25:22.000Z",
+    "original": "Our 2T model, which is better than our 1.5T in every way, will finish initial training next week. It might be able to exceed Kimi, but with speed and token efficiency close to our 1.5T (aka Grok 4.5).",
+    "translation": "我們的 2T 模型，各方面都比 1.5T 強，下週初始訓練就結束了。搞不好能超過 Kimi，但速度和 token 效率差不多跟我們的 1.5T（即 Grok 4.5）一個水準。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T10:02:27.827777+08:00",
+    "url": "https://x.com/elonmusk/status/2078289996323148076"
+  },
+  {
+    "id": "2078290709870686300",
+    "created_at": "2026-07-18T01:28:12.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T10:02:30.846202+08:00",
+    "url": "https://x.com/elonmusk/status/2078290709870686300"
+  },
+  {
+    "id": "2078269765144219804",
+    "created_at": "2026-07-18T00:04:59.000Z",
+    "original": "Yes, this is real, and we are not ready for what’s coming in the next 10 years.",
+    "translation": "對，這是真的，而且我們壓根還沒準備好面對接下來 10 年要來的一切。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T10:02:39.829184+08:00",
+    "url": "https://x.com/elonmusk/status/2078269765144219804"
+  },
+  {
+    "id": "2078239768459030811",
+    "created_at": "2026-07-17T22:05:47.000Z",
+    "original": "Grok 4.5 is only 1.5T parameters.\n\nKimi K3 is 2.8T... and costs 3× more per task.\n\nSpaceXAI cracked intelligence efficiency.\n\nNow imagine Grok at 3T.",
+    "translation": "Grok 4.5 只有 1.5 兆參數。\n\nKimi K3 有 2.8 兆...而且每個任務貴了 3 倍。\n\nxAI 直接把智慧效率玩出來了。\n\n現在試想 Grok 跑到 3 兆參數。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNdgcZaXYAAyNqK?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T10:02:46.750687+08:00",
+    "url": "https://x.com/elonmusk/status/2078239768459030811"
+  },
+  {
+    "id": "2078290383977562472",
+    "created_at": "2026-07-18T01:26:54.000Z",
+    "original": "you should give Grok 4.5 a try",
+    "translation": "不如試試看 Grok 4.5 吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNdP9_oXMAEQo58?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T10:02:51.647744+08:00",
+    "url": "https://x.com/elonmusk/status/2078290383977562472"
+  },
+  {
+    "id": "2078291115858624574",
+    "created_at": "2026-07-18T01:29:49.000Z",
+    "original": "Grok TTS just took the top spot on The Humanness Index\n\nIt scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating\n\nEven the cost difference is insane:\n• Grok TTS: $15\n• Eleven v3: $100\n\nGrok delivers the higher",
+    "translation": "Grok TTS 直接空降 Humanness Index 冠軍\n\n拿到了 94 分的人性化評分...只比人類基準 100 低區區 6 分，直接拿下最高模型評級\n\n而且成本差距更是離譜：\n• Grok TTS：15 美元\n• Eleven v3：100 美元\n\nGrok 直接碾壓取勝",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNeSPiQbUAEm8zJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T10:02:56.738363+08:00",
+    "url": "https://x.com/elonmusk/status/2078291115858624574"
+  },
+  {
     "id": "2078268915201782023",
     "created_at": "2026-07-18T00:01:36.000Z",
     "original": "Elon Musk",
