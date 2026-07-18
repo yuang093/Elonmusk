@@ -1,5 +1,107 @@
 [
   {
+    "id": "2078397140435390690",
+    "created_at": "2026-07-18T08:31:07.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T23:01:41.120069+08:00",
+    "url": "https://x.com/elonmusk/status/2078397140435390690"
+  },
+  {
+    "id": "2078370255123120346",
+    "created_at": "2026-07-18T06:44:17.000Z",
+    "original": "would 2 million dollars fix most of your problems?",
+    "translation": "兩百萬能搞定你大部分的問題嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T23:01:45.767259+08:00",
+    "url": "https://x.com/elonmusk/status/2078370255123120346"
+  },
+  {
+    "id": "2078491630978449454",
+    "created_at": "2026-07-18T14:46:35.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T23:01:47.734189+08:00",
+    "url": "https://x.com/elonmusk/status/2078491630978449454"
+  },
+  {
+    "id": "2078238915094343871",
+    "created_at": "2026-07-17T22:02:23.000Z",
+    "original": "One of the more subtle pitfalls of starting a startup when you're too young is that you can't hire well, because you haven't had enough experience to be a good judge of people. You can judge technical ability but not character, so you end up hiring smart jerks.",
+    "translation": "太",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T23:01:58.566792+08:00",
+    "url": "https://x.com/elonmusk/status/2078238915094343871"
+  },
+  {
+    "id": "2078488424894390501",
+    "created_at": "2026-07-18T14:33:51.000Z",
+    "original": "From Teddy - PolyBackTest.com",
+    "translation": "來自 Teddy - PolyBackTest.com",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T23:02:04.318820+08:00",
+    "url": "https://x.com/elonmusk/status/2078488424894390501"
+  },
+  {
+    "id": "2078308274399834157",
+    "created_at": "2026-07-18T02:38:00.000Z",
+    "original": "MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.\n\n1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast",
+    "translation": "MARC ANDREESSEN上ROGAN的節目聊了超過3小時。以下是值得你注意的17件事。\n\n1. 在他看來，AGI已經來了。他說大約3個月前，隨著GPT-5.5、Claude 4.6、Gemini 3和Grok 4.3的問世，這條線已經被跨過了，但沒人注意到，因為這個領域發展太快了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNXkmwUXsAA6EF0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T23:02:13.196813+08:00",
+    "url": "https://x.com/elonmusk/status/2078308274399834157"
+  },
+  {
+    "id": "2078495013936206287",
+    "created_at": "2026-07-18T15:00:02.000Z",
+    "original": "Just press Ctrl + Space in Grok Build and start talking\n\nGrok's Speech-to-Text is incredibly accurate, transcribing your prompts in real time as you speak\n\nIt makes interacting with your coding agents feel completely natural\n\nInstead of pausing to type every instruction, you can",
+    "translation": "就在 Grok Build 裡按 Ctrl + Space 然後開始說話\n\nGrok 的語音轉文字超級準，說話同時就即時把你的 prompt 轉成文字\n\n這讓你跟 coding agents 互動變得超級自然\n\n不用停下來打字下指令了，你可以",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNegnoYawAAfaf5?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T23:02:20.020554+08:00",
+    "url": "https://x.com/elonmusk/status/2078495013936206287"
+  },
+  {
     "id": "2078367770899542088",
     "created_at": "2026-07-18T06:34:25.000Z",
     "original": "GROK 4.5 IS NOW ON THE FRONTIERCODE LEADERBOARD\nCognition just launched the FrontierCode leaderboard — a new benchmark specifically designed to track which AI models are writing code you’d actually merge into production.\nUnlike many synthetic benchmarks, FrontierCode focuses on",
