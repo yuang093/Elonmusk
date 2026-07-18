@@ -1,5 +1,107 @@
 [
   {
+    "id": "2078268915201782023",
+    "created_at": "2026-07-18T00:01:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T08:07:49.954358+08:00",
+    "url": "https://x.com/elonmusk/status/2078268915201782023"
+  },
+  {
+    "id": "2078201526619910157",
+    "created_at": "2026-07-17T19:33:49.000Z",
+    "original": "JUST IN: Olive Garden announces customers must show photo ID to use its Never-Ending Pasta Pass.",
+    "translation": "獨家：Olive Garden宣布，顧客使用「終極義大利麵吃到飽Pass」時必須出示照片證件。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T08:08:00.100423+08:00",
+    "url": "https://x.com/elonmusk/status/2078201526619910157"
+  },
+  {
+    "id": "2078269288138350773",
+    "created_at": "2026-07-18T00:03:05.000Z",
+    "original": "We live in the most interesting times",
+    "translation": "活在這個最有趣的時代",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T08:08:06.115026+08:00",
+    "url": "https://x.com/elonmusk/status/2078269288138350773"
+  },
+  {
+    "id": "2078165665278730490",
+    "created_at": "2026-07-17T17:11:19.000Z",
+    "original": "The frontier has opened up: four frontier launches in eight days - Grok 4.5, GPT-5.6, Muse Spark 1.1, and yesterday Kimi K3; six labs now have a model scoring >50 on the Artificial Analysis Intelligence Index, up from two in early June\n\n",
+    "translation": "前沿戰場開打了：八天四連發——Grok 4.5、GPT-5.6、Muse Spark 1.1，再到昨天的 Kimi K3；現在有六間實驗室的模型在 Artificial Analysis Intelligence Index 突破 50 分，而六月初才只有兩間。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNcf2upbMAALvLu?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T08:08:16.916837+08:00",
+    "url": "https://x.com/elonmusk/status/2078165665278730490"
+  },
+  {
+    "id": "2078269585187340556",
+    "created_at": "2026-07-18T00:04:16.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T08:08:20.855712+08:00",
+    "url": "https://x.com/elonmusk/status/2078269585187340556"
+  },
+  {
+    "id": "2078269475351069176",
+    "created_at": "2026-07-18T00:03:49.000Z",
+    "original": "you awake from a deep trance, \nstep away from the phone \nto see your friends & family",
+    "translation": "從深度TRANCE中醒來\n放下手機\n去見見朋友和家人吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-18T08:08:27.905119+08:00",
+    "url": "https://x.com/elonmusk/status/2078269475351069176"
+  },
+  {
+    "id": "2078268554353234388",
+    "created_at": "2026-07-18T00:00:10.000Z",
+    "original": "Elon Musk reposted",
+    "translation": "馬斯克轉發了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNd-PIWXMAA0h0C?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-18T08:08:33.286853+08:00",
+    "url": "https://x.com/elonmusk/status/2078268554353234388"
+  },
+  {
     "id": "2078250204860457170",
     "created_at": "2026-07-17T22:47:15.000Z",
     "original": "Actually, yes",
