@@ -1,5 +1,80 @@
 [
   {
+    "id": "2078976034536399049",
+    "created_at": "2026-07-19T22:51:26.000Z",
+    "original": "Won’t be long before that can be done",
+    "translation": "很快就會搞定的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-20T08:02:04.390419+08:00",
+    "url": "https://x.com/elonmusk/status/2078976034536399049"
+  },
+  {
+    "id": "2078745602490335342",
+    "created_at": "2026-07-19T07:35:47.000Z",
+    "original": "Grok Build is becoming a complete environment for building, deploying and managing real-world applications\n\nIts plugin marketplace brings the entire development stack into one connected workflow:\n\n• Vercel for deployment\n• Sentry for monitoring\n• Chrome DevTools for debugging",
+    "translation": "Grok Build 正在成為一個可以建構、部署、管理實際應用的完整環境\n\n它的插件市集把整個開發工具鏈整合成一個流暢的工作流程：\n\n• Vercel 用來部署\n• Sentry 用來監控\n• Chrome DevTools 用來除錯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNkwG9AXsAASr9o?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HNf4Arba4AE67al?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-07-20T08:02:11.266247+08:00",
+    "url": "https://x.com/elonmusk/status/2078745602490335342"
+  },
+  {
+    "id": "2078980353549586857",
+    "created_at": "2026-07-19T23:08:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-20T08:02:13.722887+08:00",
+    "url": "https://x.com/elonmusk/status/2078980353549586857"
+  },
+  {
+    "id": "2078975578879713522",
+    "created_at": "2026-07-19T22:49:38.000Z",
+    "original": " walks on the field of MetLife Stadium ",
+    "translation": "走在MetLife Stadium的球場上",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-20T08:02:19.111668+08:00",
+    "url": "https://x.com/elonmusk/status/2078975578879713522"
+  },
+  {
+    "id": "2078987522927972695",
+    "created_at": "2026-07-19T23:37:05.000Z",
+    "original": "\n\nGrok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier.\n\nGrok keeps winning. ",
+    "translation": "Grok 拿下了 91.3%，在五種語言的 23 個現實世界軟體任務中搞定了 21 個，直接打趴 Claude Fable 5 和 GPT-5.6 Sol，而且還順便把成本效益的領先地位也收入囊中。\n\nGrok 持續制霸中。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNnPIyHb0AA5_Us?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-20T08:02:25.562049+08:00",
+    "url": "https://x.com/elonmusk/status/2078987522927972695"
+  },
+  {
     "id": "2078874454269042794",
     "created_at": "2026-07-19T16:07:48.000Z",
     "original": "Hey Mark, you're worth around $35 million while continuing to land major Hollywood roles. You could donate $25-30 million tomorrow and still live an extremely comfortable life for the rest of your days.\n\nAt a conservative 4% safe withdrawal rate, even a remaining $5-10 million x.com/MarkRuffalo/st…",
