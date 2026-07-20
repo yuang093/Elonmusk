@@ -1,5 +1,36 @@
 [
   {
+    "id": "2079261553136734239",
+    "created_at": "2026-07-20T17:45:59.000Z",
+    "original": "Grok for Excel is live.\n\nUse Grok 4.5 to build financial models, analyze market data, and generate charts and graphs.\n\nTry it now ",
+    "translation": "Grok for Excel 上線啦！\n\n用 Grok 4.5 來建立財務模型、分析市場數據、生成各種圖表。\n\n現在就去試用吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-21T02:01:54.657838+08:00",
+    "url": "https://x.com/elonmusk/status/2079261553136734239"
+  },
+  {
+    "id": "2079240370576146875",
+    "created_at": "2026-07-20T16:21:49.000Z",
+    "original": "Grok 4.5 is really good at React.\n\nIt's also very affordable and token efficient!",
+    "translation": "Grok 4.5 真的很會 React欸\n\n而且價格超佛、token 用量又省！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNrwj04XEAAv0xA?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNrxaKoW4AAfmbd?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-21T02:02:00.041683+08:00",
+    "url": "https://x.com/elonmusk/status/2079240370576146875"
+  },
+  {
     "id": "2079196565537993102",
     "created_at": "2026-07-20T13:27:45.000Z",
     "original": "Today is the 57th anniversary of Apollo 11 Moon Landing.\n\nIn 1969: most powerful technology on Earth = Apollo 11.\nIn 2026: most powerful technology on Earth = 2-trillion-parameter AI.\n\nWhich one changes civilization more?",
