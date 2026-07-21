@@ -1,5 +1,37 @@
 [
   {
+    "id": "2079597423945789475",
+    "created_at": "2026-07-21T16:00:37.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNw21hiaAAAdg3J?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-22T00:01:32.636606+08:00",
+    "url": "https://x.com/elonmusk/status/2079597423945789475"
+  },
+  {
+    "id": "2079590123038204255",
+    "created_at": "2026-07-21T15:31:36.000Z",
+    "original": "Say hello to Gemini 3.6 Flash, designed to be higher intelligence, more token efficient, and with a new lower price, based directly on developer feedback!\n\n3.6 Flash continues our progress towards models that are deeply usable in real world scenarios!",
+    "translation": "來認識一下 Gemini 3.6 Flash 吧！更高的智慧、更省 token、而且價格更甜了，這些都是直接聽取開發者回饋做出來的！\n\n3.6 Flash 代表我們持續朝著「在真實世界場景中真的好用的模型」這個目標邁進！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNwo7c1a8AA5h9d?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-22T00:01:43.499545+08:00",
+    "url": "https://x.com/elonmusk/status/2079590123038204255"
+  },
+  {
     "id": "2079569444808826951",
     "created_at": "2026-07-21T14:09:26.000Z",
     "original": "Elon Musk",
