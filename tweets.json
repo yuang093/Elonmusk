@@ -1,5 +1,35 @@
 [
   {
+    "id": "2079562848733126872",
+    "created_at": "2026-07-21T13:43:14.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-21T22:02:10.934205+08:00",
+    "url": "https://x.com/elonmusk/status/2079562848733126872"
+  },
+  {
+    "id": "2076554546432864405",
+    "created_at": "2026-07-13T06:29:19.000Z",
+    "original": "Gemini 3.5 Pro benchmark leak just dropped and the numbers are turning heads.\n\n> Reportedly outperforming Claude Fable 5 and GPT-5.6 in internal evals\n> Significant zero-shot performance improvements over 3.1 Pro\n> Currently in private validation and testing\n- Public rollout",
+    "translation": "Gemini 3.5 Pro 的 benchmark 洩漏出來了，數字直接讓人驚呆。\n\n> 據傳在內部 evals 中打敗了 Claude Fable 5 和 GPT-5.6\n> 相比 3.1 Pro 在 zero-shot 效能上有顯著提升\n> 目前正在私人驗證和測試階段\n- 公開發布",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNCOeZyXYAAbJF3?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-21T22:02:19.533486+08:00",
+    "url": "https://x.com/elonmusk/status/2076554546432864405"
+  },
+  {
     "id": "2079422033151029591",
     "created_at": "2026-07-21T04:23:41.000Z",
     "original": "The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?",
