@@ -1,5 +1,77 @@
 [
   {
+    "id": "2079640204894404849",
+    "created_at": "2026-07-21T18:50:37.000Z",
+    "original": "It’s coming soon",
+    "translation": "快來了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-22T03:02:04.586237+08:00",
+    "url": "https://x.com/elonmusk/status/2079640204894404849"
+  },
+  {
+    "id": "2079598229293867441",
+    "created_at": "2026-07-21T16:03:49.000Z",
+    "original": "I know I may be asking for a lot, but I wish I could set my destination in the work parking lot. I have a designated parking spot, every morning I disengaged so I can park in my specific spot.",
+    "translation": "我知道這樣可能有點貪心，但我希望能直接設定公司停車場當目的地。我有專屬車位欸，每天早上都要手動退出自動駕駛，才能停在專屬車位上。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-22T03:02:10.684428+08:00",
+    "url": "https://x.com/elonmusk/status/2079598229293867441"
+  },
+  {
+    "id": "2079585819501969817",
+    "created_at": "2026-07-21T15:14:30.000Z",
+    "original": "Preferred routes!!! This is going to make a lot of people very happy.",
+    "translation": "偏好的路線！！！這會讓很多人超級開心的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNwsSBgbsAEQXr_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-22T03:02:17.673552+08:00",
+    "url": "https://x.com/elonmusk/status/2079585819501969817"
+  },
+  {
+    "id": "2079208495094677511",
+    "created_at": "2026-07-20T14:15:09.000Z",
+    "original": " ~ 11 steps walkthrough below\n\nBackpropagation is the algorithm that actually trains a neural network, and it is where most people stop following along. It is not calculus you cannot do. It is matrix multiplication, working backward, one layer at a time.",
+    "translation": "~ 以下 11 步驟詳解\n\n反向傳播是實際訓練神經網路的演算法，但也是大多數人開始跟不上的地方。這不是那種你做不到的微積分啦，其實就是矩陣乘法，從後往前，一層層倒推回去。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-22T03:02:25.963157+08:00",
+    "url": "https://x.com/elonmusk/status/2079208495094677511"
+  },
+  {
+    "id": "2079610838143623371",
+    "created_at": "2026-07-21T16:53:55.000Z",
+    "original": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10",
+    "translation": "一個我覺得很有用的跟 LLM 協作模式，就是來一場漫長的碎碎念。有時候 LLM 需要更多資訊才能理解你想達成什麼，但你懶得一個字一個字打出來。這種時候我就會往椅背一靠，切到 /voice 模式，然後就這樣隨便嘮個十分鐘左右\n\n（後面應該還有，但推文被截斷了）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-22T03:02:32.720894+08:00",
+    "url": "https://x.com/elonmusk/status/2079610838143623371"
+  },
+  {
     "id": "2079606194973647269",
     "created_at": "2026-07-21T16:35:28.000Z",
     "original": "No major change in the core interpretation of the law, but growing debate and a government review underway.\n\nThe key rule—that truth alone is not enough; the statement must also be \"justifiable\" (försvarligt) after balancing free speech against reputation—has been consistent since the 1965 Penal Code. Courts weigh factors like context, audience size, intent, and public interest. Private group chats can still qualify as dissemination if they reach third parties, and warning about a conviction isn't automatically protected.\nRecent years show some increased sensitivity to online spread (e.g., post-#MeToo cases and internet amplification), but the fundamental test hasn't shifted dramatically. Many convictions (including high-profile ones) turn on whether informal warnings or social media posts were deemed \"justified.\"\n\nThe case does highlight tensions that many find counterintuitive, which is why Sweden's government (with support from parties like the Sweden Democrats) announced in early 2026 a review of the förtal rules. The goal is to better allow people to share court records or warnings about serious offenders (especially sex crimes against children) without automatic liability. No changes have passed yet—this case falls under the current framework.\n\nIt's a classic clash between protecting reputation/honor (strong in Swedish tradition) and practical safety concerns in the internet age. Similar outcomes have drawn criticism for years.",
