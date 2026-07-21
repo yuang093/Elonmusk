@@ -1,5 +1,78 @@
 [
   {
+    "id": "2079422033151029591",
+    "created_at": "2026-07-21T04:23:41.000Z",
+    "original": "The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?",
+    "translation": "「X上的科研圈真的還活著欸。在其他地方你能搞到2000萬+的觀看嗎？」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-21T15:02:33.140449+08:00",
+    "url": "https://x.com/elonmusk/status/2079422033151029591"
+  },
+  {
+    "id": "2079448540900647179",
+    "created_at": "2026-07-21T06:09:01.000Z",
+    "original": "Still haven’t found a real use case where Grok 4.5 fails at something I ask vs GPT-5.6 Sol, Fable 5, or Kimi K3.\n\nAll of them are excellent — but Grok 4.5 wins on price and speed by far.",
+    "translation": "到目前為止還沒找到 Grok 4.5 在我問的東西上有答不出來的狀況，拿來跟 GPT-5.6 Sol、Fable 5 或 Kimi K3 相比也是。\n\n這些都超強沒錯——但 Grok 4.5 的價格和速度完全是碾壓。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-21T15:02:42.478054+08:00",
+    "url": "https://x.com/elonmusk/status/2079448540900647179"
+  },
+  {
+    "id": "2079411063603245287",
+    "created_at": "2026-07-21T03:40:05.000Z",
+    "original": "Elon Musk reposted",
+    "translation": "馬斯克轉發了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-21T15:02:47.680105+08:00",
+    "url": "https://x.com/elonmusk/status/2079411063603245287"
+  },
+  {
+    "id": "2079448786745631005",
+    "created_at": "2026-07-21T06:09:59.000Z",
+    "original": "My jaw literally dropped checking this out\n\nIf you go to New Jersey inmates mugshots and filter by race “White” you’re mind is gong to be blown\n\nAlmost all mugshots are of minorities being booked as “White.” (Proof in video)\n\nTHIS IS INSANE. You should be furious. I go through",
+    "translation": "我看到這個的時候下巴直接掉了\n\n如果去New Jersey監獄犯人照資料庫用種族「White」篩選，你會直接傻眼\n\n幾乎所有被登錄成「White」的犯人照都是少數族裔（證據在影片裡）\n\n這太扯了，你應該要很生氣。我研究了一下",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-21T15:03:02.795716+08:00",
+    "url": "https://x.com/elonmusk/status/2079448786745631005"
+  },
+  {
+    "id": "2079360764213874980",
+    "created_at": "2026-07-21T00:20:13.000Z",
+    "original": "𝕏Money with friends is fun <3\n\nCongrats to all those that got access today!",
+    "translation": "和朋友揪團用X Money真的很好玩欸 <3\n\n恭喜今天搶到資格的各位！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNtfmEDbUAAZwkG?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HNtfmEEasAAV5CG?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-21T15:03:12.506867+08:00",
+    "url": "https://x.com/elonmusk/status/2079360764213874980"
+  },
+  {
     "id": "2079443318690197892",
     "created_at": "2026-07-21T05:48:16.000Z",
     "original": "Elon Musk",
