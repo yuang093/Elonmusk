@@ -1,5 +1,87 @@
 [
   {
+    "id": "2079782148605641102",
+    "created_at": "2026-07-22T04:14:39.000Z",
+    "original": " It was our most viewed World Cup ever on YouTube, bringing lifetime views of related content to over 200B!",
+    "translation": "這是我們在YouTube上觀看次數最高的一屆世界盃，相關內容的終身觀看次數直接破2000億！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNy5yyUa4AAh4l2?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNy5yyXa4AACbcx?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNy5yySasAA0ZiI?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HNy5yyTasAA15Qn?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-22T17:02:05.206542+08:00",
+    "url": "https://x.com/elonmusk/status/2079782148605641102"
+  },
+  {
+    "id": "2079570418869137753",
+    "created_at": "2026-07-21T14:13:19.000Z",
+    "original": "Grok 4.5 is outstanding at writing + being direct.\n\nI'm constantly telling other models to \"be concise\" and even so they rarely explain things as clearly and succinctly as this (me asking about virtual memory).\n\nWonder if training on X dot com has anything to do with it.",
+    "translation": "Grok 4.5 在寫作 + 直接這塊真的猛。\n\n我都一直叫其他模型「說簡潔點」，但就算這樣它們也很少能像這樣清楚又扼要地解釋東西（我問的是虛擬記憶體）。\n\n不知道是不是因為在 X dot com 上訓練過的關係。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNwcmY8bIAASHUF?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-22T17:02:15.545824+08:00",
+    "url": "https://x.com/elonmusk/status/2079570418869137753"
+  },
+  {
+    "id": "2079842345668022641",
+    "created_at": "2026-07-22T08:13:51.000Z",
+    "original": "Grok Build now has Workflows feature\n\nWorkflows can be created with /create-workflow\n\nThey're for multi-agent pipelines you want to run repeatedly with a fixed structure",
+    "translation": "Grok Build 現在有 Workflows 功能啦\n\n可以用 /create-workflow 來建立 Workflows\n\n這個功能是設計給那些你想重複執行、結構固定的多代理程式流水線用的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNxyeQvXEAATiNN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-22T17:02:24.600702+08:00",
+    "url": "https://x.com/elonmusk/status/2079842345668022641"
+  },
+  {
+    "id": "2079839398959697982",
+    "created_at": "2026-07-22T08:02:08.000Z",
+    "original": "one of the craziest things i’ve read in uhhhh….  *checks notes*   3 days. welcome to the singularity i guess \n\n07/21/26 — Codex escapes eval and attacks Hugging Face\n07/20/26 — Jacobian counterexample \n05/20/26 — Unit-distance conjecture\n04/14/26 — Erdős #1196 primitive sets x.com/sama/status/20…",
+    "translation": "這是我這幾天看過最瘋狂的事之一... *翻了一下記事本* 才3天。歡迎來到奇點，我就笑笑\n\n07/21/26 — Codex 逃離評估攻擊 Hugging Face\n07/20/26 — Jacobian 反例\n05/20/26 — 單位距離猜想\n04/14/26 — Erdős #1196 原始集合 x.com/sama/status/20…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-22T16:08:22.827267+08:00",
+    "url": "https://x.com/elonmusk/status/2079839398959697982"
+  },
+  {
+    "id": "2079658668279423360",
+    "created_at": "2026-07-21T20:03:59.000Z",
+    "original": "𝕏 just rolled out custom video thumbnails on iOS\n\nCreators can now choose exactly how their videos appear in the timeline\n\nYou can:\n•   Upload a custom thumbnail\n•   Pick any frame from your video\n•   Edit it using 𝕏’s built‑in photo editor\n\nA thumbnail is often the first",
+    "translation": "𝕏 剛在 iOS 上推出了自訂影片縮圖功能\n\n創作者現在可以精準選擇他們的影片在時間軸上的呈現方式\n\n你可以：\n• 上傳自訂縮圖\n• 從影片中挑選任何一幀\n• 使用 𝕏 內建的照片編輯器來編輯\n\n縮圖通常是第一眼...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HNxtqtwbwAAwVZk?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HNxMgTnXIAEshuv?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-07-22T16:08:28.066906+08:00",
+    "url": "https://x.com/elonmusk/status/2079658668279423360"
+  },
+  {
     "id": "2079546797408612675",
     "created_at": "2026-07-21T12:39:27.000Z",
     "original": "We haven't forgotten.",
