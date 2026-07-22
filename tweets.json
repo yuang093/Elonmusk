@@ -1,5 +1,51 @@
 [
   {
+    "id": "2079906440463151129",
+    "created_at": "2026-07-22T12:28:32.000Z",
+    "original": "Grok Build just got another powerful plugin: Exa\n\nThe new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build\n\nWith Exa, you can:\n• Search the web semantically instead of relying only on keywords\n• Filter results across",
+    "translation": "Grok Build 又迎來一個超強插件：Exa\n\n全新的 Exa 插件讓語意搜尋、內容萃取和多步驟研究直接整合進 Grok Build\n\n有了 Exa，你可以：\n• 語意地搜尋網路，不再只靠關鍵字\n• 跨維度過濾結果...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN1OiWnaYAAskjy?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-23T07:01:38.885502+08:00",
+    "url": "https://x.com/elonmusk/status/2079906440463151129"
+  },
+  {
+    "id": "2079875839605473621",
+    "created_at": "2026-07-22T10:26:57.000Z",
+    "original": "Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. \n\n- The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. \n- The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. \n- The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π.",
+    "translation": "三個基本積分雖然都是跑無窮範圍，但個個都有優雅的封閉形式，特別值得拿出來講：\n\n- 高斯積分 ∫_{-∞}^{∞} e^{-x²} dx = √π\n- 洛冉茲函數 ∫_{-∞}^{∞} 1/(x² + 1) dx = π\n- sinc 函數 ∫_{-∞}^{∞} sin(x)/x dx 同樣也是 π",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN00DGta4AA5kqu?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-23T07:01:45.722862+08:00",
+    "url": "https://x.com/elonmusk/status/2079875839605473621"
+  },
+  {
+    "id": "2080007437470302237",
+    "created_at": "2026-07-22T19:09:52.000Z",
+    "original": "It's really fun to direct a character's emotion in Grok Imagine.\n\nAll four of these videos are the same scene, the only thing that changes is the performance.\n\nDetailed breakdown below.",
+    "translation": "在 Grok Imagine 裡導演角色的情緒真的很有趣\n\n這四個影片都是同一個場景，唯一變的就是表演\n\n詳細分析在下面",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-23T06:07:45.331946+08:00",
+    "url": "https://x.com/elonmusk/status/2080007437470302237"
+  },
+  {
     "id": "2080041160182263922",
     "created_at": "2026-07-22T21:23:52.000Z",
     "original": "Elon Musk",
