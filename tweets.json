@@ -1,5 +1,78 @@
 [
   {
+    "id": "2080389700905492724",
+    "created_at": "2026-07-23T20:28:51.000Z",
+    "original": "Seriously (sigh)",
+    "translation": "真的假的（嘆氣）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-24T05:01:14.109053+08:00",
+    "url": "https://x.com/elonmusk/status/2080389700905492724"
+  },
+  {
+    "id": "2080388206852464698",
+    "created_at": "2026-07-23T20:22:54.000Z",
+    "original": "This interviewer came at him from every angle trying to damage him in any way she could.  From insinuating racism to placing doubts in the minds of potential investors in his companies from a scenario without him there.",
+    "translation": "這個面試官從各個角度猛攻他，拼命想搞爛他。從暗示他種族歧視，到用一個他根本不在場的情境在潛在投資人心裡種懷疑的種子，藉此來黑他的公司。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-24T05:01:19.803922+08:00",
+    "url": "https://x.com/elonmusk/status/2080388206852464698"
+  },
+  {
+    "id": "2080352856478249076",
+    "created_at": "2026-07-23T18:02:26.000Z",
+    "original": "Elon Musk on the future of his companies after him:\n\n“I think they would actually do very well for several years. There’s a clear roadmap, or space map, I should say, for SpaceX. And there’s a roadmap actually for Tesla, literally.\n\nIf you look at Apple after Steve Jobs, Steve",
+    "translation": "Elon Musk 談他過世後各公司的未來：\n\n「我認為它們實際上會運作得很好，起碼能撐個幾年。SpaceX 有明確的 roadmap，或者我該說是『space map（太空路線圖）』，而 Tesla 嘛，literally 有 roadmap。\n\n你看看 Steve Jobs 之後的 Apple，Steve…」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-24T05:01:30.326712+08:00",
+    "url": "https://x.com/elonmusk/status/2080352856478249076"
+  },
+  {
+    "id": "2080389505438396555",
+    "created_at": "2026-07-23T20:28:04.000Z",
+    "original": "Grok 4.5 token volume is surging on OpenRouter, breaking into the top 10 for closed models today beating out GPT 5.6 Sol and Fable 5. Previously the most used model was Tencent’s Hy3 (free version), whose promotional period ended on July 21. It seems Grok 4.5 is seeing migration",
+    "translation": "Grok 4.5 在 OpenRouter 上的 token 用量正在飆升，今天直接殺進閉源模型前十名，打敗了 GPT 5.6 Sol 和 Fable 5。之前使用量最高的模型是騰訊的 Hy3（免費版），但它的推廣期在 7/21 結束了。看起來這些流量都轉移到 Grok 4.5 了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN6bYCGW8AA1BZB?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HN6bYCJWQAAwKwX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-24T05:01:36.573937+08:00",
+    "url": "https://x.com/elonmusk/status/2080389505438396555"
+  },
+  {
+    "id": "2080390728228970729",
+    "created_at": "2026-07-23T20:32:56.000Z",
+    "original": "Just common sense!",
+    "translation": "就基本常識啊！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-24T05:01:41.947813+08:00",
+    "url": "https://x.com/elonmusk/status/2080390728228970729"
+  },
+  {
     "id": "2080376456686055903",
     "created_at": "2026-07-23T19:36:13.000Z",
     "original": "Enough is enough",
