@@ -1,5 +1,109 @@
 [
   {
+    "id": "2080168790403551281",
+    "created_at": "2026-07-23T05:51:01.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-23T14:01:45.655056+08:00",
+    "url": "https://x.com/elonmusk/status/2080168790403551281"
+  },
+  {
+    "id": "2080063400462217278",
+    "created_at": "2026-07-22T22:52:15.000Z",
+    "original": ".\n\nThey claim it’s “racist” and goes against “European values” to want to keep Europe, European.\n\nWe’re not accepting the madness anymore. \n\nEurope belongs to us.\n\nSee you in court.",
+    "translation": "他們說想要歐洲保持歐洲的樣子就是「種族歧視」，就是違背「歐洲價值」\n\n我們不再接受這種荒謬了\n\n歐洲是我們的\n\n法庭見 👋",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-23T14:01:50.695907+08:00",
+    "url": "https://x.com/elonmusk/status/2080063400462217278"
+  },
+  {
+    "id": "2080165738464280725",
+    "created_at": "2026-07-23T05:38:54.000Z",
+    "original": "Capy accidentally cracked a graph theory conjecture entirely in Slack\n\nREFUTED: Graffiti Conjecture 284 (open for ~30 years)\n\nWe shared the original post in Slack and Capy (running on Grok 4.5 Medium!!!) decided it wanted to take a shot, finding a novel refutation in 8 minutes ",
+    "translation": "Capy在Slack上意外破解了一個圖論猜想\n\n推翻：Graffiti猜想284（開放了約30年）\n\n我們把原文分享到Slack，Capy（在Grok 4.5 Medium上跑！！！）就說要試試看，結果8分鐘就找到一個全新的推翻證明",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN4Mrg5bkAAyFVY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-23T14:01:57.696397+08:00",
+    "url": "https://x.com/elonmusk/status/2080165738464280725"
+  },
+  {
+    "id": "2080168539420594481",
+    "created_at": "2026-07-23T05:50:02.000Z",
+    "original": "With Grok 4.5 you never have to wait. It’s insanely fast, extremely token‑efficient, and does tasks at Fable‑level quality at a fraction of the cost.....all while being crazy fast x.com/benhylak/statu…",
+    "translation": "用Grok 4.5你再也不用等了。它快到爆炸、超級省token，任務執行品質達到Fable等級，價格卻只要一小部分.....而且還快到不行",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-23T14:02:04.742547+08:00",
+    "url": "https://x.com/elonmusk/status/2080168539420594481"
+  },
+  {
+    "id": "2080009485242798267",
+    "created_at": "2026-07-22T19:18:00.000Z",
+    "original": ".\n\nThey claim it’s “racist” and goes against “European values” to want to keep Europe, European.\n\nWe’re not accepting the madness anymore. \n\nEurope belongs to us.\n\nSee you in court.",
+    "translation": "他們說想要讓歐洲保持歐洲的樣子，就是「種族歧視」，就是違反「歐洲價值」。\n\n我們不再接受這種荒謬了。\n\n歐洲是我們的。\n\n法庭見。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-23T14:02:11.444294+08:00",
+    "url": "https://x.com/elonmusk/status/2080009485242798267"
+  },
+  {
+    "id": "2080170228554903796",
+    "created_at": "2026-07-23T05:56:44.000Z",
+    "original": "Grok Build just got major update, giving developers more control over AI tools, better account visibility, built-in diagnostics, stronger session reliability, and lower memory usage for Voice Mode on macOS.\n\nRelease Notes: v0.2.111\n\nFeatures:\n• Users can now disable image ",
+    "translation": "Grok Build 大更新，給開發者更多 AI 工具控制權、更好的帳號可視性、內建診斷功能、更強的連線穩定性，以及 macOS 版 Voice Mode 更低的記憶體用量。\n\n版本說明：v0.2.111\n\n功能：\n• 使用者現在可以關閉圖片",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN4tQOMXIAATuoZ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-23T14:02:19.440754+08:00",
+    "url": "https://x.com/elonmusk/status/2080170228554903796"
+  },
+  {
+    "id": "2080170375363891250",
+    "created_at": "2026-07-23T05:57:19.000Z",
+    "original": "Grok Build, with the Browser Use CLI, outperforms Codex and Claude Code at browser tasks",
+    "translation": "Grok Build 搭配 Browser Use CLI，在瀏覽器任務上直接碾壓 Codex 跟 Claude Code",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN27ajFaAAA-K6p?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-23T14:02:27.576191+08:00",
+    "url": "https://x.com/elonmusk/status/2080170375363891250"
+  },
+  {
     "id": "2080073361343054247",
     "created_at": "2026-07-22T23:31:49.000Z",
     "original": "Grok 4.5 is becoming a one-person game studio and more\n\nCode. Assets. Worlds. Gameplay. Testing.\n\n10 new examples:",
