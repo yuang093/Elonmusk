@@ -1,5 +1,37 @@
 [
   {
+    "id": "2080507373786186228",
+    "created_at": "2026-07-24T04:16:26.000Z",
+    "original": "The term far right has become so broadly applied that it includes normal people now.",
+    "translation": "極右翼這詞現在用得也太浮濫了吧，正常人都中槍了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN8la9zbYAAhw_8?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-24T13:01:43.203154+08:00",
+    "url": "https://x.com/elonmusk/status/2080507373786186228"
+  },
+  {
+    "id": "2080503470499717429",
+    "created_at": "2026-07-24T04:00:55.000Z",
+    "original": "Grok just gave the best answer on its goal for humanity",
+    "translation": "Grok 剛才給了個超讚的回答，關於它對人類的目標是什麼",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN8i5DBbAAAYKmo?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-24T12:08:20.883773+08:00",
+    "url": "https://x.com/elonmusk/status/2080503470499717429"
+  },
+  {
     "id": "2080477774058529172",
     "created_at": "2026-07-24T02:18:49.000Z",
     "original": "@MxCl74613523",
