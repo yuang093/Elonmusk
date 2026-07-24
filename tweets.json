@@ -1,5 +1,101 @@
 [
   {
+    "id": "2080731846690693469",
+    "created_at": "2026-07-24T19:08:25.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-25T04:01:52.389100+08:00",
+    "url": "https://x.com/elonmusk/status/2080731846690693469"
+  },
+  {
+    "id": "2080724539781329312",
+    "created_at": "2026-07-24T18:39:22.000Z",
+    "original": "DogeDesigner",
+    "translation": "DogeDesigner",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOA37jmboAAbNUz?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-25T04:01:54.768142+08:00",
+    "url": "https://x.com/elonmusk/status/2080724539781329312"
+  },
+  {
+    "id": "2080686579400765517",
+    "created_at": "2026-07-24T16:08:32.000Z",
+    "original": " signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.",
+    "translation": "# 來聊聊為啥開放模型這麼重要\n\nAI 會改變各行各業、賦能每一家公司，而且每個國家都能自己打造。\n\n開放模型能加強安全與資安、加速創新和擴散，還能守護主權。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HN_qDV1a8AARQwg?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HN_qDV1awAAPTlH?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-25T04:01:59.263956+08:00",
+    "url": "https://x.com/elonmusk/status/2080686579400765517"
+  },
+  {
+    "id": "2080711105349906786",
+    "created_at": "2026-07-24T17:45:59.000Z",
+    "original": "New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5.\n\nIntelligence per $ will be the only metric that matters over time.\n\nK3 probably joins the frontier once available on the inference clouds.",
+    "translation": "新帕累托前沿：Grok 4.5、SWE-1.7 和 Opus 5。\n\n長期來看，每美元智商將成為唯一的衡量標準。\n\nK3 上線推理雲端後大概也會加入這個前沿俱樂部。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOAruQfXEAAE4lN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-25T04:02:04.752128+08:00",
+    "url": "https://x.com/elonmusk/status/2080711105349906786"
+  },
+  {
+    "id": "2080547884726919201",
+    "created_at": "2026-07-24T06:57:25.000Z",
+    "original": "The Economist Elon Musk July 23rd 2026",
+    "translation": "經濟學人｜Elon Musk｜2026年7月23日",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-25T04:02:10.023311+08:00",
+    "url": "https://x.com/elonmusk/status/2080547884726919201"
+  },
+  {
+    "id": "2080682887280546153",
+    "created_at": "2026-07-24T15:53:52.000Z",
+    "original": " signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.",
+    "translation": "#signed 為什麼開源模型這麼重要\n\nAI會翻轉每個產業、賦能每家公司，而且每個國家都能自己搞。\n\n開源模型讓安全和資安更強、加速創新和普及、還能確保各國的自主權。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HN_qDV1a8AARQwg?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HN_qDV1awAAPTlH?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-25T03:08:21.934692+08:00",
+    "url": "https://x.com/elonmusk/status/2080682887280546153"
+  },
+  {
     "id": "2080720634347176003",
     "created_at": "2026-07-24T18:23:51.000Z",
     "original": "Very impressive",
