@@ -1,5 +1,35 @@
 [
   {
+    "id": "2080692487539007638",
+    "created_at": "2026-07-24T16:32:01.000Z",
+    "original": "Mark Zuckerberg didn’t post on 𝕏 for 3 years. He runs platforms with over billion users, yet he returned to 𝕏 to promote his product.\n\nJensen Huang never had an account on 𝕏. Today he signed up & made his first post.\n\nWhen the most influential people have something important",
+    "translation": "Mark Zuckerberg 三年沒在 𝕏 發文了。他旗下平台用戶數十億，結果跑去 𝕏 推銷自家產品。\n\nJensen Huang 壓根沒有 𝕏 帳號。今天才剛註冊發了第一篇文。\n\n當最有影響力的人有重要的事要說時...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOAJRVlasAAC3Jn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-25T01:02:39.763459+08:00",
+    "url": "https://x.com/elonmusk/status/2080692487539007638"
+  },
+  {
+    "id": "2080603926403879130",
+    "created_at": "2026-07-24T10:40:06.000Z",
+    "original": "Marlon West is one of the bravest people I know. His work on ending the rape gangs, following what happened to his daughter, shows remarkable courage. \n\nI am very proud to support his campaign to become the next mayor of Greater Manchester.",
+    "translation": "Marlon West是我認識最勇敢的人之一。在他的女兒出事之後，他致力於終結那些強姦幫派，這真的超級有膽量。\n\n能支持他競選下一任大曼徹斯特市市長，我真的很驕傲。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-25T01:02:44.937259+08:00",
+    "url": "https://x.com/elonmusk/status/2080603926403879130"
+  },
+  {
     "id": "2080681827967070418",
     "created_at": "2026-07-24T15:49:39.000Z",
     "original": "Enough is enough",
