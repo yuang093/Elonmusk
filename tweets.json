@@ -1,5 +1,33 @@
 [
   {
+    "id": "2081055669034119267",
+    "created_at": "2026-07-25T16:35:10.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T01:01:29.191744+08:00",
+    "url": "https://x.com/elonmusk/status/2081055669034119267"
+  },
+  {
+    "id": "2080963158911430748",
+    "created_at": "2026-07-25T10:27:34.000Z",
+    "original": "Please STFU.\n\nFar right is a pure construction from you, legacy media…\n\nTwo options :\n\nYou are stupid.\nYou are corrupted.",
+    "translation": "閉嘴吧\n\n右派就是你們這些傳統媒體瞎掰出來的啦...\n\n就兩種可能：\n\n你很白癡。\n你被收買了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T01:01:36.569337+08:00",
+    "url": "https://x.com/elonmusk/status/2080963158911430748"
+  },
+  {
     "id": "2080909204664275268",
     "created_at": "2026-07-25T06:53:10.000Z",
     "original": "Elon Musk on early days of SpaceX:\n\n\"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\"",
