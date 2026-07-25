@@ -1,5 +1,38 @@
 [
   {
+    "id": "2081088918703759549",
+    "created_at": "2026-07-25T18:47:17.000Z",
+    "original": "Liftoff of Starship on its thirteenth flight test",
+    "translation": "Starship 第十三飛，起飛囉！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOGCJc7WoAAMPvM?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOGCLuoXsAAFotc?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOGCM6RXoAA2Jnh?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOGCOZBXsAAucHm?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-26T03:02:04.583724+08:00",
+    "url": "https://x.com/elonmusk/status/2081088918703759549"
+  },
+  {
+    "id": "2080933118328922281",
+    "created_at": "2026-07-25T08:28:11.000Z",
+    "original": "It’s almost like deporting illegal migrants and securing your borders isn’t “far-right”.\n\nWho’d have thought it?",
+    "translation": "根本就像...驅逐非法移民、確保邊境安全不算「極右派」似的\n\n誰會想到啊？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T03:02:11.819456+08:00",
+    "url": "https://x.com/elonmusk/status/2080933118328922281"
+  },
+  {
     "id": "2081068191774560558",
     "created_at": "2026-07-25T17:24:55.000Z",
     "original": "People like her are the bad guy ",
