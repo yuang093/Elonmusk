@@ -1,5 +1,93 @@
 [
   {
+    "id": "2081400195246445010",
+    "created_at": "2026-07-26T15:24:11.000Z",
+    "original": "She just says the words Hollywood tells her to say. There are no internal thoughts of her own.",
+    "translation": "她就只是好萊塢的傳聲筒啦，根本沒有自己的想法。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-27T00:01:52.702389+08:00",
+    "url": "https://x.com/elonmusk/status/2081400195246445010"
+  },
+  {
+    "id": "2081391068768022889",
+    "created_at": "2026-07-26T14:47:55.000Z",
+    "original": "I'm preparing a Saad Truth clip that critiques the Degenerate Lobotomized Imbecile, Anne Hathaway.",
+    "translation": "我正在準備一段《Saad Truth》短片，批評那個墮落、腦袋被切除的白痴 Anne Hathaway。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-27T00:01:57.976797+08:00",
+    "url": "https://x.com/elonmusk/status/2081391068768022889"
+  },
+  {
+    "id": "2081402423424245880",
+    "created_at": "2026-07-26T15:33:02.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-27T00:02:01.016821+08:00",
+    "url": "https://x.com/elonmusk/status/2081402423424245880"
+  },
+  {
+    "id": "2081231945904873876",
+    "created_at": "2026-07-26T04:15:37.000Z",
+    "original": "Many engineers in my teams find the power of /voice in Grok Build. They keep brain-dumping their ideas. \n\nCombining it with /dream, /recap and /create-workflow after a long session makes it very powerful. You don’t need to remember those slash commands (I don’t either); just talk",
+    "translation": "我團隊裡的工程師們發現了 Grok Build 的 /voice 威力，根本停不下來在那邊 brain-dumping自己的想法\n\n跟 /dream、/recap 和 /create-workflow 搭配使用，long session 之後用超級給力\n你根本不需要去記那些 slash commands（我也是），直接講就好啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-27T00:02:08.710106+08:00",
+    "url": "https://x.com/elonmusk/status/2081231945904873876"
+  },
+  {
+    "id": "2081345128732541137",
+    "created_at": "2026-07-26T11:45:22.000Z",
+    "original": "Let's take a walk through the \"American justice system,\" shall we?\n\nSharmake Omar is the Somali man who filmed Shiloh Hendrix on the playground in Minnesota that day in April 2025.\n\nIn January 2022, he and another Somali man \"allegedly\" spent two days raping an underage foster",
+    "translation": "讓我們來逛逛「美國司法系統」吧，好嗎？\n\nSharmake Omar 就是 2025 年 4 月那天在明尼蘇達州的遊樂場上拍攝 Shiloh Hendrix 的那名索馬利亞男子。\n\n2022 年 1 月，他與另一名索馬利亞男子「據稱」花了兩天時間強姦一名未成年寄養...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HN_xR3OWIAA-k-Q?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-27T00:02:16.445669+08:00",
+    "url": "https://x.com/elonmusk/status/2081345128732541137"
+  },
+  {
+    "id": "2081234523971555829",
+    "created_at": "2026-07-26T04:25:52.000Z",
+    "original": "Elon Musk reposted",
+    "translation": "馬斯克轉推了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOIHxO1aAAENIfw?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-27T00:02:20.644781+08:00",
+    "url": "https://x.com/elonmusk/status/2081234523971555829"
+  },
+  {
     "id": "2081388289542533445",
     "created_at": "2026-07-26T14:36:53.000Z",
     "original": "She has a little bird brain",
