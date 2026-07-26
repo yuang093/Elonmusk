@@ -3342,7 +3342,7 @@
     "id": "2080540730238341195",
     "created_at": "2026-07-24T06:28:59.000Z",
     "original": "Elin was 27. A young woman on her way home after a night out with friends, the kind of ordinary evening that should have ended safely.\n\nOn the night of 26 September 2010 she stepped off the tram in Biskopsgården. She never made it further. \n\nShe was followed into a wooded area by",
-    "translation": "",
+    "translation": "Elin當時27歲。一個年輕女子，和朋友們度過一個夜晚後在回家的路上，那是應該安全結束的普通夜晚。\n\n2010年9月26日晚上，她在下了通往Biskopsgården的電車。她再也沒能繼續前行。\n\n她被人跟踪進了一片樹林區，接著……",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -3353,7 +3353,8 @@
       "https://pbs.twimg.com/media/HN8fhmyWMAA2_qr?format=jpg&name=240x240"
     ],
     "fetched_at": "2026-07-24T16:08:39.372505+08:00",
-    "url": "https://x.com/elonmusk/status/2080540730238341195"
+    "url": "https://x.com/elonmusk/status/2080540730238341195",
+    "retried_at": "2026-07-26T17:06:54.026840+08:00"
   },
   {
     "id": "2080561831815381143",
@@ -3591,7 +3592,7 @@
     "id": "2080419367838159066",
     "created_at": "2026-07-23T22:26:44.000Z",
     "original": "Across the country, our government has identified hundreds of thousands of ineligible voters—so far.\n\nWith at least hundreds of non-citizens voting there, New Jersey is no exception! The ",
-    "translation": "",
+    "translation": "全國各地，我們的政府已經揪出數十萬不合格選民——這還只是到目前為止。\n\n起碼有數百名非公民在那裡投票，紐澤西也不例外！這",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -3599,7 +3600,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-24T12:02:47.341705+08:00",
-    "url": "https://x.com/elonmusk/status/2080419367838159066"
+    "url": "https://x.com/elonmusk/status/2080419367838159066",
+    "retried_at": "2026-07-26T17:06:54.156122+08:00"
   },
   {
     "id": "2080017824547053794",
@@ -4132,7 +4134,7 @@
     "id": "2080361977164304618",
     "created_at": "2026-07-23T18:38:41.000Z",
     "original": "NEWS: Elon Musk rejects the far right label in an  exchange with The Economist\n\n\"I support the normal people. What you call the far right, falsely.\"\n\nHe challenged the interviewer to say what is extreme about 3 positions.\n\n\"Here are the principles and tell me which of these sound ",
-    "translation": "",
+    "translation": "新聞：Elon Musk 在與《經濟學人》的訪談中拒絕被貼上極右翼標籤\n\n「我支持普通人。你們所謂的極右翼，是錯誤的標籤。」\n\n他挑戰採訪者，要求對方說出三個立場中有什麼是極端的。\n\n「以下是原則，告訴我哪些聽起來...」",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -4140,7 +4142,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-24T03:04:58.222898+08:00",
-    "url": "https://x.com/elonmusk/status/2080361977164304618"
+    "url": "https://x.com/elonmusk/status/2080361977164304618",
+    "retried_at": "2026-07-26T17:06:55.903547+08:00"
   },
   {
     "id": "2080289014876078537",
@@ -6230,7 +6233,7 @@
     "id": "2079745716575248538",
     "created_at": "2026-07-22T01:49:53.000Z",
     "original": "I’ve gotten so used to Grok’s speech-to-text that typing now feels like hell\n\nQuick tip: Even when you’re using another agentic coding harness, try Grok STT through Grok Build\n\nAnthropic’s speech-to-text is still pretty basic actually in my experience. With longer technical x.com/karpathy/statu…",
-    "translation": "",
+    "translation": "我已經太習慣Grok的語音轉文字了，現在打字根本像地獄\n\n快速技巧：就算你在用別的代理程式碼工具，還是試試透過Grok Build用Grok的語音轉文字\n\n老實說以我的經驗，Anthropic的語音轉文字還滿陽春的。遇到比較長的技術內容時…",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -6238,7 +6241,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-22T10:02:21.218596+08:00",
-    "url": "https://x.com/elonmusk/status/2079745716575248538"
+    "url": "https://x.com/elonmusk/status/2079745716575248538",
+    "retried_at": "2026-07-26T17:06:56.277506+08:00"
   },
   {
     "id": "2079746636990001378",
@@ -6421,7 +6425,7 @@
     "id": "2079606194973647269",
     "created_at": "2026-07-21T16:35:28.000Z",
     "original": "No major change in the core interpretation of the law, but growing debate and a government review underway.\n\nThe key rule—that truth alone is not enough; the statement must also be \"justifiable\" (försvarligt) after balancing free speech against reputation—has been consistent since the 1965 Penal Code. Courts weigh factors like context, audience size, intent, and public interest. Private group chats can still qualify as dissemination if they reach third parties, and warning about a conviction isn't automatically protected.\nRecent years show some increased sensitivity to online spread (e.g., post-#MeToo cases and internet amplification), but the fundamental test hasn't shifted dramatically. Many convictions (including high-profile ones) turn on whether informal warnings or social media posts were deemed \"justified.\"\n\nThe case does highlight tensions that many find counterintuitive, which is why Sweden's government (with support from parties like the Sweden Democrats) announced in early 2026 a review of the förtal rules. The goal is to better allow people to share court records or warnings about serious offenders (especially sex crimes against children) without automatic liability. No changes have passed yet—this case falls under the current framework.\n\nIt's a classic clash between protecting reputation/honor (strong in Swedish tradition) and practical safety concerns in the internet age. Similar outcomes have drawn criticism for years.",
-    "translation": "",
+    "translation": "核心法律解釋沒有重大變化，但爭議日益增加，政府也在進行審查中。\n\n關鍵規則是——僅僅屬實還不夠；陳述還必須在言論自由與名譽之間取得平衡後被認定為「情有可原」(försvarligt)——這從1965年刑法典以來就一直是如此。法院會權衡各種因素，包括脈絡、閱聽眾規模、意圖和公共利益。私人群組聊天如果涉及第三方仍可被視為散播，而對定罪提出警告並非自動受到保護。\n\n近年來對網路傳播的敏感度有所提高（例如#MeToo後的案件和網路放大效應），但基本測試標準並沒有大幅改變。許多定罪（包括備受關注的案件）取決於非正式警告或社群媒體貼文是否被認定為「情有可原」。\n\n這起案件確實凸顯了許多人覺得違反直覺的緊張關係，這就是為什麼瑞典政府（在瑞典民主黨等政黨的支持下）在2026年初宣布將對誹謗條款進行審查。目標是讓人們能夠更好地分享法庭紀錄或對嚴重犯罪者（尤其是針對兒童的性犯罪）的警告，而不會自動承擔法律責任。目前還沒有任何修改通過——這起案件適用的是現行框架。\n\n這是保護名譽/榮譽（在瑞典傳統中很重要）與網路時代實際安全考量之間的經典衝突。類似的結果多年來一直受到批評。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -6429,7 +6433,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-22T01:01:44.527617+08:00",
-    "url": "https://x.com/elonmusk/status/2079606194973647269"
+    "url": "https://x.com/elonmusk/status/2079606194973647269",
+    "retried_at": "2026-07-26T17:07:14.609072+08:00"
   },
   {
     "id": "2079542729948700961",
@@ -6812,7 +6817,7 @@
     "id": "2079446276299465185",
     "created_at": "2026-07-21T06:00:01.000Z",
     "original": "For the past few wks since Grok Build launch, we've run SxS testing of complex Codex & Grok Build tasks. Eliminated Claude for needy intern BS. Grok Build wins more trust w/ higher accuracy & less hand-holding. Codex remains solid; each has unique strengths. For heavy",
-    "translation": "",
+    "translation": "過去這幾週自從Grok Build發布以來，我們針對複雜的Codex和Grok Build任務進行了並排測試。已經把Claude那種需要一直照顧的菜鳥行為淘汰掉了。Grok Build以更高的準確率和更少需要手把手帶的方式贏得更多信任。Codex仍然很穩固，兩者各有獨特優勢。對於重型",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -6820,7 +6825,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-21T14:02:40.086677+08:00",
-    "url": "https://x.com/elonmusk/status/2079446276299465185"
+    "url": "https://x.com/elonmusk/status/2079446276299465185",
+    "retried_at": "2026-07-26T17:07:00.351768+08:00"
   },
   {
     "id": "2079387802924732537",
@@ -7407,7 +7413,7 @@
     "id": "2078970013252530459",
     "created_at": "2026-07-19T22:27:31.000Z",
     "original": "I do love this country where you can just trade barbs online with the undersecretary of war or whomever about the production of thinking machines and you don’t get disappeared or otherwise hurt. all on this barely functional website",
-    "translation": "",
+    "translation": "我真的超愛這個國家，可以在網上跟國防部副部長或是什麼大人物互嗆AI的生產，還不會被消失或怎樣。重點是這一切都是在這個爛到不行的網站上發生的",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -7415,7 +7421,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-20T09:08:01.040789+08:00",
-    "url": "https://x.com/elonmusk/status/2078970013252530459"
+    "url": "https://x.com/elonmusk/status/2078970013252530459",
+    "retried_at": "2026-07-26T17:07:09.304962+08:00"
   },
   {
     "id": "2079009056866406415",
@@ -8855,7 +8862,7 @@
     "id": "2078131363316744347",
     "created_at": "2026-07-17T14:55:01.000Z",
     "original": "I don't invest in space stocks because I cover space companies, or pretend to understand irrational market moves. But the idea that a space company stock would fall after an abort, which actually saved the rocket shows the company's procedures work as intended, is pretty dumb.",
-    "translation": "",
+    "translation": "我不投資太空股，因為我是報導太空公司的，或者說我根本懶得去搞懂那些非理性的市場變動。但有人會覺得火箭中止發射後太空公司股價應該下跌——可中止其實證明程序運作正常、火箭被成功救回——這想法真的很蠢。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -8863,7 +8870,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-18T10:02:21.538731+08:00",
-    "url": "https://x.com/elonmusk/status/2078131363316744347"
+    "url": "https://x.com/elonmusk/status/2078131363316744347",
+    "retried_at": "2026-07-26T17:07:10.516616+08:00"
   },
   {
     "id": "2078289996323148076",
@@ -9191,7 +9199,7 @@
     "id": "2078178473613369472",
     "created_at": "2026-07-17T18:02:13.000Z",
     "original": "Elon's claim that SpaceX will be worth more than Earth sounds insane until you realize that all owned material wealth on Earth is about $600 trillion and that every valuable resource on Earth exists in near infinite quantities in space.",
-    "translation": "",
+    "translation": "馬斯克聲稱SpaceX的價值會超過地球，聽起來很瘋狂——但只要你想想，地球上的物質財富總值約60兆美元，而太空中幾乎所有有價值的資源都接近無限量存在，你就會明白了。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -9199,7 +9207,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-18T04:01:53.085822+08:00",
-    "url": "https://x.com/elonmusk/status/2078178473613369472"
+    "url": "https://x.com/elonmusk/status/2078178473613369472",
+    "retried_at": "2026-07-26T17:07:12.902064+08:00"
   },
   {
     "id": "2078194851644838363",
@@ -10975,7 +10984,7 @@
     "id": "2077366943351251449",
     "created_at": "2026-07-15T12:17:29.000Z",
     "original": "He was anti-human. He made things up about population growth to persuade people that fewer humans should exist.\n\nHow many fewer millions of humans knew and enjoyed parents, children, friends, life because of Paul Ehrlich?\n\nHe was the grand priest of extinctionism.",
-    "translation": "",
+    "translation": "他是反人類的。他捏造關於人口增長的謊言，說服大家覺得人類應該少一點。\n\n因為保羅·埃利希，有多少百萬人沒能認識並享受父母、孩子、朋友、生活？\n\n他是滅絕主義的大祭司。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -10983,7 +10992,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-15T21:08:04.293965+08:00",
-    "url": "https://x.com/elonmusk/status/2077366943351251449"
+    "url": "https://x.com/elonmusk/status/2077366943351251449",
+    "retried_at": "2026-07-26T17:07:06.092312+08:00"
   },
   {
     "id": "2077370252548100153",
@@ -11359,7 +11369,7 @@
     "id": "2077012251899277738",
     "created_at": "2026-07-14T12:48:04.000Z",
     "original": "Grok is the Flow LLM.\n\nGrok 4.5’s biggest advantage is its speed.\n\nIt’s smart enough to be comparable to the other models on most things.\n\nBut that speed allows you to make little tweaks to your system so that the output is PERFECT.\n\nWith the other models, it takes FOREVER to do",
-    "translation": "",
+    "translation": "Grok 是 Flow LLM。\n\nGrok 4.5 最大的優勢就是速度。\n\n它的聰明程度足以在大多數事情上與其他模型媲美。\n\n但就是這速度讓你可以對你的系統做小調整，讓輸出變得完美。\n\n用其他模型的話，要做到這樣簡直要等天荒地老。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -11369,7 +11379,8 @@
       "https://pbs.twimg.com/media/HNJguSbWYAAgktq?format=jpg&name=small"
     ],
     "fetched_at": "2026-07-15T00:04:06.214957+08:00",
-    "url": "https://x.com/elonmusk/status/2077012251899277738"
+    "url": "https://x.com/elonmusk/status/2077012251899277738",
+    "retried_at": "2026-07-26T17:07:15.049380+08:00"
   },
   {
     "id": "2076879176628305957",
@@ -11512,7 +11523,7 @@
     "id": "2076747704248758617",
     "created_at": "2026-07-13T19:16:51.000Z",
     "original": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a",
-    "translation": "",
+    "translation": "我們正在推出一個小調整，來提升你貼文在你互關好友（你也有回關的人）面前的曝光度。\n\n我們發現這項資料之前沒有被納入演算法，導致你朋友比較少出現在你的回覆區。這讓回覆區感覺起來更像是一個",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -11520,7 +11531,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-14T07:01:31.554860+08:00",
-    "url": "https://x.com/elonmusk/status/2076747704248758617"
+    "url": "https://x.com/elonmusk/status/2076747704248758617",
+    "retried_at": "2026-07-26T17:07:15.810755+08:00"
   },
   {
     "id": "2076726650365264196",
@@ -13738,7 +13750,7 @@
     "id": "2075370255971447176",
     "created_at": "2026-07-10T00:03:22.000Z",
     "original": "Grok 4.5 is the most persistent agent model we've tested. \n\nHere's one example:  In one of our evals, we asked 3 models (GPT-5.5, GLM-5.2 and Grok 4.5) to audit a GitHub repo for hardcoded credentials using code search, which returns paginated results.\n\nThe prompt even warned",
-    "translation": "",
+    "translation": "Grok 4.5 是我們測試過最持久的代理模型。\n\n這是一個例子：在其中一個評估中，我們讓 3 個模型（GPT-5.5、GLM-5.2 和 Grok 4.5）使用程式碼搜尋來審計一個 GitHub repo 的硬編碼憑證，這會傳回分頁結果。\n\n提示甚至警告了",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -13746,7 +13758,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-10T09:01:55.270136+08:00",
-    "url": "https://x.com/elonmusk/status/2075370255971447176"
+    "url": "https://x.com/elonmusk/status/2075370255971447176",
+    "retried_at": "2026-07-26T17:07:25.580330+08:00"
   },
   {
     "id": "2075371558588055670",
@@ -16326,7 +16339,7 @@
     "id": "2074064376810614926",
     "created_at": "2026-07-06T09:34:16.000Z",
     "original": "Dear America,  \n\nStarting today, on the 250th birthday of our country, millions of children will now benefit from a new & powerful American birthright - a privately owned investment account from birth.  Every child a shareholder in the great American economy!\n\nAmerican capitalism",
-    "translation": "",
+    "translation": "親愛的美國，\n\n從今天起，在我國建國250週年這一天，數百萬名孩童將從這項全新且強大的美國與生俱來權利中受益——從出生就擁有私人投資帳戶。每個孩子都是偉大美國經濟的股東！\n\n美國資本主義",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -16336,7 +16349,8 @@
       "https://pbs.twimg.com/media/HMYnTycXIAAftMr?format=jpg&name=small"
     ],
     "fetched_at": "2026-07-07T00:01:41.330061+08:00",
-    "url": "https://x.com/elonmusk/status/2074064376810614926"
+    "url": "https://x.com/elonmusk/status/2074064376810614926",
+    "retried_at": "2026-07-26T17:07:28.661483+08:00"
   },
   {
     "id": "2074033815367143818",
@@ -16608,7 +16622,7 @@
     "id": "2073794859560051101",
     "created_at": "2026-07-05T15:43:18.000Z",
     "original": "One of the most misunderstood facts is that the US was founded with abundance, whereas it was in fact built from scratch.\n\nAt the time of founding, Britain was the greatest nation governing the Seven Seas, while China was at its height with total land dominance in the East under",
-    "translation": "",
+    "translation": "最被誤解的事實之一是，美國建國時就富得流油，然而現實是它其實是從零開始打造出來的。\n\n建國之際，英國是稱霸七海的最強國家，而中國正值鼎盛時期，在東方擁有絕對的陸地霸權 under",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -16618,7 +16632,8 @@
       "https://pbs.twimg.com/media/HMZ8GOHaYAArqRL?format=png&name=small"
     ],
     "fetched_at": "2026-07-06T11:03:28.371748+08:00",
-    "url": "https://x.com/elonmusk/status/2073794859560051101"
+    "url": "https://x.com/elonmusk/status/2073794859560051101",
+    "retried_at": "2026-07-26T17:07:25.352383+08:00"
   },
   {
     "id": "2073945730402701320",
@@ -18251,7 +18266,7 @@
     "id": "2072836149312372982",
     "created_at": "2026-07-03T00:13:44.000Z",
     "original": "\"If Kristof does not believe me - then perhaps he will believe his own publication home. New York Times, back in 2014, called South Sudan 'in many ways an American creation, carved out of war-torn Sudan in a referendum largely orchestrated by the United States, its fragile",
-    "translation": "",
+    "translation": "如果Kristof不相信我——那麼也許他會相信他自己的報社。紐約時報早在2014年就稱南蘇丹是「在某種程度上美國的創造」，在主要由美國策劃的公投中，從戰火蹂躪的蘇丹分割出來，它脆弱的...",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -18261,7 +18276,8 @@
       "https://pbs.twimg.com/media/HMQwgSKa0AAy-v1?format=jpg&name=small"
     ],
     "fetched_at": "2026-07-03T12:02:01.636358+08:00",
-    "url": "https://x.com/elonmusk/status/2072836149312372982"
+    "url": "https://x.com/elonmusk/status/2072836149312372982",
+    "retried_at": "2026-07-26T17:07:26.569564+08:00"
   },
   {
     "id": "2072890026363347288",
@@ -19670,7 +19686,7 @@
     "id": "2072034905299563005",
     "created_at": "2026-06-30T19:09:52.000Z",
     "original": "The dura is the brain's armor: a membrane so tough that a surgeon normally cuts through it with a scalpel. For the first time in our clinical trials, we inserted the electrode threads of our implant straight through the dura and into the cortex, keeping the dura intact.\n\nHere's",
-    "translation": "",
+    "translation": "硬腦膜是大腦的盔甲：這層膜超級堅韌，外科醫生通常得用手術刀才能切開它。在我們的臨床試驗中，我們首次將植入物的 electrode 線直接穿過硬腦膜插入皮層，而且還保持硬腦膜完好無損。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -19678,7 +19694,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-07-01T04:01:30.871990+08:00",
-    "url": "https://x.com/elonmusk/status/2072034905299563005"
+    "url": "https://x.com/elonmusk/status/2072034905299563005",
+    "retried_at": "2026-07-26T17:07:24.938688+08:00"
   },
   {
     "id": "2072023218693533863",
@@ -20674,7 +20691,7 @@
     "id": "2071617764880687454",
     "created_at": "2026-06-29T15:32:18.000Z",
     "original": "The Slaughter case, overturning precedent, returns us to a spoils system where a president can “clean house” every four years, destroying our professional, independent civil service.",
-    "translation": "",
+    "translation": "Slaughter 案推翻先例，讓我們回到分贓制度，總統可以每四年「全面換血」一次，摧毀我們專業、獨立的文官體系。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -20682,7 +20699,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-30T02:02:35.058230+08:00",
-    "url": "https://x.com/elonmusk/status/2071617764880687454"
+    "url": "https://x.com/elonmusk/status/2071617764880687454",
+    "retried_at": "2026-07-26T17:07:34.281330+08:00"
   },
   {
     "id": "2071652402202075588",
@@ -21388,7 +21406,7 @@
     "id": "2071550422079177070",
     "created_at": "2026-06-29T11:04:42.000Z",
     "original": "\n\n• Starlink now has 27% share of NZ’s rural broadband market.\n\n• Share jumped from 19% to 27% in one year.\n\n• Satellite broadband connections rose from 56,000 to 85,000, up 52%.\n\n• Around 72,000 are",
-    "translation": "",
+    "translation": "• Starlink 目前已拿下紐西蘭鄉村寬頻市場 27% 的佔有率\n\n• 佔有率在一年內從 19% 跃升至 27%\n\n• 衛星寬頻連線數從 56,000 跃升至 85,000，成長 52%\n\n• 約有 72,000 人是",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -21396,7 +21414,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-29T20:02:14.656927+08:00",
-    "url": "https://x.com/elonmusk/status/2071550422079177070"
+    "url": "https://x.com/elonmusk/status/2071550422079177070",
+    "retried_at": "2026-07-26T17:07:38.125389+08:00"
   },
   {
     "id": "2071550940637733355",
@@ -22065,7 +22084,7 @@
     "id": "2071338220038586788",
     "created_at": "2026-06-28T21:01:29.000Z",
     "original": "Andrew Carnegie spent a fortune building 2,500 free libraries so a poor kid could read what a rich one read. We are finishing the job he started. The only difference is the library now talks back, in every language, and it never closes.",
-    "translation": "",
+    "translation": "Andrew Carnegie砸大筆銀子蓋了2500座免費圖書館，就是為了讓窮孩子也能讀到有錢孩子在讀的書。我們要完成他當年開始的這份志業。唯一的不同是，現在這座圖書館會回你話，用各國語言，而且24小時不打烊。",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -22073,7 +22092,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-29T08:03:09.026943+08:00",
-    "url": "https://x.com/elonmusk/status/2071338220038586788"
+    "url": "https://x.com/elonmusk/status/2071338220038586788",
+    "retried_at": "2026-07-26T17:07:40.488714+08:00"
   },
   {
     "id": "2071382002016645307",
@@ -23660,7 +23680,7 @@
     "id": "2070652599012053372",
     "created_at": "2026-06-26T23:37:05.000Z",
     "original": "Citizen Vigilante has now SURPASSED the ‘Michael’ movie and is #2 on Apple TV\n\nGermany banned it and now the richest person in the world shared it and it’s shattering records\n\nThe greatest Streisand Effect ",
-    "translation": "",
+    "translation": "《Citizen Vigilante》現在已經超越了《Michael》電影，在 Apple TV 排名第二\n\n德國禁了它，結果現在全球首富轉發了它，收視直接破紀錄\n\n史上最猛的史翠珊效應",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -23670,7 +23690,8 @@
       "https://pbs.twimg.com/media/HLxnGwAXUAAo4yv?format=jpg&name=small"
     ],
     "fetched_at": "2026-06-27T08:01:30.044995+08:00",
-    "url": "https://x.com/elonmusk/status/2070652599012053372"
+    "url": "https://x.com/elonmusk/status/2070652599012053372",
+    "retried_at": "2026-07-26T17:07:50.620075+08:00"
   },
   {
     "id": "2070639607561994567",
@@ -25759,7 +25780,7 @@
     "id": "2069768562072289781",
     "created_at": "2026-06-24T13:04:14.000Z",
     "original": " will be installed on more than 80 giant Oldendorff ships.\n\nOldendorff is one of the world’s largest dry bulk shipping companies.\n\n\"With vessels operating in diverse regions and trading routes, reliable and resilient connectivity plays an increasingly important",
-    "translation": "",
+    "translation": "這些系統將安裝在超過 80 艘 Oldendorff 巨型船舶上。\n\nOldendorff 是全球最大的乾散貨航運公司之一。\n\n「隨著船隻在多樣化的地區和貿易航線上運營，可靠且有彈性的連接變得越來越重要」",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -25769,7 +25790,8 @@
       "https://pbs.twimg.com/media/HLlKt5cXoAAVloT?format=jpg&name=small"
     ],
     "fetched_at": "2026-06-25T00:01:29.864339+08:00",
-    "url": "https://x.com/elonmusk/status/2069768562072289781"
+    "url": "https://x.com/elonmusk/status/2069768562072289781",
+    "retried_at": "2026-07-26T17:07:49.038564+08:00"
   },
   {
     "id": "2069807753581998120",
@@ -25936,7 +25958,7 @@
     "id": "2069443300038205633",
     "created_at": "2026-06-23T15:31:45.000Z",
     "original": "Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed",
-    "translation": "",
+    "translation": "報導：加拿大 Pornhub 辦公室外，一名女員警朝一名猶太拉比開槍，當時她正在躲避一名馬克斯主義槍手，該槍手先前殺害了一名名為 Mohamed 的移民警官",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -25944,7 +25966,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-24T16:02:10.534624+08:00",
-    "url": "https://x.com/elonmusk/status/2069443300038205633"
+    "url": "https://x.com/elonmusk/status/2069443300038205633",
+    "retried_at": "2026-07-26T17:08:04.165330+08:00"
   },
   {
     "id": "2069690741295861935",
@@ -45160,7 +45183,7 @@
     "id": "2061547607709597805",
     "created_at": "2026-06-01T20:37:06.000Z",
     "original": "Neuralink is planning its first Blindsight implant later this year, aiming to restore limited vision even for people who have lost both eyes, their optic nerve, or were born blind\n\nOver time, it could potentially go beyond that and offer enhanced or even superhuman vision",
-    "translation": "",
+    "translation": "Neuralink 正在計畫今年稍晚進行首次 Blindsight 植入，目標是讓失去雙眼、視神經的人，或是天生失明的人也能恢復有限的視力\n\n隨著時間推移，這項技術有可能超越這個目標，提供增強版甚至是超越人類的視覺",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -45170,7 +45193,8 @@
       "https://pbs.twimg.com/media/HJwWn5WWsAACwHy?format=jpg&name=small"
     ],
     "fetched_at": "2026-06-02T16:03:05.374814+08:00",
-    "url": "https://x.com/elonmusk/status/2061547607709597805"
+    "url": "https://x.com/elonmusk/status/2061547607709597805",
+    "retried_at": "2026-07-26T17:08:24.971373+08:00"
   },
   {
     "id": "2061661555159417059",

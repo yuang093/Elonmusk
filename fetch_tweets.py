@@ -175,11 +175,32 @@ def fetch_elon_tweets_via_browser():
 
 # ── Translation ──────────────────────────────────────────────────────────────
 
-def translate_to_chinese(text):
+TRANSLATION_SYSTEM_PROMPT = (
+    "你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，"
+    "保留梗和網路用語。不要翻譯人名。不要輸出任何思考過程，只直接輸出翻譯結果。"
+)
+
+# Stricter prompt used by the 3-hourly retry pass for previously-empty
+# translations (often caused by long originals hitting the model's max_tokens
+# ceiling or thinking blocks stripping to nothing).
+TRANSLATION_SYSTEM_PROMPT_STRICT = (
+    "你是一個專業的繁體中文翻譯專家。任務：將以下英文推文準確翻譯成繁體中文。\n"
+    "規則：\n"
+    "1. 語氣保持輕鬆、口語化，保留梗、網路用語與雙關語。\n"
+    "2. 保留人名、專有名詞、產品名稱（Elon Musk、SpaceX、Tesla、X.com 等不翻譯）。\n"
+    "3. 禁止輸出任何思考、解釋、引號、Markdown 或 <think> 標籤。\n"
+    "4. 只輸出最終的繁體中文翻譯本身，不要任何前綴或後綴。\n"
+    "5. 即使原文很長或包含多個段落，也必須輸出完整翻譯，不可省略或截斷。\n"
+    "6. 若原文是純表情符號、數字或無實質內容，則原樣保留。\n"
+    "7. 若原文為非英文（例如西班牙文），仍翻譯成繁體中文。"
+)
+
+
+def _call_translation_api(text, system_prompt, max_tokens=500, temperature=0.5):
+    """Internal helper — single-shot translation API call."""
     api_key = get_env("MINIMAX_API_KEY")
     if not api_key:
-        return text
-
+        return None
     try:
         from openai import OpenAI
         client = OpenAI(api_key=api_key, base_url="https://api.minimax.io/v1")
@@ -187,19 +208,88 @@ def translate_to_chinese(text):
         response = client.chat.completions.create(
             model="MiniMax-M2.7",
             messages=[
-                {"role": "system", "content": "你是一個翻譯專家。將以下推文翻譯成繁體中文，保持輕鬆、口語化的風格，保留梗和網路用語。不要翻譯人名。不要輸出任何思考過程，只直接輸出翻譯結果。"},
+                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": text}
             ],
-            temperature=0.7,
-            max_tokens=500
+            temperature=temperature,
+            max_tokens=max_tokens
         )
         raw = response.choices[0].message.content.strip()
-        # Strip <think>...</think> thinking blocks
+        # Strip <think>...</think> thinking blocks (some models leak reasoning)
         clean = re.sub(r'<think>[\s\S]*?</think>', '', raw).strip()
         return clean
     except Exception as e:
-        print(f"  ⚠️ Translation failed: {e}")
+        print(f"  ⚠️ Translation API call failed: {e}")
+        return None
+
+
+def translate_to_chinese(text):
+    """Initial translation — used by main() for newly-fetched tweets."""
+    result = _call_translation_api(
+        text,
+        TRANSLATION_SYSTEM_PROMPT,
+        max_tokens=500,
+        temperature=0.7,
+    )
+    if result is None:
         return text
+    return result
+
+
+def retry_empty_translations(tweets, dry_run=False, max_workers=6):
+    """3-hourly retry pass: revisit tweets whose translation is empty string.
+
+    Targets tweets where `translation == ""` and `original != ""` — usually
+    long originals that hit the model's max_tokens ceiling on the first pass.
+
+    Uses a stricter prompt with a higher token budget (1500) to handle long
+    originals. Runs API calls in parallel with a small thread pool
+    (`max_workers=6`) so 50–70 tweets finish in seconds rather than minutes.
+    Writes back into the tweet object in-place and returns the number of
+    successful re-translations. Caller is responsible for persisting `tweets`
+    to disk and deciding whether to commit.
+    """
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    candidates = [
+        t for t in tweets
+        if t.get("translation", "") == "" and t.get("original", "").strip() != ""
+    ]
+    if not candidates:
+        print("  ✅ retry_empty_translations: no empty translations to retry")
+        return 0
+
+    print(f"  🔁 retry_empty_translations: {len(candidates)} empty translations to retry "
+          f"(parallel, max_workers={max_workers})")
+
+    def _retry_one(t):
+        original = t["original"]
+        result = _call_translation_api(
+            original,
+            TRANSLATION_SYSTEM_PROMPT_STRICT,
+            max_tokens=1500,
+            temperature=0.3,
+        )
+        return t, result
+
+    fixed = 0
+    failed = 0
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        futures = [pool.submit(_retry_one, t) for t in candidates]
+        for fut in as_completed(futures):
+            t, result = fut.result()
+            if result is not None and result.strip() != "":
+                if not dry_run:
+                    t["translation"] = result
+                    t["retried_at"] = datetime.now().astimezone().isoformat()
+                fixed += 1
+                print(f"    ✅ {t['id']}: {result[:80]}")
+            else:
+                failed += 1
+                print(f"    ❌ {t['id']}: still empty after retry")
+
+    print(f"  📊 retry_empty_translations: {fixed} fixed, {failed} still empty")
+    return fixed
 
 # ── Telegram ────────────────────────────────────────────────────────────────
 
@@ -262,31 +352,60 @@ def format_tweet_message(tweet, translation, tweet_id):
 
 # ── Main ───────────────────────────────────────────────────────────────────
 
+# Run the empty-translation retry pass every 3 hours. The cron schedule
+# itself runs every hour, so we only want to retry on the 3-hour marks
+# (00, 03, 06, 09, 12, 15, 18, 21 UTC → roughly 08, 11, 14, 17, 20, 23, 02, 05
+# Taiwan time, plus DST offset). The simplest robust check: hour modulo 3.
+RETRY_TRANSLATION_HOURS = {0, 3, 6, 9, 12, 15, 18, 21}
+
+
 def main():
     print(f"[{datetime.now().astimezone().strftime('%Y-%m-%d %H:%M')}] Elon Tweet Checker started")
-    
+
     load_env()
-    
+
     tweets = load_tweets()
     seen_ids = get_seen_ids(tweets)
-    
+
+    # ── Step 0: 3-hourly retry of previously-empty translations ───────────
+    # Done FIRST so that retry updates land in tweets.json before any new
+    # fetch can shift the head of the file. Dry-run flag is wired but left
+    # off — the cron runs in normal mode.
+    current_hour_utc = datetime.now(timezone.utc).hour
+    retried = 0
+    if current_hour_utc in RETRY_TRANSLATION_HOURS:
+        print(f"⏰ Hour {current_hour_utc:02d} UTC — running empty-translation retry pass")
+        retried = retry_empty_translations(tweets, dry_run=False)
+        if retried > 0:
+            save_tweets(tweets)
+            print(f"  💾 Persisted {retried} re-translated entries to tweets.json")
+    else:
+        print(f"⏭️  Hour {current_hour_utc:02d} UTC — skipping retry pass (next: "
+              f"{min((h for h in RETRY_TRANSLATION_HOURS if h > current_hour_utc), default=0)}:00 UTC)")
+
+    # ── Step 1: fetch new tweets ──────────────────────────────────────────
     try:
         new_tweets_raw = fetch_elon_tweets_via_browser()
     except Exception as e:
         print(f"❌ Failed to fetch tweets: {e}")
+        # Still report the retry outcome even if fetch fails
+        if retried > 0:
+            print(f"📤 {retried} empty translations were re-translated (commit + push still required)")
         return
-    
+
     seen_ids = get_seen_ids(tweets)
     new_tweets = []
     for t in new_tweets_raw:
         if t["id"] not in seen_ids:
             new_tweets.append(t)
             seen_ids.add(t["id"])
-    
+
     if not new_tweets:
         print("✅ No new tweets")
+        if retried > 0:
+            print(f"📤 {retried} empty translations were re-translated (commit + push still required)")
         return
-    
+
     print(f"📌 Found {len(new_tweets)} new tweet(s)")
     
     # Build all entries first
