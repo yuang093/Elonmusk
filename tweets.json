@@ -1,5 +1,126 @@
 [
   {
+    "id": "2081176203050848413",
+    "created_at": "2026-07-26T00:34:07.000Z",
+    "original": "Hope this is good. The novel is amazing.",
+    "translation": "希望這還行吧，小說真的超猛的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T10:01:43.760008+08:00",
+    "url": "https://x.com/elonmusk/status/2081176203050848413"
+  },
+  {
+    "id": "2081137420276535572",
+    "created_at": "2026-07-25T22:00:01.000Z",
+    "original": "See you on the other side, cowboy.\n\n",
+    "translation": "待會見，牛仔！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOFSkxrWUAASzMY.jpg"
+    ],
+    "fetched_at": "2026-07-26T10:01:50.122395+08:00",
+    "url": "https://x.com/elonmusk/status/2081137420276535572"
+  },
+  {
+    "id": "2081185086603509898",
+    "created_at": "2026-07-26T01:09:25.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T10:01:52.620478+08:00",
+    "url": "https://x.com/elonmusk/status/2081185086603509898"
+  },
+  {
+    "id": "2081158898946576551",
+    "created_at": "2026-07-25T23:25:22.000Z",
+    "original": "(Former) Trillionaire",
+    "translation": "前兆萬富翁",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T10:02:00.537390+08:00",
+    "url": "https://x.com/elonmusk/status/2081158898946576551"
+  },
+  {
+    "id": "2081185528888615397",
+    "created_at": "2026-07-26T01:11:11.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T10:02:02.381682+08:00",
+    "url": "https://x.com/elonmusk/status/2081185528888615397"
+  },
+  {
+    "id": "2081071753942782203",
+    "created_at": "2026-07-25T17:39:05.000Z",
+    "original": "  with inane questions about a make-believe \"far right,\" Elon is too busy transforming the trajectory of humanity into an interplanetary species for him to care about their stupidity.\n\nI know what side I'm on, and it ain't",
+    "translation": "那些白癡問題問什麼虛構的「極右翼」， Elon忙著把人類變成星際物種呢，哪有空理會這些蠢貨。\n\n我知道自己站哪邊，反正不是他們那邊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-26T10:02:09.992365+08:00",
+    "url": "https://x.com/elonmusk/status/2081071753942782203"
+  },
+  {
+    "id": "2081178849455276484",
+    "created_at": "2026-07-26T00:44:38.000Z",
+    "original": "Another trans person has been arrested over the m—rder of his parent. \n\n36-year-old Safford James Wolfson, who identifies as female, was arrested on suspicion of the m—rder of Angela Caprioli. The 61-year-old woman was found dead at her home in Laguna Beach on July 20. \n\nThe",
+    "translation": "又一個跨性別者因為涉嫌弒親被逮捕了。\n\n36 歲的 Safford James Wolfson（自我認同為女性）因涉嫌謀殺 Angela Caprioli 而被捕。這名 61 歲的女性於 7 月 20 日在拉古納海灘的住處被發現身亡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOHRYSaWoAEnapW?format=png&name=360x360",
+      "https://pbs.twimg.com/media/HOHR4F1XoAAjYuO?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOHSTt4WoAAHxlv?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOHTvxsXIAAX-mT?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-07-26T10:02:20.719864+08:00",
+    "url": "https://x.com/elonmusk/status/2081178849455276484"
+  },
+  {
+    "id": "2081162179282391307",
+    "created_at": "2026-07-25T23:38:24.000Z",
+    "original": "A low birth rate due to extended periods of prosperity and low perceived external danger is the primary reason that Rome and most other powerful civilizations collapsed. \n\nRome had a very high birth rate when under extreme pressure from Carthage and a low birth rate a few x.com/newstart_2024/…",
+    "translation": "長期繁榮加上覺得外面也沒啥威脅，導致出生率低迷——這就是 Rome 還有其他大文明崩掉的主要原因啦。在被 Carthage 壓著打的時候，Rome 出生率超高，但沒過多久就…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOHF-OYbsAAP2Mk?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-26T10:02:29.553571+08:00",
+    "url": "https://x.com/elonmusk/status/2081162179282391307"
+  },
+  {
     "id": "2081172567650394565",
     "created_at": "2026-07-26T00:19:41.000Z",
     "original": "Landing and remaining stable on any flat surface on the Moon is much easier than Earth, as there is no wind on the Moon",
