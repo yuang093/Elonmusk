@@ -1,5 +1,67 @@
 [
   {
+    "id": "2081812959366361184",
+    "created_at": "2026-07-27T18:44:22.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-28T03:01:50.848991+08:00",
+    "url": "https://x.com/elonmusk/status/2081812959366361184"
+  },
+  {
+    "id": "2081587054191034734",
+    "created_at": "2026-07-27T03:46:42.000Z",
+    "original": "Google has now officially been added to the letter. They have signed. ",
+    "translation": "Google 現在正式被加進去了，已經簽了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOG55nAb0AAQxIt?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-07-28T03:01:55.891377+08:00",
+    "url": "https://x.com/elonmusk/status/2081587054191034734"
+  },
+  {
+    "id": "2081803897883046220",
+    "created_at": "2026-07-27T18:08:21.000Z",
+    "original": "I was deeply touched by the many messages you sent me following my open letter to Le Monde.\n\nI wanted to thank each and every one of you, directly and personally, here on X.\n\nThank you!\nBernard Arnault x.com/lvmh_presse/st…",
+    "translation": "你們在我把公開信發到《世界報》後傳給我的那些訊息，真的讓我很感動。\n\n我想直接在X上跟你們每一個人說聲謝謝！\n\n謝謝啦！\nBernard Arnault",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOOAW7uWUAAM9ay?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-28T03:02:04.235523+08:00",
+    "url": "https://x.com/elonmusk/status/2081803897883046220"
+  },
+  {
+    "id": "2081718431393402884",
+    "created_at": "2026-07-27T12:28:45.000Z",
+    "original": "AI security advances when the industry builds in the open, together.\n\nWe're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\n\nBy sharing models, tooling and research in the open, we can broaden the",
+    "translation": "當業界一起開放式共建，AI 資安就會往前邁進。\n\n我們推出 Open Secure AI Alliance，與業界大佬合作開發新技術和工具，來保護軟體和代理程式。\n\n透過開放分享模型、工具和研究，我們可以拓寬...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOOQxJYXkAASp1y?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-28T02:08:29.130199+08:00",
+    "url": "https://x.com/elonmusk/status/2081718431393402884"
+  },
+  {
     "id": "2081800180676931641",
     "created_at": "2026-07-27T17:53:35.000Z",
     "original": "Elon Musk",
