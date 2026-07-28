@@ -1,5 +1,33 @@
 [
   {
+    "id": "2082128041631703439",
+    "created_at": "2026-07-28T15:36:23.000Z",
+    "original": "Interesting",
+    "translation": "有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T04:02:17.149033+08:00",
+    "url": "https://x.com/elonmusk/status/2082128041631703439"
+  },
+  {
+    "id": "2081956616963006913",
+    "created_at": "2026-07-28T04:15:13.000Z",
+    "original": " with helping him the most during the darkest time of his professional life: \n\n\"It was during that rough going where Andreessen came in. We were a small company of 60 people and 20 took the offer and left. That's almost a third of the company",
+    "translation": "……在他職業生涯最黑暗的時期給了他最大的幫助：\n\n「就是在那段艱難時期，Andreessen 出手了。我們當時是一家只有 60 人的小公司，其中 20 人接受了那個提議並離開。那幾乎是公司的三分之一。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T04:02:23.629291+08:00",
+    "url": "https://x.com/elonmusk/status/2081956616963006913"
+  },
+  {
     "id": "2081872603330044017",
     "created_at": "2026-07-27T22:41:22.000Z",
     "original": "Incredible stuff here after the terror attack in Paris earlier. \n\nOne short paragraph separates the confessed motive from \"The motive for the attack remains unknown.\"",
