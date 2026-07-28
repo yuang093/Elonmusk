@@ -1,5 +1,108 @@
 [
   {
+    "id": "2081936938852909391",
+    "created_at": "2026-07-28T02:57:01.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-28T12:01:36.767261+08:00",
+    "url": "https://x.com/elonmusk/status/2081936938852909391"
+  },
+  {
+    "id": "2081788037659328676",
+    "created_at": "2026-07-27T17:05:20.000Z",
+    "original": "\"In hindsight, that might have been a mistake.\" ",
+    "translation": "事後諸葛亮地說，這可能真的有點失誤。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOP_MEFW4AAkl_0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-28T12:01:49.789554+08:00",
+    "url": "https://x.com/elonmusk/status/2081788037659328676"
+  },
+  {
+    "id": "2081941622242128048",
+    "created_at": "2026-07-28T03:15:38.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-28T12:01:52.480201+08:00",
+    "url": "https://x.com/elonmusk/status/2081941622242128048"
+  },
+  {
+    "id": "2081732293161582930",
+    "created_at": "2026-07-27T13:23:50.000Z",
+    "original": "We are announcing a long-term strategic partnership with NVIDIA. NVIDIA is making a substantial investment in SSI that will let us 10x our compute in the next 12 months. We reached the point where our research is worth scaling and with this partnership we will be able to. We are",
+    "translation": "我們宣布與 NVIDIA 建立長期策略合作夥伴關係。NVIDIA 將對 SSI 進行大手筆投資，讓我們在未來 12 個月內算力提升 10 倍。我們已經達到研究值得規模化的階段了，有這個合作我們就能做到。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-28T12:02:03.218140+08:00",
+    "url": "https://x.com/elonmusk/status/2081732293161582930"
+  },
+  {
+    "id": "2081941872990167344",
+    "created_at": "2026-07-28T03:16:37.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk（馬斯克）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-28T12:02:08.318009+08:00",
+    "url": "https://x.com/elonmusk/status/2081941872990167344"
+  },
+  {
+    "id": "2081757420863345120",
+    "created_at": "2026-07-27T15:03:40.000Z",
+    "original": "BREAKING:\n\n3 women stabbed in Paris.\n\nThe attacker was recorded saying that he had been ordered by Allah to carry out the mass-stabbing.",
+    "translation": "快訊：\n\n三名女性在巴黎被刺傷。\n\n攻擊者在錄音中聲稱，他奉真主之命進行這次大規模刺傷事件。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-28T12:02:27.145325+08:00",
+    "url": "https://x.com/elonmusk/status/2081757420863345120",
+    "retried_at": "2026-07-28T12:00:00+00:00"
+  },
+  {
+    "id": "2081849826267078951",
+    "created_at": "2026-07-27T21:10:52.000Z",
+    "original": "2002-2004: Software guy thinks he can build rockets and cars\n\n2016: Car guy thinks he can do brain surgery\n\n2018: American guy thinks he can build factory in China\n\n2022: Hardware guy thinks he can do software\n\n2026: “matters outside his sphere of expertise”",
+    "translation": "2002-2004：軟體工程師覺得自己能造火箭和車\n\n2016：汽車人覺得自己能動腦手術\n\n2018：老美覺得自己能在大陸蓋工廠\n\n2022：硬體人覺得自己能寫軟體\n\n2026：「超出他的專業範圍了啦」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOQ3YfVbUAAeIuv?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-28T12:02:36.337190+08:00",
+    "url": "https://x.com/elonmusk/status/2081849826267078951"
+  },
+  {
     "id": "2081923122190503954",
     "created_at": "2026-07-28T02:02:07.000Z",
     "original": "Elon Musk",
