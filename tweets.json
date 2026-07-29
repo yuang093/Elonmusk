@@ -1,5 +1,79 @@
 [
   {
+    "id": "2082546012628062402",
+    "created_at": "2026-07-29T19:17:15.000Z",
+    "original": "We have just released our latest flagship voice model, Grok Voice Think Fast 2.0. \n\nWe are eager to hear feedback and think you will be happy with what you hear :) \n\nA TON of effort, thought, and love has gone into this by everyone on the voice team. The model’s intelligence, x.com/spacexai/statu…",
+    "translation": "我們剛發布了最新旗艦語音模型 Grok Voice Think Fast 2.0。\n\n我們超期待聽到大家的回饋，相信你們聽到成品也會很滿意的 :)\n\n語音團隊的每個人都投入了大量的心血、思考和愛在這上面。模型的智能、x.com/spacexai/statu…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T05:02:16.754146+08:00",
+    "url": "https://x.com/elonmusk/status/2082546012628062402"
+  },
+  {
+    "id": "2082212261154672888",
+    "created_at": "2026-07-28T21:11:03.000Z",
+    "original": "Happy birthday Grok Imagine ",
+    "translation": "生日快樂 Grok Imagine",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T05:02:22.018897+08:00",
+    "url": "https://x.com/elonmusk/status/2082212261154672888"
+  },
+  {
+    "id": "2082451125601436106",
+    "created_at": "2026-07-29T13:00:13.000Z",
+    "original": "A joint statement from the WFA and X Corp.\n\nToday the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them. This resets the relationship between the two organizations.\n\nWFA reiterates",
+    "translation": "WFA 和 X Corp. 的聯合聲明\n\n世界廣告主聯合會（WFA）和 X Corp. 今天決定把與全球負責任媒體聯盟（GARM）相關的訴訟拋在腦後。這也讓兩個組織的關係重新開始。\n\nWFA 再次強調",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T05:02:29.213323+08:00",
+    "url": "https://x.com/elonmusk/status/2082451125601436106"
+  },
+  {
+    "id": "2082559894264430870",
+    "created_at": "2026-07-29T20:12:25.000Z",
+    "original": "SpaceXAI has released Grok Voice Think Fast 2.0 today, with the High reasoning variant debuting at #2 on the Artificial Analysis Speech to Speech Index at 82.9%, and #1 on Tau Voice for Agentic Performance at 56.5% - among the fastest models at 0.70s Time to First Audio\n\nGrok",
+    "translation": "SpaceXAI 今天推出了 Grok Voice Think Fast 2.0，High reasoning 版本一登場就空降 Artificial Analysis Speech to Speech Index 第二名（82.9%），在 Tau Voice Agentic Performance 拿下第一名（56.5%）——而且速度也是數一數二，首音延遲只要 0.70 秒",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOafKuwb0AAwj3J?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T05:02:37.442586+08:00",
+    "url": "https://x.com/elonmusk/status/2082559894264430870"
+  },
+  {
+    "id": "2082469637216727234",
+    "created_at": "2026-07-29T14:13:46.000Z",
+    "original": "The Economist uploaded their full Elon interview to YouTube and left the comments on ",
+    "translation": "經濟學人把完整的馬斯克專訪上傳到YouTube了，然後沒把留言功能關掉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOZrGRtWgAIwtpQ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T05:02:43.403709+08:00",
+    "url": "https://x.com/elonmusk/status/2082469637216727234"
+  },
+  {
     "id": "2082139213030359548",
     "created_at": "2026-07-28T16:20:47.000Z",
     "original": "Grok 4.5 is ridiculously generous on the $20 Cursor Pro plan.\n\nAt least for coding, it feels far more generous than buying SuperGrok directly for $30.\n\nAm I missing something?",
