@@ -1,5 +1,144 @@
 [
   {
+    "id": "2082185861588988316",
+    "created_at": "2026-07-28T19:26:09.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T08:03:32.511046+08:00",
+    "url": "https://x.com/elonmusk/status/2082185861588988316"
+  },
+  {
+    "id": "2081841988949999931",
+    "created_at": "2026-07-27T20:39:43.000Z",
+    "original": "The internet stays undefeated ",
+    "translation": "網路依然無敵",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOQwQYKWQAAgWB9?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T08:03:36.190306+08:00",
+    "url": "https://x.com/elonmusk/status/2081841988949999931"
+  },
+  {
+    "id": "2082241806713205087",
+    "created_at": "2026-07-28T23:08:27.000Z",
+    "original": "In the last 4 months, FSD Supervised has been over 5.2x safer than manual driving – across 65 million kilometers in 5 EU countries",
+    "translation": "過去 4 個月，FSD（監督版）在歐盟 5 個國家累計行駛 6,500 萬公里，安全性是人工駕駛的 5.2 倍以上",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOVfdrLb0AAHi9S?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T08:03:39.805953+08:00",
+    "url": "https://x.com/elonmusk/status/2082241806713205087"
+  },
+  {
+    "id": "2082137145507254440",
+    "created_at": "2026-07-28T16:12:34.000Z",
+    "original": "Today we're launching app builder for Grok. It lets you build fully functional apps and publish them instantly, on a unique domain, all from within Grok. Available now on ",
+    "translation": "今天我們推出 Grok 的應用程式建構器。你可以直接在 Grok 內建立功能完整的應用程式，並立即發佈到專屬網域。現已上線。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T08:03:43.487518+08:00",
+    "url": "https://x.com/elonmusk/status/2082137145507254440"
+  },
+  {
+    "id": "2082242865724580279",
+    "created_at": "2026-07-28T23:12:40.000Z",
+    "original": "Never forget how fragile the tiny candle of consciousness is",
+    "translation": "永遠別忘了，意識這簇微小的燭火有多麼脆弱",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOVbpgoXcAA_TiK?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T08:03:47.254410+08:00",
+    "url": "https://x.com/elonmusk/status/2082242865724580279"
+  },
+  {
+    "id": "2082243743013614012",
+    "created_at": "2026-07-28T23:16:09.000Z",
+    "original": "From The Babylon Bee",
+    "translation": "轉自 Babylon Bee",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/GwF3dMCXYAAOqAp.jpg"
+    ],
+    "fetched_at": "2026-07-29T08:03:53.994816+08:00",
+    "url": "https://x.com/elonmusk/status/2082243743013614012"
+  },
+  {
+    "id": "2082243900719460745",
+    "created_at": "2026-07-28T23:16:46.000Z",
+    "original": " S40 softly splashing-down in the Indian Ocean on Flight 13!!!",
+    "translation": "第13次任務 S40 軟軟地濺落在印度洋上了！！！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T08:04:16.264485+08:00",
+    "url": "https://x.com/elonmusk/status/2082243900719460745"
+  },
+  {
+    "id": "2082244044261064874",
+    "created_at": "2026-07-28T23:17:21.000Z",
+    "original": "Landing burn and splashdown of Starship on Flight 13",
+    "translation": "星艦第13次試飛著陸點火與濺落",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOVpVmlWAAADPDg?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T08:04:28.890625+08:00",
+    "url": "https://x.com/elonmusk/status/2082244044261064874"
+  },
+  {
+    "id": "2082244164197183805",
+    "created_at": "2026-07-28T23:17:49.000Z",
+    "original": "The Starship Recovery team has continued gathering imagery of the vehicle, which is still afloat in the Indian Ocean",
+    "translation": "星艦回收團隊持續拍攝飛行器的畫面，目前它還漂在印度洋上呢",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOVp0DUW4AArI4k?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HOVp1R_W8AA8SCl?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T08:04:34.705859+08:00",
+    "url": "https://x.com/elonmusk/status/2082244164197183805"
+  },
+  {
     "id": "2082128041631703439",
     "created_at": "2026-07-28T15:36:23.000Z",
     "original": "Interesting",
