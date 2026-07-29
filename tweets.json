@@ -1,5 +1,81 @@
 [
   {
+    "id": "2082139213030359548",
+    "created_at": "2026-07-28T16:20:47.000Z",
+    "original": "Grok 4.5 is ridiculously generous on the $20 Cursor Pro plan.\n\nAt least for coding, it feels far more generous than buying SuperGrok directly for $30.\n\nAm I missing something?",
+    "translation": "Grok 4.5 在這個 20 美元的 Cursor Pro 方案上根本大方到離譜。\n\n至少就寫 code 來說，感覺比直接花 30 美元買 SuperGrok 佛心太多了。\n\n是不是有什麼我漏掉的？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T04:02:11.453814+08:00",
+    "url": "https://x.com/elonmusk/status/2082139213030359548"
+  },
+  {
+    "id": "2082545573325156526",
+    "created_at": "2026-07-29T19:15:31.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T04:02:14.603633+08:00",
+    "url": "https://x.com/elonmusk/status/2082545573325156526"
+  },
+  {
+    "id": "2082345442852188515",
+    "created_at": "2026-07-29T06:00:16.000Z",
+    "original": "One idiot is one idiot. Two idiots are two idiots. Ten thousand idiots are a political party.\n\n— Franz Kafka",
+    "translation": "一個人蠢就一個人蠢，兩個人蠢就兩個人蠢，一萬個人蠢？那是政黨啦！——法蘭茲·卡夫卡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOX6I56awAAyvPS?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T04:02:21.098319+08:00",
+    "url": "https://x.com/elonmusk/status/2082345442852188515"
+  },
+  {
+    "id": "2082545217455243373",
+    "created_at": "2026-07-29T19:14:06.000Z",
+    "original": "Announcing Grok Voice Think Fast 2.0, our next-generation voice model with improved intelligence, transcription accuracy, and conversational capabilities.\n\n",
+    "translation": "宣布推出 Grok Voice Think Fast 2.0，這是我們的下一代語音模型，智慧、語音轉文字精準度還有對話能力都大幅升級啦！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOaceasaAAANnA6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T04:02:26.818414+08:00",
+    "url": "https://x.com/elonmusk/status/2082545217455243373"
+  },
+  {
+    "id": "2082532816202408314",
+    "created_at": "2026-07-29T18:24:49.000Z",
+    "original": "BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 beats voice models from OpenAI, Google, Alibaba, and DeepSlate in the Artificial Analysis Speech-to-Speech benchmark.",
+    "translation": "突發：SpaceXAI 剛發布的 Grok Voice Think Fast 2.0 在 Artificial Analysis 語音對語音基準測試中，打敗了 OpenAI、Google、Alibaba 和 DeepSlate 的語音模型。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOajmlmWsAA3R0b?format=png&name=small"
+    ],
+    "fetched_at": "2026-07-30T04:02:33.279907+08:00",
+    "url": "https://x.com/elonmusk/status/2082532816202408314"
+  },
+  {
     "id": "2082473728177471686",
     "created_at": "2026-07-29T14:30:01.000Z",
     "original": "Elon Musk",
