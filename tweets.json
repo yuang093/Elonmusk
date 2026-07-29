@@ -1,5 +1,49 @@
 [
   {
+    "id": "2082259358772232322",
+    "created_at": "2026-07-29T00:18:12.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T10:01:42.895267+08:00",
+    "url": "https://x.com/elonmusk/status/2082259358772232322"
+  },
+  {
+    "id": "2082237446981652675",
+    "created_at": "2026-07-28T22:51:08.000Z",
+    "original": "Remember all those stories screaming about RFKJr and Jay Bhattacharya meddling in CDC \"independence\"? Well, Fauci and allies manipulated the CDC to promote COVID vaccines. \n\nWhen CDC's MMWR published something they didn't like, Fauci wrote that Walensky would likely get fired.",
+    "translation": "還記得那些狂吹RFKJr和Jay Bhattacharya干預CDC「獨立性」的新聞嗎？結果咧，Fauci和盟友才是操控CDC推COVID疫苗的那群人。\n\n當CDC的MMWR發了個他們不爽的東西，Fauci就寫說Walensky大概要被炒魷魚了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOWXvXCbkAA2Rcc?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T10:01:55.041898+08:00",
+    "url": "https://x.com/elonmusk/status/2082237446981652675"
+  },
+  {
+    "id": "2082160210399948869",
+    "created_at": "2026-07-28T17:44:13.000Z",
+    "original": "I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.",
+    "translation": "我寫了篇文章聊聊為什麼我們相信未來是屬於大家的。關於超級智能世界的正面願景，更多內容很快就來～",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T10:02:04.476489+08:00",
+    "url": "https://x.com/elonmusk/status/2082160210399948869"
+  },
+  {
     "id": "2082185861588988316",
     "created_at": "2026-07-28T19:26:09.000Z",
     "original": "Elon Musk",
