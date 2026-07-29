@@ -1,5 +1,94 @@
 [
   {
+    "id": "2082458184913195344",
+    "created_at": "2026-07-29T13:28:16.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T22:02:50.797666+08:00",
+    "url": "https://x.com/elonmusk/status/2082458184913195344"
+  },
+  {
+    "id": "2082458212662661293",
+    "created_at": "2026-07-29T13:28:22.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T22:02:52.906797+08:00",
+    "url": "https://x.com/elonmusk/status/2082458212662661293"
+  },
+  {
+    "id": "2082458959248834596",
+    "created_at": "2026-07-29T13:31:20.000Z",
+    "original": "From TV News Now",
+    "translation": "來自TV News Now",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T22:02:59.758445+08:00",
+    "url": "https://x.com/elonmusk/status/2082458959248834596"
+  },
+  {
+    "id": "2082414064207020489",
+    "created_at": "2026-07-29T10:32:56.000Z",
+    "original": "I’m on vacation and haven’t been able to read the entire diary, but someone sent me a page where Fauci complained about my September 2022 interview with former CDC Director Robert Redfield. Redfield told me in the interview that during the first few months of the pandemic he",
+    "translation": "我現在在度假，還沒辦法讀完整本日記，但有人傳了一頁給我，上面是Fauci抱怨我2022年9月採訪前CDC主任Robert Redfield的內容。Redfield在採訪中告訴我，在疫情最初幾個月他...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOY4U8-WYAAHKN3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T22:03:07.704131+08:00",
+    "url": "https://x.com/elonmusk/status/2082414064207020489"
+  },
+  {
+    "id": "2082465069124997343",
+    "created_at": "2026-07-29T13:55:37.000Z",
+    "original": ", this is asymmetric",
+    "translation": "這不對稱啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T22:03:12.379944+08:00",
+    "url": "https://x.com/elonmusk/status/2082465069124997343"
+  },
+  {
+    "id": "2082449029674172654",
+    "created_at": "2026-07-29T12:51:53.000Z",
+    "original": "According to Google it is OK to only want a Black doctor, but not a White doctor. \n\n",
+    "translation": "根據 Google，只想要黑人醫生是可以的，但只想要白人醫生就不行。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOZYWc5XYAE6Zhn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-29T22:03:21.587784+08:00",
+    "url": "https://x.com/elonmusk/status/2082449029674172654",
+    "retried_at": "2026-07-29T22:11:27+08:00"
+  },
+  {
     "id": "2082368743079117126",
     "created_at": "2026-07-29T07:32:51.000Z",
     "original": "\n\nTobi is a national treasure of Canada!",
