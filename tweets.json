@@ -1,5 +1,33 @@
 [
   {
+    "id": "2082273378749268440",
+    "created_at": "2026-07-29T01:13:54.000Z",
+    "original": "We haven’t for over a year",
+    "translation": "我們已經超過一年沒（做某事）了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T12:01:34.872720+08:00",
+    "url": "https://x.com/elonmusk/status/2082273378749268440"
+  },
+  {
+    "id": "2082271238437712279",
+    "created_at": "2026-07-29T01:05:24.000Z",
+    "original": "You no longer penalize tweets with links in them?",
+    "translation": "你們不再因為推文中含有連結而懲罰推文了？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-29T12:01:45.811906+08:00",
+    "url": "https://x.com/elonmusk/status/2082271238437712279"
+  },
+  {
     "id": "2082259358772232322",
     "created_at": "2026-07-29T00:18:12.000Z",
     "original": "Elon Musk",
