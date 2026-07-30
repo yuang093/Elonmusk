@@ -1,5 +1,80 @@
 [
   {
+    "id": "2082678823611462045",
+    "created_at": "2026-07-30T04:05:00.000Z",
+    "original": "China makes half the goods of Earth",
+    "translation": "中國製造了地球上快一半的東西",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T14:01:54.594917+08:00",
+    "url": "https://x.com/elonmusk/status/2082678823611462045"
+  },
+  {
+    "id": "2082674350801711444",
+    "created_at": "2026-07-30T03:47:14.000Z",
+    "original": "Chinese robots banned in the US. \n\nMakes sense. If I were China, I'd load these things with an Order 66 -- flip it on later, boom, I've got a droid army already inside the US.",
+    "translation": "中國機器人在美國被禁。\n\n這很合理。如果我是中國，我會在這些東西裡裝上66號指令——以後再啟動，砰，我已經在美國內部擁有一支機器人大軍了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T14:02:14.192424+08:00",
+    "url": "https://x.com/elonmusk/status/2082674350801711444",
+    "retried_at": "2026-07-30T14:04:42.570298+08:00"
+  },
+  {
+    "id": "2082696438514143655",
+    "created_at": "2026-07-30T05:15:00.000Z",
+    "original": "• Hostile Media Outlet Gets DESTROYED By Own Audience After Posting Elon Musk Interview Online\n\nTHIS\nIS\nGLORIOUS\n\n",
+    "translation": "充滿敵意的媒體把 Elon Musk 訪談po上網後，被自家觀眾給衝爆了\n\n這\n太\n爽\n了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T14:02:23.666376+08:00",
+    "url": "https://x.com/elonmusk/status/2082696438514143655"
+  },
+  {
+    "id": "2082705390358212687",
+    "created_at": "2026-07-30T05:50:34.000Z",
+    "original": "Grok Build new update brings richer headless streaming with tool calls and usage, a new /undo alias for rewind, smarter slash-command mode support, and more reliable token refresh after sleep\n\nRelease Notes: v0.2.116\n\nFeatures:\n• Headless streaming output now includes tool ",
+    "translation": "Grok Build 更新來啦！這次帶來更豐富的 headless streaming，支援 tool calls 和使用量計算，還有新的 /undo 指令可以用來回溯，以及更聰明的斜線指令模式支援，最重要的是睡醒後 token 刷新更可靠了\n\n發布說明：v0.2.116\n\n新功能：\n• Headless streaming 輸出現在包含 tool",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOcy8qVaoAE8adF?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T14:02:34.861020+08:00",
+    "url": "https://x.com/elonmusk/status/2082705390358212687"
+  },
+  {
+    "id": "2082707547203518569",
+    "created_at": "2026-07-30T05:59:08.000Z",
+    "original": "BREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.9%, ahead of Claude Sonnet 5, GLM 5.2, Claude Opus 5, Kimi K3 and GPT-5.6.\n\nThe benchmark tests real-world AI agents across conversation, tool use, memory and safety.",
+    "translation": "獨家消息：Grok 4.5 以 56.9% 的成績在 LaurenBench 拿下第一，幹掉了 Claude Sonnet 5、GLM 5.2、Claude Opus 5、Kimi K3 和 GPT-5.6。\n\n這個 benchmark 是測 AI 代理在真實世界的表現，包括對話、工具调用、記憶還有安全性。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOZtXksXQAARwAP?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T14:02:45.087844+08:00",
+    "url": "https://x.com/elonmusk/status/2082707547203518569"
+  },
+  {
     "id": "2082679015161069831",
     "created_at": "2026-07-30T04:05:46.000Z",
     "original": "guys i really hate to break this to you but grok 4.5 high fast is actually good. \n\ni know this isn't news anyone wanted to hear.",
