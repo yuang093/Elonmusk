@@ -1,5 +1,77 @@
 [
   {
+    "id": "2082571893832310875",
+    "created_at": "2026-07-29T21:00:06.000Z",
+    "original": "Terrorists Feeling Dumb For Ramming Twin Towers When All They Had To Do Was Run For Mayor",
+    "translation": "恐怖份子現在很後悔當初去撞雙子星大樓，明明只要去選個市長就好了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T09:01:19.590265+08:00",
+    "url": "https://x.com/elonmusk/status/2082571893832310875"
+  },
+  {
+    "id": "2082615702884872698",
+    "created_at": "2026-07-29T23:54:11.000Z",
+    "original": "I suspect that crime from Chinese, Japanese or Koreans in the UK is close to zero",
+    "translation": "我猜英國的中國人、日本人或韓國人的犯罪率應該接近零吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T08:08:27.236378+08:00",
+    "url": "https://x.com/elonmusk/status/2082615702884872698"
+  },
+  {
+    "id": "2082207350488809971",
+    "created_at": "2026-07-28T20:51:32.000Z",
+    "original": "Englishman stabbed to death in Stoke by two \"British Asians\", we all know they're not Chinese. \n\nThis lad was killed outside a park in broad daylight for no apparent reason, yet barely makes the legacy media. \n\nImagine the races reversed?\n\nKeep your eyes on this.",
+    "translation": "一名英國男子在特倫特河畔斯托克被兩名「英國亞洲人」刺死，我們都知道他們不是中國人。\n\n這名年輕人在光天化日之下在公園外被殺，沒有明顯的原因，卻幾乎沒有被主流媒體報導。\n\n想像一下種族角色對調的情況？\n\n繼續關注這件事。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOV8ixDWEAAk8K-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T08:08:37.665857+08:00",
+    "url": "https://x.com/elonmusk/status/2082207350488809971"
+  },
+  {
+    "id": "2082617949412884939",
+    "created_at": "2026-07-30T00:03:06.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T08:08:41.300451+08:00",
+    "url": "https://x.com/elonmusk/status/2082617949412884939"
+  },
+  {
+    "id": "2082618654248861761",
+    "created_at": "2026-07-30T00:05:55.000Z",
+    "original": "Good analysis",
+    "translation": "分析得不錯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T08:08:44.881875+08:00",
+    "url": "https://x.com/elonmusk/status/2082618654248861761"
+  },
+  {
     "id": "2082613281328660734",
     "created_at": "2026-07-29T23:44:34.000Z",
     "original": "To the right is Minihard, which will have the same 220k GB300s with 800 gig NICs as Macroharder, but in an improved, much denser configuration",
