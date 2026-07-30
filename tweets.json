@@ -1,5 +1,49 @@
 [
   {
+    "id": "2082722674732626193",
+    "created_at": "2026-07-30T06:59:15.000Z",
+    "original": "’s NROL-95 mission from pad 40 in Florida",
+    "translation": "在佛羅里達40號發射台發射的NROL-95任務",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T16:01:50.794233+08:00",
+    "url": "https://x.com/elonmusk/status/2082722674732626193"
+  },
+  {
+    "id": "2082546312608719207",
+    "created_at": "2026-07-29T19:18:27.000Z",
+    "original": "Grok Build now has a way to enable/disable MCP\n\ngrok mcp enable <name>\n\ngrok mcp disable <name>",
+    "translation": "Grok Build 現在有辦法啟用/停用 MCP 了\n\ngrok mcp enable <name>\n\ngrok mcp disable <name>",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOawvKmWsAACNPz?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-07-30T16:01:57.829669+08:00",
+    "url": "https://x.com/elonmusk/status/2082546312608719207"
+  },
+  {
+    "id": "2082494156987871642",
+    "created_at": "2026-07-29T15:51:12.000Z",
+    "original": "\n\nForrest Galante:  “I’m going to go on a f-ing rant here.\n\nThey gave millions of mosquito nets out to all these people to avoid malaria. Guess what the people who are starving to death did with their mosquito nets.",
+    "translation": "Forrest Galante:「我要在這裡開嗆了。\n\n他們發了數百萬頂蚊帳給這些人，用來預防瘧疾。你猜猜那些快要餓死的人會拿這些蚊帳去做什麼。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-30T16:02:08.475048+08:00",
+    "url": "https://x.com/elonmusk/status/2082494156987871642"
+  },
+  {
     "id": "2082714749389676933",
     "created_at": "2026-07-30T06:27:45.000Z",
     "original": "Elon Musk",
