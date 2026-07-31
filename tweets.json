@@ -1,5 +1,47 @@
 [
   {
+    "id": "2082991719822377148",
+    "created_at": "2026-07-31T00:48:20.000Z",
+    "original": "AI is already superhuman at many things.\n\nWe are in the singularity.",
+    "translation": "AI 在很多事上早就開外掛超越人類了。\n\n奇點已來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-31T09:02:04.235921+08:00",
+    "url": "https://x.com/elonmusk/status/2082991719822377148"
+  },
+  {
+    "id": "2082950186784137538",
+    "created_at": "2026-07-30T22:03:18.000Z",
+    "original": "I'm actually fairly bearish on frontier lab valuations. I've never seen the reasons articulated to my satisfaction, so before I go to sleep, I wanted to quickly jot down my thinking here.\n\nThe basic issue is that the labs are highly unprofitable. This may seem like a simple x.com/dwarkesh_sp/st…",
+    "translation": "我其實對前沿實驗室的估值相當悲觀。我從來沒看過讓我滿意的理由，所以睡前想在這裡快速記下我的想法。\n\n基本問題是，這些實驗室的獲利能力非常差。這聽起來可能很簡單，但這正是核心問題。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-31T09:02:11.910759+08:00",
+    "url": "https://x.com/elonmusk/status/2082950186784137538"
+  },
+  {
+    "id": "2082861891873886699",
+    "created_at": "2026-07-30T16:12:27.000Z",
+    "original": "Autobidder, our battery optimization service, is maximizing the value of one of France’s largest battery storage projects\n\nThe Chevire project was developed by ",
+    "translation": "Autobidder，也就是我們的電池最佳化服務，正在最大化法國最大型儲能專案之一的價值。\n\nChevire 專案由 Tesla 開發。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-07-31T09:02:17.749560+08:00",
+    "url": "https://x.com/elonmusk/status/2082861891873886699"
+  },
+  {
     "id": "2082922081834946580",
     "created_at": "2026-07-30T20:11:37.000Z",
     "original": "Elon buying X was a civilization saving move",
