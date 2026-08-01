@@ -1,5 +1,81 @@
 [
   {
+    "id": "2083435473972646312",
+    "created_at": "2026-08-01T06:11:40.000Z",
+    "original": "Stewart’s finest work tbh",
+    "translation": "老實說 Stewart 的巔峰之作",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-01T15:08:28.536511+08:00",
+    "url": "https://x.com/elonmusk/status/2083435473972646312"
+  },
+  {
+    "id": "2083426055042588784",
+    "created_at": "2026-08-01T05:34:14.000Z",
+    "original": "The one where Jon Stewart mysteriously suddenly and spontaneously grew a pair out of nowhere and normalized the obvious so that people clapped that he had single-handedly ushered in a new era?\n\nI also think about this all the time.\n\nPossibly for different reasons…",
+    "translation": "就是那個Jon Stewart莫名其妙突然長出息了、把大家都知道的事「正常化」了一下，然後大家就拍手叫好好像他一己之力開創新紀元的那集？\n\n我也時不時想到這件事。\n\n但原因可能不太一樣⋯⋯（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-01T15:08:39.409068+08:00",
+    "url": "https://x.com/elonmusk/status/2083426055042588784",
+    "retried_at": "2026-08-01T15:10:00+00:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2083435949187367406",
+    "created_at": "2026-08-01T06:13:33.000Z",
+    "original": "Most of the West is literally going extinct. ",
+    "translation": "西方真的快要GG了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOmJKM9aoAAu-if?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-01T15:08:42.731504+08:00",
+    "url": "https://x.com/elonmusk/status/2083435949187367406"
+  },
+  {
+    "id": "2083433190941691982",
+    "created_at": "2026-08-01T06:02:35.000Z",
+    "original": "Reject collective guilt",
+    "translation": "拒絕集體罪惡感",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOmfstfboAAR_D4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-01T14:08:29.237138+08:00",
+    "url": "https://x.com/elonmusk/status/2083433190941691982"
+  },
+  {
+    "id": "2083433406998663647",
+    "created_at": "2026-08-01T06:03:27.000Z",
+    "original": "Eva Vlaardingerbroek",
+    "translation": "Eva Vlaardingerbroek",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-01T14:08:37.952597+08:00",
+    "url": "https://x.com/elonmusk/status/2083433406998663647"
+  },
+  {
     "id": "2083408844466635188",
     "created_at": "2026-08-01T04:25:51.000Z",
     "original": "Life is short, don’t forget to have some fun",
