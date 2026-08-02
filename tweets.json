@@ -1,5 +1,94 @@
 [
   {
+    "id": "2083705479872614526",
+    "created_at": "2026-08-02T00:04:34.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:08:28.539564+08:00",
+    "url": "https://x.com/elonmusk/status/2083705479872614526"
+  },
+  {
+    "id": "2083438830200185080",
+    "created_at": "2026-08-01T06:25:00.000Z",
+    "original": "So much style at our disposal with Grok Imagine.",
+    "translation": "用 Grok Imagine 風格多到用不完欸。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:08:32.481902+08:00",
+    "url": "https://x.com/elonmusk/status/2083438830200185080"
+  },
+  {
+    "id": "2083705978633998780",
+    "created_at": "2026-08-02T00:06:33.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk（馬斯克）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:08:43.791967+08:00",
+    "url": "https://x.com/elonmusk/status/2083705978633998780"
+  },
+  {
+    "id": "2083681965593465224",
+    "created_at": "2026-08-01T22:31:08.000Z",
+    "original": "The most consequential decision that Elon will ever make. He saved us from the totalitarian ghouls.",
+    "translation": "埃隆將做出的最具影響力的決定。他將我們從極權主義的惡魔手中拯救出來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOoT4Z5XkAATw0e?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-02T08:08:54.126869+08:00",
+    "url": "https://x.com/elonmusk/status/2083681965593465224",
+    "retried_at": "2026-08-02T00:14:00+00:00"
+  },
+  {
+    "id": "2083706048569884977",
+    "created_at": "2026-08-02T00:06:50.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:08:56.571400+08:00",
+    "url": "https://x.com/elonmusk/status/2083706048569884977"
+  },
+  {
+    "id": "2083685875553009986",
+    "created_at": "2026-08-01T22:46:40.000Z",
+    "original": "In 2014, Wikipedia described the Republican Party as \"conservative\" and the Democratic Party as \"liberal.\" In 2026, it describes the GOP as \"right to far right\" and the Dems as \"left to center left.\"",
+    "translation": "2014年的維基百科把共和黨描述成「保守派」，把民主黨描述成「自由派」。2026年的維基百科則把GOP歸類為「右派到極右派」，把Dems歸類為「左派到中左派」。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOq8kkeXgAE6v1I?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-02T08:09:02.589822+08:00",
+    "url": "https://x.com/elonmusk/status/2083685875553009986"
+  },
+  {
     "id": "2083644305135054865",
     "created_at": "2026-08-01T20:01:29.000Z",
     "original": "Gun pointed to your head, name a Moon.",
