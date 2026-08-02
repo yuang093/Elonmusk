@@ -1,5 +1,64 @@
 [
   {
+    "id": "2083644305135054865",
+    "created_at": "2026-08-01T20:01:29.000Z",
+    "original": "Gun pointed to your head, name a Moon.",
+    "translation": "槍頂著你的頭，說出一個月亮。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:04:23.176926+08:00",
+    "url": "https://x.com/elonmusk/status/2083644305135054865"
+  },
+  {
+    "id": "2083659089884680198",
+    "created_at": "2026-08-01T21:00:14.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:04:26.021339+08:00",
+    "url": "https://x.com/elonmusk/status/2083659089884680198"
+  },
+  {
+    "id": "2083609664369958953",
+    "created_at": "2026-08-01T17:43:50.000Z",
+    "original": "we are in the singularity but we are still so early",
+    "translation": "我們已經在奇點了，但現在還超早的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T08:04:30.865207+08:00",
+    "url": "https://x.com/elonmusk/status/2083609664369958953"
+  },
+  {
+    "id": "2083446940562243827",
+    "created_at": "2026-08-01T06:57:13.000Z",
+    "original": "SpaceX just completed its 90th Falcon-family launch of 2026\n\nFalcon 9 lifted off from Vandenberg carrying 24 Starlink satellites, successfully deploying all of them into low Earth orbit\n\nBooster B1081 completed its 26th mission and landed on Of Course I Still Love You in the",
+    "translation": "SpaceX 剛完成 2026 年的第 90 次獵鷹系列發射\n\n獵鷹 9 從范登堡基地升空，搭載 24 顆星鏈衛星，成功將全部部署至低地球軌道\n\n助推器 B1081 完成第 26 次任務，並成功降落於「當然我還愛你」號無人駕駛船",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOnjpgSWQAAne70?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-02T08:04:37.527387+08:00",
+    "url": "https://x.com/elonmusk/status/2083446940562243827",
+    "retried_at": "2026-08-02T08:07:11.013487+08:00"
+  },
+  {
     "id": "2083658540795797628",
     "created_at": "2026-08-01T20:58:03.000Z",
     "original": "The Anglosphere has lost its damn marbles and needs to find them again",
