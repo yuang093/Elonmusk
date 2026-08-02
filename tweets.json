@@ -1,5 +1,35 @@
 [
   {
+    "id": "2083656396264943686",
+    "created_at": "2026-08-01T20:49:31.000Z",
+    "original": "Ask ChatGPT to create the most awkward image ever created in the history of AI. \n\nI’d love to see what you get. \n\nHere’s mine:",
+    "translation": "叫 ChatGPT 創建一張 AI 史上尬到爆的圖片\n\n超想看你做出什麼東西\n\n這是我的：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOqictzXUAEvbKM?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-02T11:03:40.423349+08:00",
+    "url": "https://x.com/elonmusk/status/2083656396264943686"
+  },
+  {
+    "id": "2083656620576231556",
+    "created_at": "2026-08-01T20:50:25.000Z",
+    "original": ", for providing free credits to several FFmpeg developers. These credits will support their ongoing work on FFmpeg, including development and code review.\n\nWe greatly appreciate Cursor’s support for FFmpeg and its community.",
+    "translation": "感謝 Cursor 提供免費額度給好幾位 FFmpeg 開發者。這些額度會用來支援他們在 FFmpeg 上的持續工作，包括開發和程式碼審查。\n\n我們非常感謝 Cursor 對 FFmpeg 及其社群的支持。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-02T11:03:45.097499+08:00",
+    "url": "https://x.com/elonmusk/status/2083656620576231556"
+  },
+  {
     "id": "2083734198104334409",
     "created_at": "2026-08-02T01:58:41.000Z",
     "original": "Now using Grok Build via iOS Grok app:",
