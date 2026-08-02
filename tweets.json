@@ -1,5 +1,97 @@
 [
   {
+    "id": "2083948637193744543",
+    "created_at": "2026-08-02T16:10:47.000Z",
+    "original": "BREAKING: The Mayor of Ceuta has said Pedro Sánchez is LYING about the number of migrants who have left\n\n\"There is still 10 to 15 thousand illegal migrants still in the city. They have set up encampments and shelters.\" ",
+    "translation": "突發消息：休達市市長表示，佩德羅·桑切斯 (Pedro Sánchez) 在移民離開人數上撒謊\n\n「目前仍有1萬到1萬5千名非法移民滯留在市內，他們已經搭建了營地和臨時庇護所。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOusPHzXIAAwScC?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T03:01:26.385418+08:00",
+    "url": "https://x.com/elonmusk/status/2083948637193744543"
+  },
+  {
+    "id": "2083979716852060556",
+    "created_at": "2026-08-02T18:14:17.000Z",
+    "original": "Are they seriously checking ID?",
+    "translation": "他們是真的在查ID喔？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T03:01:30.960052+08:00",
+    "url": "https://x.com/elonmusk/status/2083979716852060556"
+  },
+  {
+    "id": "2083564019634360616",
+    "created_at": "2026-08-01T14:42:27.000Z",
+    "original": "David Sacks on Mamdani’s Government-Run Grocery Stores\n\n“It is ironic that they're going to be checking ID to make sure people aren't coming over from Jersey but if you want to come over illegally from any country in the world, that's just fine.”",
+    "translation": "David Sacks 談 Mamdani 的國營雜貨店\n\n「真的很諷刺，他們要查ID確保大家不是從 Jersey 偷跑過來，但如果你想從世界任何一個國家非法偷渡進來，啊那完全沒問題。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T03:01:37.563713+08:00",
+    "url": "https://x.com/elonmusk/status/2083564019634360616"
+  },
+  {
+    "id": "2083983679236321784",
+    "created_at": "2026-08-02T18:30:02.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T03:01:39.494184+08:00",
+    "url": "https://x.com/elonmusk/status/2083983679236321784",
+    "transcription_failed": true,
+    "retried_at": "2026-08-03T03:01:59+08:00"
+  },
+  {
+    "id": "2081364040417157619",
+    "created_at": "2026-07-26T13:00:31.000Z",
+    "original": "When I was investigated for corruption, only one person stayed by my side without doubting me: Elon Musk.\n\nHe didn't need me then and doesn't need me now, but for some people like him, values come before everything else.",
+    "translation": "當我因為貪污被調查時，只有一個人毫不懷疑地站在我身邊：Elon Musk。\n\n那時候他不需要我，現在也不需要，但對於像他這樣的人來說，價值觀比一切都重要。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T03:01:45.840872+08:00",
+    "url": "https://x.com/elonmusk/status/2081364040417157619"
+  },
+  {
+    "id": "2083979613156340154",
+    "created_at": "2026-08-02T18:13:52.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOvIaZcXYAIqX15?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T03:01:50.228544+08:00",
+    "url": "https://x.com/elonmusk/status/2083979613156340154",
+    "transcription_failed": true,
+    "retried_at": "2026-08-03T03:01:59+08:00"
+  },
+  {
     "id": "2083958127653691444",
     "created_at": "2026-08-02T16:48:30.000Z",
     "original": "Elon Musk",
