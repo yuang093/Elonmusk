@@ -1,5 +1,162 @@
 [
   {
+    "id": "2084151184336519435",
+    "created_at": "2026-08-03T05:35:38.000Z",
+    "original": "Best place on Earth",
+    "translation": "地球上最讚的地方",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T14:02:37.738537+08:00",
+    "url": "https://x.com/elonmusk/status/2084151184336519435",
+    "original_truncated": true,
+    "retried_at": "2026-08-03T14:01:16+08:00"
+  },
+  {
+    "id": "2084146631692431614",
+    "created_at": "2026-08-03T05:17:33.000Z",
+    "original": "SpaceX's Starbase currently covers around 1,100 acres and plans to annex over 7,000 additional acres",
+    "translation": "SpaceX的Starbase現在大概1,100英畝，預計還要再吞7,000多英畝",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOwI9gfX0AAf7sg?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOwI-BOXYAAIxkg?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOwI-1hWgAA3rVp?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOwI_f_WgAAHPH5?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-03T14:02:46.380043+08:00",
+    "url": "https://x.com/elonmusk/status/2084146631692431614"
+  },
+  {
+    "id": "2084156314226233564",
+    "created_at": "2026-08-03T05:56:01.000Z",
+    "original": "Very quick",
+    "translation": "超快",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T14:02:52.807843+08:00",
+    "url": "https://x.com/elonmusk/status/2084156314226233564",
+    "original_truncated": true,
+    "retried_at": "2026-08-03T14:01:16+08:00"
+  },
+  {
+    "id": "2084090425518813306",
+    "created_at": "2026-08-03T01:34:12.000Z",
+    "original": "Fever coach Stephanie White is asked her stance on males playing in women's sports. \n\n\"I wouldn't really say that I'm educated enough from a scientific standpoint. I don't ever believe that exclusion is the answer.\" \n\nShe then opens up on \"frustration\" over the debate being tied",
+    "translation": "Fever教練Stephanie White被問到對於男生參加女生運動的看法時說，「我不太敢說自己在科學層面有足夠的了解啦。但我就是不相信排斥會是解答。」她後來也坦言對於這整個辯題被無限上綱感到很無奈。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T14:03:09.454141+08:00",
+    "url": "https://x.com/elonmusk/status/2084090425518813306"
+  },
+  {
+    "id": "2084122084297359607",
+    "created_at": "2026-08-03T03:40:00.000Z",
+    "original": "my MacBook was heating up my lap and nearly cooking my balls, so I asked Grok Build to investigate\n\nIt found the culprit ",
+    "translation": "我的MacBook燙到大腿都快燒起來了，某重要部位差點不保，所以就叫Grok Build幫我查一下\n\n結果抓到了元凶了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOxJkdPXoAAOfK7?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T14:03:26.256027+08:00",
+    "url": "https://x.com/elonmusk/status/2084122084297359607"
+  },
+  {
+    "id": "2083976409744081207",
+    "created_at": "2026-08-02T18:01:09.000Z",
+    "original": "Did you know more white slaves were taken to Africa than Black slaves taken to the United States of America\n\nWhere are our reparations?",
+    "translation": "你知道嗎，被運去非洲的白奴比被運到美國的黑奴還要多\n\n所以我們的reparations呢？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T14:03:41.852545+08:00",
+    "url": "https://x.com/elonmusk/status/2083976409744081207"
+  },
+  {
+    "id": "2084126964164542716",
+    "created_at": "2026-08-03T03:59:24.000Z",
+    "original": "Damn... new Grok Imagine 1.5 update is wild",
+    "translation": "靠...Grok Imagine 1.5 新更新也太猛了吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T14:03:48.120146+08:00",
+    "url": "https://x.com/elonmusk/status/2084126964164542716"
+  },
+  {
+    "id": "2084156097405849727",
+    "created_at": "2026-08-03T05:55:10.000Z",
+    "original": "Grok Build keeps getting smarter.....this update expands Auto mode, gives developers more control over Bash permissions, speeds up /btw, and makes long conversations easier to navigate\n\nRelease Notes: v0.2.119\n\nFeatures:\n• Always allow for bash commands now lets you edit a ",
+    "translation": "Grok Build 不斷變得更聰明.....這次更新擴展了 Auto 模式、給開發者更多 Bash 權限的控制、加速了 /btw，並讓長對話更容易導航\n\n發布說明：v0.2.119\n\n功能：\n• 允許 bash 命令現在讓你編輯...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOvjGfIWwAAhHs6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T14:03:58.307003+08:00",
+    "url": "https://x.com/elonmusk/status/2084156097405849727"
+  },
+  {
+    "id": "2083979013396279393",
+    "created_at": "2026-08-02T18:11:29.000Z",
+    "original": "Grok can now analyze any video. \n\nFrom identifying AI-generated content to explaining what's happening frame by frame, Grok's video understanding is taking another big step forward.",
+    "translation": "Grok 現在可以分析任何影片了。\n\n從辨識 AI 生成的內容到逐幀解釋畫面裡發生了什麼事，Grok 的影片理解能力又往前跨了一大步。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOvH3jSaEAAkPDr?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T14:04:05.766241+08:00",
+    "url": "https://x.com/elonmusk/status/2083979013396279393"
+  },
+  {
+    "id": "2084070349734326303",
+    "created_at": "2026-08-03T00:14:26.000Z",
+    "original": "I was in Madrid when Spain won the World Cup.\n\nAlmost 2 million people celebrated in the streets. \n\nI saw 0 violence.\n\n0 property damage.\n\n0 rioting.\n\nSpain’s government later reported a total of 6 arrests, and no serious incidents.\n\nAlmost 2 million people.\n\nAlmost entirely",
+    "translation": "當西班牙贏得世界盃時我人在馬德里。\n\n近200萬人在街上狂歡。\n\n我看到0起暴力事件。\n\n0財產損失。\n\n0暴動。\n\n後來西班牙政府報告總共只逮捕了6人，沒有任何重大事件。\n\n近200萬人。\n\n幾乎是百分之百（的和平）。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOgoSLua4AAvk_i?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T14:04:10.272956+08:00",
+    "url": "https://x.com/elonmusk/status/2084070349734326303"
+  },
+  {
     "id": "2083856550788043064",
     "created_at": "2026-08-02T10:04:52.000Z",
     "original": "The Pacific Ocean this morning from the cupola with an iPhone",
