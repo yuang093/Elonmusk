@@ -1,5 +1,98 @@
 [
   {
+    "id": "2084376831130517824",
+    "created_at": "2026-08-03T20:32:17.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-04T05:01:29.641091+08:00",
+    "url": "https://x.com/elonmusk/status/2084376831130517824",
+    "transcription_failed": true,
+    "retried_at": "2026-08-04T05:02:19+08:00"
+  },
+  {
+    "id": "2084337781266936065",
+    "created_at": "2026-08-03T17:57:06.000Z",
+    "original": "REPORT: Anthropic CEO Dario Amodei is concerned that new talent is joining the firm only for money and not because they believe in the mission",
+    "translation": "報道：Anthropic CEO Dario Amodei 擔心新進人才加入公司只是為了錢，而不是因為他們相信這個使命",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOzpvOeboAApRNc?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HOzpwIXbUAA5qU9?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-04T05:01:35.132779+08:00",
+    "url": "https://x.com/elonmusk/status/2084337781266936065"
+  },
+  {
+    "id": "2084377100073468136",
+    "created_at": "2026-08-03T20:33:21.000Z",
+    "original": "If they come after me, I will come after them and finish the job",
+    "translation": "如果他們敢來找我麻煩，我就會加倍奉還，把事情解決掉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-04T05:01:40.700761+08:00",
+    "url": "https://x.com/elonmusk/status/2084377100073468136"
+  },
+  {
+    "id": "2084286592374444280",
+    "created_at": "2026-08-03T14:33:42.000Z",
+    "original": "BREAKING: The Free Press has uncovered that a former Zohran Mamdani campaign videographer called America the “Fourth Reich,” dismissed the Uyghur genocide as “CIA propaganda,” and said Elon Musk is a “valid military target.”\n\nZohran’s people.",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOzUvXFWwAAUxhu?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-04T05:01:50.591817+08:00",
+    "url": "https://x.com/elonmusk/status/2084286592374444280",
+    "original_truncated": true,
+    "retried_at": "2026-08-04T05:02:19+08:00"
+  },
+  {
+    "id": "2084377228717010984",
+    "created_at": "2026-08-03T20:33:51.000Z",
+    "original": " Here is the truth from Ceuta, Spain:\n60,000+ migrants from Morocco’s border stormed the small town and are now hiding in the mountains and city to reach mainland Europe.\n\nMoroccan migrants said Moroccan authorities let them through their border and Spain literally opened their",
+    "translation": "以下是來自西班牙休達的真實情況：\n六萬多名來自摩洛哥邊境的移民衝進了這個小鎮，目前躲藏在山區和市區試圖進入歐洲大陸。\n\n摩洛哥移民表示，摩洛哥當局讓他們通過邊境，而西班牙則是直接打開了大門。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-04T05:01:55.498710+08:00",
+    "url": "https://x.com/elonmusk/status/2084377228717010984"
+  },
+  {
+    "id": "2084377571429433431",
+    "created_at": "2026-08-03T20:35:13.000Z",
+    "original": "This is going down to $25m in under 18 months… then $10m and finally $3m x.com/geiger_capital…",
+    "translation": "這要在18個月內跌到2500萬美元...然後1000萬，最後300萬... x.com/geiger_capital...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-04T05:02:01.133459+08:00",
+    "url": "https://x.com/elonmusk/status/2084377571429433431"
+  },
+  {
     "id": "2084367464113054098",
     "created_at": "2026-08-03T19:55:03.000Z",
     "original": "Elon Musk",
