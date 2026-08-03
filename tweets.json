@@ -1,5 +1,65 @@
 [
   {
+    "id": "2084285607648330083",
+    "created_at": "2026-08-03T14:29:47.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T23:01:13.973652+08:00",
+    "url": "https://x.com/elonmusk/status/2084285607648330083",
+    "transcription_failed": true,
+    "retried_at": "2026-08-03T23:05:15+08:00"
+  },
+  {
+    "id": "2084165175645516092",
+    "created_at": "2026-08-03T06:31:14.000Z",
+    "original": "Many of my close friends and loved ones don't understand this yet",
+    "translation": "身邊很多親友還不懂這件事",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOw-FlfWEAAm9RX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T23:01:23.319896+08:00",
+    "url": "https://x.com/elonmusk/status/2084165175645516092"
+  },
+  {
+    "id": "2084287156709699837",
+    "created_at": "2026-08-03T14:35:56.000Z",
+    "original": "He wants a propaganda tool to undermine the free market and does not care about logic arguments",
+    "translation": "他想要一個洗腦工具來搞垮自由市場啦，根本不在乎什麼邏輯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T23:01:28.335123+08:00",
+    "url": "https://x.com/elonmusk/status/2084287156709699837"
+  },
+  {
+    "id": "2084282154163270110",
+    "created_at": "2026-08-03T14:16:04.000Z",
+    "original": "COSTCO ALREADY HAS ZERO PROFIT MARGIN GROCERIES — YOU MIGHT AS WELL JUST NEGOTIATE BUYING ACCESS TO THEIR SELECTION FOR DISADVANTAGED NEW YORKERS!!!",
+    "translation": "好市多已經是零利潤的雜貨了好嗎——乾脆幫弱勢的紐約人協調一下讓他們能進去買算了！！！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T23:01:33.455651+08:00",
+    "url": "https://x.com/elonmusk/status/2084282154163270110"
+  },
+  {
     "id": "2084275136757199338",
     "created_at": "2026-08-03T13:48:11.000Z",
     "original": "Uh … Thor isn’t exactly humble",
