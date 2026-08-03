@@ -1,5 +1,39 @@
 [
   {
+    "id": "2084078801768583673",
+    "created_at": "2026-08-03T00:48:01.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T09:01:23.080458+08:00",
+    "url": "https://x.com/elonmusk/status/2084078801768583673",
+    "transcription_failed": true,
+    "retried_at": "2026-08-03T09:01:50+08:00"
+  },
+  {
+    "id": "2084075788807073795",
+    "created_at": "2026-08-03T00:36:02.000Z",
+    "original": "The fastest female, 100-meter sprinter in recorded history is American legend Florence Griffith Joyner. She set the world record of 10.49 seconds on July 16, 1988. \n\nIn 2026, there were over 1000 high school boys that beat this record! You read that correctly. In this year alone,",
+    "translation": "有史以來最快的女性百米短跑運動員是美國傳奇人物 Florence Griffith Joyner，她在 1988 年 7 月 16 日創下了 10.49 秒的世界紀錄。\n\n結果 2026 年居然有超過 1000 個高中男生打破這個紀錄！你沒看錯，僅僅這一年就有這麼多人做到。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOvFUJHagAAVxZ-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-03T09:01:27.944063+08:00",
+    "url": "https://x.com/elonmusk/status/2084075788807073795",
+    "original_truncated": true,
+    "retried_at": "2026-08-03T09:01:50+08:00"
+  },
+  {
     "id": "2083987002240737372",
     "created_at": "2026-08-02T18:43:14.000Z",
     "original": "Who is funding these NGOs?",
