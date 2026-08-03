@@ -1,5 +1,21 @@
 [
   {
+    "id": "2083919892307382673",
+    "created_at": "2026-08-02T14:16:34.000Z",
+    "original": " came on PostAGI and said AI had already found 121 years of missing algebra in Einstein's equations. \n\nA billion parameter model trained on nothing past 1911 got to general relativity by itself.\n\nYesterday ",
+    "translation": "有人跑來 PostAGI 說 AI 已經在愛因斯坦的方程式裡發現了 121 年來失蹤的代數\n\n一個區區十億參數的模型，只用 1911 年之前的資料訓練，自己就推導出廣義相對論了\n\n昨天的事",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-03T11:08:01.332104+08:00",
+    "url": "https://x.com/elonmusk/status/2083919892307382673",
+    "original_truncated": true,
+    "retried_at": "2026-08-03T12:01:35+08:00"
+  },
+  {
     "id": "2084079111807422532",
     "created_at": "2026-08-03T00:49:15.000Z",
     "original": "Elon Musk",
