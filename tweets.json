@@ -1,5 +1,35 @@
 [
   {
+    "id": "2084401142109233470",
+    "created_at": "2026-08-03T22:08:53.000Z",
+    "original": "The beauty of Grok, now in 1080p.",
+    "translation": "Grok之美，現在1080p啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-04T14:01:57.656571+08:00",
+    "url": "https://x.com/elonmusk/status/2084401142109233470"
+  },
+  {
+    "id": "2084197918412587513",
+    "created_at": "2026-08-03T08:41:20.000Z",
+    "original": "Elon Musk with his first Tesla Roadster, in 2008.",
+    "translation": "2008年的Elon Musk和他的第一輛Tesla Roadster。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOyO9bYWUAAyXps?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-04T14:02:02.889219+08:00",
+    "url": "https://x.com/elonmusk/status/2084197918412587513"
+  },
+  {
     "id": "2084424697475743940",
     "created_at": "2026-08-03T23:42:29.000Z",
     "original": "Elon Musk",
