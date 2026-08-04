@@ -1,5 +1,85 @@
 [
   {
+    "id": "2084727595300421914",
+    "created_at": "2026-08-04T19:46:05.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T04:02:21.163800+08:00",
+    "url": "https://x.com/elonmusk/status/2084727595300421914",
+    "transcription_failed": true,
+    "retried_at": "2026-08-05T04:03:37+08:00"
+  },
+  {
+    "id": "2084426685290619276",
+    "created_at": "2026-08-03T23:50:23.000Z",
+    "original": "Made with Grok Imagine",
+    "translation": "用 Grok Imagine 做的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO1fBcNWMAASLIZ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T04:02:35.084589+08:00",
+    "url": "https://x.com/elonmusk/status/2084426685290619276"
+  },
+  {
+    "id": "2084397680701084146",
+    "created_at": "2026-08-03T21:55:07.000Z",
+    "original": " make the other besties from all in C-3PO, princess etc",
+    "translation": "把其他所有的好麻吉都叫過來 從C-3PO到princess之類的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO1Ek_pWwAAh71P?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T04:02:55.406944+08:00",
+    "url": "https://x.com/elonmusk/status/2084397680701084146"
+  },
+  {
+    "id": "2084729114523533696",
+    "created_at": "2026-08-04T19:52:07.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T04:03:06.881378+08:00",
+    "url": "https://x.com/elonmusk/status/2084729114523533696",
+    "transcription_failed": true,
+    "retried_at": "2026-08-05T04:03:37+08:00"
+  },
+  {
+    "id": "2084712380383322143",
+    "created_at": "2026-08-04T18:45:38.000Z",
+    "original": "NEW: A Hawaiian man knocked out a Democratic congressional candidate with one punch after he allegedly threatened to shoot a woman at a Maui beach.\n\nPolice say Kirill Basin, 40, became enraged after a 61-year-old man asked him to lower his music.\n\nBasin allegedly threatened to",
+    "translation": "新聞：夏威夷一男子疑似威脅要在毛伊島海灘開槍打女人後，一拳把一位民主黨國會候選人打趴了。\n\n員警表示，40歲的Kirill Basin在一名61歲老兄叫他把音樂關小聲點後整個爆氣。\n\nBasin疑似威脅要...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T04:03:15.143934+08:00",
+    "url": "https://x.com/elonmusk/status/2084712380383322143",
+    "original_truncated": true,
+    "retried_at": "2026-08-05T04:03:37+08:00"
+  },
+  {
     "id": "2084693155421552656",
     "created_at": "2026-08-04T17:29:14.000Z",
     "original": " is just an insufferable liar, plain & simple",
