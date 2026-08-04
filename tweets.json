@@ -1,5 +1,51 @@
 [
   {
+    "id": "2084732927699517500",
+    "created_at": "2026-08-04T20:07:17.000Z",
+    "original": "Interesting",
+    "translation": "有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T04:08:31.545674+08:00",
+    "url": "https://x.com/elonmusk/status/2084732927699517500",
+    "original_truncated": true,
+    "retried_at": "2026-08-05T05:02:00+08:00"
+  },
+  {
+    "id": "2084309479688917128",
+    "created_at": "2026-08-03T16:04:39.000Z",
+    "original": "I am today launching Restore Britain's latest policy paper - 'The Wealth of Our Nation'. Outlining our costed approach to the economy, and how we will restore Britain's prosperity. \n\nBritain’s economic decline is neither inevitable nor irreversible.\n\n",
+    "translation": "我今天要來發佈「Restore Britain」的最新政策報告——叫做「國家的財富」。裡面講了我們對經濟的務實做法，還有要怎麼讓英國重返榮耀。\n\n英國的經濟衰退既不是命定的，也不是沒救的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T04:08:47.874095+08:00",
+    "url": "https://x.com/elonmusk/status/2084309479688917128"
+  },
+  {
+    "id": "2084666793340326059",
+    "created_at": "2026-08-04T15:44:29.000Z",
+    "original": "The scale of what Elon is building in Bastrop is not well understood.",
+    "translation": "Elon 在 Bastrop 搞的那些建設，規模到底有多大，很多人都搞不清楚。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO45M0mbwAANdP-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T04:09:01.649725+08:00",
+    "url": "https://x.com/elonmusk/status/2084666793340326059"
+  },
+  {
     "id": "2084727595300421914",
     "created_at": "2026-08-04T19:46:05.000Z",
     "original": "Elon Musk",
