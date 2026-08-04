@@ -1,5 +1,66 @@
 [
   {
+    "id": "2084682744592802059",
+    "created_at": "2026-08-04T16:47:52.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T01:02:56.301561+08:00",
+    "url": "https://x.com/elonmusk/status/2084682744592802059",
+    "transcription_failed": true,
+    "retried_at": "2026-08-05T01:04:45+08:00"
+  },
+  {
+    "id": "2084531923905290724",
+    "created_at": "2026-08-04T06:48:34.000Z",
+    "original": "Here is Jason Arday, pre disgrace, claiming that 70% of the UK population live below the “bread line” and that abolishing the monarchy and redistributing cash to them would help.\n\nBecause of the pedestal he was put on, this obviously stupid statement is not questioned.",
+    "translation": "這是Jason Arday，在丟臉之前聲稱70%的英國人生活在「麵包線」以下，還說廢除君主制把錢分給他們會有幫助。\n\n因為他被捧上神壇，這個明顯很智障的言論根本沒人質疑。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T01:03:12.365000+08:00",
+    "url": "https://x.com/elonmusk/status/2084531923905290724"
+  },
+  {
+    "id": "2084613682512724255",
+    "created_at": "2026-08-04T12:13:26.000Z",
+    "original": "Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents ",
+    "translation": "1995年的Elon Musk，成功洗劫了當時女友Jennifer爸媽家的冰箱後，抱著戰利品露出滿意的笑容",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO4ITeXWkAAUgVs?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T01:03:27.146455+08:00",
+    "url": "https://x.com/elonmusk/status/2084613682512724255"
+  },
+  {
+    "id": "2084678514402271486",
+    "created_at": "2026-08-04T16:31:03.000Z",
+    "original": "This story serves as a perfect exemplar of how parasitic ideas coupled with suicidal empathy have fully gripped academia.  Academic honesty takes a backseat to the plagiarist's skin color.  Truth takes a backseat to promoting voices of color.  Integrity takes a backseat to x.com/mtaibbi/status…",
+    "translation": "這故事完美展示了寄生蟲思想加上自殺式同理心是如何徹底占據學術界的。學術誠信在抄襲者的種族面前只能靠邊站。真相在推廣有色人種聲音面前只能靠邊站。誠信在mtaibbi的言論面前只能靠邊站。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T01:03:42.170770+08:00",
+    "url": "https://x.com/elonmusk/status/2084678514402271486",
+    "polished_at": "2026-08-05T01:04:45+08:00"
+  },
+  {
     "id": "2084669448376480185",
     "created_at": "2026-08-04T15:55:02.000Z",
     "original": "I’ll be on CNN this afternoon (8/4) and CNBC tomorrow (8/5), commenting on the expected SpaceX earnings report, their first as a public company following the IPO. As you might expect, I’m very bullish...",
