@@ -1,5 +1,37 @@
 [
   {
+    "id": "2084755184748486980",
+    "created_at": "2026-08-04T21:35:43.000Z",
+    "original": "Elon & Jensen with NVIDIA GPUs\n\nAugust 2016",
+    "translation": "Elon 跟 Jensen 的 NVIDIA 顯示卡\n\n2016年8月",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO6JyYXWYAA9r_c?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T08:03:25.371409+08:00",
+    "url": "https://x.com/elonmusk/status/2084755184748486980"
+  },
+  {
+    "id": "2084733460690903204",
+    "created_at": "2026-08-04T20:09:24.000Z",
+    "original": "’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars.\n\nThe next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
+    "translation": "Starmind AI1 衛星算力酬載由 NVIDIA Vera Rubin NVL72 驅動，讓 AI 工廠算力更靠近星星。\n\nAI 基礎設施的下一章",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO50x6xbUAAOf5s?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T08:03:44.405279+08:00",
+    "url": "https://x.com/elonmusk/status/2084733460690903204"
+  },
+  {
     "id": "2084759299616600092",
     "created_at": "2026-08-04T21:52:04.000Z",
     "original": "I love futuristic art deco",
