@@ -1,5 +1,67 @@
 [
   {
+    "id": "2085132754224861595",
+    "created_at": "2026-08-05T22:36:03.000Z",
+    "original": "Hope you get back to flight soon",
+    "translation": "希望你快點康復、重新飛起來！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T07:01:24.737627+08:00",
+    "url": "https://x.com/elonmusk/status/2085132754224861595"
+  },
+  {
+    "id": "2085074404627915059",
+    "created_at": "2026-08-05T18:44:11.000Z",
+    "original": "Wanted to give an update on the hotfire anomaly investigation. Progress continues. The anomaly originated at the main oxygen valve on one of the BE-4 engines, which was later confirmed by hardware recovery and inspections. Extensive component-level and engine hotfire tests have",
+    "translation": "想要跟大家更新一下熱試車異常調查的進度，持續有進展。異常是來自其中一台BE-4引擎的主氧氣閥門，後來透過硬體回收和檢查確認了。廣泛的元件級和引擎熱試車測試都已經...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T07:01:43.029744+08:00",
+    "url": "https://x.com/elonmusk/status/2085074404627915059",
+    "original_truncated": true,
+    "retried_at": "2026-08-06T07:01:00+08:00"
+  },
+  {
+    "id": "2085132949096403244",
+    "created_at": "2026-08-05T22:36:49.000Z",
+    "original": "Thanks for helping make this platform much better! You will be missed.",
+    "translation": "感謝你讓這平台變得更好！會很想你的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T07:01:48.063029+08:00",
+    "url": "https://x.com/elonmusk/status/2085132949096403244"
+  },
+  {
+    "id": "2085105586966827343",
+    "created_at": "2026-08-05T20:48:05.000Z",
+    "original": "Ladies and gentlemen, it's time to pass the torch and demote myself to my natural state: a poster. I'll be stepping back from leading product for 𝕏 and will continue on as an advisor.\n\nServing the X community has been the privilege of a lifetime. X is, and will remain, the most",
+    "translation": "各位，是時候交棒了，我準備回歸本色當個普通推友。我將卸下𝕏產品領導的職務，之後會繼續擔任顧問。\n\n能服務𝕏社群真的是我一生的榮幸。𝕏是，也將繼續是最…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO_bmNxWgAA44QS.jpg"
+    ],
+    "fetched_at": "2026-08-06T07:01:54.353848+08:00",
+    "url": "https://x.com/elonmusk/status/2085105586966827343",
+    "retried_at": "2026-08-06T07:01:00+08:00",
+    "original_truncated": true
+  },
+  {
     "id": "2085085733346517127",
     "created_at": "2026-08-05T19:29:12.000Z",
     "original": "Elon Musk",
