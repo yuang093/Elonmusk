@@ -1,5 +1,53 @@
 [
   {
+    "id": "2084988599976837173",
+    "created_at": "2026-08-05T13:03:14.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T21:08:31.011511+08:00",
+    "url": "https://x.com/elonmusk/status/2084988599976837173",
+    "transcription_failed": true,
+    "retried_at": "2026-08-05T22:01:20+08:00"
+  },
+  {
+    "id": "2084974021536366963",
+    "created_at": "2026-08-05T12:05:18.000Z",
+    "original": "TERRIFYING: In the middle of Dearborn, Michigan, an entire crowd of Hezbollah, Hamas, and Iranian Regime supporters chanted “DEATH TO AMERICA.”\n\nDearborn overwhelmingly voted for Abdul El-Sayed.",
+    "translation": "可怕：密西根 Dearborn 的鬧區裡，一群真主黨、哈馬斯和伊朗政權的支持者聚集在一起，高喊「美國去死」。\n\nDearborn 壓倒性地把票投給了 Abdul El-Sayed。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-05T21:08:51.003634+08:00",
+    "url": "https://x.com/elonmusk/status/2084974021536366963"
+  },
+  {
+    "id": "2084989366590742585",
+    "created_at": "2026-08-05T13:06:16.000Z",
+    "original": "Grok Build: What It’s Actually For\nMost people underestimate it by an order of magnitude.\nAsk someone what an AI coding agent is for, and they’ll probably tell you it builds apps.\nThat’s true and it...",
+    "translation": "Grok Build：它到底是用來幹嘛的\n大多數人遠遠低估了它的用途。\n問一般人 AI  coding agent 是用來幹嘛的，他們大概會說「寫程式」沒錯，這是事實，但它...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO9GbOoXQAAqszI?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-05T21:09:03.750205+08:00",
+    "url": "https://x.com/elonmusk/status/2084989366590742585",
+    "original_truncated": true,
+    "retried_at": "2026-08-05T22:01:20+08:00"
+  },
+  {
     "id": "2084856017859317948",
     "created_at": "2026-08-05T04:16:24.000Z",
     "original": "Let’s consider the demographic situation of Western Civilization seriously.\n\nIts core demographic base is about 750 million people, with a fertility rate of about 1.3 children per woman.\n\nWhat that means a few generations out is terrifying – we are DYING OUT.\n\nI did the exercise ",
