@@ -1,5 +1,136 @@
 [
   {
+    "id": "2085182585349775697",
+    "created_at": "2026-08-06T01:54:03.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T10:03:15.513914+08:00",
+    "url": "https://x.com/elonmusk/status/2085182585349775697",
+    "transcription_failed": true,
+    "retried_at": "2026-08-06T10:01:00+08:00"
+  },
+  {
+    "id": "2085105145038119240",
+    "created_at": "2026-08-05T20:46:20.000Z",
+    "original": "In Scotland, 22% of the entire Somali population is currently in prison.\n\nFor the Eritreans, it's 26%.\n\nThe left will ignore this data before importing another bazillion of them.",
+    "translation": "在蘇格蘭，目前整個索馬利亞人口的22%都關在監獄裡。\n\n厄利垂亞人的比例則高達26%。\n\n左派會無視這些數據，然後繼續引進一批又一批的移民。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO_IE8IW0AAxZuw?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-06T10:03:38.187858+08:00",
+    "url": "https://x.com/elonmusk/status/2085105145038119240",
+    "retried_at": "2026-08-06T10:01:00+08:00"
+  },
+  {
+    "id": "2084938234291773730",
+    "created_at": "2026-08-05T09:43:05.000Z",
+    "original": "Falcon 9 launches from pad 40 in Florida",
+    "translation": "獵鷹9號從佛羅里達的40號發射台升空啦！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO8wOg3WIAEFYl8?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HO8wQGTWkAAw0lU?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HO8wQGUXoAAG3oO?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-06T10:03:53.570732+08:00",
+    "url": "https://x.com/elonmusk/status/2084938234291773730"
+  },
+  {
+    "id": "2084376701539405904",
+    "created_at": "2026-08-03T20:31:46.000Z",
+    "original": "Cursor can now read, write, and act across your Google Workspace.\n\nNew plugins give agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets.",
+    "translation": "Cursor 現在可以跨你的 Google Workspace 讀取、寫入、執行動作了。\n\n新插件讓 AI agent 可以直接存取 Gmail、Google Drive、Calendar、Docs 和 Sheets。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO0xdXHbAAA35K3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-06T10:04:08.876871+08:00",
+    "url": "https://x.com/elonmusk/status/2084376701539405904"
+  },
+  {
+    "id": "2085121879950381352",
+    "created_at": "2026-08-05T21:52:50.000Z",
+    "original": "\n\nv0.2.121 — 2026-08-05\n\nFeatures:\n• Dashboard rows now show a short summary of what the agent did in the previous turn.\n• The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills.\n• When a subagent",
+    "translation": "v0.2.121 — 2026-08-05\n\n新功能：\n• Dashboard 列表現在會顯示代理在上個回合做了什麼的簡短摘要。\n• Extensions 視窗現在會將項目分組並按字母排序，Skills 部分則變成可以折疊的區塊了。\n• 當子代理",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO_XS9iW8AA9sK2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-06T10:04:26.687239+08:00",
+    "url": "https://x.com/elonmusk/status/2085121879950381352",
+    "original_truncated": true,
+    "retried_at": "2026-08-06T10:01:00+08:00"
+  },
+  {
+    "id": "2085085107635855851",
+    "created_at": "2026-08-05T19:26:43.000Z",
+    "original": "This is just Grok Imagine 1.5",
+    "translation": "這就只是Grok Imagine 1.5啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T10:04:40.926683+08:00",
+    "url": "https://x.com/elonmusk/status/2085085107635855851"
+  },
+  {
+    "id": "2085135084609290255",
+    "created_at": "2026-08-05T22:45:18.000Z",
+    "original": "If you have paid attention, you would see Elon says this often. Fashion has become stagnant and is due for an update. Maybe SpaceX and/or Tesla merch should try something new and see what happens.",
+    "translation": "如果你有在關注的話，會發現Elon常常這樣說。時尚已經停滯很久了，是時候該更新一下了。也許SpaceX或Tesla的周邊商品可以試點新花樣，看看會發生什麼。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO_i_hGXgAACKIv?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-06T10:04:55.851997+08:00",
+    "url": "https://x.com/elonmusk/status/2085135084609290255"
+  },
+  {
+    "id": "2085183860489552115",
+    "created_at": "2026-08-06T01:59:07.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T10:04:59.008770+08:00",
+    "url": "https://x.com/elonmusk/status/2085183860489552115",
+    "transcription_failed": true,
+    "retried_at": "2026-08-06T10:01:00+08:00"
+  },
+  {
     "id": "2085159493932085312",
     "created_at": "2026-08-06T00:22:18.000Z",
     "original": "Elon Musk",
