@@ -1,5 +1,35 @@
 [
   {
+    "id": "2085188435057488153",
+    "created_at": "2026-08-06T02:17:18.000Z",
+    "original": "Grok Imagine",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T20:03:01.350137+08:00",
+    "url": "https://x.com/elonmusk/status/2085188435057488153",
+    "transcription_failed": true,
+    "retried_at": "2026-08-06T20:03:31+08:00"
+  },
+  {
+    "id": "2085188875547513008",
+    "created_at": "2026-08-06T02:19:03.000Z",
+    "original": "Here’s a radical idea. \n\nHold everybody to the same standards.",
+    "translation": "有個大膽的想法。\n\n用同一套標準要求每個人。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T20:03:08.478776+08:00",
+    "url": "https://x.com/elonmusk/status/2085188875547513008"
+  },
+  {
     "id": "2085195713915625713",
     "created_at": "2026-08-06T02:46:13.000Z",
     "original": "Elon Musk",
