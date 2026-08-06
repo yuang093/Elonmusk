@@ -1,5 +1,68 @@
 [
   {
+    "id": "2085159493932085312",
+    "created_at": "2026-08-06T00:22:18.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T09:03:04.230260+08:00",
+    "url": "https://x.com/elonmusk/status/2085159493932085312",
+    "transcription_failed": true,
+    "retried_at": "2026-08-06T09:05:15+08:00"
+  },
+  {
+    "id": "2085080229375103372",
+    "created_at": "2026-08-05T19:07:20.000Z",
+    "original": "Things are moving in a favorable direction.\n\nSenate GOP discussions are becoming less about *whether* to stay and strengthen election security (à la SAVE America Act) and more about how exactly to go about it.\n\nBaby steps to SAVE America! ",
+    "translation": "事情正在往好的方向發展囉～\n\n參議院共和黨的討論已經從「到底要不要留守並加強選舉安全」（就是那個 SAVE America Act 啦）變成「到底要怎麼做了」。\n\n向 SAVE America 前進邁出一小步！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T09:03:19.005727+08:00",
+    "url": "https://x.com/elonmusk/status/2085080229375103372",
+    "retried_at": "2026-08-06T09:05:15+08:00"
+  },
+  {
+    "id": "2085160258180411443",
+    "created_at": "2026-08-06T00:25:20.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-06T09:03:23.407996+08:00",
+    "url": "https://x.com/elonmusk/status/2085160258180411443",
+    "transcription_failed": true,
+    "retried_at": "2026-08-06T09:05:15+08:00"
+  },
+  {
+    "id": "2085078414495564089",
+    "created_at": "2026-08-05T19:00:07.000Z",
+    "original": "\n\nI kinda like Chamath’s style tbh \n\nWe should update fashion for 2026!\n\nThe standard suit & tie or T-shirt & jeans is too basic",
+    "translation": "我其實有點喜歡Chamath的風格說真的\n\n我們該更新一下2026年的時尚了吧！\n\n標準的西裝領帶或T恤牛仔褲真的太Basic了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HO-vwZBXwAAJ4J1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-06T09:03:27.890677+08:00",
+    "url": "https://x.com/elonmusk/status/2085078414495564089"
+  },
+  {
     "id": "2085132754224861595",
     "created_at": "2026-08-05T22:36:03.000Z",
     "original": "Hope you get back to flight soon",
