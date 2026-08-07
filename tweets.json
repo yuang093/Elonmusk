@@ -1,5 +1,49 @@
 [
   {
+    "id": "2085735269525766343",
+    "created_at": "2026-08-07T14:30:13.000Z",
+    "original": "Grok Build officially reaches v1.0.0, rapidly becoming one of the most powerful coding harnesses in the world\n\nAfter 100+ updates in just over 10 weeks, SpaceXAI’s coding agent has hit a major milestone.......with a smarter dashboard, a more polished developer experience, ",
+    "translation": "Grok Build 正式邁入 v1.0.0 版本，迅速成為全球最強大的 coding 工具之一\n\n短短十週多就經歷了 100 多次更新，SpaceXAI 的程式碼代理迎來重大里程碑......儀表板更智慧了、開發者體驗也更順滑了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPGDaegWAAAgTQm?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-07T23:04:03.108739+08:00",
+    "url": "https://x.com/elonmusk/status/2085735269525766343"
+  },
+  {
+    "id": "2085735374651871702",
+    "created_at": "2026-08-07T14:30:39.000Z",
+    "original": "Tesla Europe, Middle East & Africa",
+    "translation": "Tesla Europe, Middle East & Africa",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-07T23:04:05.225486+08:00",
+    "url": "https://x.com/elonmusk/status/2085735374651871702"
+  },
+  {
+    "id": "2085737443228045492",
+    "created_at": "2026-08-07T14:38:52.000Z",
+    "original": "Jessica bought a new Tesla today. Her experience with self-driving was the usual religious revelation. Impressive that a 23 year old company can still generate that kind of reaction.",
+    "translation": "Jessica今天入手了一台新的特斯拉。自動駕駛體驗一如既往地讓人驚掉下巴。一家23年的公司還能搞出這種反應，真的有夠猛。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-07T23:04:15.257852+08:00",
+    "url": "https://x.com/elonmusk/status/2085737443228045492"
+  },
+  {
     "id": "2085594089995551039",
     "created_at": "2026-08-07T05:09:14.000Z",
     "original": "Elon Musk",
