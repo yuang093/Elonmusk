@@ -1,5 +1,54 @@
 [
   {
+    "id": "2085594089995551039",
+    "created_at": "2026-08-07T05:09:14.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-07T14:02:15.594212+08:00",
+    "url": "https://x.com/elonmusk/status/2085594089995551039",
+    "transcription_failed": true
+  },
+  {
+    "id": "2085392811516408273",
+    "created_at": "2026-08-06T15:49:25.000Z",
+    "original": "ᐱ ᑎ ᑐ ᒋ ᕮ ᒍ",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPDNtPnWgAEoRGi?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-07T14:02:41.623573+08:00",
+    "url": "https://x.com/elonmusk/status/2085392811516408273",
+    "transcription_failed": true
+  },
+  {
+    "id": "2085594813840216212",
+    "created_at": "2026-08-07T05:12:06.000Z",
+    "original": "\n\nGrok Build v1.0.0 is now live.\n\nSpaceXAI is pushing new Grok Build updates almost daily.\n\nUpdates:\nUI & navigation\n• Dashboard rows show a short summary of what the agent did in the previous turn\n• Extensions modal groups items alphabetically with",
+    "translation": "Grok Build v1.0.0 正式上線啦！\n\nSpaceXAI 幾乎每天都在推新的 Grok Build 更新，根本停不下來。\n\n更新內容：\nUI 跟導航\n• Dashboard 的列會顯示 agent 上一輪做了什麼的簡短摘要\n• Extensions 視窗的項目會按字母順序排列還有",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPF-QaAWsAA1sPZ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-07T14:03:01.609806+08:00",
+    "url": "https://x.com/elonmusk/status/2085594813840216212",
+    "original_truncated": true
+  },
+  {
     "id": "2085584541138256277",
     "created_at": "2026-08-07T04:31:17.000Z",
     "original": "Elon Musk",
