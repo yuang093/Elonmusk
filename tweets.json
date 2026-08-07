@@ -18,7 +18,7 @@
     "id": "2085392811516408273",
     "created_at": "2026-08-06T15:49:25.000Z",
     "original": "ᐱ ᑎ ᑐ ᒋ ᕮ ᒍ",
-    "translation": "",
+    "translation": "ᐱ ᑎ ᑐ ᒋ ᕮ ᒍ（加拿大原住民音節文字，無對應中文字符，原樣保留）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -29,7 +29,8 @@
     ],
     "fetched_at": "2026-08-07T14:02:41.623573+08:00",
     "url": "https://x.com/elonmusk/status/2085392811516408273",
-    "transcription_failed": true
+    "transcription_failed": true,
+    "retried_at": "2026-08-07T14:07:22.992394+08:00"
   },
   {
     "id": "2085594813840216212",
