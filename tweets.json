@@ -1,5 +1,60 @@
 [
   {
+    "id": "2085530890759749760",
+    "created_at": "2026-08-07T00:58:06.000Z",
+    "original": "Terafab approximate size comparison between Giga Texas, the Pentagon, Apple Park, and the Mall of America.\n\nThere has never been a building this large. Elon Musk says it will be the most valuable building by far.",
+    "translation": "Terafab 與 Giga 德州、五角大樓、蘋果園區和美國購物中心的近似大小比較。\n\n從未有過這麼大的建築。伊隆·馬斯克表示，它將成為迄今為止最有價值的建築。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPEh8I5WMAAzUh2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-07T09:08:38.670406+08:00",
+    "url": "https://x.com/elonmusk/status/2085530890759749760",
+    "retried_at": "2026-08-07T10:05:40+08:00"
+  },
+  {
+    "id": "2085492284284355059",
+    "created_at": "2026-08-06T22:24:41.000Z",
+    "original": "STARLINK: SpaceX plans to build its terrestrial cellular network by placing small cellular radios, femtocells, inside or next to existing Starlink dishes on a limited number of rooftops, Gateways, and Tesla Superchargers. \n\nBasically turning a subset of its existing Starlink",
+    "translation": "星鏈：SpaceX 計劃通過在現有星鏈天線內部或旁邊安裝小型蜂窩式無線電設備（微蜂窩基站），在有限數量的屋頂、網關和特斯拉超級充電站上構建其地面蜂窩網絡。\n\n基本上，這是將其現有的星鏈網絡的一個子集轉變為——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPEn_HnWkAAeDHG?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPEn_HoXMAAUWZ3?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPEkjRwXoAEzDaj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-07T09:09:01.044134+08:00",
+    "url": "https://x.com/elonmusk/status/2085492284284355059",
+    "retried_at": "2026-08-07T10:07:23+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2085528989829923275",
+    "created_at": "2026-08-07T00:50:33.000Z",
+    "original": "Last week, between Wednesday and Friday, somewhere between 50,000 and 60,000 people forced their way into Ceuta — Spain’s territory on the North African coast, bordered by Morocco.\nCeuta has 84,000...",
+    "translation": "上週三到週五期間，大約五萬到六萬人硬闖進了休達——西班牙在北非海岸的領地，旁邊就是摩洛哥。\n休達總人口才八萬四千人……（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPFDeZzaEAE2LiJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-07T09:09:14.899440+08:00",
+    "url": "https://x.com/elonmusk/status/2085528989829923275",
+    "retried_at": "2026-08-07T10:07:23+08:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2085495825271292012",
     "created_at": "2026-08-06T22:38:46.000Z",
     "original": "Looks like a synchrotron - Elon going to build free electron laser based EUV machine?\n\nHoly Giga based ",
