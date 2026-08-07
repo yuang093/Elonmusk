@@ -1,5 +1,35 @@
 [
   {
+    "id": "2085784591604785477",
+    "created_at": "2026-08-07T17:46:13.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-08T02:04:25.795821+08:00",
+    "url": "https://x.com/elonmusk/status/2085784591604785477"
+  },
+  {
+    "id": "2085754619775385628",
+    "created_at": "2026-08-07T15:47:07.000Z",
+    "original": "This article is incredible.\n\nAmerica is so rich that its idiots out-earn average and somewhat above-average smarts Britons.",
+    "translation": "這篇文章太神了。\n\n美國有錢到連白痴的收入都比英國普通人和稍微聰明點的英國人高。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPIWxdeXsAAKdqr?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-08T02:04:42.182351+08:00",
+    "url": "https://x.com/elonmusk/status/2085754619775385628"
+  },
+  {
     "id": "2085735269525766343",
     "created_at": "2026-08-07T14:30:13.000Z",
     "original": "Grok Build officially reaches v1.0.0, rapidly becoming one of the most powerful coding harnesses in the world\n\nAfter 100+ updates in just over 10 weeks, SpaceXAI’s coding agent has hit a major milestone.......with a smarter dashboard, a more polished developer experience, ",
