@@ -18,16 +18,16 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fetch_tweets import translate_to_chinese, _call_translation_api, TRANSLATION_SYSTEM_PROMPT_STRICT
 
 # IDs from this hour's batch with truncated translations
-TRUNCATED_IDS = [
-    "2085962259457872245",  # "Terafab x Blade Runner vibe by" — source cut mid-sentence at "by"
-]
+# (cycle 2026-08-09 09:08 TST — 5 new tweets, all translations complete
+# after _polish.py marked the one Flavor B scraper-truncation. No
+# model-side TRUNCATED_IDS to retranslate this cycle.)
+TRUNCATED_IDS = []
 
 # IDs that are byline-only (orig == "Elon Musk") — not really a translation
 # failure, just X.com showing only the byline for some retweets.  Mark with
 # a clear placeholder so the webpage renders nicely.
-BYLINE_ONLY_IDS = [
-    "2086117330270998864",
-]
+# (cycle 2026-08-09 09:08 TST — 0 byline-only records in this batch.)
+BYLINE_ONLY_IDS = []
 
 
 def main():
