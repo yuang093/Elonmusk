@@ -19,15 +19,14 @@ from fetch_tweets import translate_to_chinese, _call_translation_api, TRANSLATIO
 
 # IDs from this hour's batch with truncated translations
 TRUNCATED_IDS = [
-    "2085743491334738340",  # "Suicidal Empathy" — cut at 5 chars
-    "2086102094524645839",  # Swedish police — ends with 量
+    "2085962259457872245",  # "Terafab x Blade Runner vibe by" — source cut mid-sentence at "by"
 ]
 
 # IDs that are byline-only (orig == "Elon Musk") — not really a translation
 # failure, just X.com showing only the byline for some retweets.  Mark with
 # a clear placeholder so the webpage renders nicely.
 BYLINE_ONLY_IDS = [
-    "2086103757478109372",
+    "2086117330270998864",
 ]
 
 
