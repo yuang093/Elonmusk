@@ -1,5 +1,38 @@
 [
   {
+    "id": "2086227087636005037",
+    "created_at": "2026-08-08T23:04:32.000Z",
+    "original": "Far more than that.\n\nAs I’ve said publicly, bandwidth demand will increase massively due to AI & robotics. Their need for data transfer is orders of magnitude more than humans!\n\nEven if the communications market merely doubles in size, I would expect Starlink to reach at least",
+    "translation": "遠超於此。\n就像我公開說過的，頻寬需求會因為 AI 和機器人大幅飆升。他們的資料傳輸需求比人類多好幾個數量級！\n就算通訊市場只是翻個倍，我預期 Starlink 起碼能到——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T11:05:17.822893+08:00",
+    "url": "https://x.com/elonmusk/status/2086227087636005037",
+    "retried_at": "2026-08-09T11:03:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2086271431319724355",
+    "created_at": "2026-08-09T02:00:44.000Z",
+    "original": ". The grounding capability from the multi-modal is insane.",
+    "translation": "多模態的接地能力超猛的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPPscK7a0AE_fFh?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPPstnuaYAAWQcQ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-09T11:05:32.751471+08:00",
+    "url": "https://x.com/elonmusk/status/2086271431319724355"
+  },
+  {
     "id": "2086229516599673108",
     "created_at": "2026-08-08T23:14:11.000Z",
     "original": "Some of the things I say are speculative or aspirational and some are not. \n\nWhat is not speculative is that the V3 satellites that will be launched on Starship are an order of magnitude more capable than the V2 satellites currently launched on Falcon. \n\nOr that an order of",
