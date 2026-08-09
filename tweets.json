@@ -1,5 +1,37 @@
 [
   {
+    "id": "2086575484976931223",
+    "created_at": "2026-08-09T22:08:56.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推，原推文只有作者署名，無內文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T07:03:06.220736+08:00",
+    "url": "https://x.com/elonmusk/status/2086575484976931223",
+    "byline_only": true
+  },
+  {
+    "id": "2086544984900047315",
+    "created_at": "2026-08-09T20:07:45.000Z",
+    "original": "@Triadilles",
+    "translation": "（轉推，原推文只有作者署名，無內文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPTlmrQXQAAHGGb?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-10T07:03:18.239267+08:00",
+    "url": "https://x.com/elonmusk/status/2086544984900047315",
+    "byline_only": true
+  },
+  {
     "id": "2086448449017241803",
     "created_at": "2026-08-09T13:44:09.000Z",
     "original": "Some of the things I say are speculative or aspirational and some are not. \n\nWhat is not speculative is that the V3 satellites that will be launched on Starship are an order of magnitude more capable than the V2 satellites currently launched on Falcon. \n\nOr that an order of",
