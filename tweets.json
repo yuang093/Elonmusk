@@ -1,5 +1,77 @@
 [
   {
+    "id": "2086327350543720548",
+    "created_at": "2026-08-09T05:42:57.000Z",
+    "original": "This equation explains why e and pi are what they are",
+    "translation": "這條公式解釋了e跟pi為什麼長這樣",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T14:02:05.855528+08:00",
+    "url": "https://x.com/elonmusk/status/2086327350543720548"
+  },
+  {
+    "id": "2086090053663535452",
+    "created_at": "2026-08-08T14:00:01.000Z",
+    "original": "Most beautiful equation or God's Equation",
+    "translation": "最美方程式 or 上帝方程式",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPNCSCRbEAAk00b?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-09T14:02:21.126087+08:00",
+    "url": "https://x.com/elonmusk/status/2086090053663535452"
+  },
+  {
+    "id": "2086255607451939057",
+    "created_at": "2026-08-09T00:57:52.000Z",
+    "original": "Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 ",
+    "translation": "Grok Imagine真的超猛！製作圖片和影片最好用的工具，快速、簡單、品質又讚。快去試試 Image 2.0 吧！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T14:02:38.338869+08:00",
+    "url": "https://x.com/elonmusk/status/2086255607451939057"
+  },
+  {
+    "id": "2086316932806910123",
+    "created_at": "2026-08-09T05:01:33.000Z",
+    "original": "Wishing you all a beautiful and peaceful Sunday.\nMay your day be filled with smiles and happiness.",
+    "translation": "祝福大家都有個美美又悠閒的週日～\n希望你的一天充滿笑容和滿滿的幸福 💛",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T14:02:55.356283+08:00",
+    "url": "https://x.com/elonmusk/status/2086316932806910123"
+  },
+  {
+    "id": "2085830242950901968",
+    "created_at": "2026-08-07T20:47:37.000Z",
+    "original": "It had to be this way—Q.",
+    "translation": "果然只能是這樣啊——Q",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T14:03:02.141706+08:00",
+    "url": "https://x.com/elonmusk/status/2085830242950901968"
+  },
+  {
     "id": "2086295907520180497",
     "created_at": "2026-08-09T03:38:00.000Z",
     "original": "Elon Musk",
