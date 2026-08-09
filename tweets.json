@@ -1,5 +1,83 @@
 [
   {
+    "id": "2086295907520180497",
+    "created_at": "2026-08-09T03:38:00.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T13:03:33.764828+08:00",
+    "url": "https://x.com/elonmusk/status/2086295907520180497"
+  },
+  {
+    "id": "2086305576753954874",
+    "created_at": "2026-08-09T04:16:25.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-09T13:03:46.057704+08:00",
+    "url": "https://x.com/elonmusk/status/2086305576753954874"
+  },
+  {
+    "id": "2086108460517859574",
+    "created_at": "2026-08-08T15:13:09.000Z",
+    "original": "The Death Star was supposedly 160km in diameter per Grok. The Terafab will be about 16km long.. massive, but not Death Star massive.",
+    "translation": "根據 Grok 的說法，死星直徑約 160 公里。Terafab 大概會是 16 公里長⋯⋯ 很大沒錯，但還沒死星那麼誇張啦。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPNYlX9aoAAdzvb?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-09T13:04:06.950259+08:00",
+    "url": "https://x.com/elonmusk/status/2086108460517859574"
+  },
+  {
+    "id": "2086305001110954244",
+    "created_at": "2026-08-09T04:14:08.000Z",
+    "original": "Imagine Image 2.0 is god-tier for memes.\n\nMagic wand edits the region you select and leaves the rest of the frame pixel identical. Swap one face in a group photo without regenerating the whole image.\n\nBackground removal exports any subject transparent, so you get cutouts for",
+    "translation": "Imagine Image 2.0 做迷因根本是神等級的。\n\n魔術棒編輯只改你選的區域，其他畫面像素完全不動。團體照換一張臉，不用重新生成整張圖。\n\n背景移除能匯出任何主體的透明素材，剪裁素材超方便——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPPPEkHakAAn9pY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-09T13:04:25.823541+08:00",
+    "url": "https://x.com/elonmusk/status/2086305001110954244",
+    "retried_at": "2026-08-09T05:02:00+00:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2086298450581217560",
+    "created_at": "2026-08-09T03:48:06.000Z",
+    "original": "Sometimes you need a human standing next to Starship just to remind your brain how absurdly massive this thing actually is\n\nA flying skyscraper made of stainless steel, designed to land itself and carry humans to another planet\n\nAbsolutely insane that this is real",
+    "translation": "有時候你就是需要一個人站在星艦旁邊，才能提醒你的大腦這東西到底有多他X的巨大\n\n一架用不鏽鋼打造的飛行摩天大樓，可以自己降落，還能把人類載到另一顆星球\n\n這一切竟然是真的，簡直瘋了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPQFX7kXUAAWbN4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-09T13:04:42.095588+08:00",
+    "url": "https://x.com/elonmusk/status/2086298450581217560"
+  },
+  {
     "id": "2086227087636005037",
     "created_at": "2026-08-08T23:04:32.000Z",
     "original": "Far more than that.\n\nAs I’ve said publicly, bandwidth demand will increase massively due to AI & robotics. Their need for data transfer is orders of magnitude more than humans!\n\nEven if the communications market merely doubles in size, I would expect Starlink to reach at least",
