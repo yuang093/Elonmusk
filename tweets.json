@@ -1,5 +1,36 @@
 [
   {
+    "id": "2086614832300626142",
+    "created_at": "2026-08-10T00:45:18.000Z",
+    "original": "Extremely unjust",
+    "translation": "太不公平了吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T09:08:29.372820+08:00",
+    "url": "https://x.com/elonmusk/status/2086614832300626142"
+  },
+  {
+    "id": "2086550636795924781",
+    "created_at": "2026-08-09T20:30:12.000Z",
+    "original": "TERROR: Islamic nanny decapitated her ward and spent five years in a mental institution. She’s getting out because she’s ‘cured’? There is no cure for Islam. \n\nh/t ",
+    "translation": "恐怖：一名伊斯蘭保姆將她的照護對象斬首，並在精神病院待了五年。她要出來了因為她「康復」了？伊斯蘭沒有療法。\n\n（轉）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPTqvsKW8AANm2_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T09:08:38.728234+08:00",
+    "url": "https://x.com/elonmusk/status/2086550636795924781",
+    "retried_at": "2026-08-10T10:01:00+08:00"
+  },
+  {
     "id": "2086540512480113014",
     "created_at": "2026-08-09T19:49:58.000Z",
     "original": "JUST IN: James Bond producer Amy Pascal reveals the next 007 actor will offer a “really different” take on the character.",
