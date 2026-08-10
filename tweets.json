@@ -1,5 +1,117 @@
 [
   {
+    "id": "2086699903544111370",
+    "created_at": "2026-08-10T06:23:20.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T15:02:25.600361+08:00",
+    "url": "https://x.com/elonmusk/status/2086699903544111370",
+    "transcription_failed": true,
+    "retried_at": "2026-08-10T15:06:53+08:00"
+  },
+  {
+    "id": "2086567030639989228",
+    "created_at": "2026-08-09T21:35:21.000Z",
+    "original": "Good morning.\n\nThe unfortunate reality is that the US National Debt is now doubling every 10 years, regardless of which party is in office.\n\nHave a great day. ",
+    "translation": "早安～\n\n一個無奈的事實是，美國國債現在每10年翻一倍，無論哪個政黨執政都一樣。\n\n大家今天也要開心喔！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPTC_x8bQAIdb4H?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T15:02:41.653716+08:00",
+    "url": "https://x.com/elonmusk/status/2086567030639989228"
+  },
+  {
+    "id": "2086333683624038502",
+    "created_at": "2026-08-09T06:08:07.000Z",
+    "original": "Top 10 websites by total visits in July 2026:\n\n→ Bing and TikTok move up one spot each, to 8th and 9th, respectively.\n→ WhatsApp drops to 10th place.\n→ TikTok recorded the highest MoM growth, followed by X.\n→ After 8 of the top 10 saw traffic decline in June, all 10 grew in",
+    "translation": "[原推文後續內容擷取不完整]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPQjgHaWQAARq9J?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T15:03:01.116021+08:00",
+    "url": "https://x.com/elonmusk/status/2086333683624038502",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-10T15:07:07+08:00"
+  },
+  {
+    "id": "2086619119970025922",
+    "created_at": "2026-08-10T01:02:20.000Z",
+    "original": "“Our mission is to build a world of amazing abundance”\n\nThat is the bigger idea behind Optimus\n\ncreating a future where physical work can scale almost without limit",
+    "translation": "「我們的使命是打造一個超級豐盛的世界」\n\n這就是 Optimus 背後的宏大願景\n\n創造一個體力勞動可以說是幾乎無上限擴展的未來",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPUpBxVasAA0X9W?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T15:03:11.422058+08:00",
+    "url": "https://x.com/elonmusk/status/2086619119970025922"
+  },
+  {
+    "id": "2086678613450227854",
+    "created_at": "2026-08-10T04:58:44.000Z",
+    "original": "The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad",
+    "translation": "聘請 X 的優秀領導者最難的地方在於，你需要一個能在平台上充當出色發聲者的人——但同時也要是一個在壕塹戰中表現卓越的人（例如親力親為注重用戶體驗的細節，並應對日常混亂以及各種鳥事）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T15:03:20.289636+08:00",
+    "url": "https://x.com/elonmusk/status/2086678613450227854"
+  },
+  {
+    "id": "2086700243676995651",
+    "created_at": "2026-08-10T06:24:41.000Z",
+    "original": ": \"So your goal is to colonize the Moon, use it to build the AI Dyson Swarm, climb the Kardashev scale and usher a new age of expansion of human civilization amongst the stars?\"\n\n",
+    "translation": "「所以你的目標是殖民月球、用它來蓋 AI 戴森球、爬卡爾達肖夫等級，然後開創人類文明在星辰間 expansion 的新紀元？」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPU6CXibYAA54A2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T15:03:36.194605+08:00",
+    "url": "https://x.com/elonmusk/status/2086700243676995651"
+  },
+  {
+    "id": "2086701644192891249",
+    "created_at": "2026-08-10T06:30:15.000Z",
+    "original": "Grok 4.5 just ranked #1 on Design Arena for Daily Usage - measuring the average unique users actually interacting with apps built by each model every day\n\nIt's not just winning benchmarks....it's winning users\n\nAnd it's outperforming Claude Fable 5, Opus 4.8 and GPT-5.6 Sol by a",
+    "translation": "Grok 4.5 在 Design Arena 的「日常使用」項目直接衝上第一名 — 這個指標衡量的是每個模型每天建構的應用中，真正在互動的平均獨立用戶數\n\n不只是benchmark屠榜而已…是真正贏得了用戶\n\n而且表現直接碾壓 Claude Fable 5、Opus 4.8 還有 GPT-5.6 Sol 差距有這——",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPVp9ObXEAA1jBu?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T15:03:57.951702+08:00",
+    "url": "https://x.com/elonmusk/status/2086701644192891249"
+  },
+  {
     "id": "2086681629343260776",
     "created_at": "2026-08-10T05:10:43.000Z",
     "original": "Sent your 𝕏 post to ",
