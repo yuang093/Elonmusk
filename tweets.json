@@ -1,9 +1,53 @@
 [
   {
+    "id": "2086831252212957647",
+    "created_at": "2026-08-10T15:05:16.000Z",
+    "original": "The US Conference of Catholic Bishops is almost entirely funded by government refugee resettlement grants. It’s over 80% of their revenue. x.com/brianchau57/st…",
+    "translation": "美國天主教主教團幾乎完全靠政府重新安置難民的補助金過活欸，佔他們營收的80%以上。x.com/brianchau57/st…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T23:08:35.562484+08:00",
+    "url": "https://x.com/elonmusk/status/2086831252212957647"
+  },
+  {
+    "id": "2086831391015051265",
+    "created_at": "2026-08-10T15:05:49.000Z",
+    "original": "If you’re curious and love to learn, there has never been a better time to be alive.",
+    "translation": "如果你好奇心爆棚又熱愛學習，現在絕對是有史以來最好的時代！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T23:08:51.953857+08:00",
+    "url": "https://x.com/elonmusk/status/2086831391015051265"
+  },
+  {
+    "id": "2086815248103752008",
+    "created_at": "2026-08-10T14:01:40.000Z",
+    "original": "Yes, I’ve read it.\n\nAnd precisely, the books from the 1930s (and those written by people who lived through it) say exactly the opposite of the postwar orthodoxy.\n\nThe 1920 NSDAP program (points 11 to 17) isn’t some modern gloss: abolition of incomes unrelated to work, x.com/curtis_yarvin/…",
+    "translation": "有，我看過了。\n\n而且恰恰相反，1930年代的書（還有親身經歷過那段時間的人寫的書）說的跟戰後的正統說法完全相反。\n\n1920年的NSDAP綱領（第11到第17點）不是什麼後人的曲解：廢除與工作無關的收入，x.com/curtis_yarvin/…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPXbaFLW8AAzSNs?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-10T23:09:12.528880+08:00",
+    "url": "https://x.com/elonmusk/status/2086815248103752008"
+  },
+  {
     "id": "2086827128696234280",
     "created_at": "2026-08-10T14:48:53.000Z",
     "original": "Stanley Milgram, the famous psychologist perhaps best known for his obedience to authority experiments, also carried out pioneering work on the small world problem, namely the idea that random people...",
-    "translation": "史坦利·米爾格萊姆，這位以服從權威實驗聞名的著名心理學家，其實也對「小世界問題」做了先驅性的研究，也就是說隨機選取的兩個人——（原推文後續內容擷取不完整）",
+    "translation": "史坦利·米爾格萊姆，這位以服從權威實驗聞名的著名心理學家，其實也對「小世界問題」做了先驅性的研究，也就是說隨機選取的兩個人...",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -13,9 +57,7 @@
       "https://pbs.twimg.com/media/HPXCYdDXUAAbP3W?format=jpg&name=small"
     ],
     "fetched_at": "2026-08-10T23:03:50.513939+08:00",
-    "url": "https://x.com/elonmusk/status/2086827128696234280",
-    "scrape_truncated": true,
-    "retried_at": "2026-08-10T23:02:00+08:00"
+    "url": "https://x.com/elonmusk/status/2086827128696234280"
   },
   {
     "id": "2086782987601928618",
