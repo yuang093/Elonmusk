@@ -1,5 +1,103 @@
 [
   {
+    "id": "2086949796653289545",
+    "created_at": "2026-08-10T22:56:19.000Z",
+    "original": "China is awesome. I strongly encourage people to visit.",
+    "translation": "中國真的很讚，強力推薦大家都去走走看看！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-11T07:03:49.450651+08:00",
+    "url": "https://x.com/elonmusk/status/2086949796653289545"
+  },
+  {
+    "id": "2086888887478325301",
+    "created_at": "2026-08-10T18:54:17.000Z",
+    "original": "Tesla May Not Need China Anymore\n\nKey Points",
+    "translation": "Tesla可能不再需要中國了\n\n重點整理",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-11T07:04:03.249212+08:00",
+    "url": "https://x.com/elonmusk/status/2086888887478325301"
+  },
+  {
+    "id": "2086948687318577252",
+    "created_at": "2026-08-10T22:51:55.000Z",
+    "original": "You will be able to watch live sports in 4k or movies or games or productivity!",
+    "translation": "可以 4K 看運動直播，或是看電影、玩遊戲、辦公！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPYKSe9bEAAqNd7?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPYKSe7aUAAZEh2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-11T07:04:17.749159+08:00",
+    "url": "https://x.com/elonmusk/status/2086948687318577252"
+  },
+  {
+    "id": "2086861141905465488",
+    "created_at": "2026-08-10T17:04:02.000Z",
+    "original": "Jensen Huang just told the incredible story of how Elon Musk became NVIDIA’s first customer for its AI supercomputer - when literally nobody else wanted it\n\n“When I announced this thing, nobody wanted to buy it. Not one purchase order\n\nExcept for Elon\n\nIn 2016, I personally boxed",
+    "translation": "Jensen Huang 剛講了一個超扯的故事，關於 Elon Musk 當年怎麼成為 NVIDIA AI 超級電腦的第一個客戶——那時候真的根本沒人想要這東西\n\n「我宣布這個產品的時候，根本沒人想買。一張訂單都沒有\n\n只有 Elon 除外\n\n2016 年的時候，我親自打包——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-11T07:04:31.133518+08:00",
+    "url": "https://x.com/elonmusk/status/2086861141905465488",
+    "retried_at": "2026-08-11T07:01:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2086950103898603725",
+    "created_at": "2026-08-10T22:57:33.000Z",
+    "original": "Testing Grok Imagine 2.0 against other image models:\n\nPrompt: \"A mathematician drinking from an object of genus 1\"\n\nChatGPT gets trapped by the donut analogy: it turns a donut (genus 1) into a mug, accidentally creating an object of genus 2.\n\nGrok gets it right: a regular coffee",
+    "translation": "測試 Grok Imagine 2.0 對比其他影像模型：\n\nPrompt：「一位數學家正在從一個 genus 1 的物體喝水」\n\nChatGPT 被甜甜圈類比困住了：它把甜甜圈（genus 1）變成馬克杯，意外創造了一個 genus 2 的物體。\n\nGrok 答對了：一杯普通的咖啡——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPXmpqtXwAARCLD?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPXmqRfWkAAyR1_?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-11T07:04:51.085929+08:00",
+    "url": "https://x.com/elonmusk/status/2086950103898603725",
+    "retried_at": "2026-08-11T07:01:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2086941469722722752",
+    "created_at": "2026-08-10T22:23:14.000Z",
+    "original": "SF spends more than $1,000,000,000/yr now on homelessness (5x increase in 5 years)\n\nA wild number. \n\nAnd yet the homeless population has only gotten larger\n\nBecause incentives determine results – if an NGO is paid by how many homeless people they manage, you can guarantee they",
+    "translation": "SF現在每年在無家可歸問題上燒掉10億美元（5年成長5倍）\n\n這數字有夠扯\n\n結果無家可歸的人口反而越來越多\n\n因為激勵機制決定結果——如果NGO是按服務的街友人頭數計費的話，你，各位，會保證他們——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPZNNlEaoAAJYst?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-11T07:05:06.670530+08:00",
+    "url": "https://x.com/elonmusk/status/2086941469722722752",
+    "retried_at": "2026-08-11T07:01:00+08:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2086891671745130623",
     "created_at": "2026-08-10T19:05:21.000Z",
     "original": "Rockets are insanely hard. There is a reason for the idiomatic expression.\n\nI hope they have a speedy recovery.",
