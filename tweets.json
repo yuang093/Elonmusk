@@ -1,5 +1,47 @@
 [
   {
+    "id": "2086681629343260776",
+    "created_at": "2026-08-10T05:10:43.000Z",
+    "original": "Sent your 𝕏 post to ",
+    "translation": "把你的 X 貼文發到",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T14:08:45.700098+08:00",
+    "url": "https://x.com/elonmusk/status/2086681629343260776"
+  },
+  {
+    "id": "2086568092881367232",
+    "created_at": "2026-08-09T21:39:34.000Z",
+    "original": "Bandwidth is half of it. Most congestion control still assumes a stable path and a stable RTT. LEO is neither.  Area needs innovation all the way down the stack. \n",
+    "translation": "頻寬只是問題的一半。大部分的擁塞控制機制還是建立在「路徑是穩定的」跟「RTT是穩定的」這兩個假設上。但LEO兩個都不符合。這個領域需要整個stack都來一波創新。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T14:08:58.522652+08:00",
+    "url": "https://x.com/elonmusk/status/2086568092881367232"
+  },
+  {
+    "id": "2086681154715804156",
+    "created_at": "2026-08-10T05:08:50.000Z",
+    "original": "It’s possible that Starlink may end up doing >90% of IP traffic, even if competitors 10X their bandwidth",
+    "translation": "說不定Starlink最後會吃下超過90%的IP流量，就算競爭對手頻寬直接放大10倍也是一樣。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-10T14:09:10.463862+08:00",
+    "url": "https://x.com/elonmusk/status/2086681154715804156"
+  },
+  {
     "id": "2086614832300626142",
     "created_at": "2026-08-10T00:45:18.000Z",
     "original": "Extremely unjust",
