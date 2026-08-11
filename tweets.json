@@ -1,5 +1,51 @@
 [
   {
+    "id": "2087223145878921291",
+    "created_at": "2026-08-11T17:02:31.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-12T01:08:20.981923+08:00",
+    "url": "https://x.com/elonmusk/status/2087223145878921291"
+  },
+  {
+    "id": "2087160445912109200",
+    "created_at": "2026-08-11T12:53:22.000Z",
+    "original": "BREAKING:\n\n2 police officers ambushed and stabbed in Toulouse, France. \n\nThe attacker yelled “Allahu Akbar” during the attack.",
+    "translation": "突發：\n法國土魯斯2名員警遭到埋伏刺傷。\n攻擊者行兇時高喊「真主至大」。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPYjCHTWMAADIgX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-12T01:08:25.319487+08:00",
+    "url": "https://x.com/elonmusk/status/2087160445912109200"
+  },
+  {
+    "id": "2087184542050496763",
+    "created_at": "2026-08-11T14:29:07.000Z",
+    "original": "\n\nAn open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster.\n\nIt delivers up to 4x the output speed of similar-sized models.",
+    "translation": "一個開源的30B MoE模型，有3B活躍參數，專為全天候AI代理設計，讓它們能更快完成大量專門任務。\n\n它的輸出速度比同規模模型快高達4倍！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPcUautWQAA6vS0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-12T01:08:30.385166+08:00",
+    "url": "https://x.com/elonmusk/status/2087184542050496763"
+  },
+  {
     "id": "2087151014587826414",
     "created_at": "2026-08-11T12:15:53.000Z",
     "original": "Grok can now turn your daily news research into a voice memo you can just listen to\n\nAsk it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing\n\nSo instead of reading through dozens of stories, you can just",
