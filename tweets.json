@@ -1,5 +1,63 @@
 [
   {
+    "id": "2087228471667781885",
+    "created_at": "2026-08-11T17:23:41.000Z",
+    "original": "\"we have sandboxed the agent\"\n\nthe agent:",
+    "translation": "「我們把 AI 關進沙盒了」\n\nAI：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-12T02:08:26.122354+08:00",
+    "url": "https://x.com/elonmusk/status/2087228471667781885"
+  },
+  {
+    "id": "2087232895798616122",
+    "created_at": "2026-08-11T17:41:15.000Z",
+    "original": "\n\nv1.0.1 — 2026-08-10 \n\nUpdates:\n• /rewind now only truncates conversation history instead of files as well and asks for confirmation by default.\n• Managed MCP servers are now only available through the gateway catalog.\n\nFeatures:\n• Subagent spawning",
+    "translation": "v1.0.1 — 2026-08-10\n\n更新：\n• /rewind 現在只會截斷對話歷史記錄，而不是連檔案也一起砍掉，而且預設會問你要不要確認。\n• 受管理的 MCP servers 現在只能從 gateway catalog 取得。\n\n功能：\n• 子代理生成",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPcwHx5XsAE2WOC?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-12T02:08:42.213351+08:00",
+    "url": "https://x.com/elonmusk/status/2087232895798616122"
+  },
+  {
+    "id": "2087233507370147920",
+    "created_at": "2026-08-11T17:43:41.000Z",
+    "original": "Introducing Grok Bot, now in early beta.\n\nBots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.",
+    "translation": "Grok Bot 登場啦，目前還在 early beta。\n\nBot 就是幫你幹活的 AI 同事，會登入你的工具、跟你一樣用，然後把東西做完帶回來給你。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-12T02:08:57.709033+08:00",
+    "url": "https://x.com/elonmusk/status/2087233507370147920"
+  },
+  {
+    "id": "2087235939055591862",
+    "created_at": "2026-08-11T17:53:21.000Z",
+    "original": " would think of this qualification (You may guess who makes it and where):\n\n\"Prime Minister Jetten must forbid Yesilgöz, and all other cabinet members of his minority cabinet, from expressing themselves on social media about anything that falls outside",
+    "translation": "一定會有人對這個資格條件有意見（你可以猜猜是誰說的、在哪裡說的）：\n\n「必須禁止總理耶騰（Jetten）以及他少數政府所有其他內閣成員，在社群媒體上對任何管轄範圍以外的事務發表言論。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-12T02:09:19.986272+08:00",
+    "url": "https://x.com/elonmusk/status/2087235939055591862"
+  },
+  {
     "id": "2087223145878921291",
     "created_at": "2026-08-11T17:02:31.000Z",
     "original": "Elon Musk",
