@@ -1,5 +1,55 @@
 [
   {
+    "id": "2087046240353603854",
+    "created_at": "2026-08-11T05:19:33.000Z",
+    "original": "Grok Imagine just stopped being an image generator.\n\nImage 2.0 can surgically edit photos, combine 5 refs, render sharp text, resize anything + remove backgrounds.\n\nThis is a real creative tool now.\n\n100% AI\n\n10 wild examples (prompts included):\n\n1. Polaroid style group photo",
+    "translation": "Grok Imagine 不只是生圖工具了\n\nImage 2.0 可以精準修圖、合併5張參考圖、渲染清晰文字、調整任意尺寸+去背\n\n現在是真正的創作工具了\n\n100% AI\n\n10個狂例（含prompt）：\n\n1. 拍立得風格團體照——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPaamIbWkAAIS6s?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-11T14:08:27.734935+08:00",
+    "url": "https://x.com/elonmusk/status/2087046240353603854",
+    "retried_at": "2026-08-11T15:00:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2087046381877833990",
+    "created_at": "2026-08-11T05:20:07.000Z",
+    "original": "U.S. Automotive Loyalty Rates by Make \n\n1. Tesla\n2. Ferrari\n3. Toyota\n4. Subaru\n5. Honda\n6. Ford\n7. Chevrolet\n8. Nissan\n9. BMW\n10. Mercedes-Benz\n11. Kia\n12. Hyundai\n13. Lucid\n14. Lexus\n15. Mazda\n16. Porsche\n17. Lincoln\n18. Acura\n19. Volkswagen\n20. Land Rover",
+    "translation": "美國汽車品牌忠誠度排行榜\n\n1. Tesla\n2. Ferrari\n3. Toyota\n4. Subaru\n5. Honda\n6. Ford\n7. Chevrolet\n8. Nissan\n9. BMW\n10. Mercedes-Benz\n11. Kia\n12. Hyundai\n13. Lucid\n14. Lexus\n15. Mazda\n16. Porsche\n17. Lincoln\n18. Acura\n19. Volkswagen\n20. Land Rover",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPYB9LcbIAEdFJt?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-11T14:08:32.913256+08:00",
+    "url": "https://x.com/elonmusk/status/2087046381877833990"
+  },
+  {
+    "id": "2086924547886850353",
+    "created_at": "2026-08-10T21:16:00.000Z",
+    "original": " JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine\n\n\"Tony Fauci was OUT OF HIS LANE, and used that power to tell America one thing when he really thought",
+    "translation": "剛剛：福奇(Fauci)的繼任者、NIH院長Jay Bhattacharya砲轟福奇掩蓋孕婦施打新冠疫苗後聲稱的82%流產率\n\n「Tony Fauci根本不在他的專業範圍內，而且他利用那個權力告訴美國人一套，但他其實心想——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-11T14:08:41.172112+08:00",
+    "url": "https://x.com/elonmusk/status/2086924547886850353",
+    "retried_at": "2026-08-11T15:00:00+08:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2082791168765821324",
     "created_at": "2026-07-30T11:31:25.000Z",
     "original": "Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.",
