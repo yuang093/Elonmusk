@@ -1,5 +1,130 @@
 [
   {
+    "id": "2087586408060027343",
+    "created_at": "2026-08-12T17:05:59.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T01:08:31.763223+08:00",
+    "url": "https://x.com/elonmusk/status/2087586408060027343"
+  },
+  {
+    "id": "2087567861040750810",
+    "created_at": "2026-08-12T15:52:17.000Z",
+    "original": "Introducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.",
+    "translation": "Grok 4.6 來啦。\n\n它具備最頂的智慧，相較於 Grok 4.5 有大幅升級，重點是價格不變。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiC3t5awAA2WS-?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-13T01:08:45.272853+08:00",
+    "url": "https://x.com/elonmusk/status/2087567861040750810"
+  },
+  {
+    "id": "2087586567057727585",
+    "created_at": "2026-08-12T17:06:37.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T01:08:58.168919+08:00",
+    "url": "https://x.com/elonmusk/status/2087586567057727585"
+  },
+  {
+    "id": "2087565040677454327",
+    "created_at": "2026-08-12T15:41:05.000Z",
+    "original": "Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague.\n\n4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.",
+    "translation": "超嗨宣布發布 Grok 4.6！每次更新 GROK 都愈來愈像個靠譜的數位同事了。\n\n4.6 在高難度任務和知識工作上強超多。直接結合 Opus 等級的智能和精緻度，但成本超低、速度超快！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiC3t5awAA2WS-?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-13T01:09:13.897824+08:00",
+    "url": "https://x.com/elonmusk/status/2087565040677454327"
+  },
+  {
+    "id": "2087581722116505959",
+    "created_at": "2026-08-12T16:47:22.000Z",
+    "original": "Grok 4.6 is now one of the top models in the world for agentic workflows\n\nIt ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max\n\nAgentic AI is about more than answering questions\n\nIt measures:\n• Tool use\n• Planning\n• Autonomy\n• Complex problem",
+    "translation": "Grok 4.6 現在是全球代理工作流最強模型之一\n\n在 Artificial Analysis 代理指數排行榜上跟 Claude Opus 5 Max 並列第一\n\n代理 AI 不只是回答問題這麼簡單\n\n它的評估指標包括：\n• 工具使用能力\n• 規劃能力\n• 自主性\n• 複雜問題處理能力",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiUgOBaUAIie9K?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-13T01:09:26.707515+08:00",
+    "url": "https://x.com/elonmusk/status/2087581722116505959"
+  },
+  {
+    "id": "2087585217842487424",
+    "created_at": "2026-08-12T17:01:16.000Z",
+    "original": "Same speed, better intelligent density. x.com/spacexai/statu…",
+    "translation": "同樣的速度，更高的智能密度。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T01:09:40.073080+08:00",
+    "url": "https://x.com/elonmusk/status/2087585217842487424"
+  },
+  {
+    "id": "2087586063682596905",
+    "created_at": "2026-08-12T17:04:37.000Z",
+    "original": "SpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or",
+    "translation": "SpaceXAI 的 Grok 4.6 在 Artificial Analysis 智能指數拿下 61 分，直接跟 GPT-5.6 Sol 並列前沿梯隊，而且代理能力表現特別猛，重點是還更便宜\n\nGrok 4.6 比 Grok 4.5 在智能指數進步了 5 分，這才發布一個多月而已，簡直是坐火箭升級啊——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiYdmfa4AAJASU?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPiEg4XaEAAJ4LX?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-13T01:09:55.188397+08:00",
+    "url": "https://x.com/elonmusk/status/2087586063682596905",
+    "retried_at": "2026-08-13T02:01:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2082529280341553209",
+    "created_at": "2026-07-29T18:10:46.000Z",
+    "original": "Announcing Grok Voice Think Fast 2.0, our next-generation voice model with improved intelligence, transcription accuracy, and conversational capabilities.\n\n",
+    "translation": "來了來了～Grok Voice Think Fast 2.0 正式發布！這是我們下一代的語音模型，主打更聰明的智慧、更精準的轉錄，還有更順暢的對話能力。升級超有感的！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HOaceasaAAANnA6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-13T01:09:57.825482+08:00",
+    "url": "https://x.com/elonmusk/status/2082529280341553209"
+  },
+  {
     "id": "2087563554509496525",
     "created_at": "2026-08-12T15:35:11.000Z",
     "original": "Grok 4.6 sits right at the frontier with Sol and Fable 5. It matches Sol on the main overall intelligence score and trails Fable by just 1 point. It leads or ties them on several practical agent and knowledge-work tasks, while lagging a bit on pure deep coding and terminal work.",
