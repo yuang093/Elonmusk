@@ -1,5 +1,69 @@
 [
   {
+    "id": "2087618442837070212",
+    "created_at": "2026-08-12T19:13:17.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T04:08:26.101064+08:00",
+    "url": "https://x.com/elonmusk/status/2087618442837070212"
+  },
+  {
+    "id": "2087611241242222987",
+    "created_at": "2026-08-12T18:44:40.000Z",
+    "original": "Back at the frontier. They’re keeping up \n\n4.7 might surpass all",
+    "translation": "回到最前線了 他們沒掉鏈子\n\n4.7 說不定要超越所有了——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T04:08:40.486959+08:00",
+    "url": "https://x.com/elonmusk/status/2087611241242222987",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-12T20:12:30.689302+00:00"
+  },
+  {
+    "id": "2087567786302374322",
+    "created_at": "2026-08-12T15:52:00.000Z",
+    "original": "SpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or",
+    "translation": "SpaceXAI 的 Grok 4.6 在 Artificial Analysis Intelligence Index 拿下 61 分，躍升前段班跟 GPT-5.6 Sol 並肩，低成本就有超強 agentic 表現\n\nGrok 4.6 在發布短短一個多月後，Intelligence Index 比 Grok 4.5 高了 5 分，或者——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiEg4XaEAAJ4LX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-13T04:08:49.387092+08:00",
+    "url": "https://x.com/elonmusk/status/2087567786302374322",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-12T20:12:30.689302+00:00"
+  },
+  {
+    "id": "2087592670893847008",
+    "created_at": "2026-08-12T17:30:52.000Z",
+    "original": "Introducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.",
+    "translation": "Grok 4.6 正式亮相！\n\n帶來頂尖智能表現，而且加量不加價，相較於 Grok 4.5 有大幅進化。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiC3t5awAA2WS-?format=png&name=120x120"
+    ],
+    "fetched_at": "2026-08-13T04:08:58.284558+08:00",
+    "url": "https://x.com/elonmusk/status/2087592670893847008"
+  },
+  {
     "id": "2087593572090659196",
     "created_at": "2026-08-12T17:34:27.000Z",
     "original": "Introducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.",
