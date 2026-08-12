@@ -1,5 +1,135 @@
 [
   {
+    "id": "2087563554509496525",
+    "created_at": "2026-08-12T15:35:11.000Z",
+    "original": "Grok 4.6 sits right at the frontier with Sol and Fable 5. It matches Sol on the main overall intelligence score and trails Fable by just 1 point. It leads or ties them on several practical agent and knowledge-work tasks, while lagging a bit on pure deep coding and terminal work.",
+    "translation": "Grok 4.6 直接殺到 frontier 等級，跟 Sol 和 Fable 5 並駕齊驅。整體智慧評分跟 Sol 打平，落後 Fable 5 區區 1 分。在多項實務代理和知識工作任務上領先或並駕齊驅，但在純深度 coding 和終端操作方面稍微落後一點。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-12T23:59:41.262910+08:00",
+    "url": "https://x.com/elonmusk/status/2087563554509496525"
+  },
+  {
+    "id": "2087562800982077492",
+    "created_at": "2026-08-12T15:32:11.000Z",
+    "original": "Introducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.",
+    "translation": "Grok 4.6 正式發布～\n\n頂尖智慧直接拉滿，相較 Grok 4.5 有感升級，重點是價格不變、佛心到底！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiC3t5awAA2WS-?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-12T23:59:48.259454+08:00",
+    "url": "https://x.com/elonmusk/status/2087562800982077492"
+  },
+  {
+    "id": "2087566489608241643",
+    "created_at": "2026-08-12T15:46:50.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-12T23:59:50.876888+08:00",
+    "url": "https://x.com/elonmusk/status/2087566489608241643"
+  },
+  {
+    "id": "2087529691951366321",
+    "created_at": "2026-08-12T13:20:37.000Z",
+    "original": " In a new court filing, Sam Altman’s sister admits she suffers from PTSD “as a direct and proximate result of Sam Altman sexually abusing her as a child.”\n\nThis is the same guy asking you to trust him with super intelligence.",
+    "translation": "在一份新的法庭文件中，Sam Altman 的姐姐承認她飽受創傷後壓力症之苦，聲稱這是「 Sam Altman 在她童年時對她性虐待的直接且近因結果」。\n\n結果這老兄現在卻在叫你相信他能管好超級智慧。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPhlMJKWUAAflpg?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HPhlMJNXYAE-0gD?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-13T00:00:00.870772+08:00",
+    "url": "https://x.com/elonmusk/status/2087529691951366321"
+  },
+  {
+    "id": "2087565375739474306",
+    "created_at": "2026-08-12T15:42:25.000Z",
+    "original": "\n\n• Grok 4.6 — 1,753 Elo\n• Fable 5 Max — 1,741\n• GPT-5.6 Sol Max — 1,728\n• Grok 4.5 High — 1,526",
+    "translation": "• Grok 4.6 — 1753 分\n• Fable 5 Max — 1741 分\n• GPT-5.6 Sol Max — 1728 分\n• Grok 4.5 High — 1526 分",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiER8MbsAAO7OJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-13T00:00:04.316907+08:00",
+    "url": "https://x.com/elonmusk/status/2087565375739474306"
+  },
+  {
+    "id": "2087537837050597741",
+    "created_at": "2026-08-12T13:52:59.000Z",
+    "original": "SpaceX’s recent video volume was a little low, so I just gave it to Grok Build and asked it to increase the volume by +10 dB\n\nGrok analyzed the audio, boosted it, added soft compression + limiting to keep everything under control, and gave me the finished video\n\nThen after seeing",
+    "translation": "SpaceX 最近的影片音量有點低，所以我把它丢給 Grok Build，叫它幫我把音量調高 +10 dB\n\nGrok 分析了音訊，增強了音量，加了柔和的壓縮 + 限制器來控制一切，然後給我完成的影片\n\n然後看完之後——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPho8uEWAAAe5oW?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HPgAkWTXAAAtvkQ?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-08-13T00:00:11.130384+08:00",
+    "url": "https://x.com/elonmusk/status/2087537837050597741",
+    "retried_at": "2026-08-12T23:58:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2087566406921617534",
+    "created_at": "2026-08-12T15:46:31.000Z",
+    "original": "\n\nIt beats Grok 4.5 High across every benchmark listed and now ranks:\n\n",
+    "translation": "在各項評測基準都打趴 Grok 4.5 High 現在排名：——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiFfI0a4AEUMX5?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-13T00:00:14.755423+08:00",
+    "url": "https://x.com/elonmusk/status/2087566406921617534",
+    "retried_at": "2026-08-12T23:58:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2087565020158992709",
+    "created_at": "2026-08-12T15:41:00.000Z",
+    "original": "Introducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.",
+    "translation": "Grok 4.6 正式登場啦 🎉\n\n搭載最前沿的智慧能力，相比 Grok 4.5 升級幅度超大，重點是價格不變！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPiC3t5awAA2WS-?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-13T00:00:20.381906+08:00",
+    "url": "https://x.com/elonmusk/status/2087565020158992709"
+  },
+  {
     "id": "2087246938530062794",
     "created_at": "2026-08-11T18:37:03.000Z",
     "original": "meeting more and more people who are daily driving grok",
