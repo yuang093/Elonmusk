@@ -1,5 +1,35 @@
 [
   {
+    "id": "2087760069693997530",
+    "created_at": "2026-08-13T04:36:03.000Z",
+    "original": "I have no idea why but Grok-4.6 just totally freaked out doing some maintenance tasks when it saw my low github id.",
+    "translation": "不知道為啥，但 Grok-4.6 在做維護任務的時候，看到我的超低 github id 就直接整個爆走了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPkDsRyXoAA3H7z?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-13T13:03:49.493734+08:00",
+    "url": "https://x.com/elonmusk/status/2087760069693997530"
+  },
+  {
+    "id": "2087760446212522196",
+    "created_at": "2026-08-13T04:37:33.000Z",
+    "original": "0:00 / 1:08",
+    "translation": "0:00 / 1:08",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T13:04:04.287474+08:00",
+    "url": "https://x.com/elonmusk/status/2087760446212522196"
+  },
+  {
     "id": "2087668743929487420",
     "created_at": "2026-08-12T22:33:10.000Z",
     "original": "'s Genie harness! \nThe model is strongest on our document understanding and data reasoning tasks, and it is a very efficient driver!",
