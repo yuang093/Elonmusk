@@ -1,5 +1,47 @@
 [
   {
+    "id": "2087823224843198711",
+    "created_at": "2026-08-13T08:47:01.000Z",
+    "original": "Now is the time",
+    "translation": "就是現在",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T17:01:59.463009+08:00",
+    "url": "https://x.com/elonmusk/status/2087823224843198711"
+  },
+  {
+    "id": "2087741437899051270",
+    "created_at": "2026-08-13T03:22:01.000Z",
+    "original": "The rape of Europe. \n\nListen to this talk from Germany;\n\n\"The youngest victim I am supporting was raped over several hours by three Syrians. They urinated on her, smeared her with feces, beat her, and kicked her. This girl is 10 years old. 10 years old!\"",
+    "translation": "歐洲的悲劇。\n\n聽聽這個德國的談話；\n\n「我援助的年紀最小的受害者，被三個Syrians強暴了好幾個小時。他們對她小便、把糞便抹在她身上、毆打她、踢她。這個女孩才10歲。才10歲啊！」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T17:02:19.339716+08:00",
+    "url": "https://x.com/elonmusk/status/2087741437899051270"
+  },
+  {
+    "id": "2087822520128823438",
+    "created_at": "2026-08-13T08:44:13.000Z",
+    "original": "0:00 / 5:38",
+    "translation": "0:00 / 5:38",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-13T17:02:34.235791+08:00",
+    "url": "https://x.com/elonmusk/status/2087822520128823438"
+  },
+  {
     "id": "2087768137823621618",
     "created_at": "2026-08-13T05:08:07.000Z",
     "original": "One day, there will be Nuremberg trials for those who enabled this",
