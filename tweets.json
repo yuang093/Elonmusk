@@ -1,5 +1,85 @@
 [
   {
+    "id": "2088140564495556965",
+    "created_at": "2026-08-14T05:48:01.000Z",
+    "original": "Grok performs far better with its Build hardness",
+    "translation": "Grok 加上 Build Hardness 表現強太多了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-14T15:02:33.292001+08:00",
+    "url": "https://x.com/elonmusk/status/2088140564495556965"
+  },
+  {
+    "id": "2088083249151009059",
+    "created_at": "2026-08-14T02:00:15.000Z",
+    "original": "Quick clarification on the new Grok 4.6 ARC-AGI-3 result, because the chart can be misleading if you don’t know the harness story.\n\nARC Prize’s standard harness made GPT-5.6 Sol look much weaker than it actually is because it was effectively doing this:\n\nSol: “I learned that the",
+    "translation": "快速澄清一下這個新的 Grok 4.6 ARC-AGI-3 結果，因為如果你不知道測試框架背後的故事，這張圖表可能會誤導人。\n\nARC Prize 的標準測試框架讓 GPT-5.6 Sol 看起來比實際表現弱很多，因為它實際上是在做這樣的事情：\n\nSol：「我學到了——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPpThD7XkAA6zh0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-14T15:02:52.841483+08:00",
+    "url": "https://x.com/elonmusk/status/2088083249151009059",
+    "retried_at": "2026-08-14T15:01:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2088149055092228530",
+    "created_at": "2026-08-14T06:21:45.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-14T15:03:06.611946+08:00",
+    "url": "https://x.com/elonmusk/status/2088149055092228530"
+  },
+  {
+    "id": "2088019980960821594",
+    "created_at": "2026-08-13T21:48:51.000Z",
+    "original": "Everybody knew this was happening but if you said it, you got kicked off social media.",
+    "translation": "大家其實都知道這件事在發生，但只要你敢說出來，就會被社群媒體ban掉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPoUf53W4AAoNGW?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-14T15:03:23.473499+08:00",
+    "url": "https://x.com/elonmusk/status/2088019980960821594"
+  },
+  {
+    "id": "2088149393731981516",
+    "created_at": "2026-08-14T06:23:06.000Z",
+    "original": " I simply put: \n\ntake a look at me and what i do. find all info you can on me. take a look at the bots i have created. these are your team. see if we need to change anything or add more bots. what is best way of managing these bot teams. what",
+    "translation": "我就直接說了：\n\n看看我和我的工作。找找所有關於我的資訊。看看我做的這些 bots，這些就是我的團隊。看看需不需要改什麼或加更多 bots。怎麼管理這些 bot 團隊最優？——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPl4Tb6WgAAhwzn?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-14T15:03:43.159058+08:00",
+    "url": "https://x.com/elonmusk/status/2088149393731981516",
+    "retried_at": "2026-08-14T15:01:00+08:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2088125639643607317",
     "created_at": "2026-08-14T04:48:42.000Z",
     "original": "America’s economic growth due to much faster AI adoption (and robots) might exceed 10X that of Europe",
