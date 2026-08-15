@@ -1,5 +1,33 @@
 [
   {
+    "id": "2088500793284379037",
+    "created_at": "2026-08-15T05:39:26.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-15T23:02:01.714265+08:00",
+    "url": "https://x.com/elonmusk/status/2088500793284379037"
+  },
+  {
+    "id": "2088347424171679990",
+    "created_at": "2026-08-14T19:30:00.000Z",
+    "original": "Could \"Data Center Fornicator\" be the song of the summer?",
+    "translation": "「Data Center Fornicator」會是今夏的神曲嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-15T23:02:16.413354+08:00",
+    "url": "https://x.com/elonmusk/status/2088347424171679990"
+  },
+  {
     "id": "2088463770318516734",
     "created_at": "2026-08-15T03:12:19.000Z",
     "original": "Completely false.\n\nI like Gavin's takes, but whoever he heard this from is lying so that it fits the narrative some people so desperately want you to believe. \n\nThe same people will try to convince you Anthropic has no moat, and a sentence later that it might become so powerful",
