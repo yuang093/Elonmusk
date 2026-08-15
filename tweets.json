@@ -1,5 +1,51 @@
 [
   {
+    "id": "2088463770318516734",
+    "created_at": "2026-08-15T03:12:19.000Z",
+    "original": "Completely false.\n\nI like Gavin's takes, but whoever he heard this from is lying so that it fits the narrative some people so desperately want you to believe. \n\nThe same people will try to convince you Anthropic has no moat, and a sentence later that it might become so powerful",
+    "translation": "完全瞎說。\n\n我喜歡Gavin的觀點，但他從誰那裡聽來的根本在胡扯，就是為了配合某些人拼命想讓你相信的說法。\n\n同樣那批人會說服你Anthropic沒有護城河，然後下一秒又說它可能會變得無敵強大——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPu2CpcbcAAyg99?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-15T14:08:27.978682+08:00",
+    "url": "https://x.com/elonmusk/status/2088463770318516734",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-15T15:02:47.268477+08:00"
+  },
+  {
+    "id": "2088497861222703487",
+    "created_at": "2026-08-15T05:27:47.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-15T14:08:40.255802+08:00",
+    "url": "https://x.com/elonmusk/status/2088497861222703487"
+  },
+  {
+    "id": "2088415228841328884",
+    "created_at": "2026-08-14T23:59:26.000Z",
+    "original": " Islamization of Texas rages on....\n\nWhat do Houston’s George Bush Intercontinental Airport, your child’s school, your legislature, and your local police department all now have in common?\n\n",
+    "translation": "德州的伊斯蘭化持續延燒中....\n\n休士頓的George Bush Intercontinental Airport、你小孩的學校、州議會、還有地方警察局，現在有什麼共同點？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-15T14:08:55.978289+08:00",
+    "url": "https://x.com/elonmusk/status/2088415228841328884"
+  },
+  {
     "id": "2088476855380689106",
     "created_at": "2026-08-15T04:04:19.000Z",
     "original": "Who did it?",
