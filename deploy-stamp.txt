@@ -1,1 +1,1 @@
-2026-08-03T22:00:00+08:00 - force re-deploy (Vercel webhook stalled on prior commit)
+2026-08-16T17:03:00+08:00 - cycle 0 new tweets (no-op, Vercel already in sync at 4991 records, commit 530d672 from 09:01 CST)
