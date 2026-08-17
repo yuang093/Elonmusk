@@ -1,5 +1,66 @@
 [
   {
+    "id": "2089416526894141748",
+    "created_at": "2026-08-17T18:18:14.000Z",
+    "original": "“Elon Musk is prorably the most important tech person and entrepreneur in the world for our country. Elon and SpaceX protected our air defense, saved our air force, and spared thousands of civilian lives.”\n\n— Mykhailo Fedorov, Minister of Defense of Ukraine",
+    "translation": "「伊隆馬斯克大概是我們國家最重要的高科技人才和企業家了。伊隆和SpaceX保護了我們的防空系統，拯救了我們的空軍，還救了成千上萬的平民。」\n\n— 麥科萊·費多羅夫，烏克蘭國防部長",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T03:03:05.239875+08:00",
+    "url": "https://x.com/elonmusk/status/2089416526894141748"
+  },
+  {
+    "id": "2089416747720061154",
+    "created_at": "2026-08-17T18:19:06.000Z",
+    "original": "Grok 4.6 just broke into the Top 3 on the Artificial Analysis Healthcare & Medical Index\n\nGrok 4.6 (high) scores 50 - just ONE point off the top score of 51\n\nIt outperforms GPT-5.6 Sol, Kimi K3 and Gemini 3.7 Flash\n\nThis index measures how models actually handle healthcare and",
+    "translation": "Grok 4.6 直接殺進 Artificial Analysis Healthcare & Medical Index 前三名了\n\nGrok 4.6 (high) 拿到 50 分 - 只差第一名 51 分區區 1 分\n\n直接把 GPT-5.6 Sol、Kimi K3 和 Gemini 3.7 Flash 踩在腳下\n\n這個指數測量的是模型在醫療健康場景的實際表現能力",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP8Bct0a0AAUMGa?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T03:03:19.516115+08:00",
+    "url": "https://x.com/elonmusk/status/2089416747720061154"
+  },
+  {
+    "id": "2089148391095931350",
+    "created_at": "2026-08-17T00:32:45.000Z",
+    "original": "Token demand is rising super fast",
+    "translation": "代幣需求爆炸性成長中",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T02:08:15.349873+08:00",
+    "url": "https://x.com/elonmusk/status/2089148391095931350"
+  },
+  {
+    "id": "2089054754030629147",
+    "created_at": "2026-08-16T18:20:40.000Z",
+    "original": "How to get $99 SuperGrok Heavy promo?\n\nDo this on an account with no current SuperGrok / X Premium / Premium+ plan:\n\n1. Log into ",
+    "translation": "如何獲得 99 美元 SuperGrok Heavy 優惠？\n\n在沒有任何現有 SuperGrok / X Premium / Premium+ 方案的帳號上操作：\n\n1. 登入...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP3OyGyWoAABN9m?format=jpg&name=240x240",
+      "https://pbs.twimg.com/media/HP3OyGyWkAAkIYb?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-18T02:08:20.229738+08:00",
+    "url": "https://x.com/elonmusk/status/2089054754030629147"
+  },
+  {
     "id": "2089388021154283625",
     "created_at": "2026-08-17T16:24:57.000Z",
     "original": " is another “Claude Code” moment for AI.\n\nI would estimate my personal AI usage is up something like 100x.\n\nAnd for everyone who reached out about how to build a “podcast summarizer” it took me about 15 seconds in Grok Bot and is better than what I had before.",
