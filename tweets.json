@@ -1,5 +1,40 @@
 [
   {
+    "id": "2089412884757627022",
+    "created_at": "2026-08-17T18:03:45.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T06:03:47.545632+08:00",
+    "url": "https://x.com/elonmusk/status/2089412884757627022"
+  },
+  {
+    "id": "2089325219081081081",
+    "created_at": "2026-08-17T12:15:24.000Z",
+    "original": " is where American ingenuity is pushing the frontiers of human exploration and potential.\n\nI met with the American workers turning the impossible into reality and discussed how we can prepare the next",
+    "translation": "家就是美國人的創意持續突破人類探索極限的地方。\n\n我見了那些把不可能變成現實的美國工作者，討論了該如何為下一代做好準備。——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP7GNklW4AAwbo8?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HP7GNkWXIAAQiNr?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HP7GNkVWQAAeldv?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HP7GNkYXQAALLVB?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T06:04:04.659601+08:00",
+    "url": "https://x.com/elonmusk/status/2089325219081081081",
+    "retried_at": "2026-08-18T06:02:00+00:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2089416526894141748",
     "created_at": "2026-08-17T18:18:14.000Z",
     "original": "“Elon Musk is prorably the most important tech person and entrepreneur in the world for our country. Elon and SpaceX protected our air defense, saved our air force, and spared thousands of civilian lives.”\n\n— Mykhailo Fedorov, Minister of Defense of Ukraine",
