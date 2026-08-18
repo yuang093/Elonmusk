@@ -1,5 +1,35 @@
 [
   {
+    "id": "2089500595224777127",
+    "created_at": "2026-08-17T23:52:17.000Z",
+    "original": "’s video and voice capabilities can do. We’re awarding $100K, $50K, and $25K to the top three videos submitted by quoting this post. ",
+    "translation": "影片和語音功能可以玩出什麼花樣～轉推這篇文提交影片，前三名分別獲得 10 萬",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T08:03:25.884939+08:00",
+    "url": "https://x.com/elonmusk/status/2089500595224777127"
+  },
+  {
+    "id": "2089501024557912315",
+    "created_at": "2026-08-17T23:53:59.000Z",
+    "original": " 4.6 lands hardest, taking the top spot on the Artificial Analysis Agentic Index at 59, tied with Claude Opus 5 Max.\n\nThe index measures tool use, planning, autonomy and complex problem solving rather than single answers\n\nGrok 4.6 completes tasks in ~53",
+    "translation": "4.6表現最猛，在Artificial Analysis Agentic Index拿下59分並列第一，和Claude Opus 5 Max打成平手。\n\n這個指數衡量的不是單一答案，而是工具使用、規劃能力、自主性還有複雜問題解決能力\n\nGrok 4.6完成任務大約只需53[時間單位]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP7r7FlasAA28Vo?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T08:03:34.171790+08:00",
+    "url": "https://x.com/elonmusk/status/2089501024557912315"
+  },
+  {
     "id": "2089412884757627022",
     "created_at": "2026-08-17T18:03:45.000Z",
     "original": "Elon Musk",
