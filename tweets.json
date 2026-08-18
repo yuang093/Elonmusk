@@ -1,5 +1,67 @@
 [
   {
+    "id": "2089574867586711926",
+    "created_at": "2026-08-18T04:47:25.000Z",
+    "original": "Interesting",
+    "translation": "有點意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T13:03:55.715767+08:00",
+    "url": "https://x.com/elonmusk/status/2089574867586711926"
+  },
+  {
+    "id": "2089528969456480579",
+    "created_at": "2026-08-18T01:45:02.000Z",
+    "original": ", but we believe that, due to Elon's first-principles engineering, SpaceX has likely found a handful of sites to deploy the remaining GW, and the 10GW 2027 target is within reach.\n\nElon is singular in his ability to do what haters & doubters",
+    "translation": "但我們相信，基於Elon的第一性原理工程思維，SpaceX很可能已經找到了幾個地點來部署剩下的GW，10GW的2027目標是可以達成的。\n\nElon在這方面展現的能力是獨一無二的，讓酸民和懷疑者們都只能閉嘴。——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP9_hltWEAEzbE6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T13:04:13.675837+08:00",
+    "url": "https://x.com/elonmusk/status/2089528969456480579",
+    "retried_at": "2026-08-18T05:02:00+00:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2089575133442711787",
+    "created_at": "2026-08-18T04:48:28.000Z",
+    "original": "Origin, our code hosting platform, is now live.\n\nIt's fast, easy to use, and deeply integrated with Cursor.\n\nGet started by syncing your repos from GitHub.",
+    "translation": "Origin，我們的程式碼托管平台，已經上線啦！\n\n它很快、好用，而且和Cursor深度整合。\n\n從GitHub同步你的repo開始用吧。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T13:04:24.418777+08:00",
+    "url": "https://x.com/elonmusk/status/2089575133442711787"
+  },
+  {
+    "id": "2089578400734167260",
+    "created_at": "2026-08-18T05:01:27.000Z",
+    "original": " is a glimpse into the future of personal AI agents.\n\nHere's my new tutorial where I show you how to set up 5 useful bots:\n\n1. An advisor to create and manage your bots\n2. A YouTube researcher to find outlier videos\n3. An X scout to find viral and funny tweets\n4.",
+    "translation": "這是未來個人 AI 代理人的一瞥。\n\n這是我的新教學，示範怎麼設定 5 個實用的 bots：\n\n1. 一個 advisor 幫你創建和管理 bots\n2. 一個 YouTube researcher 幫你找到與眾不同的影片\n3. 一個 X scout 幫你找到爆紅和有趣的 tweets\n4.——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T13:04:33.094584+08:00",
+    "url": "https://x.com/elonmusk/status/2089578400734167260",
+    "retried_at": "2026-08-18T05:02:00+00:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2089460002964594866",
     "created_at": "2026-08-17T21:10:59.000Z",
     "original": "Trying to do the right thing. \n\nI hope there is peace soon.",
