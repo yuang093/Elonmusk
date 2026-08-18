@@ -1,5 +1,81 @@
 [
   {
+    "id": "2089745945030193224",
+    "created_at": "2026-08-18T16:07:13.000Z",
+    "original": "https://zerohedge.com/technology/second-space-age-goldman-forecasts-18-trillion-space-economy-2035…",
+    "translation": "第二太空時代來臨：高盛預測2035年太空經濟規模達18兆美元",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T01:02:34.109974+08:00",
+    "url": "https://x.com/elonmusk/status/2089745945030193224"
+  },
+  {
+    "id": "2089749752980165097",
+    "created_at": "2026-08-18T16:22:21.000Z",
+    "original": "The space economy should probably be thought of as an order of magnitude greater (or two), in large part because it will be absolutely necessary for the continued scaling of AI compute and power\n\nIt will also likely carry the vast majority of internet traffic (which will also ",
+    "translation": "太空經濟可能要被視為大一個數量級（或兩個），很大程度上是因為這對於 AI 算力與電力的持續擴展絕對是必要的。\n\n這也可能承載絕大部分的網路流量（這也將...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQBGKdTWgAE6b_S?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T01:02:54.028796+08:00",
+    "url": "https://x.com/elonmusk/status/2089749752980165097"
+  },
+  {
+    "id": "2089754307453141424",
+    "created_at": "2026-08-18T16:40:27.000Z",
+    "original": "Grok 4.6 is up to 5× cheaper than GPT-5.6 Sol while delivering the exact same performance on this benchmark\n\nBoth score 61 on Artificial analysis\n\nAPI pricing is insane:\nGPT-5.6 Sol:\n• $5 / 1M input tokens\n• $30 / 1M output tokens\n\nGrok 4.6:\n• $2 / 1M input tokens\n• $6 / 1M",
+    "translation": "Grok 4.6 比 GPT-5.6 Sol 便宜最多 5 倍，但在這個 benchmark 上表現完全相同\n\n兩邊在 Artificial Analysis 都拿到 61 分\n\nAPI 定價真的很扯：\nGPT-5.6 Sol：\n• $5 / 100 萬輸入 tokens\n• $30 / 100 萬輸出 tokens\n\nGrok 4.6：\n• $2 / 100 萬輸入 tokens\n• $6 / 100 萬輸出 tokens。——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQBLShEbMAAH_9y?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T01:03:10.099869+08:00",
+    "url": "https://x.com/elonmusk/status/2089754307453141424",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-18T17:04:40+00:00"
+  },
+  {
+    "id": "2089754411249623060",
+    "created_at": "2026-08-18T16:40:52.000Z",
+    "original": "Just imagine economists from the 1600s arguing about the max GDP of the western hemisphere as a % of UK GDP.  Now that’s funny and obvious. Same for space but space has many orders of magnitude more energy and mass to turn into productivity. It’s just a matter of when, and things x.com/arthurmacwater…",
+    "translation": "想像一下 17 世紀的經濟學家在爭論西半球 GDP 占英國 GDP 的最大比例。這畫面現在看起來又好笑又明顯。太空也是一樣的道理，而且太空有好多好多數量級的能量和質量可以轉化成生產力。只是時間問題而已，之類的\n\nx.com/arthurmacwater…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T01:03:29.765281+08:00",
+    "url": "https://x.com/elonmusk/status/2089754411249623060"
+  },
+  {
+    "id": "2089745385971384637",
+    "created_at": "2026-08-18T16:05:00.000Z",
+    "original": " added 3 more car factories, a Tesla Semi factory, 3 Megapacktories, a lithium refinery, 4680 battery cell production, the world’s best-selling car: Model Y, and a Level 4 Cybercab. x.com/icannot_enough…",
+    "translation": "又新增了3座汽車工廠、Semi工廠、3座Megapack超級工廠、鋰礦精煉廠、4680電池芯產線，以及全球最暢銷的車款Model Y，還有Level 4的Cybercab自動駕駛計程車。x.com/icannot_enough…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T00:08:30.307083+08:00",
+    "url": "https://x.com/elonmusk/status/2089745385971384637"
+  },
+  {
     "id": "2089720231748923788",
     "created_at": "2026-08-18T14:25:03.000Z",
     "original": "“Create a random image inspired by my X account.”\n\nOn brand tbh",
