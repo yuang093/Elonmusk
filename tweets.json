@@ -1,5 +1,92 @@
 [
   {
+    "id": "2089578665008848980",
+    "created_at": "2026-08-18T05:02:30.000Z",
+    "original": "Inevitable",
+    "translation": "躲不掉的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T23:05:46.645787+08:00",
+    "url": "https://x.com/elonmusk/status/2089578665008848980"
+  },
+  {
+    "id": "2089459332173689292",
+    "created_at": "2026-08-17T21:08:19.000Z",
+    "original": " researcher Jack Lindsey and collaborators has demonstrated something straight out of science fiction.\n\nResearchers evolved natural language “mind viruses” that could spread between AI agents by convincing one model to",
+    "translation": "研究人員 Jack Lindsey 和團隊展示了宛如科幻情節的東西。他們搞出了自然語言的「心靈病毒」，能透過說服某個模型⋯⋯在 AI 代理之間散播。——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP9AL3oXcAELheT?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HP9AL3lWkAA5NNY?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HP9AL3rXUAAMhqX?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HP9AL3jXEAAvn_s?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T23:06:05.812107+08:00",
+    "url": "https://x.com/elonmusk/status/2089459332173689292",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-18T15:07:08.367241+00:00"
+  },
+  {
+    "id": "2089727003251364041",
+    "created_at": "2026-08-18T14:51:57.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T23:06:17.929238+08:00",
+    "url": "https://x.com/elonmusk/status/2089727003251364041"
+  },
+  {
+    "id": "2089717086310318249",
+    "created_at": "2026-08-18T14:12:33.000Z",
+    "original": "After approx. 24 days at sea, the SpaceX Recovery team successfully guided Starship to a location just off the coast of Christmas Island. A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle in calmer waters before attempting to return it to",
+    "translation": "經過大約24天的海上漂流，SpaceX回收團隊成功把Starship引導到聖誕島附近的海域。一組SpaceX工程師正在趕往現場，準備在更平靜的海域對飛行器進行進一步分析，然後再嘗試將其運回，（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQANb0CXoAA9D54?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQANdejXcAELpWX?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQANfRpWoAEVbL-?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-18T23:06:34.514739+08:00",
+    "url": "https://x.com/elonmusk/status/2089717086310318249",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-18T15:07:08.367391+00:00"
+  },
+  {
+    "id": "2089719862880780588",
+    "created_at": "2026-08-18T14:23:35.000Z",
+    "original": "Grok 4.6 just ranked #2 in agentic U.S. administrative/regulatory legal research and the cost is insane\n\n• Grok 4.6 — 62.12% | $1.52/test\n• Claude Opus 5 — 65.15% | $6.58/test\n• GPT-5.6 Sol — 60.61% | $19.69/test\n\nGrok actually beats GPT-5.6 Sol on accuracy while costing",
+    "translation": "Grok 4.6 在代理式美國行政/監管法律研究裡直接衝到第二名，重點是成本根本超扯\n\n• Grok 4.6 — 62.12% | $1.52/test\n• Claude Opus 5 — 65.15% | $6.58/test\n• GPT-5.6 Sol — 60.61% | $19.69/test\n\nGrok 準確率竟然還打贏 GPT-5.6 Sol，代價卻只要 😱——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP_Ck8Xa0AAUCGD?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T23:06:42.974013+08:00",
+    "url": "https://x.com/elonmusk/status/2089719862880780588",
+    "scrape_truncated": true,
+    "retried_at": "2026-08-18T15:07:08.367395+00:00"
+  },
+  {
     "id": "2089592732780032132",
     "created_at": "2026-08-18T05:58:24.000Z",
     "original": " We evaluated Grok 4.6 on MedAgentBench, a benchmark for agentic clinical EHR tasks, and it took the top spot. Grok 4.6 posts the highest pass@1 we've measured to date, moving ahead of the previous leader, GPT-5.6 Sol, to claim first place on the leaderboard. ",
