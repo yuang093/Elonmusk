@@ -1,5 +1,151 @@
 [
   {
+    "id": "2089739241114816671",
+    "created_at": "2026-08-18T15:40:35.000Z",
+    "original": "Anthropic is #1 on “RevenueBench”, which is by far the most important benchmark!",
+    "translation": "Anthropic 在「RevenueBench」拿下第一名，這可是目前最重要的排行榜！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T02:02:34.028173+08:00",
+    "url": "https://x.com/elonmusk/status/2089739241114816671"
+  },
+  {
+    "id": "2089729629695234462",
+    "created_at": "2026-08-18T15:02:23.000Z",
+    "original": " \n\n“On the margin, Anthropic is losing share to OpenAI, to open source, and to Grok, and they're still growing so fast.”\n\nIf the $65b is correct, then someone leaked it to help Anthropic on their forthcoming IPO roadshow. Basically, they",
+    "translation": "「從邊際層面來看，Anthropic 的市佔正在被 OpenAI、開源社群和 Grok 慢慢吃掉，但他們還是長得很快。」\n\n如果 650 億美元這個數字是真的，那代表有人故意放風聲幫 Anthropic 在接下來的 IPO 路演上加分，基本上就是——",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQA2Bf4XIAApqhJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T02:02:49.078338+08:00",
+    "url": "https://x.com/elonmusk/status/2089729629695234462",
+    "original_truncated": true,
+    "polished_at": "2026-08-19T02:04:26.523712+08:00"
+  },
+  {
+    "id": "2089763268810203541",
+    "created_at": "2026-08-18T17:16:03.000Z",
+    "original": "[轉推僅顯示帳號名稱]",
+    "translation": "[轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T02:02:50.968373+08:00",
+    "url": "https://x.com/elonmusk/status/2089763268810203541",
+    "transcription_failed": true,
+    "polished_at": "2026-08-19T02:04:26.523712+08:00"
+  },
+  {
+    "id": "2089753439052202065",
+    "created_at": "2026-08-18T16:37:00.000Z",
+    "original": "A German court has ruled that 31-year-old Iraqi illegal migrant Muhammad A., who pushed 16-year-old Ukrainian refugee Liana K. in front of a freight train in Lower Saxony and killed her is not criminally responsible due to paranoid schizophrenia.\n\nInvestigators established that",
+    "translation": "德國法院裁定，31歲的伊拉克非法移民Muhammad A.在下薩克森邦將16歲的烏克蘭難民Liana K.推下貨運火車致其死亡，因患有妄想型精神分裂症而被判定不具刑事責任。調查人員證實⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQA95eGXUAA-zAe?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T02:02:57.176089+08:00",
+    "url": "https://x.com/elonmusk/status/2089753439052202065",
+    "original_truncated": true,
+    "polished_at": "2026-08-19T02:04:26.523712+08:00"
+  },
+  {
+    "id": "2089772733575938413",
+    "created_at": "2026-08-18T17:53:40.000Z",
+    "original": "Interesting",
+    "translation": "哦～有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T02:03:03.611930+08:00",
+    "url": "https://x.com/elonmusk/status/2089772733575938413"
+  },
+  {
+    "id": "2089657097244024858",
+    "created_at": "2026-08-18T10:14:10.000Z",
+    "original": "Everything you need to understand, set up, and get real work out of Grok Bot. It covers what a Bot actually is, how the shared computer works underneath, how it compares to Hermes Agent, and how to...",
+    "translation": "你需要知道的一切：怎麼搞懂、怎麼設定、怎麼讓 Grok Bot 真的幫你幹活。裡面會說清楚 Bot 到底是啥、底層那台共享電腦是怎麼跑的、跟 Hermes Agent 比起來差在哪，以及怎麼⋯⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HP_ympqagAA39PZ?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-19T02:03:10.227333+08:00",
+    "url": "https://x.com/elonmusk/status/2089657097244024858",
+    "original_truncated": true,
+    "polished_at": "2026-08-19T02:04:26.523712+08:00"
+  },
+  {
+    "id": "2089773038422098078",
+    "created_at": "2026-08-18T17:54:53.000Z",
+    "original": "Interesting",
+    "translation": "哦～有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T02:03:13.838972+08:00",
+    "url": "https://x.com/elonmusk/status/2089773038422098078"
+  },
+  {
+    "id": "2089676836619878567",
+    "created_at": "2026-08-18T11:32:36.000Z",
+    "original": "Every AI tool you have used so far waits for you. You open it, you ask, it answers, you close it. The work still happens in your hands - the model just talks you through it.\nFollow my Substack to get...",
+    "translation": "你用過的每一個 AI 工具都在等你。你打開它、問問題、它回答、然後你關掉。工作還是在你手上——模型只是陪你聊天而已。\n\n追蹤我的 Substack 獲得更多...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQAFqHeWUAAgmGM?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T02:03:21.373618+08:00",
+    "url": "https://x.com/elonmusk/status/2089676836619878567",
+    "original_truncated": true,
+    "polished_at": "2026-08-19T02:04:26.523712+08:00"
+  },
+  {
+    "id": "2089774470890238126",
+    "created_at": "2026-08-18T18:00:34.000Z",
+    "original": "The All-In Summit 2026 Featured Speakers:\n\nJensen Huang (",
+    "translation": "All-In 峰會 2026 重量級講者：\n\n黃仁勳 (Jensen Huang) (",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQBTC6gaYAElDHK?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T02:03:38.085843+08:00",
+    "url": "https://x.com/elonmusk/status/2089774470890238126"
+  },
+  {
     "id": "2089745945030193224",
     "created_at": "2026-08-18T16:07:13.000Z",
     "original": "https://zerohedge.com/technology/second-space-age-goldman-forecasts-18-trillion-space-economy-2035…",
