@@ -1,5 +1,65 @@
 [
   {
+    "id": "2089460002964594866",
+    "created_at": "2026-08-17T21:10:59.000Z",
+    "original": "Trying to do the right thing. \n\nI hope there is peace soon.",
+    "translation": "努力做對的事。希望和平快點來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T11:03:32.268280+08:00",
+    "url": "https://x.com/elonmusk/status/2089460002964594866"
+  },
+  {
+    "id": "2089367772023160871",
+    "created_at": "2026-08-17T15:04:30.000Z",
+    "original": "Elon Musk is prorably the most important tech person and entrepreneur in the world for our country. By shutting down Russia’s illegal use of Starlink on Ukrainian territory, ",
+    "translation": "Elon Musk 大概是我國最重要的科技人物和企業家了。透過關閉俄羅斯在烏克蘭領土上對 Starlink 的非法使用，——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T11:03:42.102044+08:00",
+    "url": "https://x.com/elonmusk/status/2089367772023160871",
+    "retried_at": "2026-08-18T03:02:00+00:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2089541319433572682",
+    "created_at": "2026-08-18T02:34:07.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-18T11:03:45.103612+08:00",
+    "url": "https://x.com/elonmusk/status/2089541319433572682"
+  },
+  {
+    "id": "2089487001061835217",
+    "created_at": "2026-08-17T22:58:16.000Z",
+    "original": "62% of young Americans like socialism.\n\nMost don’t know what socialism is.\n\nThey think China is successful socialism.\n\nChina is not socialist.\n\nChina is capitalist.\n\nWhen China was socialist, the Great Leap Forward killed upwards of 55 million.\n\nWe have a major education problem.",
+    "translation": "62% 的美國年輕人喜歡社會主義。\n\n大多數人壓根不知道社會主義是啥。\n\n他們覺得中國的社會主義很成功。\n\n但中國壓根不是社會主義。\n\n中國是資本主義。\n\n當年中國搞社會主義的時候，大躍進死了5500萬人。\n\n我們的教育有大問題。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HPuVbMuaoAA4CrC?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-18T11:03:51.984086+08:00",
+    "url": "https://x.com/elonmusk/status/2089487001061835217"
+  },
+  {
     "id": "2089500595224777127",
     "created_at": "2026-08-17T23:52:17.000Z",
     "original": "’s video and voice capabilities can do. We’re awarding $100K, $50K, and $25K to the top three videos submitted by quoting this post. ",
