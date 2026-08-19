@@ -1,5 +1,83 @@
 [
   {
+    "id": "2090084602006458766",
+    "created_at": "2026-08-19T14:32:55.000Z",
+    "original": "Very impressive",
+    "translation": "太強了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-20T00:02:10.090458+08:00",
+    "url": "https://x.com/elonmusk/status/2090084602006458766"
+  },
+  {
+    "id": "2090036081634787355",
+    "created_at": "2026-08-19T11:20:07.000Z",
+    "original": "On this day in 2004: Google went public at a valuation of $23 billion.\n\nToday, it’s worth $4.2 trillion.",
+    "translation": "2004年的今天：Google上市了，估值230億美元。\n\n現在呢？4.2兆美元。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQFMvaGWgAA1RUI?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-20T00:02:27.821756+08:00",
+    "url": "https://x.com/elonmusk/status/2090036081634787355"
+  },
+  {
+    "id": "2090101763399700963",
+    "created_at": "2026-08-19T15:41:07.000Z",
+    "original": "Playing Incognito",
+    "translation": "開無痕中",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQGIeahakAA0eML?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-20T00:02:43.647549+08:00",
+    "url": "https://x.com/elonmusk/status/2090101763399700963"
+  },
+  {
+    "id": "2090099808220627226",
+    "created_at": "2026-08-19T15:33:21.000Z",
+    "original": "https://x.ai/news/grok-4-6-amazon-bedrock…",
+    "translation": "連結：x.ai 新聞 — Grok 4.6 正式登上 Amazon Bedrock 平台",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-20T00:02:55.882264+08:00",
+    "url": "https://x.com/elonmusk/status/2090099808220627226",
+    "retried_at": "2026-08-20T00:05:00+08:00"
+  },
+  {
+    "id": "2090100092296659170",
+    "created_at": "2026-08-19T15:34:28.000Z",
+    "original": "Derek Chauvin was not convicted on the evidence. He was convicted out of fear of riots and sacrificed to appease the left-wing mob that was looking for trouble during the height of the COVID\n\nHis imprisonment remains one of the most shameful injustices in history, a wrong that ",
+    "translation": "德里克·肖文（Derek Chauvin）的定罪並非基於證據。他是被懼怕發生暴動的恐懼所逼，為了在COVID疫情高峰期間安撫尋釁的左翼暴徒而被犧牲的。\n\n他的監禁仍然是歷史上最可恥的不公之一，這是一個錯誤。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQFlzwlbEAEE-73?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-20T00:03:15.535953+08:00",
+    "url": "https://x.com/elonmusk/status/2090100092296659170",
+    "retried_at": "2026-08-20T00:04:46+08:00"
+  },
+  {
     "id": "2090094289246400952",
     "created_at": "2026-08-19T15:11:25.000Z",
     "original": "Starlink is now officially live on Lufthansa.\n\nHere’s a picture of Lufthansa Airlines CEO Jens Ritter activating the Starlink system at 10,000 meters during the inaugural flight.",
