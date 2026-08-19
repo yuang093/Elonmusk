@@ -1,5 +1,83 @@
 [
   {
+    "id": "2068410625504776456",
+    "created_at": "2026-06-20T19:08:16.000Z",
+    "original": "I’m from the future\nHow did you know?",
+    "translation": "我是從未來來的\n你怎麼知道的？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T15:03:21.410139+08:00",
+    "url": "https://x.com/elonmusk/status/2068410625504776456"
+  },
+  {
+    "id": "2089948774437458263",
+    "created_at": "2026-08-19T05:33:11.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T15:03:33.044128+08:00",
+    "url": "https://x.com/elonmusk/status/2089948774437458263",
+    "transcription_failed": true,
+    "polished_at": "2026-08-19T15:05:56+08:00"
+  },
+  {
+    "id": "2089900984013070536",
+    "created_at": "2026-08-19T02:23:17.000Z",
+    "original": "Average token costs have collapsed from a high of $2.07/mil tokens on May 28 to $1.02/mil tokens. Main drivers are price cuts to OpenAI's models and new open-source models from Kimi & DeepSeek (which tend to be several multiples cheaper than closed-source models).",
+    "translation": "平均 token 成本從 5 月 28 日最高的每百萬 tokens 2.07 美元暴跌至 1.02 美元。主要原因是 OpenAI 模型降價以及 Kimi 和 DeepSeek 推出的新開源模型（這些模型通常比閉源模型便宜好幾倍）。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQBOT4uW4AAc3Mj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T15:03:51.923117+08:00",
+    "url": "https://x.com/elonmusk/status/2089900984013070536",
+    "retried_at": "2026-08-19T15:05:56+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2089963186317565992",
+    "created_at": "2026-08-19T06:30:27.000Z",
+    "original": "9 of my favorite Grok Bot hacks.\nI have been getting my hands dirty with Grok Bot, and the default setup is only the starting point.\nCreating a few bots is easy. The useful part is teaching them your...",
+    "translation": "我最愛的 9 個 Grok Bot 密技。\n\n最近在玩 Grok Bot 玩得很過癮，預設設定只是個起點。\n\n建立幾個 Bot 不難，真正有用的部分在於教它們你的…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQDgOsUXMAAqcai?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T15:04:04.576641+08:00",
+    "url": "https://x.com/elonmusk/status/2089963186317565992"
+  },
+  {
+    "id": "2089968914596045178",
+    "created_at": "2026-08-19T06:53:13.000Z",
+    "original": "Elon Musk’s January 6 Moonshots podcast prediction of 100x gains in intelligence at a fixed model size was at the edge of plausibility when made, now it’s simply a fact. What next? x.com/hesamation/sta…",
+    "translation": "Elon Musk 在一月的 Moonshots podcast 預測模型大小不變的情況下智慧能提升 100 倍，那時候聽起來還有點天馬行空，現在根本就是事實了。那接下來呢？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T15:04:21.049047+08:00",
+    "url": "https://x.com/elonmusk/status/2089968914596045178"
+  },
+  {
     "id": "2089937984372228455",
     "created_at": "2026-08-19T04:50:19.000Z",
     "original": "Elon Musk",
