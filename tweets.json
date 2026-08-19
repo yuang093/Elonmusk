@@ -1,5 +1,84 @@
 [
   {
+    "id": "2089969639090758131",
+    "created_at": "2026-08-19T06:56:06.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T16:03:29.615047+08:00",
+    "url": "https://x.com/elonmusk/status/2089969639090758131",
+    "transcription_failed": true,
+    "polished_at": "2026-08-19T16:05:00+08:00"
+  },
+  {
+    "id": "2089964250894630960",
+    "created_at": "2026-08-19T06:34:41.000Z",
+    "original": "Grok as Gigachad, logo upgraded.",
+    "translation": "Grok直接變身Gigachad了，Logo也大升級。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQELaUfWgAAlzwY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T16:03:37.997534+08:00",
+    "url": "https://x.com/elonmusk/status/2089964250894630960"
+  },
+  {
+    "id": "2089976177813520582",
+    "created_at": "2026-08-19T07:22:05.000Z",
+    "original": "My 3-year-old son is named Seldon",
+    "translation": "我家3歲的臭小子叫Seldon",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T16:03:46.015500+08:00",
+    "url": "https://x.com/elonmusk/status/2089976177813520582"
+  },
+  {
+    "id": "2089936580924551388",
+    "created_at": "2026-08-19T04:44:44.000Z",
+    "original": "It seems that Elon has developed an early version of the mathematical science of Psychohistory.\n\nWhile the idea was invented by Isaac Asimov for his Foundation Series, maybe it reality someone like Elon can grok it. \n\nPsychohistory is a blend of sociology, history, and",
+    "translation": "看來Elon已經開發出心理史學這門數學科學的早期版本了。\n\n雖然這個概念是Isaac Asimov在《基地》系列小說中發明的，但或許現實中真的有人能grok它。\n\n心理史學是社會學、歷史學和——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQDyPaEaoAAxOaJ?format=jpg&name=240x240",
+      "https://pbs.twimg.com/media/HQDyPo6b0AAKzpm?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-19T16:03:56.520100+08:00",
+    "url": "https://x.com/elonmusk/status/2089936580924551388",
+    "retried_at": "2026-08-19T16:05:00+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2089977436066992413",
+    "created_at": "2026-08-19T07:27:05.000Z",
+    "original": "Bill Gates… where the fuck art thou?! x.com/wholemars/stat…",
+    "translation": "比爾蓋茲…你他媽到底跑哪去了？！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-19T16:04:15.839898+08:00",
+    "url": "https://x.com/elonmusk/status/2089977436066992413"
+  },
+  {
     "id": "2068410625504776456",
     "created_at": "2026-06-20T19:08:16.000Z",
     "original": "I’m from the future\nHow did you know?",
