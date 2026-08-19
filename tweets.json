@@ -1,5 +1,37 @@
 [
   {
+    "id": "2090113937127969180",
+    "created_at": "2026-08-19T16:29:29.000Z",
+    "original": "This entire SpaceX launch graphic was put together with Grok Build\n\nI wanted a visual showing all 100 SpaceX launches of 2026 so far\n\nGrok Build was able to pull together the exact date, mission and image for every single launch, organize all 100 chronologically, and then build ",
+    "translation": "這張SpaceX發射圖表全是用Grok Build生出來的\n\n想要一張視覺圖呈現2026年到目前為止的全部100次SpaceX發射\n\nGrok Build直接幫我抓了每次發射的精確日期、任務名稱和圖片，把100次全部按時間順序排好，然後生出來了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQGSLFMbEAI6qv7?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-20T01:02:56.302144+08:00",
+    "url": "https://x.com/elonmusk/status/2090113937127969180"
+  },
+  {
+    "id": "2090114905617928544",
+    "created_at": "2026-08-19T16:33:20.000Z",
+    "original": "\n\nMany Delta customers are complaining on 𝕏 and tagging the airline’s account, saying that Delta’s Wi-Fi is slow, unreliable, or sometimes doesn’t work at all.",
+    "translation": "很多Delta的乘客在𝕏上抱怨還標記航空公司帳號，都說Delta的Wi-Fi又慢又不穩，有時候根本用不了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQGNgRWaAAAivxp?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-20T01:03:13.660674+08:00",
+    "url": "https://x.com/elonmusk/status/2090114905617928544"
+  },
+  {
     "id": "2090084602006458766",
     "created_at": "2026-08-19T14:32:55.000Z",
     "original": "Very impressive",
