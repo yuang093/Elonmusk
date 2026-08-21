@@ -1,9 +1,253 @@
 [
   {
+    "id": "2090839925071782292",
+    "created_at": "2026-08-21T16:34:18.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T02:04:01.613925+08:00",
+    "url": "https://x.com/elonmusk/status/2090839925071782292",
+    "retried_at": "2026-08-22T02:07:17.349094+08:00"
+  },
+  {
+    "id": "2090817934608216383",
+    "created_at": "2026-08-21T15:06:55.000Z",
+    "original": "Prime Minister Andy Burnham said the government had \"a very clear principle that if you break UK law, you will be removed from the country\".\nHe said the number of removals of illegal immigrants from the UK \"are significantly up\" and that he was working to ensure that foreign",
+    "translation": "首相 Andy Burnham 表示，政府有「一個非常明確的原則」：如果你違反英國法律，就會被驅逐出境。他說，從英國驅逐非法移民的人數「大幅上升」，而且他正在努力確保外國…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQQTzs9XwAA-S5c?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T02:04:17.868966+08:00",
+    "url": "https://x.com/elonmusk/status/2090817934608216383"
+  },
+  {
+    "id": "2090853140543545636",
+    "created_at": "2026-08-21T17:26:49.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQQz2QZagAAIIwN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T02:04:30.016675+08:00",
+    "url": "https://x.com/elonmusk/status/2090853140543545636",
+    "retried_at": "2026-08-22T02:07:15.418346+08:00"
+  },
+  {
+    "id": "2090757722861912539",
+    "created_at": "2026-08-21T11:07:40.000Z",
+    "original": " (hcssfbtw). \nAlso comes with the title \"Grandmaster of the Tower\". Title is cool, halo meh IMO",
+    "translation": "(hcssfbtw)\n另外還附帶「塔的大師」這個稱號。稱號很酷，但光環就普普通通，我個人覺得啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQPcwwvX0AE5uUX?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-22T02:04:43.789166+08:00",
+    "url": "https://x.com/elonmusk/status/2090757722861912539"
+  },
+  {
+    "id": "2090853842552578523",
+    "created_at": "2026-08-21T17:29:36.000Z",
+    "original": "We're making Grok Bot more widely available.\n\nAll SuperGrok Plus, Cursor Pro+, and Cursor Teams subscribers now have access.\n\nWe're also offering a free trial with limited usage for all other users.",
+    "translation": "我們把 Grok Bot 開放給更多人玩啦！\n\n所有 SuperGrok Plus、Cursor Pro+ 和 Cursor Teams 的訂閱者現在都能用惹～\n\n其他用戶也別擔心，我們有提供限量使用的免費試用喔！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T02:05:01.501976+08:00",
+    "url": "https://x.com/elonmusk/status/2090853842552578523"
+  },
+  {
+    "id": "2090832379384590432",
+    "created_at": "2026-08-21T16:04:19.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:08:27.431481+08:00",
+    "url": "https://x.com/elonmusk/status/2090832379384590432",
+    "retried_at": "2026-08-22T02:07:15.498970+08:00"
+  },
+  {
+    "id": "2090679299762213219",
+    "created_at": "2026-08-21T05:56:02.000Z",
+    "original": "It takes a lot to really shock me. I get pissed off about horrible things, but they don’t really shock me. This does. This paper in the Journal of Medical Ethics draws a comparison between female genital mutilation and “gender affirming” surgeries — and uses the latter as",
+    "translation": "要讓我真正震驚很難。遇到可怕的事情我會生氣，但它們不會真的讓我震驚。這個會。這篇發表在《醫學倫理期刊》上的論文將女性割禮和「性別肯定」手術拿來做比較——然後用後者當作...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQOVvbmW4AAvIT9?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T01:08:42.335497+08:00",
+    "url": "https://x.com/elonmusk/status/2090679299762213219"
+  },
+  {
+    "id": "2090835231058333934",
+    "created_at": "2026-08-21T16:15:39.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:08:55.196948+08:00",
+    "url": "https://x.com/elonmusk/status/2090835231058333934",
+    "retried_at": "2026-08-22T02:07:18.491642+08:00"
+  },
+  {
+    "id": "2090820596632289384",
+    "created_at": "2026-08-21T15:17:30.000Z",
+    "original": "The United States Mission to Belgium condemns, in the strongest terms, Ghent University’s retaliation against an American scholar following his accurate whistleblower reporting on academic fraud.\n\nThe United States government regularly funds and supports research, academic",
+    "translation": "美國駐比利時代表團超級強烈譴責根特大學對一位美國學者的打擊報復——就因為他老老實實吹哨舉報了學術造假。\n\n美國政府長期資助與支持研究、學術...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:09:12.048133+08:00",
+    "url": "https://x.com/elonmusk/status/2090820596632289384"
+  },
+  {
+    "id": "2090836237854941445",
+    "created_at": "2026-08-21T16:19:39.000Z",
+    "original": "Again it happens",
+    "translation": "又來了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:09:25.295896+08:00",
+    "url": "https://x.com/elonmusk/status/2090836237854941445"
+  },
+  {
+    "id": "2090530196784906342",
+    "created_at": "2026-08-20T20:03:33.000Z",
+    "original": "BREAKING: Four men have been charged with raping schoolgirls in Kirklees, West Yorkshire\n\n3 of them are Muslim Pakistani migrants and one of them is described as 'white European'\n\nThe girls were just 14 years old",
+    "translation": "突發：四名男子在西約克郡柯克利斯被指控強姦女學生\n\n其中3人是穆斯林巴基斯坦移民主，1人被描述為「白",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQMN6iUW4AAc3TC?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-22T01:09:46.278390+08:00",
+    "url": "https://x.com/elonmusk/status/2090530196784906342"
+  },
+  {
+    "id": "2090837767991480385",
+    "created_at": "2026-08-21T16:25:44.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:09:58.273055+08:00",
+    "url": "https://x.com/elonmusk/status/2090837767991480385",
+    "retried_at": "2026-08-22T02:07:15.202686+08:00"
+  },
+  {
+    "id": "2090717619200336268",
+    "created_at": "2026-08-21T08:28:18.000Z",
+    "original": "Sad news from Italy. A 13-year-old girl on holiday near Venice with her family has been brutally r*ped by 3 migrants. She was found in a confused state, almost naked, unable to speak for one hour. She will be traumatised for a lifetime and may never recover from this ab*se. This",
+    "translation": "來自義大利的悲傷消息。一名13歲的女孩與家人在威尼斯附近度假時，遭到3名移民的殘忍性侵。她被發現時精神恍惚，幾乎赤裸，一個小時無法說話。她將終身受到創傷，可能永遠無法從這次虐待中恢復過來。這",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:10:12.494837+08:00",
+    "url": "https://x.com/elonmusk/status/2090717619200336268",
+    "retried_at": "2026-08-22T02:05:50+08:00"
+  },
+  {
+    "id": "2090838266983719001",
+    "created_at": "2026-08-21T16:27:43.000Z",
+    "original": "https://x.com/i/broadcasts/1oKMvNQVqmkGQ…",
+    "translation": "這只是個連結，沒有實際內容可以翻譯。請提供推文的文字內容。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T01:10:25.455888+08:00",
+    "url": "https://x.com/elonmusk/status/2090838266983719001"
+  },
+  {
+    "id": "2090839546686767400",
+    "created_at": "2026-08-21T16:32:48.000Z",
+    "original": " keeps improving the agent workflow, with this release focused heavily on subagents, workflows, and smoother multitasking.\n\nMost important changes:\n• Concurrent subagents now start much faster and no longer freeze the parent session\n• Opening",
+    "translation": "持續優化代理工作流程，這次更新主要著重在子代理、工作流程和更順暢的多工處理。\n\n最重要的變化：\n• 並發子代理現在啟動快多了，不再卡死父工作階段\n• 開啟",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQPr-wZXIAAFpjX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T01:10:40.738624+08:00",
+    "url": "https://x.com/elonmusk/status/2090839546686767400"
+  },
+  {
+    "id": "2090840497338425739",
+    "created_at": "2026-08-21T16:36:35.000Z",
+    "original": "Grok 4.6 just took the #1 spot on CursorBench 3.2.....and the efficiency is insane\n\nHere's the cost comparison:\n• Grok 4.6 Extra High — 70.8% | $2.81/task\n• Fable 5 Max — 70.5% | $17.32/task\n• Opus 5 Max — 70.0% | $8.23/task\n• GPT-5.6 Sol Max — 67.2% | $5.69/task\n\nGrok",
+    "translation": "Grok 4.6 直接空降 CursorBench 3.2 第一名.....效率也太扯了吧\n\n成本比較：\n• Grok 4.6 Extra High — 70.8% | $2.81/任務\n• Fable 5 Max — 70.5% | $17.32/任務\n• Opus 5 Max — 70.0% | $8.23/任務\n• GPT-5.6 Sol Max — 67.2% | $5.69/任務\n\nGrok",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQQlbNxXUAAd8gA?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T01:10:55.855658+08:00",
+    "url": "https://x.com/elonmusk/status/2090840497338425739"
+  },
+  {
     "id": "2090660184054268305",
     "created_at": "2026-08-21T04:40:05.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -11,7 +255,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-08-22T00:07:56.470670+08:00",
-    "url": "https://x.com/elonmusk/status/2090660184054268305"
+    "url": "https://x.com/elonmusk/status/2090660184054268305",
+    "retried_at": "2026-08-22T02:02:40.708689+08:00"
   },
   {
     "id": "2090622122209182108",
@@ -31,7 +276,7 @@
     "id": "2090831787362865222",
     "created_at": "2026-08-21T16:01:58.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -39,7 +284,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-08-22T00:08:21.524832+08:00",
-    "url": "https://x.com/elonmusk/status/2090831787362865222"
+    "url": "https://x.com/elonmusk/status/2090831787362865222",
+    "retried_at": "2026-08-22T02:02:41.813049+08:00"
   },
   {
     "id": "2090514132550193512",
@@ -61,7 +307,7 @@
     "id": "2090634035106386183",
     "created_at": "2026-08-21T02:56:10.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -69,7 +315,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-08-22T00:02:34.416959+08:00",
-    "url": "https://x.com/elonmusk/status/2090634035106386183"
+    "url": "https://x.com/elonmusk/status/2090634035106386183",
+    "retried_at": "2026-08-22T02:02:40.731303+08:00"
   },
   {
     "id": "2090629999225098515",
@@ -90,7 +337,7 @@
     "id": "2090646515719213357",
     "created_at": "2026-08-21T03:45:46.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -98,7 +345,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-08-22T00:03:09.783089+08:00",
-    "url": "https://x.com/elonmusk/status/2090646515719213357"
+    "url": "https://x.com/elonmusk/status/2090646515719213357",
+    "retried_at": "2026-08-22T02:02:40.563974+08:00"
   },
   {
     "id": "2090641815401607507",
