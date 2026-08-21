@@ -1,5 +1,49 @@
 [
   {
+    "id": "2090619522478973257",
+    "created_at": "2026-08-21T01:58:30.000Z",
+    "original": "He was right",
+    "translation": "他是對的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-21T11:02:50.370477+08:00",
+    "url": "https://x.com/elonmusk/status/2090619522478973257"
+  },
+  {
+    "id": "2090518839792443682",
+    "created_at": "2026-08-20T19:18:26.000Z",
+    "original": "Novak Djokovic in his documentary on why he refused the COVID vaccine:\n\n\"Because I didn't need it. Why should I get the vaccine? I'm healthy, I'm an athlete. I had corona. I had immunity. I wasn't a threat to anyone. There was no reason for me to get vaccinated. It's my freedom",
+    "translation": "Djokovic 在他的紀錄片裡說他為啥不打 COVID 疫苗：\n\n「因為我不需要啊。我為啥要打疫苗？我很健康欸，我是運動員欸。我確診過了。我有免疫力了。我也不會傳給任何人。根本沒理由要我打疫苗。這是我的自由。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQJ8EWlaoAANEXu?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-21T11:02:59.867284+08:00",
+    "url": "https://x.com/elonmusk/status/2090518839792443682"
+  },
+  {
+    "id": "2090628549745291611",
+    "created_at": "2026-08-21T02:34:22.000Z",
+    "original": "Two really good reasons to buy the Model Y\n1. It's fun to drive\n2. FSD is the real deal",
+    "translation": "買 Model Y 的兩大理由：\n1. 開起來超爽\n2. FSD 是真的香",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-21T11:03:09.684698+08:00",
+    "url": "https://x.com/elonmusk/status/2090628549745291611"
+  },
+  {
     "id": "2090616833900777896",
     "created_at": "2026-08-21T01:47:49.000Z",
     "original": "It’s probably no surprise that I am",
