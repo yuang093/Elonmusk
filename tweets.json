@@ -1,5 +1,63 @@
 [
   {
+    "id": "2090660184054268305",
+    "created_at": "2026-08-21T04:40:05.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T00:07:56.470670+08:00",
+    "url": "https://x.com/elonmusk/status/2090660184054268305"
+  },
+  {
+    "id": "2090622122209182108",
+    "created_at": "2026-08-21T02:08:50.000Z",
+    "original": "Seemed like a hell of a lot at the time.",
+    "translation": "那時候真的覺得超多的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T00:08:09.211940+08:00",
+    "url": "https://x.com/elonmusk/status/2090622122209182108"
+  },
+  {
+    "id": "2090831787362865222",
+    "created_at": "2026-08-21T16:01:58.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T00:08:21.524832+08:00",
+    "url": "https://x.com/elonmusk/status/2090831787362865222"
+  },
+  {
+    "id": "2090514132550193512",
+    "created_at": "2026-08-20T18:59:43.000Z",
+    "original": "~50% of liberal women under 30 say they have a mental health condition. (Pew Research)",
+    "translation": "~50% 的 30 歲以下自由派女性表示自己有心理健康問題。（皮尤研究中心）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQL_hgLWkAAESjT?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T00:08:35.798653+08:00",
+    "url": "https://x.com/elonmusk/status/2090514132550193512"
+  },
+  {
     "id": "2090634035106386183",
     "created_at": "2026-08-21T02:56:10.000Z",
     "original": "Elon Musk",
