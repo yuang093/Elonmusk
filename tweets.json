@@ -1,5 +1,97 @@
 [
   {
+    "id": "2090551115557273781",
+    "created_at": "2026-08-20T21:26:41.000Z",
+    "original": "This is true everywhere on Earth",
+    "translation": "這地球哪兒都這樣",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-21T08:02:43.305806+08:00",
+    "url": "https://x.com/elonmusk/status/2090551115557273781"
+  },
+  {
+    "id": "2090541175090343978",
+    "created_at": "2026-08-20T20:47:11.000Z",
+    "original": "An absolutely wild fertility gradient across Iran.\n\nThe educated and higher income areas around Tehran have a fertility rate of under 1.0. Meanwhile, the tribal regions bordering Pakistan have a fertility rate more than three times higher.\n\nWhat does this mean for Iran's future?",
+    "translation": "伊朗的生育率差異簡直瘋了。\n\n德黑蘭周邊受教育程度高、收入高的地區，生育率不到1.0。\n\n而與巴基斯坦接壤的部落地區，生育率是其三倍多。\n\n這對伊朗的未來意味著什麼？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQMPys5W8AAfG1c?format=png&name=360x360",
+      "https://pbs.twimg.com/media/HQMPzgyXsAAow61?format=png&name=360x360",
+      "https://pbs.twimg.com/media/HQL7gOyX0AApgqr?format=png&name=120x120"
+    ],
+    "fetched_at": "2026-08-21T08:03:02.279935+08:00",
+    "url": "https://x.com/elonmusk/status/2090541175090343978"
+  },
+  {
+    "id": "2090586849366417757",
+    "created_at": "2026-08-20T23:48:40.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-21T08:03:14.369713+08:00",
+    "url": "https://x.com/elonmusk/status/2090586849366417757"
+  },
+  {
+    "id": "2090246498751545494",
+    "created_at": "2026-08-20T01:16:14.000Z",
+    "original": "My video on Ireland’s Immigrant Invasion is BANNED in Ireland ",
+    "translation": "我那支關於愛爾蘭「移民入侵」的影片在愛爾蘭被 BANNED 了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQIMGrNXMAAO47L?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-21T08:03:32.398182+08:00",
+    "url": "https://x.com/elonmusk/status/2090246498751545494"
+  },
+  {
+    "id": "2090587728953909385",
+    "created_at": "2026-08-20T23:52:10.000Z",
+    "original": "Interesting",
+    "translation": "有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-21T08:03:48.914038+08:00",
+    "url": "https://x.com/elonmusk/status/2090587728953909385"
+  },
+  {
+    "id": "2090514515129520516",
+    "created_at": "2026-08-20T19:01:14.000Z",
+    "original": "I have a good theory about this now.\nThe Phenomenon of Policy Churn https://arxiv.org/pdf/2206.00730\nThe classic exploration method in RL is “epsilon greedy”, where the agent normally takes the “greedy” action...",
+    "translation": "現在我對這件事有個不錯的理論了。\nPolicy Churn 現象 https://arxiv.org/pdf/2206.00730\nRL 裡經典的探索方法叫做「epsilon greedy」，就是 agent 大部分時候都選那個「greedy」的 action...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQL_JxeXIAAbcCX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-21T08:04:07.417581+08:00",
+    "url": "https://x.com/elonmusk/status/2090514515129520516"
+  },
+  {
     "id": "2090560905746473398",
     "created_at": "2026-08-20T22:05:35.000Z",
     "original": "This is the easiest way to get started with Grok Build. Just go to ",
