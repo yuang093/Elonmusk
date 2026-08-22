@@ -1,5 +1,47 @@
 [
   {
+    "id": "2091210522763088089",
+    "created_at": "2026-08-22T17:06:56.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk（馬斯克）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-23T07:02:18.229297+08:00",
+    "url": "https://x.com/elonmusk/status/2091210522763088089"
+  },
+  {
+    "id": "2091210160177893669",
+    "created_at": "2026-08-22T17:05:29.000Z",
+    "original": "The bigger problem is votes being cast by mail for people who rarely or never vote.",
+    "translation": "更大的問題是，那些平常根本懶得投票的人，反而用郵寄投票的方式投了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-23T07:02:31.207346+08:00",
+    "url": "https://x.com/elonmusk/status/2091210160177893669"
+  },
+  {
+    "id": "2091230104559181891",
+    "created_at": "2026-08-22T18:24:44.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-23T07:02:45.531245+08:00",
+    "url": "https://x.com/elonmusk/status/2091230104559181891"
+  },
+  {
     "id": "2091013974838133075",
     "created_at": "2026-08-22T04:05:55.000Z",
     "original": "Anyone who says this is an affordable housing crisis is lying to you.",
