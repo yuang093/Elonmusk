@@ -1,5 +1,49 @@
 [
   {
+    "id": "2091194130206736761",
+    "created_at": "2026-08-22T16:01:47.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-23T01:07:54.063108+08:00",
+    "url": "https://x.com/elonmusk/status/2091194130206736761"
+  },
+  {
+    "id": "2091123500077780996",
+    "created_at": "2026-08-22T11:21:08.000Z",
+    "original": "I was on a long road trip when I pulled off the freeway to get a Subway sandwich in what turned out to be the hood.\n\nAs I walked across the parking lot, a Black teen hit me over the head with a gun & knocked me unconscious.\n\nAs I regained consciousness I saw him running off with",
+    "translation": "我在長途公路旅行的途中，從高速公路開下來想買個Subway三明治，結果發現那是個黑人社區。\n\n當我走過停車場的時候，一個黑人少年用槍敲了我的頭，把我打暈了。\n\n當我恢復意識的時候，我看到他拿著_____跑掉了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQUpvOxaMAAjuVc?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-23T01:08:12.102562+08:00",
+    "url": "https://x.com/elonmusk/status/2091123500077780996"
+  },
+  {
+    "id": "2091205457931374792",
+    "created_at": "2026-08-22T16:46:48.000Z",
+    "original": "It never has been",
+    "translation": "從來都不是",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-23T01:08:15.624673+08:00",
+    "url": "https://x.com/elonmusk/status/2091205457931374792"
+  },
+  {
     "id": "2091009679178735700",
     "created_at": "2026-08-22T03:48:51.000Z",
     "original": "Elon Musk",
