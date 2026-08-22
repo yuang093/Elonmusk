@@ -1,5 +1,49 @@
 [
   {
+    "id": "2090918895137792313",
+    "created_at": "2026-08-21T21:48:06.000Z",
+    "original": "Elon, have you ever seen Rachel Maddow and Mark Cuban in the same room together ",
+    "translation": "Elon，你到底有沒有在同一個房間同時見過 Rachel Maddow 跟 Mark Cuban 啊？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQRvp4iXoAAdDXd?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-22T08:03:21.024467+08:00",
+    "url": "https://x.com/elonmusk/status/2090918895137792313"
+  },
+  {
+    "id": "2090947136250896526",
+    "created_at": "2026-08-21T23:40:19.000Z",
+    "original": "Elon Musk: \"Asylum was supposed to mean that if you go back to your country, you'll get k*lled.\"\n\n\"Asylum seekers [now] go on vacation to the country that they're seeking asylum from… That doesn't make any sense.\"",
+    "translation": "Elon Musk：「庇護本來的意思是這樣的——你回國就會被幹掉。」\n\n「現在那些尋求庇護的人居然跑去他們尋求庇護的國家度假…這根本說不通啊。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T08:03:38.689093+08:00",
+    "url": "https://x.com/elonmusk/status/2090947136250896526"
+  },
+  {
+    "id": "2090950876425080851",
+    "created_at": "2026-08-21T23:55:11.000Z",
+    "original": "I am going to start to share the leaderboard at VulcanBench more regularly.\n\nVulcanBench is the only benchmark I know that benchmarks across effort levels, on an eval suite of 100% real engineering tasks.\n\nGetting ready to sunset eval suite 3 and eval suite 4 is almost ready to x.com/VulcanBench/st…",
+    "translation": "我要開始更頻繁地在 VulcanBench 上分享排行榜了。\n\nVulcanBench 是我知道的唯一一個跨難度等級評測的基準測試，而且題目 100% 都是真實的工程任務。\n\n準備要停用 eval suite 3 了，eval suite 4 也快準備好了，詳情看 x.com/VulcanBench/st…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-22T08:03:55.093866+08:00",
+    "url": "https://x.com/elonmusk/status/2090950876425080851"
+  },
+  {
     "id": "2090917877947977802",
     "created_at": "2026-08-21T21:44:04.000Z",
     "original": "Cuban seriously looks like a butch lesbian",
