@@ -1,5 +1,73 @@
 [
   {
+    "id": "2091591712833753456",
+    "created_at": "2026-08-23T18:21:38.000Z",
+    "original": " makes it even more powerful and easier to use.\n\nThis is the fidelity using the same prompt: “Explain Navier-Stokes equation and how it relates to airfoil design with actual fluid dynamics simulation.” ",
+    "translation": "讓它變得更猛、更好用了\n\n這是用同樣 prompt 的逼真度：「Explain Navier-Stokes equation",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQbA3gFbYAAd2RL?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-24T03:02:39.560969+08:00",
+    "url": "https://x.com/elonmusk/status/2091591712833753456",
+    "original_truncated": true,
+    "retried_at": "2026-08-24T03:03:52.542215+08:00"
+  },
+  {
+    "id": "2091592267496907239",
+    "created_at": "2026-08-23T18:23:51.000Z",
+    "original": "Rome handed out free grain to 40,000 citizens in 73 BC. By 46 BC, Julius Caesar found 320,000 people lining up for their monthly ration. That eight-fold expansion happened in under three decades, and it shows you how welfare states actually grow.\n\nNo Roman senator stood up and",
+    "translation": "羅馬在西元前73年向40,000名公民發放免費穀物。到了西元前46年，尤利烏斯·凱撒發現有320,000人在排隊領每月配給。這八倍的膨脹在不到三十年間發生，告訴你福利國家到底是怎麼長大的。\n\n結果沒有任何一個羅馬元老院議員站出來大喊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQaALafWwAApz5h?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-24T03:02:49.589026+08:00",
+    "url": "https://x.com/elonmusk/status/2091592267496907239",
+    "original_truncated": true,
+    "retried_at": "2026-08-24T03:03:52.542215+08:00"
+  },
+  {
+    "id": "2091569791492575389",
+    "created_at": "2026-08-23T16:54:32.000Z",
+    "original": "Elon Musk",
+    "translation": "[內容抓取失敗 — 轉推僅顯示帳號名稱]",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T02:08:20.137372+08:00",
+    "url": "https://x.com/elonmusk/status/2091569791492575389",
+    "transcription_failed": true,
+    "retried_at": "2026-08-24T03:03:52.542215+08:00"
+  },
+  {
+    "id": "2091358377456934994",
+    "created_at": "2026-08-23T02:54:27.000Z",
+    "original": "He who looks to the stars ",
+    "translation": "仰望星辰的人",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQX_WPQbsAEEdWW?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-24T02:08:29.130958+08:00",
+    "url": "https://x.com/elonmusk/status/2091358377456934994"
+  },
+  {
     "id": "2091473793659424870",
     "created_at": "2026-08-23T10:33:04.000Z",
     "original": "Elon Musk",
