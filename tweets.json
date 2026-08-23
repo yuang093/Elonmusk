@@ -1,5 +1,65 @@
 [
   {
+    "id": "2091587288522502412",
+    "created_at": "2026-08-23T18:04:04.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T05:02:14.398280+08:00",
+    "url": "https://x.com/elonmusk/status/2091587288522502412"
+  },
+  {
+    "id": "2091557624571715751",
+    "created_at": "2026-08-23T16:06:11.000Z",
+    "original": "You cannot both believe in evolution and believe that eugenics wouldn’t work. You can object to it on moral grounds, but not factual grounds. Dawkins was right about this.",
+    "translation": "你不能一邊相信演化論，一邊又相信優生學不會有效。你當然可以用道德理由反對它，但不能用事實理由反對。Dawkins 在這點上是對的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQa0k0QbAAADS4k?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-24T05:02:16.708607+08:00",
+    "url": "https://x.com/elonmusk/status/2091557624571715751"
+  },
+  {
+    "id": "2091625211376603480",
+    "created_at": "2026-08-23T20:34:45.000Z",
+    "original": "Did you know Elon Musk was weirdly \"predicted\" in a Wernher von Braun book nearly 80 years ago?\n\nIn his 1948 novel *Project Mars*, von Braun describes a future Martian government led by a figure called the \"Elon.\" It's not a person's name, but a title for the head of government.",
+    "translation": "你知道嗎，Elon Musk 居然在快 80 年前、Wernher von Braun 的書裡被「預言」了？\n\n在他 1948 年的小說《Project Mars》裡，von Braun 描繪了一個火星政府，領導者叫「Elon」。不過這不是人名，而是政府首腦的頭銜。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQbjU8FWEAAEjJ3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-24T05:02:23.879111+08:00",
+    "url": "https://x.com/elonmusk/status/2091625211376603480"
+  },
+  {
+    "id": "2091617925669245333",
+    "created_at": "2026-08-23T20:05:48.000Z",
+    "original": "This is why I switched Starship to stainless steel. \n\nWe have since created our own new alloys and no longer use 301.",
+    "translation": "這就是為什麼我把 Starship 改用不鏽鋼的原因。\n\n後來我們自己研發了新的合金，不再用 301 了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T04:07:43.372482+08:00",
+    "url": "https://x.com/elonmusk/status/2091617925669245333"
+  },
+  {
     "id": "2091591712833753456",
     "created_at": "2026-08-23T18:21:38.000Z",
     "original": " makes it even more powerful and easier to use.\n\nThis is the fidelity using the same prompt: “Explain Navier-Stokes equation and how it relates to airfoil design with actual fluid dynamics simulation.” ",
