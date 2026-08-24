@@ -1,5 +1,79 @@
 [
   {
+    "id": "2091647398686953915",
+    "created_at": "2026-08-23T22:02:55.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T11:03:01.146599+08:00",
+    "url": "https://x.com/elonmusk/status/2091647398686953915"
+  },
+  {
+    "id": "2091603163493068861",
+    "created_at": "2026-08-23T19:07:08.000Z",
+    "original": "AI adoption is sooooo much slower in most companies than you would expect it is reading X",
+    "translation": "現實中大部分公司採用AI的速度，比你在X上看到大家吹的還要慢超多 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T11:03:12.716201+08:00",
+    "url": "https://x.com/elonmusk/status/2091603163493068861"
+  },
+  {
+    "id": "2091711488490893453",
+    "created_at": "2026-08-24T02:17:35.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T11:03:19.726638+08:00",
+    "url": "https://x.com/elonmusk/status/2091711488490893453"
+  },
+  {
+    "id": "2091690637288784018",
+    "created_at": "2026-08-24T00:54:44.000Z",
+    "original": "This chart really scares the hell out of me\nyou can see how dramatically U.S. birth rates have fallen in just a few decades… and they’re still falling\n\nIf this continues, we’re heading toward a place with far fewer children and young people, and an increasingly old",
+    "translation": "這張圖真的把我嚇死\n可以看到美國出生率在短短幾十年間急遽下滑...而且還在持續下降\n\n如果繼續這樣下去，我們將會走向一個年輕人越來越少、老年人口越來越多的局面",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQcGOHFXUAAmgTG?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-24T11:03:32.942009+08:00",
+    "url": "https://x.com/elonmusk/status/2091690637288784018"
+  },
+  {
+    "id": "2091711928523723176",
+    "created_at": "2026-08-24T02:19:20.000Z",
+    "original": "Unless rectified quickly, most of the US, Europe, and Asia will go extinct \n\nThis is a true existential risk ",
+    "translation": "除非盡快修復，不然美國、歐洲還有亞洲大部分地方都會GG\n\n這是真正的存在性風險",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQcoxvQbIAA5RhT?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-24T11:03:45.930271+08:00",
+    "url": "https://x.com/elonmusk/status/2091711928523723176"
+  },
+  {
     "id": "2091625922894119302",
     "created_at": "2026-08-23T20:37:35.000Z",
     "original": "Elon Musk",
