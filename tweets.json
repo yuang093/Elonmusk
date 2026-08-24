@@ -1,5 +1,35 @@
 [
   {
+    "id": "2091996794419060905",
+    "created_at": "2026-08-24T21:11:17.000Z",
+    "original": "At Starlink, we’re using Grok Voice to resolve over 15,000 inbound customer support and sales calls a day.\n\nGrok diagnoses hardware issues, ships replacements, and fulfills over 3,000 orders a week across voice calls and chat.",
+    "translation": "在Starlink，我們用Grok Voice每天處理超過15,000通客服和銷售的來電。\n\nGrok可以診斷硬體問題、寄出替換品，每週透過語音和文字客服完成3,000多筆訂單。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T06:04:00.622490+08:00",
+    "url": "https://x.com/elonmusk/status/2091996794419060905"
+  },
+  {
+    "id": "2091995019674787960",
+    "created_at": "2026-08-24T21:04:14.000Z",
+    "original": "this is the real problem\n\nmost people just don't realize the scale of the fertility collapse.\npopulation pyramid inversion in almost all countries and old people massively outnumbering kids is THE cataclysm\n\nyou won't see the tsunami coming or the meteor in the sky or people ",
+    "translation": "這才是真正的問題\n\n大多數人根本沒意識到生育率崩潰的規模有多大\n幾乎所有國家人口金字塔都翻轉了，老人遠遠多於小孩，這才是大災難\n\n你不會看到海嘯來襲、天空中的流星，或是人們...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQgxL2wXgAAiQYe?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-25T05:08:22.130643+08:00",
+    "url": "https://x.com/elonmusk/status/2091995019674787960"
+  },
+  {
     "id": "2091993370055115129",
     "created_at": "2026-08-24T20:57:41.000Z",
     "original": "Grok Voice Think Fast 2.0 is now #1 on the Artificial Analysis Speech-to-Speech Index.\n\nThis index measures whether voice agents can reason over the speech it hears, resolve real customer issues, and correctly complete tasks using agent tools.",
