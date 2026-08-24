@@ -1,5 +1,47 @@
 [
   {
+    "id": "2091712495765619100",
+    "created_at": "2026-08-24T02:21:35.000Z",
+    "original": "Interesting",
+    "translation": "有趣欸",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T00:02:47.493203+08:00",
+    "url": "https://x.com/elonmusk/status/2091712495765619100"
+  },
+  {
+    "id": "2091618684603105717",
+    "created_at": "2026-08-23T20:08:49.000Z",
+    "original": "Every accelerator company, and I mean every accelerator company, is likely going to do some variant of 3D DRAM or the “zHBM” which were both discussed at HotChips today.\n\nThe larger companies will probably run (are running) parallel programs, but these two memory variants",
+    "translation": "每一家加速器公司，我是說真的每一家加速器公司，大概都會搞點什麼3D DRAM的變體版本，或是那個叫「zHBM」的東西——這兩個今天在HotChips上都有被討論到。\n\n大公司可能會（現在也正在）跑平行計畫啦，但這兩種記憶體變體",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T00:02:53.013312+08:00",
+    "url": "https://x.com/elonmusk/status/2091618684603105717"
+  },
+  {
+    "id": "2091909363443343434",
+    "created_at": "2026-08-24T15:23:52.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T00:02:54.219484+08:00",
+    "url": "https://x.com/elonmusk/status/2091909363443343434"
+  },
+  {
     "id": "2091873571031372003",
     "created_at": "2026-08-24T13:01:39.000Z",
     "original": "ex-Apple engineer gave Grok 4.6 two jobs inside Cursor, went to sleep, and opened the results live the next morning:\n\nno babysitting, no checking every generation, just a model left running on real work for hours.\n\n• ",
