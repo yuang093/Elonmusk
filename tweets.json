@@ -1,5 +1,19 @@
 [
   {
+    "id": "2091873571031372003",
+    "created_at": "2026-08-24T13:01:39.000Z",
+    "original": "ex-Apple engineer gave Grok 4.6 two jobs inside Cursor, went to sleep, and opened the results live the next morning:\n\nno babysitting, no checking every generation, just a model left running on real work for hours.\n\n• ",
+    "translation": "前蘋果工程師給 Grok 4.6 在 Cursor 裡交代了兩個任務，然後去睡覺，第二天早上起床直接看結果：\n\n不用盯著、不用每生成一次就檢查一次，就是讓模型自己跑了好幾個小時的真實工作。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-24T21:07:51.308651+08:00",
+    "url": "https://x.com/elonmusk/status/2091873571031372003"
+  },
+  {
     "id": "2091647398686953915",
     "created_at": "2026-08-23T22:02:55.000Z",
     "original": "Elon Musk",
