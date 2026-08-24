@@ -1,5 +1,66 @@
 [
   {
+    "id": "2091948001904447998",
+    "created_at": "2026-08-24T17:57:24.000Z",
+    "original": "Shanghai is a great city. Highly recommend visiting.",
+    "translation": "上海這城市很讚，強推大家去走走！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T03:02:26.334017+08:00",
+    "url": "https://x.com/elonmusk/status/2091948001904447998"
+  },
+  {
+    "id": "2091946875888742905",
+    "created_at": "2026-08-24T17:52:56.000Z",
+    "original": "Second day in Shanghai. Shopping. Dining. View.",
+    "translation": "上海第二天，逛街、吃美食、賞景。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQgWk04W0AA8GtY?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HQgWk02XIAA2SNl?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HQgWk01WkAAKdpE?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HQgWk03XIAAaEig?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-25T03:02:30.078185+08:00",
+    "url": "https://x.com/elonmusk/status/2091946875888742905"
+  },
+  {
+    "id": "2091962460630892733",
+    "created_at": "2026-08-24T18:54:52.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T03:02:32.792634+08:00",
+    "url": "https://x.com/elonmusk/status/2091962460630892733"
+  },
+  {
+    "id": "2091957536874451173",
+    "created_at": "2026-08-24T18:35:18.000Z",
+    "original": "Singapore just went all in on birth rates\nFertility fell to a record-low 0.87 in 2025. Birth rates have fallen seriously low\n\nThat’s not just a dip. That’s a whole country nowhere near replacing itself. It's a massive problem for the country\n\nSo Singapore is going directly after",
+    "translation": "新加坡直接梭哈生育率了\n2025年生育率掉到歷史新低的0.87。出生率真的跌很慘\n\n這不是什麼小波動，是整個國家完全沒有在補充人口的。是個超級大問題\n\n所以新加坡準備直接出手了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-25T03:02:36.923531+08:00",
+    "url": "https://x.com/elonmusk/status/2091957536874451173"
+  },
+  {
     "id": "2091879872373157963",
     "created_at": "2026-08-24T13:26:41.000Z",
     "original": "@Tyrants_Fall",
