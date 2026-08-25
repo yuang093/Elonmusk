@@ -1,5 +1,21 @@
 [
   {
+    "id": "2091968024370897102",
+    "created_at": "2026-08-24T19:16:58.000Z",
+    "original": "Grok Bot makes clipping YouTube podcasts ridiculously easy.\n\nI just send it a link and say:\n\n“Cut from 16:43 to 18:17.”\n\nA few minutes later, the exact HD clip is ready in the chat.\n\nMy Clipper bot has already sent it to my Researcher and Writer bots, which pull the best quotes",
+    "translation": "Grok Bot 讓剪 YouTube 播客變得超級簡單。\n\n我只要丟個連結給它，然後說：\n\n「幫我剪 16:43 到 18:17。」\n\n過幾分鐘，HD 片段就 ready 在聊天框了。\n\n我的 Clipper Bot 已經自動傳給 Researcher 和 Writer Bot，它們會自動抓出最佳金句",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQgosvKbMAAsLMF?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-25T09:03:01.198440+08:00",
+    "url": "https://x.com/elonmusk/status/2091968024370897102"
+  },
+  {
     "id": "2092038808607084868",
     "created_at": "2026-08-24T23:58:14.000Z",
     "original": "Grok Bot is insane.\n\nI asked it to find every video where Dr. Roger Seheult discusses sunlight, red light, infrared light, and mitochondria, including MedCram videos and interviews with Andrew Huberman, Eric Berg, Steven Bartlett, and others.\n\nA few minutes later it had:\n\n•",
