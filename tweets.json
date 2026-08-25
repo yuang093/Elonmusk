@@ -1,5 +1,52 @@
 [
   {
+    "id": "2092293363215282202",
+    "created_at": "2026-08-25T16:49:45.000Z",
+    "original": "SpaceX has just officially announced Starbase, Louisiana, a new $100+ billion spaceport in South Louisiana near Pecan Island.\n \nConstruction starts in 2027, with the first Starship launch from the new site planned for 2029.\n\nStarbase, Louisiana will be built to support thousands",
+    "translation": "SpaceX 剛正式宣布了 Starbase, Louisiana～一個造價超過 1000 億美元的超大型太空港，位於路易斯安那州南部、離 Pecan Island 不遠的地方。\n\n2027 年動工，預計 2029 年從這裡進行第一次 Starship 發射。Starbase, Louisiana 的設計是要能容納數千⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQlJ01PXYAEzWIA?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQlJ4IqWkAASLCm?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQlJ7aQWcAAaNqv?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQlJ80PXIAAXV3-?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-26T01:01:21.874735+08:00",
+    "url": "https://x.com/elonmusk/status/2092293363215282202"
+  },
+  {
+    "id": "2092293898790129971",
+    "created_at": "2026-08-25T16:51:53.000Z",
+    "original": "As Elon Musk says, the future should look like the future.",
+    "translation": "就像馬斯克說的，未來就應該長得像未來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-26T01:01:23.762067+08:00",
+    "url": "https://x.com/elonmusk/status/2092293898790129971"
+  },
+  {
+    "id": "2092292773915537580",
+    "created_at": "2026-08-25T16:47:24.000Z",
+    "original": "Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth! \n\nSpaceX makes sci-fi real.",
+    "translation": "星際基地路易斯安那最終會有十幾座發射塔，每天能執行30多次星艦飛行，直接成為地球上最大的發射場！\n\nSpaceX就是把科幻變成現實。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-26T01:01:30.490872+08:00",
+    "url": "https://x.com/elonmusk/status/2092292773915537580"
+  },
+  {
     "id": "2092044912397312305",
     "created_at": "2026-08-25T00:22:30.000Z",
     "original": "Elon Musk",
