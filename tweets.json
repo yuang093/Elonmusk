@@ -1,5 +1,51 @@
 [
   {
+    "id": "2092335870238216640",
+    "created_at": "2026-08-25T19:38:39.000Z",
+    "original": "Will be way more jobs than that",
+    "translation": "工作機會會比那多超多啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-26T06:01:57.599480+08:00",
+    "url": "https://x.com/elonmusk/status/2092335870238216640"
+  },
+  {
+    "id": "2092313075714347157",
+    "created_at": "2026-08-25T18:08:05.000Z",
+    "original": "SpaceX announces Starbase, Louisiana\n\n$100B\n3000 jobs\n10 launchpads\n8100 indirect jobs\nConstruction 2027\nFirst launch in 2029\n30+ Starship flights a day\n\n",
+    "translation": "SpaceX宣布路易斯安那州Starbase\n\n1000億美元💰\n3000個工作機會\n10個發射台\n8100個間接工作機會\n2027年動工\n2029年首發\n每天30+次星艦🚀",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQlhV-uaYAE3O8B?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HQlhWxWa8AAWLJH?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HQlhXqma4AAmqRp?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-26T06:02:02.145313+08:00",
+    "url": "https://x.com/elonmusk/status/2092313075714347157"
+  },
+  {
+    "id": "2092368785412133180",
+    "created_at": "2026-08-25T21:49:27.000Z",
+    "original": "I didn't expect to actually use this (Grok Bot)",
+    "translation": "沒想到還真的用上這個了 (Grok Bot)",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-26T06:02:06.177981+08:00",
+    "url": "https://x.com/elonmusk/status/2092368785412133180"
+  },
+  {
     "id": "2092312071371428020",
     "created_at": "2026-08-25T18:04:05.000Z",
     "original": "That’s just the tiny amount of solar power that reaches Earth. \n\nThe Sun outputs ~10^26 watts.",
