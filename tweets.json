@@ -1,5 +1,21 @@
 [
   {
+    "id": "2092038808607084868",
+    "created_at": "2026-08-24T23:58:14.000Z",
+    "original": "Grok Bot is insane.\n\nI asked it to find every video where Dr. Roger Seheult discusses sunlight, red light, infrared light, and mitochondria, including MedCram videos and interviews with Andrew Huberman, Eric Berg, Steven Bartlett, and others.\n\nA few minutes later it had:\n\n•",
+    "translation": "Grok Bot超猛的。\n\n我請它幫我找Dr. Roger Seheult所有談論陽光、紅光、紅外線和粒線體的影片，包括MedCram的影片還有跟Andrew Huberman、Eric Berg、Steven Bartlett等人的訪談。\n\n幾分鐘後它就找到了：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQhNVmRawAAuJBm?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-25T08:02:25.165885+08:00",
+    "url": "https://x.com/elonmusk/status/2092038808607084868"
+  },
+  {
     "id": "2091996794419060905",
     "created_at": "2026-08-24T21:11:17.000Z",
     "original": "At Starlink, we’re using Grok Voice to resolve over 15,000 inbound customer support and sales calls a day.\n\nGrok diagnoses hardware issues, ships replacements, and fulfills over 3,000 orders a week across voice calls and chat.",
