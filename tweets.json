@@ -1,5 +1,37 @@
 [
   {
+    "id": "2092407955169931682",
+    "created_at": "2026-08-26T00:25:06.000Z",
+    "original": "Simple way to find customers using Grok Bot:\n\n1) Use Grok Bot to search for people on X complaining about competitors or looking for alternatives (“Looking for an alternative to...”)\n\n2) Use the ",
+    "translation": "用 Grok Bot 找客戶的簡單方法：\n\n1) 用 Grok Bot 搜尋在 X 上抱怨競爭對手或找替代品的人（「想找...的替代品」）\n\n2) 用",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQkrDrAWQAAv6q4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-26T09:02:12.491233+08:00",
+    "url": "https://x.com/elonmusk/status/2092407955169931682"
+  },
+  {
+    "id": "2092408105451852134",
+    "created_at": "2026-08-26T00:25:42.000Z",
+    "original": " mission from pad 40 was the last planned Falcon 9 Starlink launch from Florida (and it launched on the fleet leading booster!!), marking the end of an era for these launches on the East Coast. From here on, Starlink missions out of Florida will fly on",
+    "translation": "從40號發射台出發的任務是佛羅里達州最後一次計畫中的獵鷹9號星鏈發射（而且是用艦隊領頭助推器發射的！！），標誌著東海岸這些發射的時代終結了。從這裡開始，佛羅里達州的星鏈任務將會改用...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQk5-svWQAEi0UD?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-26T09:02:28.484588+08:00",
+    "url": "https://x.com/elonmusk/status/2092408105451852134"
+  },
+  {
     "id": "2092335870238216640",
     "created_at": "2026-08-25T19:38:39.000Z",
     "original": "Will be way more jobs than that",
