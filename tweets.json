@@ -1,5 +1,47 @@
 [
   {
+    "id": "2092496620256633259",
+    "created_at": "2026-08-26T06:17:25.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-27T03:08:11.636910+08:00",
+    "url": "https://x.com/elonmusk/status/2092496620256633259"
+  },
+  {
+    "id": "2092342338865553785",
+    "created_at": "2026-08-25T20:04:22.000Z",
+    "original": "Crucially, Pecan Island is ~30 miles away from the nearest town and 50 miles from a major city.\n\nStarship is insanely loud:\n- At 5 miles out, my wife had to cover her ears\n- At 12 miles, it sounds like a table saw (good BYU study on this)\n- At 20 miles, it sounds like a vacuum",
+    "translation": "關鍵是，Pecan Island 離最近的城鎮大約 30 英里，離主要城市則有 50 英里。\n\nStarship 的噪音真的超級大：\n- 在 5 英里外，我老婆就必須摀住耳朵\n- 在 12 英里外，聽起來像在用圓鋸機（BYU 有篇研究就是這樣說的）\n- 在 20 英里外，聽起來像吸塵器",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-27T03:08:17.961078+08:00",
+    "url": "https://x.com/elonmusk/status/2092342338865553785"
+  },
+  {
+    "id": "2092689824012812661",
+    "created_at": "2026-08-26T19:05:08.000Z",
+    "original": "It’s a great location for a wide range of azimuths",
+    "translation": "這地點超讚的，各種方位角都能用",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-27T03:08:21.724002+08:00",
+    "url": "https://x.com/elonmusk/status/2092689824012812661"
+  },
+  {
     "id": "2092491823977742401",
     "created_at": "2026-08-26T05:58:22.000Z",
     "original": "Elon Musk",
