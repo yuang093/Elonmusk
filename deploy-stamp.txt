@@ -1,1 +1,1 @@
-2026-08-28 00:01 CST (2026-08-27 16:01 UTC) — 4 new tweets @elonmusk (5488→5492, inherited from 23:07 CST fetch: 1 chess-history RT empty→retried, 2 RTs marked Flavor B scraper-truncation, 1 byline-only Elon Musk passthrough) (webpage-only, no Telegram)
+2026-08-28 01:00 CST (2026-08-27 17:00 UTC) — 1 new tweet @elonmusk (5492→5493, inherited from 00:07 CST fetch: short RT "He's right" → "他說得對") (webpage-only, no Telegram)

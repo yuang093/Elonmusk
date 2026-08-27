@@ -1,5 +1,19 @@
 [
   {
+    "id": "2092992156436734251",
+    "created_at": "2026-08-27T15:06:30.000Z",
+    "original": "He’s right",
+    "translation": "他說得對",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-28T00:08:07.753784+08:00",
+    "url": "https://x.com/elonmusk/status/2092992156436734251"
+  },
+  {
     "id": "2092866388549366122",
     "created_at": "2026-08-27T06:46:45.000Z",
     "original": "Chess originated in northern India around the 6th century CE as chaturanga (“four divisions”), a war-simulation game on an 8×8 board representing infantry, cavalry, elephants, and chariots. These became the ancestors of the pawn, knight, bishop, and rook. The king (raja) moved one square in any direction, and victory typically required capturing or checkmating it.\n\nBy the late 6th or 7th century the game reached Sassanid Persia, where it was renamed shatranj. The Persians standardized it as a two-player game of skill (dice were dropped), introduced the concept of “shah” (check) and “shah mat” (the king is helpless), and kept the counselor (ferz/vizier) as a weak piece that moved only one square diagonally. After the Arab conquest of Persia, shatranj spread across the Islamic world, where players developed theory, problems, and early notation.\n\nChess entered Europe via Moorish Spain and Sicily by the 9th–10th centuries. Pieces were culturally adapted (the elephant became the bishop, the counselor a queen), but movement rules stayed close to shatranj for centuries, producing a slow, positional game. The decisive change occurred in Spain and Italy around 1475: the queen gained the combined power of rook and bishop, the bishop could travel any number of squares diagonally, pawns received a two-square first-move option, and other modern conventions (castling, en passant) began to appear. The faster game was nicknamed “mad queen chess” or “queen’s chess” and rapidly replaced the old rules. The earliest recorded game under the new rules is described in the Catalan poem Scachs d’amor (c. 1475).\n\nBy the 16th–17th centuries the modern ruleset was largely fixed. Competitive play grew in the 19th century with international tournaments (London 1851), the Staunton chess set (1849), and the first official World Championship match in 1886 (Steinitz vs. Zukertort). FIDE was founded in 1924 and standardized the laws of chess worldwide. The 20th and 21st centuries added clocks, rating systems, computers (Deep Blue defeated Kasparov in 1997), and online play, while the core rules have remained stable for more than 500 years.",
