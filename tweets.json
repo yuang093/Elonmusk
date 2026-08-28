@@ -1,5 +1,85 @@
 [
   {
+    "id": "2093150885958361326",
+    "created_at": "2026-08-28T01:37:14.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-28T10:02:24.364993+08:00",
+    "url": "https://x.com/elonmusk/status/2093150885958361326",
+    "transcription_failed": true,
+    "polished_at": "2026-08-28T10:04:52+08:00"
+  },
+  {
+    "id": "2093143389172584777",
+    "created_at": "2026-08-28T01:07:27.000Z",
+    "original": "Somalia is Somalia because of the people. Japan is Japan because of the people.\n\nThere is no magic soil. A nation is simply it's people.\n\n\"The world makes no sense if you think everyone is born exactly the same.\" @KonstantinKisin asks @nathancofnas what motivates him to tackle controversial topics despite pushback from all sides. His answer: ignoring natural group differences forces society to blame \"mystical injustice\" for inequality, meaning there will be no peace until we accept biological reality.",
+    "translation": "索馬利亞之所以是索馬利亞，是因為那裡的人民。日本之所以是日本，是因為那裡的人民。\n\n沒有什麼神奇的土壤。一個國家不過就是它的人民。\n\n「如果你認為每個人出生時都完全一樣，那這個世界就沒有意義了。」@KonstantinKisin 問 @nathancofnas 是什麼驅使他去處理那些有爭議的話題，即使面對來自各方的反對。他的回答是：忽視自然群體差異會迫使社會將不平等歸咎於「神秘的邪惡」，這意味著除非我們接受生物現實，否則將不會有和平。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-08-28T10:02:32.068599+08:00",
+    "url": "https://x.com/elonmusk/status/2093143389172584777",
+    "_needs_retranslate": true,
+    "retried_at": "2026-08-28T10:04:54+08:00"
+  },
+  {
+    "id": "2093152728042102836",
+    "created_at": "2026-08-28T01:44:33.000Z",
+    "original": "Ask her to explain Chris Nolan’s Odyssey",
+    "translation": "叫她說說 Chris Nolan 的《奧德賽》在公三小",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-28T10:02:37.842864+08:00",
+    "url": "https://x.com/elonmusk/status/2093152728042102836"
+  },
+  {
+    "id": "2093132011091497006",
+    "created_at": "2026-08-28T00:22:14.000Z",
+    "original": "This Melbourne bookstore “Amplify” only stocks non-white authors.\n\nSo I went there to ask if I could get a book in their store as somebody of Greek Cypriot ancestry. \n\nUnfortunately she told me that they could not sell my book as I was too white for the store. \n\nShocking new",
+    "translation": "這間墨爾本書店「Amplify」只進非白人作者的書。\n\n所以我就去那邊問，能不能把我的書放他們店裡賣，畢竟我是希臘賽普勒斯裔。\n\n結果她說他們沒辦法賣我的書，因為我太白了。\n\n超級Shock的勒（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQxMeBRaYAAT7zl?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-28T10:02:43.528830+08:00",
+    "url": "https://x.com/elonmusk/status/2093132011091497006",
+    "retried_at": "2026-08-28T10:04:52+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2093151010407453155",
+    "created_at": "2026-08-28T01:37:44.000Z",
+    "original": "BREAKING: Grok 4.6 from SpaceXAI is now available in Microsoft Foundry Models.\n\nBuild with Grok 4.6 on Foundry, where organizations can compare frontier AI models, run workload-specific tests, deploy managed endpoints, and operate with enterprise security and governance controls.",
+    "translation": "獨家：SpaceXAI 的 Grok 4.6 現已在 Microsoft Foundry Models 上線啦。\n\n快用 Grok 4.6 在 Foundry 上打造你的專案吧，組織可以在這裡比較前沿 AI 模型、跑特定工作負載測試、部署受管理的端點，還有企業級安全跟治理管控功能可以使用。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQuGKUqaEAAPM5l?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-28T10:02:47.913553+08:00",
+    "url": "https://x.com/elonmusk/status/2093151010407453155"
+  },
+  {
     "id": "2093141194654048542",
     "created_at": "2026-08-28T00:58:44.000Z",
     "original": "The truth shall set you free\n\n\"The world makes no sense if you think everyone is born exactly the same.\"\n\n@KonstantinKisin asks @nathancofnas what motivates him to tackle controversial topics despite pushback from all sides.\n\nHis answer: ignoring natural group differences forces society to blame \"mystical injustice\" for inequality, meaning there will be no peace until we accept biological reality.",
