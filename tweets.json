@@ -1,5 +1,63 @@
 [
   {
+    "id": "2093338120536444933",
+    "created_at": "2026-08-28T14:01:14.000Z",
+    "original": ". They've spent $1m on the project and encountered corndogs for the first time along the way. \n\nWe went to Starbase to find out what ",
+    "translation": "他們在這個專案上砸了100萬美元，途中還第一次吃到了熱狗玉米棒。\n\n我們去了一趟Starbase，想看看他們到底在搞什麼名堂。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-29T06:01:51.934854+08:00",
+    "url": "https://x.com/elonmusk/status/2093338120536444933"
+  },
+  {
+    "id": "2093408731622998146",
+    "created_at": "2026-08-28T18:41:49.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-29T06:01:53.231186+08:00",
+    "url": "https://x.com/elonmusk/status/2093408731622998146"
+  },
+  {
+    "id": "2093390291256672719",
+    "created_at": "2026-08-28T17:28:33.000Z",
+    "original": "interesting that reasoning appears to pull them towards center or right",
+    "translation": "挺有意思的，reasoning 好像會把人往中間或右派拉。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ03RhhbUAAhTjF?format=png&name=small"
+    ],
+    "fetched_at": "2026-08-29T06:01:57.120112+08:00",
+    "url": "https://x.com/elonmusk/status/2093390291256672719"
+  },
+  {
+    "id": "2093451090708566057",
+    "created_at": "2026-08-28T21:30:09.000Z",
+    "original": ".\n\n(If you haven't tried Grok Bot, you should. It's very good.) x.com/bot/status/209…",
+    "translation": "(如果你還沒試過 Grok Bot，真的推薦你試試，滿好用的。) x.com/bot/status/209…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-29T06:02:00.686484+08:00",
+    "url": "https://x.com/elonmusk/status/2093451090708566057"
+  },
+  {
     "id": "2093150949896249663",
     "created_at": "2026-08-28T01:37:29.000Z",
     "original": "most ppl don't realize that lobster was once absurdly abundant, cheap as hell, & largely associated with poverty cuz dead lobsters tasted terrible. it was also used as fertilizer or animal feed, & decidedly not a prestige food.\n\nthen ppl found out if you kill it right before eating it sorta tasted better so eventually through manufactured scarcity it became a luxury food. now it's a meme about decadence.",
