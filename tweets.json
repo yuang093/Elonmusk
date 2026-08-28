@@ -1,5 +1,39 @@
 [
   {
+    "id": "2093471590767882716",
+    "created_at": "2026-08-28T22:51:36.000Z",
+    "original": "SpaceXAI has built an entire Grok Bot Guides library showing how people are actually using AI agents as real teammates\n\nThese are practical playbooks from people already running Grok Bot for:\n\n• Mobile app development\n• Product management\n• Design\n• Enterprise GTM\n• Managing",
+    "translation": "SpaceXAI 打造了一整個 Grok Bot Guides 資料庫，展示人們怎麼把 AI agents 當作真正的隊友在用\n\n這些是已經在跑 Grok Bot 的人分享的實用 playbook，涵蓋：\n\n• 行動應用程式開發\n• 產品管理\n• 設計\n• 企業 GTM\n• 管理",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ0GrEWWMAAxS6-?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQ0G0_lXoAAPSOP?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HQ0G-0bWkAAgJEU?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-08-29T07:02:01.593028+08:00",
+    "url": "https://x.com/elonmusk/status/2093471590767882716"
+  },
+  {
+    "id": "2093459086440341590",
+    "created_at": "2026-08-28T22:01:55.000Z",
+    "original": "BREAKING: President Donald J. Trump just signed an Executive Order establishing a new federal academy, THE UNITED STATES SPACE ACADEMY. ",
+    "translation": "突發：Donald J. Trump 總統剛簽署了一項行政命令，要成立一個新的聯邦學院——美國太空學院！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ0wOKiWUAAOLRP?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-29T06:07:47.943639+08:00",
+    "url": "https://x.com/elonmusk/status/2093459086440341590"
+  },
+  {
     "id": "2093338120536444933",
     "created_at": "2026-08-28T14:01:14.000Z",
     "original": ". They've spent $1m on the project and encountered corndogs for the first time along the way. \n\nWe went to Starbase to find out what ",
