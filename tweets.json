@@ -1,5 +1,49 @@
 [
   {
+    "id": "2093626798575624520",
+    "created_at": "2026-08-29T09:08:21.000Z",
+    "original": "The universe is integer in units of Planck cubes",
+    "translation": "宇宙其實是整數堆出來的——單位是普朗克立方體",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T01:02:18.015642+08:00",
+    "url": "https://x.com/elonmusk/status/2093626798575624520"
+  },
+  {
+    "id": "2093390688754753706",
+    "created_at": "2026-08-28T17:30:08.000Z",
+    "original": "Quantum mechanics works perfectly in experiments, but Oxford physicist Tim Palmer argues it rests on a mathematical fiction: irrational numbers like √2 have no basis in physical reality. \n\nStrip them out, and quantum's strangest mysteries disappear. \n\nPalmer's theory makes a",
+    "translation": "量子力學在實驗中表現完美，但牛津物理學家 Tim Palmer 認為，它的根基其實是個數學 fiction：像 √2 這樣的無理數在物理世界根本沒有根據。\n\n把它們剔除掉，那些量子力學最詭異的謎團就通通消失了。\n\nPalmer 的理論為量子物理打開了一扇新的門。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ03uKuXkAEiwYW?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-30T01:02:24.203238+08:00",
+    "url": "https://x.com/elonmusk/status/2093390688754753706"
+  },
+  {
+    "id": "2093740168570081431",
+    "created_at": "2026-08-29T16:38:50.000Z",
+    "original": "East Germany failed to “guarantee” a car for every citizen, but it succeeded in (1) proving central planners can’t innovate and (2) replicating the breadline model to everything they touch. \n\nBecause steel was never available for private citizens, the “Trabant” automobile was",
+    "translation": "東德當年沒能「保證」每位公民都有一輛車，但它成功證明了：(1) 中央規劃者不會創新，以及 (2) 他們碰什麼就把什麼搞成排隊領救濟的模式。\n\n因為鋼材從來沒有提供給一般民眾，所以「崔班」這種汽車是用再生纖維拼湊出來的⋯⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T01:02:29.726944+08:00",
+    "url": "https://x.com/elonmusk/status/2093740168570081431"
+  },
+  {
     "id": "2093609531657891896",
     "created_at": "2026-08-29T07:59:44.000Z",
     "original": "MSNBC contributor reluctantly admits 𝕏 Community Notes actually works, even though it physically pains her to say so.\n\nRolling Stone called @ElonMusk and 𝕏 \"the biggest purveyors of online misinformation.\"\n\nNow liberals like Molly Jong-Fast are admitting that false information",
