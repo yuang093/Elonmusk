@@ -1,5 +1,33 @@
 [
   {
+    "id": "2093611366409990616",
+    "created_at": "2026-08-29T08:07:01.000Z",
+    "original": "Full duration 33-engine static fire with the Super Heavy booster preparing for Flight 14",
+    "translation": "33機全程靜態點火測試，準備迎戰第14飛！🚀",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-29T17:02:18.446074+08:00",
+    "url": "https://x.com/elonmusk/status/2093611366409990616"
+  },
+  {
+    "id": "2093013886924665150",
+    "created_at": "2026-08-27T16:32:51.000Z",
+    "original": "Behind the scenes of Eilish Intense, Billie’s newest fragrance, available now on ",
+    "translation": "Eilish Intense 幕後花絮，Billie 最新香水，現在在 ___ 就可以買到！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-29T16:08:18.131281+08:00",
+    "url": "https://x.com/elonmusk/status/2093013886924665150"
+  },
+  {
     "id": "2093573187510383055",
     "created_at": "2026-08-29T05:35:19.000Z",
     "original": "That’s a little better",
@@ -32,7 +60,7 @@
     "id": "2093573694027145599",
     "created_at": "2026-08-29T05:37:20.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -41,7 +69,7 @@
     "images": [],
     "fetched_at": "2026-08-29T16:02:46.112338+08:00",
     "url": "https://x.com/elonmusk/status/2093573694027145599",
-    "retried_at": null,
+    "retried_at": "2026-08-29T17:01:07.334971+08:00",
     "byline_only": true
   },
   {
@@ -62,7 +90,7 @@
     "id": "2093576780376363372",
     "created_at": "2026-08-29T05:49:35.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -71,7 +99,7 @@
     "images": [],
     "fetched_at": "2026-08-29T16:02:51.347873+08:00",
     "url": "https://x.com/elonmusk/status/2093576780376363372",
-    "retried_at": null,
+    "retried_at": "2026-08-29T17:01:04.895932+08:00",
     "byline_only": true
   },
   {
@@ -93,7 +121,7 @@
     "id": "2093598928239276411",
     "created_at": "2026-08-29T07:17:36.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -102,7 +130,7 @@
     "images": [],
     "fetched_at": "2026-08-29T16:03:02.891135+08:00",
     "url": "https://x.com/elonmusk/status/2093598928239276411",
-    "retried_at": null,
+    "retried_at": "2026-08-29T17:01:07.472204+08:00",
     "byline_only": true
   },
   {
