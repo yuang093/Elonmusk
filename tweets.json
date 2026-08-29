@@ -3,7 +3,7 @@
     "id": "2093458954332311614",
     "created_at": "2026-08-28T22:01:23.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -11,7 +11,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-08-29T10:04:03.919624+08:00",
-    "url": "https://x.com/elonmusk/status/2093458954332311614"
+    "url": "https://x.com/elonmusk/status/2093458954332311614",
+    "retried_at": "2026-08-29T11:01:17.946571+08:00"
   },
   {
     "id": "2093383065548492982",
@@ -91,7 +92,7 @@
     "id": "2093510194034540957",
     "created_at": "2026-08-29T01:25:00.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -99,7 +100,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-08-29T10:04:32.757144+08:00",
-    "url": "https://x.com/elonmusk/status/2093510194034540957"
+    "url": "https://x.com/elonmusk/status/2093510194034540957",
+    "retried_at": "2026-08-29T11:01:16.324445+08:00"
   },
   {
     "id": "2093349329616687426",
