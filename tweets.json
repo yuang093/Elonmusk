@@ -1,5 +1,49 @@
 [
   {
+    "id": "2093740389266067477",
+    "created_at": "2026-08-29T16:39:43.000Z",
+    "original": "You are right",
+    "translation": "你說得對",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T03:01:54.937076+08:00",
+    "url": "https://x.com/elonmusk/status/2093740389266067477"
+  },
+  {
+    "id": "2093739536509436149",
+    "created_at": "2026-08-29T16:36:19.000Z",
+    "original": "When I try and explain that tokens inferenced increased 25-fold in a year and are multiplying exponentially, cascading through the economy, and are likely to push real GDP growth per year toward double digit territory, many clients and companies simply do not comprehend.",
+    "translation": "當我試著跟他們解釋 token 推論量一年暴增 25 倍、正在指數級爆發、然後一路滲透到經濟各層面，很可能會把每年的實質 GDP 成長推向兩位數成長的時候，很多客戶和公司壓根就聽不懂我在說啥。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T03:01:59.888846+08:00",
+    "url": "https://x.com/elonmusk/status/2093739536509436149"
+  },
+  {
+    "id": "2093763537130680656",
+    "created_at": "2026-08-29T18:11:42.000Z",
+    "original": "Matching the payload capacity of ONE Starship V3 flight would take 200+ Falcon 1 launches\n\nThat’s hundreds of rockets, hundreds of separate launches and an enormous amount of time just to move what one Starship is designed to carry\n\nOrbital AI at serious scale needs a vehicle",
+    "translation": "要達到 ONE 艘 Starship V3 的酬載能力，需要 200 多發 Falcon 1 發射\n\n那可是數百枚火箭、數百次獨立發射，光是搬 Starship一趟就能載完的東西，就得耗費大量時間\n\n軌道 AI 要真正規模化，就需要這種等級的載具",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ5oAD1W8AAqBM3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-30T03:02:03.747969+08:00",
+    "url": "https://x.com/elonmusk/status/2093763537130680656"
+  },
+  {
     "id": "2093626798575624520",
     "created_at": "2026-08-29T09:08:21.000Z",
     "original": "The universe is integer in units of Planck cubes",
