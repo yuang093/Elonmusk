@@ -1,5 +1,33 @@
 [
   {
+    "id": "2094151096264511755",
+    "created_at": "2026-08-30T19:51:43.000Z",
+    "original": "Coming soon",
+    "translation": "快了快了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-31T05:01:54.268486+08:00",
+    "url": "https://x.com/elonmusk/status/2094151096264511755"
+  },
+  {
+    "id": "2094155810234335302",
+    "created_at": "2026-08-30T20:10:27.000Z",
+    "original": "I was able to edit and enhance a very specific video clip",
+    "translation": "成功編輯強化了一段很特定的影片片段",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-31T05:01:57.176018+08:00",
+    "url": "https://x.com/elonmusk/status/2094155810234335302"
+  },
+  {
     "id": "2094079630810726573",
     "created_at": "2026-08-30T15:07:44.000Z",
     "original": "Falcon Heavy’s outstanding performance got me thinking about New Glenn.\nI like New Glenn, but this is the truth.\n\nFalcon Heavy:\nLEO 63.8t | GTO 26.7t | Thrust >22 MN\nNew Glenn:\nLEO 45t | GTO >13t | Thrust ~19.9 MN\n\nAside from its larger fairing, New Glenn has few clear",
