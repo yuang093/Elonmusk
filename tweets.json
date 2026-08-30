@@ -1,5 +1,47 @@
 [
   {
+    "id": "2093867608235745337",
+    "created_at": "2026-08-30T01:05:14.000Z",
+    "original": "Great point",
+    "translation": "說得好！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T12:01:11.203669+08:00",
+    "url": "https://x.com/elonmusk/status/2093867608235745337"
+  },
+  {
+    "id": "2093861302028710000",
+    "created_at": "2026-08-30T00:40:11.000Z",
+    "original": "I once said to my former team:\n\n\"I care less about what is the smartest thing our model can do than about whats the most stupid thing that it cannot do\"\n\nrobustness is still a limitation to increased automation",
+    "translation": "我之前對我之前的團隊說過：\n\n「我比較不在乎我們模型能做到的最聰明的事，而是在意它做不到的最笨的事。」\n\n穩健性依然是限制自動化程度更進一步的瓶頸。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T12:01:19.804175+08:00",
+    "url": "https://x.com/elonmusk/status/2093861302028710000"
+  },
+  {
+    "id": "2093910113245380786",
+    "created_at": "2026-08-30T03:54:08.000Z",
+    "original": "The use of 60 seconds and 360 degrees is thousands of years BC old",
+    "translation": "「60秒」跟「360度」這套玩法早在幾千年前的西元前就有人在用了啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-30T12:01:24.194276+08:00",
+    "url": "https://x.com/elonmusk/status/2093910113245380786"
+  },
+  {
     "id": "2093842229538304095",
     "created_at": "2026-08-29T23:24:23.000Z",
     "original": "We spent so many years on the turbine blade cracking problem",
