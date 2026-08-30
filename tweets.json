@@ -1,5 +1,93 @@
 [
   {
+    "id": "2094079630810726573",
+    "created_at": "2026-08-30T15:07:44.000Z",
+    "original": "Falcon Heavy’s outstanding performance got me thinking about New Glenn.\nI like New Glenn, but this is the truth.\n\nFalcon Heavy:\nLEO 63.8t | GTO 26.7t | Thrust >22 MN\nNew Glenn:\nLEO 45t | GTO >13t | Thrust ~19.9 MN\n\nAside from its larger fairing, New Glenn has few clear",
+    "translation": "Falcon Heavy 的表現太猛了，讓我開始想到 New Glenn。\n我喜歡 New Glenn，但這是事實。\n\nFalcon Heavy：\nLEO 63.8t | GTO 26.7t | 推力 >22 MN\nNew Glenn：\nLEO 45t | GTO >13t | 推力 ~19.9 MN\n\n除了整流罩比較大之外，New Glenn 沒什麼明顯的...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ-qTyQbcAAteu0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-31T04:02:52.126799+08:00",
+    "url": "https://x.com/elonmusk/status/2094079630810726573"
+  },
+  {
+    "id": "2094143117507108869",
+    "created_at": "2026-08-30T19:20:01.000Z",
+    "original": "0:01 / 0:04",
+    "translation": "0:01 / 0:04",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-31T04:02:58.235669+08:00",
+    "url": "https://x.com/elonmusk/status/2094143117507108869"
+  },
+  {
+    "id": "2094147476563407299",
+    "created_at": "2026-08-30T19:37:20.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-31T04:03:00.658896+08:00",
+    "url": "https://x.com/elonmusk/status/2094147476563407299"
+  },
+  {
+    "id": "2094048466779459890",
+    "created_at": "2026-08-30T13:03:54.000Z",
+    "original": "He’s got a point.",
+    "translation": "他說得有道理诶。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ-N-zGWAAEtANC?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-08-31T04:03:02.658478+08:00",
+    "url": "https://x.com/elonmusk/status/2094048466779459890"
+  },
+  {
+    "id": "2094147282434211869",
+    "created_at": "2026-08-30T19:36:34.000Z",
+    "original": ". \n\nWorth trying it out on super tough tasks if you haven’t in a while. \n\n",
+    "translation": "如果一陣子沒試的話，很值得拿那種地獄級難度的任務測試看看。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-31T04:03:05.763026+08:00",
+    "url": "https://x.com/elonmusk/status/2094147282434211869"
+  },
+  {
+    "id": "2094147647678431561",
+    "created_at": "2026-08-30T19:38:01.000Z",
+    "original": "As someone who hates driving and lives in LA, FSD has had a disproportionately positive impact on my quality of life. It’s basically Xanax for the 405.",
+    "translation": "身為一個討厭開車又住在LA的人，FSD真的讓我生活品質暴增。根本就是405公路的特效Xanax。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-08-31T04:03:12.397833+08:00",
+    "url": "https://x.com/elonmusk/status/2094147647678431561"
+  },
+  {
     "id": "2094125413362483265",
     "created_at": "2026-08-30T18:09:40.000Z",
     "original": "Vortigaunts: Half-Life’s Most Tragic Species | Half-Life",
