@@ -1,5 +1,110 @@
 [
   {
+    "id": "2095064324477960594",
+    "created_at": "2026-09-02T08:20:34.000Z",
+    "original": "So let me get this straight…\n\nZuckerberg joined X\nJensen joined X\nJohn Ternus (new Apple CEO) joined X\n\nX is having a moment right now.\n\nNow I’m waiting on Alex Karp from Palantir.",
+    "translation": "好讓我搞清楚一下...\n\nZuckerberg 加入 X了\nJensen 加入 X了\nJohn Ternus（新Apple CEO）加入 X了\n\nX現在真的很紅欸\n\n現在我就在等Palantir的Alex Karp加入了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-02T17:07:53.724064+08:00",
+    "url": "https://x.com/elonmusk/status/2095064324477960594"
+  },
+  {
+    "id": "2095058548350972117",
+    "created_at": "2026-09-02T07:57:36.000Z",
+    "original": "Starlink's high-speed, low-latency internet is now available in Uganda! ",
+    "translation": "Starlink 高速、低延遲的網路現在在烏干達可以使用啦！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRKEiPeaoAALS3L?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-02T16:07:49.063401+08:00",
+    "url": "https://x.com/elonmusk/status/2095058548350972117"
+  },
+  {
+    "id": "2095017366254194884",
+    "created_at": "2026-09-02T05:13:58.000Z",
+    "original": "  release this feature? In voice conversation mode, you can share your screen with the voice model, and it can see everything you're doing in the browser/talk you through anything you want? How did I miss this? This is amazing. It works so well.",
+    "translation": "這個功能什麼時候出的？在語音對話模式底下，可以跟語音模型共享螢幕，它可以直接看到你在瀏覽器裡做的所有事情/帶你做你想做的任何事？我怎麼會錯過這個？也太猛了吧。效果超級好。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRLLez8XwAASh6p?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-02T14:07:53.484119+08:00",
+    "url": "https://x.com/elonmusk/status/2095017366254194884"
+  },
+  {
+    "id": "2094856153138385036",
+    "created_at": "2026-09-01T18:33:22.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-02T11:07:46.626300+08:00",
+    "url": "https://x.com/elonmusk/status/2094856153138385036"
+  },
+  {
+    "id": "2094845533907038413",
+    "created_at": "2026-09-01T17:51:10.000Z",
+    "original": "South Africa is wild, because they pretty much literally took the old apartheid laws, subbed out \"black\" for \"white,\" and drew a chorus of seal-claps for this.",
+    "translation": "南非真的很狂，因為他們基本上就是把舊的種族隔離法律，把「黑人」換成「白人」，然後就收穫一片掌聲了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRHGkfqWQAA40W_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-02T11:07:50.610598+08:00",
+    "url": "https://x.com/elonmusk/status/2094845533907038413"
+  },
+  {
+    "id": "2094982114282447073",
+    "created_at": "2026-09-02T02:53:53.000Z",
+    "original": "Today marks 2+ weeks of daily updates to the open-source X algorithm.\n\nWe’ve also integrated a first public contribution — a small update based on a Pull Request submitted to our GitHub repository, now live on X: ",
+    "translation": "今天是開源 X 演算法每日更新的第 2 週多。\n\n我們也整合了第一個公開貢獻——一個基於提交到 GitHub 儲存庫的 Pull Request 的小更新，現已在 X 上線：。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-02T11:07:58.739460+08:00",
+    "url": "https://x.com/elonmusk/status/2094982114282447073",
+    "retried_at": "2026-09-02T14:07:07.544275+08:00"
+  },
+  {
+    "id": "2094983639780204846",
+    "created_at": "2026-09-02T02:59:57.000Z",
+    "original": "But just look how incredible grok 4.6 is",
+    "translation": "但就看看grok 4.6有多猛。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-02T11:08:01.683161+08:00",
+    "url": "https://x.com/elonmusk/status/2094983639780204846"
+  },
+  {
     "id": "2094866213864354134",
     "created_at": "2026-09-01T19:13:20.000Z",
     "original": "BREAKING: 𝕏 recorded a massive 103 million App Store downloads in August, its highest monthly total ever.",
