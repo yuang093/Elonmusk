@@ -1,5 +1,35 @@
 [
   {
+    "id": "2095540657372692709",
+    "created_at": "2026-09-03T15:53:20.000Z",
+    "original": "Soon, that will be how writing code in any form is like",
+    "translation": "很快，任何形式的寫 code 都會變成這樣啦。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T01:03:21.241738+08:00",
+    "url": "https://x.com/elonmusk/status/2095540657372692709"
+  },
+  {
+    "id": "2095536434791018847",
+    "created_at": "2026-09-03T15:36:33.000Z",
+    "original": "A handwritten IBM COBOL program sheet used to draft code before it was punched onto cards.",
+    "translation": "以前在把程式打到卡之前，先用手寫的方式來起草程式的 IBM COBOL 程式表。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRTXSA3bsAEZL1c?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-04T01:03:25.400268+08:00",
+    "url": "https://x.com/elonmusk/status/2095536434791018847"
+  },
+  {
     "id": "2095529559705735246",
     "created_at": "2026-09-03T15:09:14.000Z",
     "original": "Elon Musk",
