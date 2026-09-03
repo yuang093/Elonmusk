@@ -1,5 +1,47 @@
 [
   {
+    "id": "2095556160333996226",
+    "created_at": "2026-09-03T16:54:56.000Z",
+    "original": "Who funds these clowns?",
+    "translation": "是誰在資助這些小丑啊？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T01:07:48.794009+08:00",
+    "url": "https://x.com/elonmusk/status/2095556160333996226"
+  },
+  {
+    "id": "2095552662385111299",
+    "created_at": "2026-09-03T16:41:02.000Z",
+    "original": "They've been like this for decades. \n\nDid Elon JUST notice?",
+    "translation": "他們都這樣幾十年了，馬斯克現在才發現喔？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T01:07:52.072667+08:00",
+    "url": "https://x.com/elonmusk/status/2095552662385111299"
+  },
+  {
+    "id": "2095558165194563687",
+    "created_at": "2026-09-03T17:02:54.000Z",
+    "original": "Someone should complain to Jeff Yass",
+    "translation": "有人應該去跟 Jeff Yass 抱怨一下",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T01:07:54.731567+08:00",
+    "url": "https://x.com/elonmusk/status/2095558165194563687"
+  },
+  {
     "id": "2095540657372692709",
     "created_at": "2026-09-03T15:53:20.000Z",
     "original": "Soon, that will be how writing code in any form is like",
