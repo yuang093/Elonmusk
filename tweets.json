@@ -1,5 +1,138 @@
 [
   {
+    "id": "2095875875044532618",
+    "created_at": "2026-09-04T14:05:22.000Z",
+    "original": "I also felt diminishing returns from chess in terms of transfer learning to understand reality",
+    "translation": "我也覺得下棋對理解現實的遷移學習效益越來越差了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T23:02:52.980147+08:00",
+    "url": "https://x.com/elonmusk/status/2095875875044532618"
+  },
+  {
+    "id": "2095873464121147436",
+    "created_at": "2026-09-04T13:55:47.000Z",
+    "original": "Elon Musk was a member of his high school’s Chess “A” Team (far left, front row). He won every game during that period but later quit chess. He believed computers would dominate the game and considered chess too simple to be useful in real life.",
+    "translation": "馬斯克以前是他們高中象棋校隊甲組的成員（左邊最前面那個），那時候他幾乎每場都贏，但後來就不玩了。他覺得電腦遲早會在這個領域稱霸，而且象棋太簡單了，在現實生活中沒",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRYJzfUa0AALXgk?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-04T23:03:01.997245+08:00",
+    "url": "https://x.com/elonmusk/status/2095873464121147436"
+  },
+  {
+    "id": "2095877066759520676",
+    "created_at": "2026-09-04T14:10:06.000Z",
+    "original": "At atomic resolution the number is not “a few dozen.” It is a thermodynamic microstate count, and it dwarfs the chess tree.\n\nTake one typical dump of urine as liquid water: about \\(300\\,\\mathrm{g} \\approx 17\\,\\mathrm{mol}\\). Liquid water’s molar entropy is roughly \\(70\\,\\mathrm{J\\,K^{-1}\\,mol^{-1}}\\), so the entropy of that volume is about \\(1.2 \\times 10^3\\,\\mathrm{J\\,K^{-1}}\\). The number of accessible microstates is\n\n\\[\n\\Omega \\approx e^{S/k_B} \\approx e^{8\\times10^{25}} \\approx 10^{3\\times10^{25}}.\n\\]\n\nThat is the number of distinct atomic arrangements of the fluid alone, at room temperature, once you treat positions and momenta as quantum-distinguishable at the thermal scale. The pot’s ceramic lattice and a thin layer of air above the surface add more factors of the same kind, not fewer. A Planck-scale position grid would be even larger; it is the wrong scale for “ways the pee can sit in the pot.” Thermal entropy is the right one.\n\nCompared with chess: \\(\\sim10^{120}\\) games and \\(\\sim10^{44}\\) positions are rounding errors next to \\(10^{10^{25}}\\) fluid microstates. Almost all of those states are still “liquid in the vessel.” The macroscopic question — stream in or stream out — is a two-outcome coarse-graining of that enormous set.\n\nSo: combinatorially infinite for practical purposes, finite in physics, and not storeable as a list in this universe. You can still solve the useful version of the problem the same way we solve checkers: keep the liquid inside the pot.",
+    "translation": "在原子尺度的解析度下，數量不是「區區幾十個」。這是熱力學微觀態的數量，而且讓西洋棋的樹狀圖小巫見大巫。\n\n就拿一泡尿當液態水來說：約300公克≈17莫耳。液態水的莫耳熵大約是70 J K⁻¹ mol⁻¹，所以這麼多體積的熵約是1.2×10³ J K⁻¹。可及的微觀態數量是\n\nΩ ≈ e^(S/k_B) ≈ e^(8×10²⁵) ≈ 10^(3×10²⁵)。\n\n這是單純流體在室溫下、把位置和動量當作熱尺度下量子可區分時，原子排列的不同方式數量。壺的陶瓷晶格和表面上一層薄薄的空氣也會貢獻同類型的額外因子，不會變少。如果用普朗克尺度的位置網格會更大，但那不是「尿在壺裡的方式」的正確尺度。熱熵才是對的尺度。\n\n跟西洋棋比：約10¹²⁰局棋和約10⁴⁴個局面，在10^10²⁵個流體微觀態面前都是無條件捨去的尾數。這些狀態中幾乎全部仍然是「液體在容器裡」。巨觀問題——尿進去還是尿出來——只是對這個龐大集合的二元粗粒化。\n\n所以：實務上 combinatorially infinite，物理上 finite，無法在這個宇宙中儲存成清單。但實用版的問題還是可以用跟西洋棋一樣的方法解決：把液體留在壺裡。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T23:03:09.326987+08:00",
+    "url": "https://x.com/elonmusk/status/2095877066759520676",
+    "retried_at": "2026-09-04T23:07:16.934488+08:00"
+  },
+  {
+    "id": "2095877665437663635",
+    "created_at": "2026-09-04T14:12:29.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T23:03:11.512277+08:00",
+    "url": "https://x.com/elonmusk/status/2095877665437663635"
+  },
+  {
+    "id": "2095535119750557730",
+    "created_at": "2026-09-03T15:31:20.000Z",
+    "original": "It is indeed a disgrace. Those publications have an obligation to adhere to the truth and yet have become woke propaganda outlets. x.com/sapinker/statu…",
+    "translation": "這真的是丟臉啊。那些媒體明明應該堅守真相，結果變成覺醒派的宣傳機器了。x.com/sapinker/statu…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T23:03:16.372164+08:00",
+    "url": "https://x.com/elonmusk/status/2095535119750557730"
+  },
+  {
+    "id": "2095878501215678791",
+    "created_at": "2026-09-04T14:15:48.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T23:03:18.854693+08:00",
+    "url": "https://x.com/elonmusk/status/2095878501215678791"
+  },
+  {
+    "id": "2095637293700718618",
+    "created_at": "2026-09-03T22:17:20.000Z",
+    "original": "🚨 SPECIAL REPORT: ChatGPT says President Donald Trump is the greatest threat to democracy since Adolf Hitler.",
+    "translation": "🚨 特別報告：ChatGPT說川普是自希特勒以來對民主的最大威脅。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-04T23:03:22.746230+08:00",
+    "url": "https://x.com/elonmusk/status/2095637293700718618"
+  },
+  {
+    "id": "2095881274552385810",
+    "created_at": "2026-09-04T14:26:50.000Z",
+    "original": "Elon Musk: \"Too many judges these days are actually activists pretending to be jurists.\"",
+    "translation": "現在太多法官根本就是假裝自己是法官的激進份子啦。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRSmtKabEAAhXyp?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-04T23:03:28.772281+08:00",
+    "url": "https://x.com/elonmusk/status/2095881274552385810"
+  },
+  {
+    "id": "2095882235027014076",
+    "created_at": "2026-09-04T14:30:39.000Z",
+    "original": "Tesla is now worth MORE than all other publicly traded automakers combined\n\nTesla: $1.511 Trillion\nEveryone else combined: $1.446 Trillion\n\nToyota, BYD, GM, Hyundai, Mercedes, BMW, Ford, Ferrari, Volkswagen, Porsche...all of them combined\n\nAnd Tesla still stands taller... nothing",
+    "translation": "特斯拉現在的市值比所有其他上市車廠加起來還高\n\n特斯拉：1.511 兆美元\n其他",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRYPIfBa0AAX9v3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-04T23:03:36.914437+08:00",
+    "url": "https://x.com/elonmusk/status/2095882235027014076"
+  },
+  {
     "id": "2095721540599832766",
     "created_at": "2026-09-04T03:52:06.000Z",
     "original": "Elon Musk",
