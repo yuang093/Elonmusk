@@ -1,5 +1,47 @@
 [
   {
+    "id": "2097929424989765853",
+    "created_at": "2026-09-10T06:05:27.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T21:01:43.707386+08:00",
+    "url": "https://x.com/elonmusk/status/2097929424989765853"
+  },
+  {
+    "id": "2097807315453764005",
+    "created_at": "2026-09-09T22:00:14.000Z",
+    "original": "'Oh, Your Intelligent Creations Are Trying To Kill You? That's Interesting,' Says Jesus",
+    "translation": "「喔，你們那些有智慧的造物正試著幹掉你？挺有意思的，」耶穌說。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T21:01:53.262428+08:00",
+    "url": "https://x.com/elonmusk/status/2097807315453764005"
+  },
+  {
+    "id": "2098030096800170110",
+    "created_at": "2026-09-10T12:45:29.000Z",
+    "original": "Very strange",
+    "translation": "怪怪的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T21:01:57.229337+08:00",
+    "url": "https://x.com/elonmusk/status/2098030096800170110"
+  },
+  {
     "id": "2097896908027212231",
     "created_at": "2026-09-10T03:56:14.000Z",
     "original": "We need to bring back rapid executions for those unequivocally guilty of murder or aggravated rape",
