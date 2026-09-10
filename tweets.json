@@ -1,5 +1,202 @@
 [
   {
+    "id": "2097941454433751098",
+    "created_at": "2026-09-10T06:53:15.000Z",
+    "original": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
+    "translation": "我今天從Anthropic辭職了。在過去三年裡，我曾在OpenAI和Anthropic從事預訓練研究。這兩家公司都沒有負起責任。他們正直接競相開發自我改進的超級智能，拿我們的生命在賭博。以下是我的更多想法。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR1ie4WasAAAB_O?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-10T23:02:07.411290+08:00",
+    "url": "https://x.com/elonmusk/status/2097941454433751098",
+    "retried_at": "2026-09-10T23:04:47+08:00"
+  },
+  {
+    "id": "2098030218703462575",
+    "created_at": "2026-09-10T12:45:58.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:09.303202+08:00",
+    "url": "https://x.com/elonmusk/status/2098030218703462575",
+    "retried_at": "2026-09-10T15:04:45.840530+00:00"
+  },
+  {
+    "id": "2097950199545307203",
+    "created_at": "2026-09-10T07:28:00.000Z",
+    "original": "What's funny to me about the left hating on Elon is that... he's not even right wing. \n\nHe's more center. But the left went so far left that anything remotely close to the center seems like it's on the complete opposite end.",
+    "translation": "真的很好笑的是左派一直在酸Elon，但他根本就不是右派啊，他比較是中間派。但左派已經左到一個程度了，所以任何稍微靠近中間的東西，看起來都像在完全相反的那一端。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:20.859733+08:00",
+    "url": "https://x.com/elonmusk/status/2097950199545307203"
+  },
+  {
+    "id": "2098039192223928680",
+    "created_at": "2026-09-10T13:21:37.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:22.890926+08:00",
+    "url": "https://x.com/elonmusk/status/2098039192223928680",
+    "retried_at": "2026-09-10T15:04:45.840735+00:00"
+  },
+  {
+    "id": "2097787859981754774",
+    "created_at": "2026-09-09T20:42:55.000Z",
+    "original": "So refreshing to hear this instead of bland platitudes about Ariane 6. “If Europe wants to stay relevant—we will not be relevant without a massive rocket at a massive cadence.\"",
+    "translation": "聽到這種話真的超爽的，總算不是那些關於Ariane 6的乾巴巴場面話了。「如果歐洲想要保持競爭力——沒有大容量火箭和高頻率發射，我們就啥都不是。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:29.592785+08:00",
+    "url": "https://x.com/elonmusk/status/2097787859981754774"
+  },
+  {
+    "id": "2098043944383005119",
+    "created_at": "2026-09-10T13:40:30.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:31.529355+08:00",
+    "url": "https://x.com/elonmusk/status/2098043944383005119",
+    "retried_at": "2026-09-10T15:04:45.840737+00:00"
+  },
+  {
+    "id": "2098018756379254950",
+    "created_at": "2026-09-10T12:00:25.000Z",
+    "original": "The city of Rome has revealed, for the first time, the biggest Roman wall mosaic ever found – and a colorful fresco painted on a 2,000-year-old wall – the culmination of a massive 14-year restoration project. ",
+    "translation": "羅馬市首度公開了史上最大的羅馬壁畫馬賽克——以及一幅畫在 2000 年老牆上的彩色壁畫——這是一個為期 14 年的大規模修復計畫的最終成果。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR2o7I9XQAUvaRB?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-10T23:02:35.716407+08:00",
+    "url": "https://x.com/elonmusk/status/2098018756379254950"
+  },
+  {
+    "id": "2098044284260016572",
+    "created_at": "2026-09-10T13:41:51.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:37.270901+08:00",
+    "url": "https://x.com/elonmusk/status/2098044284260016572",
+    "retried_at": "2026-09-10T15:04:45.840738+00:00"
+  },
+  {
+    "id": "2098039597779374378",
+    "created_at": "2026-09-10T13:23:14.000Z",
+    "original": "Proper American Breakfast 🇺🇸  How many Calories is this already? 👀",
+    "translation": "標準美式早餐 🇺🇸\n這熱量已經多少了？👀",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR274dRXAAAocSs?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-10T23:02:42.154881+08:00",
+    "url": "https://x.com/elonmusk/status/2098039597779374378"
+  },
+  {
+    "id": "2098045279941562584",
+    "created_at": "2026-09-10T13:45:49.000Z",
+    "original": "Gibney deliberately set out to make a hit piece and lacks any integrity whatsoever",
+    "translation": "Gibney 根本就是故意要來搞黑稿，一點誠信都沒有",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:02:49.791560+08:00",
+    "url": "https://x.com/elonmusk/status/2098045279941562584"
+  },
+  {
+    "id": "2098038952284586282",
+    "created_at": "2026-09-10T13:20:40.000Z",
+    "original": "Some recent quality-of-life improvements to Grok Bot.\n\nYou can ask your Bot to draft messages inline for you to approve before sending.",
+    "translation": "Grok Bot 最近推出的實用新功能\n\n現在可以直接叫 Bot 幫你草擬訊息，確認沒問題再發出去",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HRy9Y89aAAAM19D?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-10T23:02:56.768958+08:00",
+    "url": "https://x.com/elonmusk/status/2098038952284586282"
+  },
+  {
+    "id": "2098043646037950756",
+    "created_at": "2026-09-10T13:39:19.000Z",
+    "original": "If you want to solve AI alignment issues, train a model to take you from home to the office and back with no pedals or steering. You will solve it really quickly.",
+    "translation": "想解決AI對齊問題？訓練一個模型每天載你往返家和公司，沒有方向盤也沒有油門。你會非常快就搞定它的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-10T23:03:06.272895+08:00",
+    "url": "https://x.com/elonmusk/status/2098043646037950756"
+  },
+  {
+    "id": "2098052817391092113",
+    "created_at": "2026-09-10T14:15:46.000Z",
+    "original": "I bought a Tesla in July and have basically retired from driving. \n\nIf you can afford to you should too. It’s the most dangerous thing you do every day and Tesla’s robots are better at it.",
+    "translation": "我七月買了台特斯拉，然後基本上已經從開車這行退休了。負擔得起的話你也該來一台。開車可是你每天做的最危險的事，而特斯拉的機器人開得比你好多了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR3GcjNagAEaXxe?format=jpg&name=900x900"
+    ],
+    "fetched_at": "2026-09-10T23:03:14.744041+08:00",
+    "url": "https://x.com/elonmusk/status/2098052817391092113"
+  },
+  {
     "id": "2097929424989765853",
     "created_at": "2026-09-10T06:05:27.000Z",
     "original": "Elon Musk",
@@ -91505,7 +91702,8 @@
       "https://pbs.twimg.com/media/GSZvkScbIAAwHQi?format=jpg&name=small"
     ],
     "fetched_at": "2026-05-19T12:05:52.299934+08:00",
-    "url": "https://x.com/elonmusk/status/1812258574049157405"
+    "url": "https://x.com/elonmusk/status/1812258574049157405",
+    "retried_at": "2026-09-10T15:04:18.085253+00:00"
   },
   {
     "id": "1518677066325053441",
