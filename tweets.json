@@ -1,5 +1,123 @@
 [
   {
+    "id": "2098291848536051915",
+    "created_at": "2026-09-11T06:05:35.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T15:07:44.020743+08:00",
+    "url": "https://x.com/elonmusk/status/2098291848536051915"
+  },
+  {
+    "id": "2098110313921217003",
+    "created_at": "2026-09-10T18:04:14.000Z",
+    "original": "SpaceX is not suing Texas to hide that Terafab got a tax deal.  That deal is already public.  What’s in court is the file.\n\nGrimes County approved a 10-year 100% county property-tax abatement. \nIn exchange: $10 million upfront (already paid) and $20 million a year in lieu of",
+    "translation": "SpaceX沒有起訴德州來隱藏Terafab拿到稅收優惠這件事啦 那筆交易早就公開了 法院在審的是那份文件\n\nGrimes County批准了為期10年的100%縣財產稅減免\n換來的是：預付1000萬美元（已經付了）加上每年2000萬美元的替代款",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR3DSiEa0AAVZDB?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-11T15:07:53.755964+08:00",
+    "url": "https://x.com/elonmusk/status/2098110313921217003"
+  },
+  {
+    "id": "2098299119043318231",
+    "created_at": "2026-09-11T06:34:29.000Z",
+    "original": "Goes to supermarket, buys some hotdogs, some beer, followed of course by a land acknowledgement 😂",
+    "translation": "去超市買熱狗、啤酒，之後當然要來個原住民土地致意 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T15:08:09.051052+08:00",
+    "url": "https://x.com/elonmusk/status/2098299119043318231"
+  },
+  {
+    "id": "2098298586131787922",
+    "created_at": "2026-09-11T06:32:22.000Z",
+    "original": "This is getting ridiculous",
+    "translation": "這也太扯了吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T15:08:13.497213+08:00",
+    "url": "https://x.com/elonmusk/status/2098298586131787922"
+  },
+  {
+    "id": "2098233044893380943",
+    "created_at": "2026-09-11T02:11:55.000Z",
+    "original": "My local supermarket in Brisbane, Australia has a plaque with an Indigenous land acknowledgement on it. \n\nI drove past a fire station the other day which had a land acknowledgement on the side of the building. \n\nWhen you fly from Brisbane to Sydney on a domestic flight they also",
+    "translation": "我在澳洲布里斯本的在地超市有一塊原住民土地認養公告的牌牌\n\n之前開車經過一間消防局，建築物側面也有土地認養公告\n\n從布里斯本飛雪梨的國內航班上也是啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T15:08:21.499879+08:00",
+    "url": "https://x.com/elonmusk/status/2098233044893380943"
+  },
+  {
+    "id": "2098303708085866900",
+    "created_at": "2026-09-11T06:52:43.000Z",
+    "original": "India is realistic",
+    "translation": "印度挺實際的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T15:08:31.081229+08:00",
+    "url": "https://x.com/elonmusk/status/2098303708085866900"
+  },
+  {
+    "id": "2098304042896162881",
+    "created_at": "2026-09-11T06:54:03.000Z",
+    "original": "Grok Bot is now more powerful for sales teams.\n\nConnect your Bots to Salesforce, HubSpot, Gong, Clay, Granola, and other GTM tools. Stay on top of accounts, complete follow-ups, and do deep research.",
+    "translation": "Grok Bot 對業務團隊來說現在更猛了！\n\n把你的 Bot 串接到 Salesforce、HubSpot、Gong、Clay、Granola 還有其他 GTM 工具。掌握帳戶動態、搞定後續追蹤，還能做深度研究。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR4-QySbcAAgKrc?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-11T15:08:38.533315+08:00",
+    "url": "https://x.com/elonmusk/status/2098304042896162881"
+  },
+  {
+    "id": "2098304166854635528",
+    "created_at": "2026-09-11T06:54:32.000Z",
+    "original": "SpaceXAI will livestream a three-person team attempting to build an entire company from scratch with Grok Bot, September 15–17.\n\nmattyp, poteto and roshan_s will start with an idea and work through the business plan, product decisions and engineering, with viewers following the",
+    "translation": "SpaceXAI 將在 9/15～9/17 直播三人組用手把手教 Grok Bot 從零開始創立一間公司！\n\nmattyp、poteto 和 roshan_s 會從發想點子一路做到商業計畫、產品決策和工程開發，全程直播給大家看！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR5rSYuboAA0gFl?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-11T15:08:46.784468+08:00",
+    "url": "https://x.com/elonmusk/status/2098304166854635528"
+  },
+  {
     "id": "2098220407543533779",
     "created_at": "2026-09-11T01:21:42.000Z",
     "original": "Must be really bad",
