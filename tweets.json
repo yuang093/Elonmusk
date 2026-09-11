@@ -1,5 +1,47 @@
 [
   {
+    "id": "2098456532694319390",
+    "created_at": "2026-09-11T16:59:59.000Z",
+    "original": "No one has provided for their children more than I have. \n\nShe is as ugly on the inside as she is on the outside.",
+    "translation": "沒有人比我更會養小孩了。\n\n她內外都醜。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T02:07:59.375124+08:00",
+    "url": "https://x.com/elonmusk/status/2098456532694319390"
+  },
+  {
+    "id": "2098123340372136131",
+    "created_at": "2026-09-10T18:56:00.000Z",
+    "original": "Jennifer Welch: “Elon Musk is the biggest deadbeat dad on the globe”\n\nHer brand isn't political commentary, It's cruelty with a microphone\n\nPeople cannot be taking this person seriously",
+    "translation": "Jennifer Welch：「Elon Musk 是地球上最廢的爸」\n\n她的風格根本不是政治評論，就是拿著麥克風霸凌\n\n大家不會真的把這個人當一回事吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T02:08:05.852558+08:00",
+    "url": "https://x.com/elonmusk/status/2098123340372136131"
+  },
+  {
+    "id": "2098460032014639334",
+    "created_at": "2026-09-11T17:13:53.000Z",
+    "original": "I recently went through a translation of Musashi’s Book of Five Rings.\n\nThe introduction chronicled the evolution of swordsmanship and martial arts in general from pragmatic battlefield necessities to sports, historical curiosities, and hobbies. It was interesting to hear how in",
+    "translation": "我最近把宮本武藏的《五輪書》翻了一遍。\n\n導讀追溯了劍術跟整體武術從實用的戰場技能，逐漸變成運動、歷史文物和業餘嗜好的演化史。聽到...的部分真的滿有趣的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T02:08:17.985537+08:00",
+    "url": "https://x.com/elonmusk/status/2098460032014639334"
+  },
+  {
     "id": "2098331269213892738",
     "created_at": "2026-09-11T08:42:14.000Z",
     "original": "Surprisingly close",
@@ -66549,7 +66591,7 @@
     "id": "2068061603715563946",
     "created_at": "2026-06-19T20:01:23.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -66557,7 +66599,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-20T05:01:49.051088+08:00",
-    "url": "https://x.com/elonmusk/status/2068061603715563946"
+    "url": "https://x.com/elonmusk/status/2068061603715563946",
+    "retried_at": "2026-09-12T02:07:07.210653+08:00"
   },
   {
     "id": "2068050683899556235",
@@ -66682,7 +66725,7 @@
     "id": "2067993126355034410",
     "created_at": "2026-06-19T15:29:17.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -66690,7 +66733,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-20T00:01:15.215117+08:00",
-    "url": "https://x.com/elonmusk/status/2067993126355034410"
+    "url": "https://x.com/elonmusk/status/2067993126355034410",
+    "retried_at": "2026-09-12T02:07:05.350872+08:00"
   },
   {
     "id": "2067966676813918531",
@@ -66917,7 +66961,7 @@
     "id": "2067848394865823856",
     "created_at": "2026-06-19T05:54:10.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -66925,7 +66969,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T14:01:12.943406+08:00",
-    "url": "https://x.com/elonmusk/status/2067848394865823856"
+    "url": "https://x.com/elonmusk/status/2067848394865823856",
+    "retried_at": "2026-09-12T02:07:05.634080+08:00"
   },
   {
     "id": "2067675437891993910",
@@ -67035,7 +67080,7 @@
     "id": "2067810729466421320",
     "created_at": "2026-06-19T03:24:30.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67043,7 +67088,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T12:01:46.661429+08:00",
-    "url": "https://x.com/elonmusk/status/2067810729466421320"
+    "url": "https://x.com/elonmusk/status/2067810729466421320",
+    "retried_at": "2026-09-12T02:07:04.781858+08:00"
   },
   {
     "id": "2067782306157252746",
@@ -67063,7 +67109,7 @@
     "id": "2067811183722172550",
     "created_at": "2026-06-19T03:26:18.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67071,7 +67117,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T12:01:59.753704+08:00",
-    "url": "https://x.com/elonmusk/status/2067811183722172550"
+    "url": "https://x.com/elonmusk/status/2067811183722172550",
+    "retried_at": "2026-09-12T02:07:04.415143+08:00"
   },
   {
     "id": "2067672441657454679",
@@ -67091,7 +67138,7 @@
     "id": "2067812181807071727",
     "created_at": "2026-06-19T03:30:16.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67099,13 +67146,14 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T12:02:16.857721+08:00",
-    "url": "https://x.com/elonmusk/status/2067812181807071727"
+    "url": "https://x.com/elonmusk/status/2067812181807071727",
+    "retried_at": "2026-09-12T02:07:05.986426+08:00"
   },
   {
     "id": "2067791724135465312",
     "created_at": "2026-06-19T02:08:59.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67113,13 +67161,14 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T11:01:50.711069+08:00",
-    "url": "https://x.com/elonmusk/status/2067791724135465312"
+    "url": "https://x.com/elonmusk/status/2067791724135465312",
+    "retried_at": "2026-09-12T02:07:07.754717+08:00"
   },
   {
     "id": "2067792285870260679",
     "created_at": "2026-06-19T02:11:13.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67127,7 +67176,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T11:01:52.918626+08:00",
-    "url": "https://x.com/elonmusk/status/2067792285870260679"
+    "url": "https://x.com/elonmusk/status/2067792285870260679",
+    "retried_at": "2026-09-12T02:07:05.916154+08:00"
   },
   {
     "id": "2067648757680758841",
@@ -67147,7 +67197,7 @@
     "id": "2067793138459033804",
     "created_at": "2026-06-19T02:14:36.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67155,7 +67205,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T11:02:06.169437+08:00",
-    "url": "https://x.com/elonmusk/status/2067793138459033804"
+    "url": "https://x.com/elonmusk/status/2067793138459033804",
+    "retried_at": "2026-09-12T02:07:07.847927+08:00"
   },
   {
     "id": "2067700951239065879",
@@ -67203,7 +67254,7 @@
     "id": "2067783377055322453",
     "created_at": "2026-06-19T01:35:49.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67211,7 +67262,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T10:01:25.761054+08:00",
-    "url": "https://x.com/elonmusk/status/2067783377055322453"
+    "url": "https://x.com/elonmusk/status/2067783377055322453",
+    "retried_at": "2026-09-12T02:07:07.258122+08:00"
   },
   {
     "id": "2067773332095648056",
@@ -67233,7 +67285,7 @@
     "id": "2067787625784541484",
     "created_at": "2026-06-19T01:52:42.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67241,7 +67293,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T10:01:35.477066+08:00",
-    "url": "https://x.com/elonmusk/status/2067787625784541484"
+    "url": "https://x.com/elonmusk/status/2067787625784541484",
+    "retried_at": "2026-09-12T02:07:08.193202+08:00"
   },
   {
     "id": "2067688106677985582",
@@ -67309,7 +67362,7 @@
     "id": "2067788617917796463",
     "created_at": "2026-06-19T01:56:38.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67317,7 +67370,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T10:02:10.572481+08:00",
-    "url": "https://x.com/elonmusk/status/2067788617917796463"
+    "url": "https://x.com/elonmusk/status/2067788617917796463",
+    "retried_at": "2026-09-12T02:07:09.063233+08:00"
   },
   {
     "id": "2067698715867906227",
@@ -67437,7 +67491,7 @@
     "id": "2067773507304366176",
     "created_at": "2026-06-19T00:56:36.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67445,7 +67499,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T09:00:58.785557+08:00",
-    "url": "https://x.com/elonmusk/status/2067773507304366176"
+    "url": "https://x.com/elonmusk/status/2067773507304366176",
+    "retried_at": "2026-09-12T02:07:09.565254+08:00"
   },
   {
     "id": "2067597572089520399",
@@ -67467,7 +67522,7 @@
     "id": "2067773572542603713",
     "created_at": "2026-06-19T00:56:51.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67475,7 +67530,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T09:01:19.336136+08:00",
-    "url": "https://x.com/elonmusk/status/2067773572542603713"
+    "url": "https://x.com/elonmusk/status/2067773572542603713",
+    "retried_at": "2026-09-12T02:07:09.522245+08:00"
   },
   {
     "id": "2067735067397423300",
@@ -67733,7 +67789,7 @@
     "id": "2067676174482890798",
     "created_at": "2026-06-18T18:29:50.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67741,7 +67797,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T03:01:59.517087+08:00",
-    "url": "https://x.com/elonmusk/status/2067676174482890798"
+    "url": "https://x.com/elonmusk/status/2067676174482890798",
+    "retried_at": "2026-09-12T02:07:10.435732+08:00"
   },
   {
     "id": "2067628661184856369",
@@ -67793,7 +67850,7 @@
     "id": "2067667126656143860",
     "created_at": "2026-06-18T17:53:53.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67801,7 +67858,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-06-19T02:00:37.860711+08:00",
-    "url": "https://x.com/elonmusk/status/2067667126656143860"
+    "url": "https://x.com/elonmusk/status/2067667126656143860",
+    "retried_at": "2026-09-12T02:07:10.553711+08:00"
   },
   {
     "id": "2067626295463198824",
@@ -84118,7 +84176,7 @@
     "id": "2060364732469559650",
     "created_at": "2026-05-29T14:16:46.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84126,7 +84184,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T23:01:23.053637+08:00",
-    "url": "https://x.com/elonmusk/status/2060364732469559650"
+    "url": "https://x.com/elonmusk/status/2060364732469559650",
+    "retried_at": "2026-09-12T02:07:10.149534+08:00"
   },
   {
     "id": "2060348696160534935",
@@ -84218,7 +84277,7 @@
     "id": "2060274168516468872",
     "created_at": "2026-05-29T08:16:54.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84226,7 +84285,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T18:01:00.396519+08:00",
-    "url": "https://x.com/elonmusk/status/2060274168516468872"
+    "url": "https://x.com/elonmusk/status/2060274168516468872",
+    "retried_at": "2026-09-12T02:07:12.646593+08:00"
   },
   {
     "id": "2060000229764600180",
@@ -84246,7 +84306,7 @@
     "id": "2060296179502489684",
     "created_at": "2026-05-29T09:44:22.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84254,7 +84314,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T18:02:28.289655+08:00",
-    "url": "https://x.com/elonmusk/status/2060296179502489684"
+    "url": "https://x.com/elonmusk/status/2060296179502489684",
+    "retried_at": "2026-09-12T02:07:14.268597+08:00"
   },
   {
     "id": "2060263129129345134",
@@ -84435,7 +84496,7 @@
     "id": "2060170250507952362",
     "created_at": "2026-05-29T01:23:58.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84443,7 +84504,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T10:01:18.513493+08:00",
-    "url": "https://x.com/elonmusk/status/2060170250507952362"
+    "url": "https://x.com/elonmusk/status/2060170250507952362",
+    "retried_at": "2026-09-12T02:07:15.140789+08:00"
   },
   {
     "id": "2060165183377424617",
@@ -84689,7 +84751,7 @@
     "id": "2060092710007300574",
     "created_at": "2026-05-28T20:15:51.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84697,7 +84759,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T05:01:19.299557+08:00",
-    "url": "https://x.com/elonmusk/status/2060092710007300574"
+    "url": "https://x.com/elonmusk/status/2060092710007300574",
+    "retried_at": "2026-09-12T02:07:12.121882+08:00"
   },
   {
     "id": "2060054896821309501",
@@ -84775,7 +84838,7 @@
     "id": "2060049585041785239",
     "created_at": "2026-05-28T17:24:29.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84783,7 +84846,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T02:03:48.596434+08:00",
-    "url": "https://x.com/elonmusk/status/2060049585041785239"
+    "url": "https://x.com/elonmusk/status/2060049585041785239",
+    "retried_at": "2026-09-12T02:07:12.903945+08:00"
   },
   {
     "id": "2060042702150930686",
@@ -84919,7 +84983,7 @@
     "id": "2060013732999405631",
     "created_at": "2026-05-28T15:02:01.000Z",
     "original": "Elon Musk",
-    "translation": "",
+    "translation": "Elon Musk",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -84927,7 +84991,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-05-29T01:02:55.361662+08:00",
-    "url": "https://x.com/elonmusk/status/2060013732999405631"
+    "url": "https://x.com/elonmusk/status/2060013732999405631",
+    "retried_at": "2026-09-12T02:07:13.545852+08:00"
   },
   {
     "id": "2059927516073041932",
