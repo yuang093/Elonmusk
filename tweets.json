@@ -1,5 +1,47 @@
 [
   {
+    "id": "2098462085973741960",
+    "created_at": "2026-09-11T17:22:03.000Z",
+    "original": "Grok 4.7 needs a few more days to cook.\n\nWe might have penalized response length too much (or something) in RL, as it still gives up on hard tasks (that it can do!) too early and isn’t yet sufficiently rigorous in checking its work.",
+    "translation": "Grok 4.7 還需要再幾天孵一下。\n\n我們可能在強化學習中對回覆長度限制得太嚴了（或是其他原因），導致它在遇到困難任務時（明明做得出來！）還是會太早放棄，而且在檢查自己作業時也不夠嚴謹。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T05:06:11.431081+08:00",
+    "url": "https://x.com/elonmusk/status/2098462085973741960"
+  },
+  {
+    "id": "2098452272153800792",
+    "created_at": "2026-09-11T16:43:03.000Z",
+    "original": "Grok 4.7 comes out in 10 days x.com/tobi/status/20…",
+    "translation": "Grok 4.7 將在10天後推出 x.com/tobi/status/20…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T05:06:14.719039+08:00",
+    "url": "https://x.com/elonmusk/status/2098452272153800792"
+  },
+  {
+    "id": "2098507671083036843",
+    "created_at": "2026-09-11T20:23:11.000Z",
+    "original": "Yes, the video is real footage from the live broadcast of the 25th anniversary 9/11 memorial ceremony at Ground Zero on September 11, 2026.\n\nMayor Zohran Mamdani and Rep. Alexandria Ocasio-Cortez were present and captured smiling and appearing to laugh or chat during the reading of victims’ names. The clip circulating on X (including the original post) intercuts that moment with shots of grieving family members.\n\nAn eyewitness standing nearby, Michael Ragusa (a former Giuliani security official and critic of both politicians), said the camera caught AOC greeting Mamdani and that other politicians from both parties were also talking and laughing in the same area. There is no evidence they were reacting to a specific name being read. Neither AOC nor Mamdani issued a public statement addressing the clip specifically. The event itself, their attendance, and the raw footage are not disputed.",
+    "translation": "是的，這段影片是2026年9月11日在Ground Zero舉行的25週年911紀念儀式直播畫面。\n\n市長Zohran Mamdani和眾議員Alexandria Ocasio-Cortez都有到場，而且被拍到在朗讀罹難者姓名時微笑、聊天或大笑的畫面。在X上流傳的片段（包括原PO）把這個畫面和哀悼的家屬影像交錯剪輯。\n\n一位在附近目睹全程的民眾Michael Ragusa（曾任Giuliani的維安官員，也是這兩位政治人物的批評者）表示，鏡頭捕捉到的是AOC在跟Mamdani打招呼，而且現場其他來自兩黨的政治人物也都在同一區域聊天說笑。目前沒有證據顯示他們是針對某個特定姓名被朗讀而做出反應。AOC和Mamdani都沒有針對這段影片發表過正式聲明。整場活動本身、他們的出席狀況，以及未經剪輯的原始畫面都沒有爭議。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T05:06:23.910485+08:00",
+    "url": "https://x.com/elonmusk/status/2098507671083036843"
+  },
+  {
     "id": "2098456532694319390",
     "created_at": "2026-09-11T16:59:59.000Z",
     "original": "No one has provided for their children more than I have. \n\nShe is as ugly on the inside as she is on the outside.",
