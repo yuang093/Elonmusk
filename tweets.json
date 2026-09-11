@@ -1,5 +1,49 @@
 [
   {
+    "id": "2096442499518656590",
+    "created_at": "2026-09-06T03:36:56.000Z",
+    "original": "BREAKING: Lululemon founder Chip Wilson, worth $6.1 billion, is getting a divorce from his wife. There is no prenup in place.",
+    "translation": "突發：Lululemon創辦人、Chip Wilson，身家61億美元要和老婆離婚了。而且沒有婚前協議。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T08:07:44.541753+08:00",
+    "url": "https://x.com/elonmusk/status/2096442499518656590"
+  },
+  {
+    "id": "2098167889916551410",
+    "created_at": "2026-09-10T21:53:01.000Z",
+    "original": "Elon Musk",
+    "translation": "馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T08:07:48.711868+08:00",
+    "url": "https://x.com/elonmusk/status/2098167889916551410"
+  },
+  {
+    "id": "2098118060469285010",
+    "created_at": "2026-09-10T18:35:01.000Z",
+    "original": "Legacy media keep attacking Elon because every hit piece gets them clicks.",
+    "translation": "主流媒體一直猛黑Elon，因為每篇黑文都能幫他們刷點擊率賺流量",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR4DHYragAAMcje?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-11T08:07:54.361939+08:00",
+    "url": "https://x.com/elonmusk/status/2098118060469285010"
+  },
+  {
     "id": "2098046645804159208",
     "created_at": "2026-09-10T13:51:14.000Z",
     "original": "Elon Musk",
