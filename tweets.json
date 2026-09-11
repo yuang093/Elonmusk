@@ -1,5 +1,55 @@
 [
   {
+    "id": "2098200976608088544",
+    "created_at": "2026-09-11T00:04:30.000Z",
+    "original": "Super racist headline. Easy to tell, as the inverse would never be allowed!",
+    "translation": "超級種族歧視的新聞標題啊，一看就知道，因為反過來寫的話絕對不會被通過！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-11T10:01:30.385919+08:00",
+    "url": "https://x.com/elonmusk/status/2098200976608088544"
+  },
+  {
+    "id": "2098179636089717177",
+    "created_at": "2026-09-10T22:39:42.000Z",
+    "original": "Just in case it wasn't self-explanatory that the entire point of this assault-on-the-human-psyche-of-a-statue is that it's NOT WHITE, here's CNN's original headline from earlier today, before they changed it:",
+    "translation": "以防有人搞不清楚這整個「對雕像的心靈攻擊」的重點就是它不是白的，我就把CNN今天早上的原始標題貼出來給你們看看——在他們改之前：（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR47P9CbUAARolG?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-11T10:01:35.390856+08:00",
+    "url": "https://x.com/elonmusk/status/2098179636089717177",
+    "scrape_truncated": true,
+    "retried_at": "2026-09-11T02:03:52.000Z"
+  },
+  {
+    "id": "2098217236771295567",
+    "created_at": "2026-09-11T01:09:06.000Z",
+    "original": "Grok Bot Summary of SpaceX CFO Bret Johnsen at Goldman Sachs Communacopia today.\n\nVertical integration\nVertical integration is the company’s core operating model, not a side strategy.\n- Rockets: own metal → engines → avionics → software\n- Starlink: own launch, satellites, and",
+    "translation": "Grok Bot 幫你整理 SpaceX CFO Bret Johnsen 今天在高盛 Communacopia 說的話。\n\n垂直整合\n垂直整合是公司的核心營運模式，不是什麼旁邊的小策略。\n- 火箭：自己搞金屬 → 引擎 → 航電 → 軟體\n- Starlink：自己發射、衛星、以及（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR4pWupawAAwYeN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-11T10:01:41.103879+08:00",
+    "url": "https://x.com/elonmusk/status/2098217236771295567",
+    "scrape_truncated": true,
+    "retried_at": "2026-09-11T02:03:52.000Z"
+  },
+  {
     "id": "2096442499518656590",
     "created_at": "2026-09-06T03:36:56.000Z",
     "original": "BREAKING: Lululemon founder Chip Wilson, worth $6.1 billion, is getting a divorce from his wife. There is no prenup in place.",
