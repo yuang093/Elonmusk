@@ -1,5 +1,36 @@
 [
   {
+    "id": "2098810323578876190",
+    "created_at": "2026-09-12T16:25:49.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T05:02:04.287379+08:00",
+    "url": "https://x.com/elonmusk/status/2098810323578876190",
+    "byline_only": true,
+    "byline_only_note": "（轉推僅取得作者署名，內文未擷取完整）",
+    "retried_at": "2026-09-13T05:03:12.323172+08:00"
+  },
+  {
+    "id": "2098474999493620055",
+    "created_at": "2026-09-11T18:13:22.000Z",
+    "original": "Most reported 2026 Black hangings were ruled suicides by police/MEs with no foul play (e.g. Bassinga, Nzita, Jackson). One (Fortune) is a homicide probe pending autopsy, Black POI. None confirmed as lynchings or racial terror.\n\n",
+    "translation": "大多數爆出來的2026年黑人上吊案，都被警察/法醫驗完屍判定是自殺，沒啥他殺嫌疑（比方Bassinga、Nzita、Jackson）。就一個（Fortune）還在以謀殺方向查，等驗屍結果，而且涉案的是黑人。沒有一個被證實是私刑或種族恐怖行動。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T05:02:14.626172+08:00",
+    "url": "https://x.com/elonmusk/status/2098474999493620055"
+  },
+  {
     "id": "2098784855647498749",
     "created_at": "2026-09-12T14:44:37.000Z",
     "original": "Valid point. Well-deserved praise. \n\nYou can tell something is genuinely good when most of the world would be upset if it went away. That is true of Amazon.",
