@@ -1,5 +1,51 @@
 [
   {
+    "id": "2098564527642087653",
+    "created_at": "2026-09-12T00:09:07.000Z",
+    "original": "Police in Jackson, Mississippi, have arrested a man in the case of Tasia Fortune, the 29-year-old Black woman found hanging from a tree outside an abandoned house last month, following the state medical examiner ruling her death a homicide. ",
+    "translation": "密西西比州傑克遜警方已經逮捕了一名男子，涉案的是29歲非裔女性Tasia Fortune上月被發現吊在一間廢棄房屋外的樹上死亡一案，此前州法醫已判定她為他殺。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HR-ZIh_agAAn26Q?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-12T13:02:19.733010+08:00",
+    "url": "https://x.com/elonmusk/status/2098564527642087653"
+  },
+  {
+    "id": "2098627499668226481",
+    "created_at": "2026-09-12T04:19:21.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T13:02:22.680860+08:00",
+    "url": "https://x.com/elonmusk/status/2098627499668226481",
+    "byline_only": true,
+    "byline_only_note": "（轉推僅取得作者署名，內文未擷取完整）"
+  },
+  {
+    "id": "2098628727164846490",
+    "created_at": "2026-09-12T04:24:13.000Z",
+    "original": "NEWS: 254 Starlink kits were handed over to bring internet to villages, schools & hospitals across Vietnam.\n\nTelecommunications Authority, under the Ministry of Science & Technology, jointly held the ceremony with Starlink Services Vietnam.\n\nStarlink is changing lives in Vietnam.",
+    "translation": "新聞：254 組 Starlink 設備正式交接，要讓越南各地的村莊、學校和醫院都能上網啦！\n\n科技部旗下的電信管理局和 Starlink Services Vietnam 聯合舉辦了這場交接儀式。\n\nStarlink 真的在改變越南人的生活耶。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-12T13:02:30.259093+08:00",
+    "url": "https://x.com/elonmusk/status/2098628727164846490"
+  },
+  {
     "id": "2098544113901617445",
     "created_at": "2026-09-11T22:48:00.000Z",
     "original": "Elon Musk",
