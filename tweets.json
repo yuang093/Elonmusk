@@ -1,5 +1,48 @@
 [
   {
+    "id": "2098784855647498749",
+    "created_at": "2026-09-12T14:44:37.000Z",
+    "original": "Valid point. Well-deserved praise. \n\nYou can tell something is genuinely good when most of the world would be upset if it went away. That is true of Amazon.",
+    "translation": "有道理，真的是實至名歸。\n\n當世界上大多數人會因為某樣東西消失而崩潰時，就代表它真的很讚。亞馬遜就是這種東西。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T01:01:40.835149+08:00",
+    "url": "https://x.com/elonmusk/status/2098784855647498749"
+  },
+  {
+    "id": "2098562413532512754",
+    "created_at": "2026-09-12T00:00:43.000Z",
+    "original": "By reducing the time people spend shopping, managing inventory, and building infrastructure, Amazon has created consumer surplus that far exceeds Bezos’s personal fortune.",
+    "translation": "透過減少人們在購物、管理庫存和建造基礎設施上所花費的時間，亞馬遜創造的消費者剩餘遠遠超過了貝佐斯的個人財富。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T01:01:55.566426+08:00",
+    "url": "https://x.com/elonmusk/status/2098562413532512754",
+    "_retranslated": true
+  },
+  {
+    "id": "2098809953439904220",
+    "created_at": "2026-09-12T16:24:21.000Z",
+    "original": "More model choice coming to Copilot. Welcome Grok! x.com/Microsoft365/s…",
+    "translation": "Copilot 要迎來更多模型選擇啦！歡迎 Grok！ x.com/Microsoft365/s…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T01:02:02.614453+08:00",
+    "url": "https://x.com/elonmusk/status/2098809953439904220"
+  },
+  {
     "id": "2098789109980332057",
     "created_at": "2026-09-12T15:01:32.000Z",
     "original": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our",
