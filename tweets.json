@@ -1,5 +1,36 @@
 [
   {
+    "id": "2099238252410556506",
+    "created_at": "2026-09-13T20:46:15.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T06:01:27.214699+08:00",
+    "url": "https://x.com/elonmusk/status/2099238252410556506",
+    "fix_note": "byline-only orphan cleared (cycle 273)"
+  },
+  {
+    "id": "2099256569737207873",
+    "created_at": "2026-09-13T21:59:03.000Z",
+    "original": "If you still haven’t registered for Grok Bot Galaxy....now is the time\n\nStarting September 15, SpaceXAI is doing a 3-day livestream showing what Grok Bot can actually do\n\nThree people will start from scratch with an idea and try to build an entire product/company from scratch",
+    "translation": "如果你到現在還沒註冊Grok Bot Galaxy....現在就是時候了\n\n從9/15開始，SpaceXAI要做為期3天的直播，展示Grok Bot到底能怎樣\n\n三個人會帶著一個想法，從零開始試著打造一整個產品/公司",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSFLv1Ma8AAkMQs?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-14T06:01:34.572400+08:00",
+    "url": "https://x.com/elonmusk/status/2099256569737207873"
+  },
+  {
     "id": "2099217070210838624",
     "created_at": "2026-09-13T19:22:05.000Z",
     "original": "Elon Musk",
