@@ -1,5 +1,75 @@
 [
   {
+    "id": "2098933866283020643",
+    "created_at": "2026-09-13T00:36:44.000Z",
+    "original": "There is a reason Elon founded OpenAI as a nonprofit. \n\nAI for the benefit of all humanity.",
+    "translation": "這就是為啥 Elon 當初要把 OpenAI 搞成非營利組織的原因。\n\nAI 為全人類的福祉服務。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSDpOVbbIAABj6O?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-13T12:07:48.150988+08:00",
+    "url": "https://x.com/elonmusk/status/2098933866283020643"
+  },
+  {
+    "id": "2098969227033993529",
+    "created_at": "2026-09-13T02:57:15.000Z",
+    "original": "@yunta_tsai",
+    "translation": "@yunta_tsai",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T12:07:51.344450+08:00",
+    "url": "https://x.com/elonmusk/status/2098969227033993529",
+    "byline_only": true,
+    "byline_only_note": "@yunta_tsai mention (bare handle, no retweet text scraped)",
+    "retried_at": "2026-09-13T13:02:04+08:00"
+  },
+  {
+    "id": "2098986420815667271",
+    "created_at": "2026-09-13T04:05:34.000Z",
+    "original": "Elon Musk",
+    "translation": "馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T12:07:58.251610+08:00",
+    "url": "https://x.com/elonmusk/status/2098986420815667271",
+    "byline_only": true,
+    "byline_only_note": "Elon Musk byline (bare handle, scrape-layer defect)",
+    "retried_at": "2026-09-13T13:02:04+08:00"
+  },
+  {
+    "id": "2098933807382773770",
+    "created_at": "2026-09-13T00:36:30.000Z",
+    "original": "America is unironically the greatest nation in all of human history",
+    "translation": "美國真的是人類史上最偉大的國家",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSDpLKDbIAAvIBt?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSDpLKCbMAA-i1v?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HSDpLK_aAAAE4E1?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HSDpLKBb0AA0Q5K?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSDfKY8a4AAgCFy?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-09-13T12:08:10.240433+08:00",
+    "url": "https://x.com/elonmusk/status/2098933807382773770"
+  },
+  {
     "id": "2098937899349643668",
     "created_at": "2026-09-13T00:52:46.000Z",
     "original": "Elon Musk",
