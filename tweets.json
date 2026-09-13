@@ -1,5 +1,70 @@
 [
   {
+    "id": "2099217070210838624",
+    "created_at": "2026-09-13T19:22:05.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T05:04:06.737392+08:00",
+    "url": "https://x.com/elonmusk/status/2099217070210838624",
+    "fix_note": "byline-only orphan cleared ('Elon Musk'); placeholder applied per byline-only-blind-spot recipe (cycle 272, single-record targeted fix)"
+  },
+  {
+    "id": "2099201389641810028",
+    "created_at": "2026-09-13T18:19:47.000Z",
+    "original": " is MUCH bigger than expected: They are bringing all three prime evils in modern D4 graphics, Tristram, D2 Tyrael, many old bosses, 25 new enemy types, pinnacle capstone dungeons (T13 tuned), Den of Evil, Nilathak, Tomb of Tal Rasha, lots of nostalgic lore",
+    "translation": "比預期要大得多：他們將在現代《暗黑破壞神IV》的畫面中帶來所有三個魔王、崔斯特瑞姆、《暗黑破壞神II》的泰瑞爾、許多舊的頭目、25種新敵人類型、頂峰巔峰地下城（調整為T13難度）、惡魔巢穴、尼拉薩克、塔·拉夏之墓，以及大量的懷舊背景故事",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSHchmda0AACuOR?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSHciAvagAAZROJ?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSHciZzakAALJJh?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-14T05:04:18.455992+08:00",
+    "url": "https://x.com/elonmusk/status/2099201389641810028",
+    "retried_at": "2026-09-14T05:06:14+08:00"
+  },
+  {
+    "id": "2099232660761538723",
+    "created_at": "2026-09-13T20:24:02.000Z",
+    "original": "Interesting",
+    "translation": "有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T05:04:21.673036+08:00",
+    "url": "https://x.com/elonmusk/status/2099232660761538723"
+  },
+  {
+    "id": "2099089779660825005",
+    "created_at": "2026-09-13T10:56:17.000Z",
+    "original": "What are China’s biggest concerns about AI?\n\nA new article by Chen Yixin,  China’s Minister of State Security, in the latest issue of China Cybersecurity Magazine offers some revealing clues.\n\nChen identifies six major risks:\n1. Regime security. Hostile forces and people with",
+    "translation": "中國對AI最大的據慰到底是啥？\n\n中共國安部長陳一新在最新一期的《中國網路安全》雜誌上發了篇文章，透露了一些耐人寻味的線索。\n\n陳一新列出了六大風險：\n1. 政權安全。外國敵對勢力和有心人士",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSF1R8YX0AQ5aCm?format=png&name=small",
+      "https://pbs.twimg.com/media/HSD_1yObkAArOAg?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-09-14T05:04:26.691303+08:00",
+    "url": "https://x.com/elonmusk/status/2099089779660825005"
+  },
+  {
     "id": "2099055863457779713",
     "created_at": "2026-09-13T08:41:31.000Z",
     "original": "Elon Musk",
