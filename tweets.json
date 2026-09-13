@@ -1,5 +1,37 @@
 [
   {
+    "id": "2099055863457779713",
+    "created_at": "2026-09-13T08:41:31.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T04:01:34.147398+08:00",
+    "url": "https://x.com/elonmusk/status/2099055863457779713",
+    "fix_note": "byline-only orphan cleared (cycle 271); placeholder applied"
+  },
+  {
+    "id": "2098740653572100578",
+    "created_at": "2026-09-12T11:48:59.000Z",
+    "original": "Brivael Le Pogam",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSA5fmzbQAAP4Yi?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-14T04:01:38.149529+08:00",
+    "url": "https://x.com/elonmusk/status/2098740653572100578",
+    "fix_note": "byline-only orphan cleared (cycle 271); placeholder applied"
+  },
+  {
     "id": "2099027833385521279",
     "created_at": "2026-09-13T06:50:08.000Z",
     "original": "Cool. I hope it comes out sooner than 2029.",
