@@ -1,5 +1,52 @@
 [
   {
+    "id": "2098879547886522384",
+    "created_at": "2026-09-12T21:00:54.000Z",
+    "original": " please give them unlimited tokens so that they could code faster. 😆",
+    "translation": "拜託給他們 unlimited tokens 吧，這樣他們 coding 速度直接起飛 😆",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSC302IbkAA7bOG?format=jpg&name=900x900",
+      "https://pbs.twimg.com/media/HSCTkkWXMA0tVdE?format=png&name=240x240"
+    ],
+    "fetched_at": "2026-09-13T14:08:19.407820+08:00",
+    "url": "https://x.com/elonmusk/status/2098879547886522384"
+  },
+  {
+    "id": "2098986888572907643",
+    "created_at": "2026-09-13T04:07:26.000Z",
+    "original": "Dario is right that there should be some oversight. Peer review of AI by competitors is the right way to start this off.",
+    "translation": "Dario 說得對，確實需要一些監督機制。讓競爭對手來做 AI 的同儕審查是個好的起點。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-13T14:08:23.242868+08:00",
+    "url": "https://x.com/elonmusk/status/2098986888572907643"
+  },
+  {
+    "id": "2098971548799394074",
+    "created_at": "2026-09-13T03:06:28.000Z",
+    "original": "Dario is right x.com/darioamodei/st…",
+    "translation": "Dario是對的 x.com/darioamodei/st…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSEK_9IX0AcPj5Q?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-13T14:08:29.285971+08:00",
+    "url": "https://x.com/elonmusk/status/2098971548799394074"
+  },
+  {
     "id": "2098994567810830823",
     "created_at": "2026-09-13T04:37:57.000Z",
     "original": "Can't believe people keep doing the meme ",
