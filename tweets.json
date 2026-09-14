@@ -1,5 +1,65 @@
 [
   {
+    "id": "2099500295931789493",
+    "created_at": "2026-09-14T14:07:32.000Z",
+    "original": "Our training (aka pre-training) software is now the internally developed C/C++ stack, which was written primarily by the Starlink software team. This is awesome and probably best in industry. \n\nHowever, our reinforcement learning stack is still somewhat of a legacy pile of many",
+    "translation": "我們的訓練（也就是預訓練）軟體現在是內部開發的 C/C++ 堆疊了，主要是 Starlink 軟體團隊寫的。這太猛了，搞不好是業界最強的。\n\n不過我們的強化學習堆疊嘛，目前還是一坨 legacy 大雜燴，很多...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T23:07:49.785512+08:00",
+    "url": "https://x.com/elonmusk/status/2099500295931789493"
+  },
+  {
+    "id": "2099482580668088457",
+    "created_at": "2026-09-14T12:57:08.000Z",
+    "original": "After the C+++ rewrite, our modeling indicated RL time for these models starting at 4.8 COULD be cut in half for ~2T models and substantially more time savings on a % basis for larger models. The thing I’d suggest watching is time between releases once they get some of the kinks",
+    "translation": "C+++ 重寫之後，我們的建模顯示這些模型的 RL 時間從 4.8 開始，2 兆參數的模型可以砍半，更大的模型百分比上節省時間會更多。我建議大家可以持續關注的是，等他們解決一些初期問題之後，兩次發布之間的間隔時間",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T23:07:55.755506+08:00",
+    "url": "https://x.com/elonmusk/status/2099482580668088457"
+  },
+  {
+    "id": "2099503167079674202",
+    "created_at": "2026-09-14T14:18:56.000Z",
+    "original": "The electricity price news just keeps getting better for Georgians.\n\nGeorgia Power announced that new large-load contracts (overwhelmingly data centers) will save their customers nearly a billion dollars, erasing about $180 per year from their bills!",
+    "translation": "喬治亞州的電費消息對當地居民來說簡直是好到不行。\n\nGeorgia Power 宣布，新的大型用電合約（基本上都是資料中心）將為用戶省下近十億美元，相當於每年帳單可以少付約 180 美元！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSLizmuWAAA3EPN?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-14T23:08:02.017296+08:00",
+    "url": "https://x.com/elonmusk/status/2099503167079674202"
+  },
+  {
+    "id": "2099505692805582871",
+    "created_at": "2026-09-14T14:28:58.000Z",
+    "original": "Each day, Grok Bot looks at my X Bookmarks for things I find interesting, then it spins up a Cursor Agent to build a demo\n\nIt validates work with screenshots / video, then cuts a branch on a repo configured with ",
+    "translation": "每天 Grok Bot 都會去看我的 X 書籤，找我覺得有趣的東西，然後它會啟動一個 Cursor Agent 來做 demo\n\n它會用截圖/影片驗證作品，接著在設定好的 repo 上面開一個 branch",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSLcETBaMAAKgbj?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-14T23:08:07.662810+08:00",
+    "url": "https://x.com/elonmusk/status/2099505692805582871"
+  },
+  {
     "id": "2099466387789918647",
     "created_at": "2026-09-14T11:52:47.000Z",
     "original": "Elon Musk",
