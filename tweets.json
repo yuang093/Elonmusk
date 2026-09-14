@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099466387789918647",
+    "created_at": "2026-09-14T11:52:47.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T22:07:45.230618+08:00",
+    "url": "https://x.com/elonmusk/status/2099466387789918647"
+  },
+  {
+    "id": "2099170946326143205",
+    "created_at": "2026-09-13T16:18:48.000Z",
+    "original": "OMG.\n\nIf frontier AI is built by governments, we are completely fucked.\n\nDon't do that.",
+    "translation": "天啊。\n\n如果前沿AI是由政府打造的，我們就完蛋了。\n\n別這樣啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-14T22:07:49.898629+08:00",
+    "url": "https://x.com/elonmusk/status/2099170946326143205"
+  },
+  {
     "id": "2099319983897825767",
     "created_at": "2026-09-14T02:11:02.000Z",
     "original": "I just bought a new Model Y and can confidently say cars and Teslas are no longer the same product.\n\nA car is like a pony or horse. I still like driving a stick shift, it’s fun! \n\nTesla with FSD is a transportation robot. \n\nI had one of the first Model 3s in 2017. FSD was",
