@@ -1,5 +1,35 @@
 [
   {
+    "id": "2099743954707067058",
+    "created_at": "2026-09-15T06:15:44.000Z",
+    "original": "SpaceX specializes in converting things from impossible to late",
+    "translation": "SpaceX的專長就是把「不可能」變成「遲到」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSNN-prX0AAE73L?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-15T15:02:23.652131+08:00",
+    "url": "https://x.com/elonmusk/status/2099743954707067058"
+  },
+  {
+    "id": "2099744349017747493",
+    "created_at": "2026-09-15T06:17:18.000Z",
+    "original": "“[FSD Supervised] is safe, efficient, and above all, an exciting glimpse into the future of mobility. It doesn't get tired, doesn't fall asleep, and can significantly contribute to safer driving”\n\n– Slovenia’s Deputy Prime Minister & Minister for Infrastructure & Energy 🇸🇮 x.com/jernejvrtovec/…",
+    "translation": "「[FSD Supervised] 安全、有效率，最重要的是它讓我們一窺未來交通的興奮模樣。它不會累、不會打瞌睡，還能大幅提升行車安全！」\n\n— 斯洛維尼亞副總理暨基礎建設暨能源部部長 🇸🇮",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-15T15:02:32.424689+08:00",
+    "url": "https://x.com/elonmusk/status/2099744349017747493"
+  },
+  {
     "id": "2099737081756930206",
     "created_at": "2026-09-15T05:48:26.000Z",
     "original": "Elon Musk says Anthropic puts more care into AI safety than OpenAI and explains how rival companies should test one another’s models.\n\n“All the AI companies have a test harness, a series of tests that you give to any model to see if it’s going to build bioweapons or nuclear bombs ",
