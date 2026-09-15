@@ -1,5 +1,21 @@
 [
   {
+    "id": "2099714967113015716",
+    "created_at": "2026-09-15T04:20:33.000Z",
+    "original": "Grok Bot Summary of Elon Musk’s All-In Summit Interview Today\n\nOpening bit\n- Joke cold open: “We’re all going to die.” Death rate still 100%.\n- Then straight into “what happened in the last 72 hours.”\n\nAI danger and the Hugging Face incident\n- AI can be very dangerous. He tells",
+    "translation": "Grok Bot 摘要：Elon Musk All-In 峰會訪談\n\n開場\n- 笑話開場：「我們都會死。」死亡率還是 100%。\n- 然後直接切入「過去 72 小時發生了啥」。\n\nAI 危險性與 Hugging Face 事件\n- AI 可能非常危險。他說...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSOGCvMa4AAfI61?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-15T13:02:01.159093+08:00",
+    "url": "https://x.com/elonmusk/status/2099714967113015716"
+  },
+  {
     "id": "2099705926332690482",
     "created_at": "2026-09-15T03:44:38.000Z",
     "original": "I essentially stopped driving a month ago. Tesla FSD works like magic.",
