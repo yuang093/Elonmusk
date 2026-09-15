@@ -1,5 +1,68 @@
 [
   {
+    "id": "2099858938464477278",
+    "created_at": "2026-09-15T13:52:39.000Z",
+    "original": "I thought you did not like chess ?",
+    "translation": "我以為你不喜歡下棋？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-16T02:01:22.410414+08:00",
+    "url": "https://x.com/elonmusk/status/2099858938464477278"
+  },
+  {
+    "id": "2099898549471224289",
+    "created_at": "2026-09-15T16:30:03.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-16T02:01:27.105680+08:00",
+    "url": "https://x.com/elonmusk/status/2099898549471224289"
+  },
+  {
+    "id": "2099698321938157708",
+    "created_at": "2026-09-15T03:14:25.000Z",
+    "original": "CNN's Dana Bash tells Jessica Tarlov and Scott Galloway how, as a trained journalist, she is \"objective about truth and facts.\"\n\nWild to watch how they tell themselves this stuff:\n\nGalloway: \"I see you as a centrist.\"\n\nBash: \"I don't even know that I would describe myself as a",
+    "translation": "CNN的Dana Bash跟Jessica Tarlov還有Scott Galloway說，身為一個受過訓練的記者，她對於「真相和事實是客觀的」這件事也很客觀。\n\n看她們自己說服自己相信這些東西真的太扯了：\n\nGalloway：「我覺得你是中間派。」\n\nBash：「我甚至不確定我會用詞來形容自己——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-16T02:01:36.019587+08:00",
+    "url": "https://x.com/elonmusk/status/2099698321938157708",
+    "retried_at": "2026-09-16T02:01:36+08:00",
+    "scrape_truncated": true
+  },
+  {
+    "id": "2099919095692992742",
+    "created_at": "2026-09-15T17:51:41.000Z",
+    "original": "Asked Grok Bot to watch the Grok Bot Galaxy livestream with me and take notes for me 😂\n\nIt’s literally following the livestream in real time, pulling out the interesting parts, grabbing screenshots and keeping track of what I actually care about\n\nBasically I have a Grok Bot",
+    "translation": "叫Grok Bot陪我一起看Grok Bot Galaxy的直播，還叫它幫我做筆記 😂\n\n它真的在即時跟著直播走，挖出有趣的片段、截圖、記錄我真正在乎的東西\n\n根本就是我專屬的Grok Bot助手了啦——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSRb7S6XYAEFVni?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HSRb78aW0AAq2bn?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-16T02:01:42.737018+08:00",
+    "url": "https://x.com/elonmusk/status/2099919095692992742",
+    "retried_at": "2026-09-16T02:01:42+08:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2099743609654305131",
     "created_at": "2026-09-15T06:14:22.000Z",
     "original": "Anthropic’s IPO hype is peak 4D chess ♟️",
