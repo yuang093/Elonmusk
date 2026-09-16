@@ -1,5 +1,78 @@
 [
   {
+    "id": "2100080541186105827",
+    "created_at": "2026-09-16T04:33:13.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T03:02:28.802530+08:00",
+    "url": "https://x.com/elonmusk/status/2100080541186105827"
+  },
+  {
+    "id": "2099747059553517864",
+    "created_at": "2026-09-15T06:28:05.000Z",
+    "original": "Elon just gave one of the clearest explanations yet for why Terafab has to exist\n\nThere are basically two problems:\n\n• Geopolitical risk — at some point, advanced chips from Taiwan may not be available\n• Scale — even if supply remains stable, existing fabs eventually run out of",
+    "translation": "伊隆剛剛給出了迄今為止最清晰的解釋，說明為什麼Terafab必須存在。\n\n基本上有兩個問題：\n\n• 地緣政治風險——在某些時候，台灣的先進晶片可能無法獲得\n• 規模——即使供應保持穩定，現有的晶圓廠最終也會耗盡產能",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T03:02:35.286341+08:00",
+    "url": "https://x.com/elonmusk/status/2099747059553517864",
+    "retried_at": "2026-09-17T03:03:26+08:00"
+  },
+  {
+    "id": "2100294002482511962",
+    "created_at": "2026-09-16T18:41:26.000Z",
+    "original": "I would recommend against a new company trying to make Raptor 3. \n\nWhile it appears simple on the outside (necessary to survive extreme heat without a heat shield), the inside has very complex geometry that can only be manufactured using highly modified 3D metal printing.",
+    "translation": "我會建議新公司別去搞Raptor 3。\n\n雖然外表看起來很簡單（因為得在高溫下不靠隔熱盾存活），但內部幾何結構超級複雜，只能用經過大幅改裝的3D金屬列印才能做出來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T03:02:41.158520+08:00",
+    "url": "https://x.com/elonmusk/status/2100294002482511962"
+  },
+  {
+    "id": "2100257006971912572",
+    "created_at": "2026-09-16T16:14:26.000Z",
+    "original": "Chinese private space companies are not screwing around. Space Pioneer, which has raised nearly $1 billion, is seeking to build a similar looking engine to Raptor 3 with virtually identical thrust: 2,450 kN.",
+    "translation": "中國民營太空公司可不是在開玩笑的。已經募資近10億美元的 Space Pioneer，正在研發一款長得跟 Raptor 3 差不多的引擎，推力也幾乎一樣：2,450 kN。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSWDhO4a4AE5LAM?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-17T03:02:49.458182+08:00",
+    "url": "https://x.com/elonmusk/status/2100257006971912572"
+  },
+  {
+    "id": "2100296847344783441",
+    "created_at": "2026-09-16T18:52:44.000Z",
+    "original": "Three SpaceXAI employees are building a company in 3 days with Grok Bot. This is Day 2.\n\nLive now, plus sessions for GTM and customer support.\n\n",
+    "translation": "三位 SpaceXAI 員工要用 Grok Bot 在 3 天內打造一間公司，第二天了。\n\n直播進行中，還有 GTM 和客服相關的環節。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T03:02:56.446548+08:00",
+    "url": "https://x.com/elonmusk/status/2100296847344783441"
+  },
+  {
     "id": "2100072151756017733",
     "created_at": "2026-09-16T03:59:53.000Z",
     "original": "Starship is the future",
