@@ -1,5 +1,51 @@
 [
   {
+    "id": "2100649750777188449",
+    "created_at": "2026-09-17T18:15:03.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T06:07:44.884477+08:00",
+    "url": "https://x.com/elonmusk/status/2100649750777188449",
+    "fix_note": "byline-only orphan cleared ('Elon Musk'); placeholder applied (cycle 370, single-record fix)"
+  },
+  {
+    "id": "2100638875160871248",
+    "created_at": "2026-09-17T17:31:50.000Z",
+    "original": "After George Floyd died, Whites became less biased towards their own racial in-group—that is, Whites.\n\nDid other groups do the same?\n\nNo, they actually became more biased towards their own in-group: Blacks liked Blacks more, Asians liked Asians more. Hispanics? Didn't move.",
+    "translation": "喬治·佛洛伊德死後，白人對自己族群的偏見變少了。\n\n其他族群也這樣嗎？\n\n沒有，他們反而更偏心自己人了：黑人更喜歡黑人，亞洲人更喜歡亞洲人。拉丁裔呢？沒動。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSb3rW6WwAAaVPK?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSDLzvnWEAolRpE?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-09-18T06:07:55.656419+08:00",
+    "url": "https://x.com/elonmusk/status/2100638875160871248"
+  },
+  {
+    "id": "2100698004210475317",
+    "created_at": "2026-09-17T21:26:47.000Z",
+    "original": "Grok Bot can talk now.",
+    "translation": "Grok Bot 現在可以聊天了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T06:07:58.970964+08:00",
+    "url": "https://x.com/elonmusk/status/2100698004210475317"
+  },
+  {
     "id": "2100637331224952845",
     "created_at": "2026-09-17T17:25:42.000Z",
     "original": "Elon Musk",
