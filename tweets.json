@@ -1,5 +1,51 @@
 [
   {
+    "id": "2100389704307007908",
+    "created_at": "2026-09-17T01:01:43.000Z",
+    "original": "AI is the highest ELO competition ever",
+    "translation": "AI 就是史上最高 ELO 的對決",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T16:07:48.669878+08:00",
+    "url": "https://x.com/elonmusk/status/2100389704307007908"
+  },
+  {
+    "id": "2100483973277172171",
+    "created_at": "2026-09-17T07:16:18.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T16:07:51.230302+08:00",
+    "url": "https://x.com/elonmusk/status/2100483973277172171",
+    "fix_note": "byline-only orphan cleared ('Elon Musk'); placeholder applied (cycle 355, single-record fix)"
+  },
+  {
+    "id": "2100203135247757756",
+    "created_at": "2026-09-16T12:40:21.000Z",
+    "original": " for facilitating an email asking government employees to list five things they accomplished that week",
+    "translation": "幫忙搞那個讓政府員工列出這週完成五件事的郵件",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSVrnxtaQAAIYFX?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSRAL7-W0AAw3r2?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-09-17T16:07:57.269103+08:00",
+    "url": "https://x.com/elonmusk/status/2100203135247757756"
+  },
+  {
     "id": "2100447103927353423",
     "created_at": "2026-09-17T04:49:48.000Z",
     "original": "The next generation Starlink V5 has a smaller form factor and lightweight design with greater power efficiency.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers reliable home internet for streaming, video calling, gaming and more.\n\nAvailable in select areas.",
