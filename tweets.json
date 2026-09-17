@@ -1,5 +1,35 @@
 [
   {
+    "id": "2100589562191863914",
+    "created_at": "2026-09-17T14:15:53.000Z",
+    "original": "A beautiful surprise",
+    "translation": "意外的驚喜",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-17T23:07:49.755459+08:00",
+    "url": "https://x.com/elonmusk/status/2100589562191863914"
+  },
+  {
+    "id": "2100590521831804986",
+    "created_at": "2026-09-17T14:19:42.000Z",
+    "original": "I thought the tweet below must be omitting some critical context or paraphrasing the text ungenerously.\n\nBut no, the NYT actually published an op-ed that claims the University of California hasn't sacrificed excellence even though it admits students who struggle with basic math. ",
+    "translation": "我本以為下面這則推文肯定是省略了什麼重要背景，不然就是 paraphrase 得太不公平。\n\n結果還真不是，紐約時報真的刊了一篇專欄，聲稱加州大學即使錄取連基本數學都有困難的學生，也沒有犧牲卓越性。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSXlZPZWIAA34eS?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-17T23:07:57.401855+08:00",
+    "url": "https://x.com/elonmusk/status/2100590521831804986"
+  },
+  {
     "id": "2100489598472196157",
     "created_at": "2026-09-17T07:38:40.000Z",
     "original": "Elon Musk",
