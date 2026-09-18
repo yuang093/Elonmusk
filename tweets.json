@@ -1,5 +1,35 @@
 [
   {
+    "id": "2100775609739747423",
+    "created_at": "2026-09-18T02:35:10.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T12:08:16.211913+08:00",
+    "url": "https://x.com/elonmusk/status/2100775609739747423",
+    "fix_note": "cycle 376 defect fix: original='Elon Musk' len_orig=9 old_trans='Elon Musk' -> byline-style placeholder (non-conforming / no translatable content per cycle 272 codification)"
+  },
+  {
+    "id": "2100768005831442660",
+    "created_at": "2026-09-18T02:04:57.000Z",
+    "original": "nas-blazing-scream-warlock-rn824uhPl3",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T12:08:22.098465+08:00",
+    "url": "https://x.com/elonmusk/status/2100768005831442660",
+    "fix_note": "cycle 376 defect fix: original='nas-blazing-scream-warlock-rn824uhPl3' len_orig=37 old_trans='nas-blazing-scream-warlock-rn824uhPl3' -> byline-style placeholder (non-conforming / no translatable content per cycle 272 codification)"
+  },
+  {
     "id": "2100747249223446897",
     "created_at": "2026-09-18T00:42:28.000Z",
     "original": "Elon Musk",
