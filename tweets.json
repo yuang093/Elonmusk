@@ -1,5 +1,22 @@
 [
   {
+    "id": "2101045484827603373",
+    "created_at": "2026-09-18T20:27:33.000Z",
+    "original": "Last year, the French government launched a criminal investigation into Elon Musk's X over evidence of \"foreign interference.\" But now the man who sent the letter that triggered the investigation admits to me that he was targeting Musk's politics, not any foreign interference.",
+    "translation": "去年，法國政府對埃隆·馬斯克（Elon Musk）的X平台展開了刑事調查，原因是發現了「外國干預」的證據。但現在，發送引發調查的那封信的男子向我承認，他當時的目標是馬斯克的政治立場，而不是任何外國干預。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSgwZxSXgAAPbcv?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-19T05:02:49.182735+08:00",
+    "url": "https://x.com/elonmusk/status/2101045484827603373",
+    "retried_at": "2026-09-19T05:03:12+08:00"
+  },
+  {
     "id": "2101011740574052697",
     "created_at": "2026-09-18T18:13:28.000Z",
     "original": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.",
