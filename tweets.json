@@ -1,5 +1,36 @@
 [
   {
+    "id": "2101055147539349748",
+    "created_at": "2026-09-18T21:05:57.000Z",
+    "original": "Interesting",
+    "translation": "有趣",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T07:02:44.845005+08:00",
+    "url": "https://x.com/elonmusk/status/2101055147539349748",
+    "retried_at": "2026-09-19T07:03:12+08:00"
+  },
+  {
+    "id": "2093423899996504104",
+    "created_at": "2026-08-28T19:42:06.000Z",
+    "original": "Someone gave the leading AI models the Political Compass test.\n\nGrok 4.5 landed by far closest to the political center.\n\nEvery model from Anthropic, Google, Meta, OpenAI, Deepseek, and others clustered far to the left.\n\nThis is why building a maximally truth-seeking AI matters.",
+    "translation": "有人讓那些主流AI模型做了政治 compass 測試。\n\nGrok 4.5 是到目前為止最接近政治中心的。\n\n來自 Anthropic、Google、Meta、OpenAI、Deepseek 和其他公司的模型，全部都往左邊擠成一團。\n\n這就是為啥打造一個最大化追求真相的AI很重要的原因。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HQ1VnYAbwAA-qSK?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-19T07:02:54.161782+08:00",
+    "url": "https://x.com/elonmusk/status/2093423899996504104"
+  },
+  {
     "id": "2100964106127679834",
     "created_at": "2026-09-18T15:04:11.000Z",
     "original": "Elon Musk",
