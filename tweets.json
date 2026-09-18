@@ -1,5 +1,126 @@
 [
   {
+    "id": "2100908492219453895",
+    "created_at": "2026-09-18T11:23:12.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T22:02:02.710556+08:00",
+    "url": "https://x.com/elonmusk/status/2100908492219453895",
+    "fix_note": "byline-only passthrough RT (cycle 272 codification, cycle 385 fire)"
+  },
+  {
+    "id": "2100729612087288291",
+    "created_at": "2026-09-17T23:32:23.000Z",
+    "original": "Our Franklin, Louisiana team just completed the hull flip for our third Marauder, a major production milestone, with Marauders 4 and 5 already moving through the line behind it.\n\nOur first Marauder is on the water, with a second close behind. We're moving fast to meet the urgency",
+    "translation": "我們路易斯安那州富蘭克林團隊剛完成第三艘Marauder的船體翻轉，這是個重大生產里程碑，四號和五號已經在後面排隊等著了。\n\n第一艘Marauder已經下水了，第二艘也快要追上來了。我們正在加緊腳步，因為時間真的很趕。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HScg0FpXgAAfSKf.jpg"
+    ],
+    "fetched_at": "2026-09-18T22:02:08.714385+08:00",
+    "url": "https://x.com/elonmusk/status/2100729612087288291"
+  },
+  {
+    "id": "2100938127908974979",
+    "created_at": "2026-09-18T13:20:57.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T22:02:13.584399+08:00",
+    "url": "https://x.com/elonmusk/status/2100938127908974979",
+    "fix_note": "byline-only passthrough RT (cycle 272 codification, cycle 385 fire)"
+  },
+  {
+    "id": "2100608157244346463",
+    "created_at": "2026-09-17T15:29:46.000Z",
+    "original": "Could we get an update on how Cali is doing 🥰 ",
+    "translation": "Cali 最近怎麼樣了 🥰",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSbRJzybgAIUhpv?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-09-18T22:02:18.368132+08:00",
+    "url": "https://x.com/elonmusk/status/2100608157244346463"
+  },
+  {
+    "id": "2100939348271071447",
+    "created_at": "2026-09-18T13:25:48.000Z",
+    "original": "That’s pretty much exactly how I roll 😂",
+    "translation": "這就是我的style 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T22:02:23.864563+08:00",
+    "url": "https://x.com/elonmusk/status/2100939348271071447"
+  },
+  {
+    "id": "2100918817924809025",
+    "created_at": "2026-09-18T12:04:14.000Z",
+    "original": "Elon Musk, the world’s first trillionaire, lives in a beautiful “palace,” which happens to be an Airstream trailer 😂\n\n“I am coming to you today from the palace that I live in in Memphis, which is an Airstream trailer.”\n\nIn America, you can just do things",
+    "translation": "全球首位兆萬富翁馬斯克，住在一間漂亮的「皇宮」裡——結果就是一台Airstream露營車 😂\n\n「今天我從我在曼菲斯的皇宮來見你們，它是一台Airstream露營車。」\n\n在美國就是可以這樣搞事啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T22:02:28.360699+08:00",
+    "url": "https://x.com/elonmusk/status/2100918817924809025"
+  },
+  {
+    "id": "2100937966424072607",
+    "created_at": "2026-09-18T13:20:19.000Z",
+    "original": "-powered aircraft across more than 464,000 flights, powering 14.2M devices.\n\nStarting this week, passengers will be able to watch NFL games on their Starlink-enabled seatback screen.\n\nLast month,",
+    "translation": "超過 464,000 架次航班、為 1,420 萬台設備供電的電動飛機。\n\n從本週開始，乘客就能在支援 Starlink 的椅背螢幕上看 NFL 比賽了。\n\n上個月，",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSgGFWtWcAAB5xd?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSgGsu8WgAAfs3O?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-18T22:02:32.459954+08:00",
+    "url": "https://x.com/elonmusk/status/2100937966424072607"
+  },
+  {
+    "id": "2100941122679738705",
+    "created_at": "2026-09-18T13:32:51.000Z",
+    "original": " to enable 5G speeds from space. The V2 satellite network will expand upon its V1 capabilities with 100x the data density, and will enable native calls, high-speed apps, streaming and more 🛰️📱 x.com/kddipr/status/…",
+    "translation": "為了在太空實現5G速度。V2衛星網路將在V1的基礎上大幅升級，資料密度提升100倍，還能支援原生通話、高速App、串流等更多功能🛰️📱 x.com/kddipr/status/…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T22:02:36.599998+08:00",
+    "url": "https://x.com/elonmusk/status/2100941122679738705"
+  },
+  {
     "id": "2100838800515576186",
     "created_at": "2026-09-18T06:46:16.000Z",
     "original": "Diablo 4 players only want one thing and it's disgusting",
