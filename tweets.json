@@ -1,5 +1,35 @@
 [
   {
+    "id": "2100959963405234178",
+    "created_at": "2026-09-18T14:47:43.000Z",
+    "original": "Yeah, he’s a huge retard",
+    "translation": "對啊，他是個大白癡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-18T23:08:20.886825+08:00",
+    "url": "https://x.com/elonmusk/status/2100959963405234178"
+  },
+  {
+    "id": "2100828160699060551",
+    "created_at": "2026-09-18T06:03:59.000Z",
+    "original": "It's not illegal to be gay, what the hell? They draped rainbow flags on the White House.",
+    "translation": "同性戀又沒犯法，到底在三小？他們在白宮掛彩虹旗欸。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSekDu1aIAAACnj?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-18T23:08:26.568185+08:00",
+    "url": "https://x.com/elonmusk/status/2100828160699060551"
+  },
+  {
     "id": "2100943158787915979",
     "created_at": "2026-09-18T13:40:57.000Z",
     "original": "Elon Musk",
