@@ -1,5 +1,36 @@
 [
   {
+    "id": "2100964106127679834",
+    "created_at": "2026-09-18T15:04:11.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T05:08:14.352651+08:00",
+    "url": "https://x.com/elonmusk/status/2100964106127679834"
+  },
+  {
+    "id": "2100915488725364939",
+    "created_at": "2026-09-18T11:51:00.000Z",
+    "original": "A Georgia woman is wanted by police after RAMMING another driver’s car and then coming back and SHOOTING at it.\n\nAnd what started all of this? The other driver HONKED at her. 😳\n\nPolice say 23-year-old Sierra Iman Little pulled out in front of another driver, who honked. She",
+    "translation": "一名喬治亞州女子在撞擊另一名駕駛的車輛後又回來對其開槍，現被警方通緝。\n\n而這一切是怎麼開始的？只是因為對方對她按了喇叭。😳\n\n警方表示，23歲的Sierra Iman Little在另一名駕駛面前突然切換車道，導致對方按了喇叭。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSeAgr_a0AAmBk-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-19T05:08:17.873658+08:00",
+    "url": "https://x.com/elonmusk/status/2100915488725364939",
+    "retried_at": "2026-09-19T05:19:19+08:00"
+  },
+  {
     "id": "2101045484827603373",
     "created_at": "2026-09-18T20:27:33.000Z",
     "original": "Last year, the French government launched a criminal investigation into Elon Musk's X over evidence of \"foreign interference.\" But now the man who sent the letter that triggered the investigation admits to me that he was targeting Musk's politics, not any foreign interference.",
