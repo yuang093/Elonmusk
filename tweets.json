@@ -1,5 +1,33 @@
 [
   {
+    "id": "2101398181833515455",
+    "created_at": "2026-09-19T19:49:03.000Z",
+    "original": "Victory By Any Means",
+    "translation": "不計代價也要贏",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T04:07:21.114336+08:00",
+    "url": "https://x.com/elonmusk/status/2101398181833515455"
+  },
+  {
+    "id": "2101398902503068015",
+    "created_at": "2026-09-19T19:51:55.000Z",
+    "original": " merch will put Uranium in Uranus",
+    "translation": "周邊準備把放射性元素塞進天王星裡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T04:07:30.299933+08:00",
+    "url": "https://x.com/elonmusk/status/2101398902503068015"
+  },
+  {
     "id": "2101328300521980305",
     "created_at": "2026-09-19T15:11:22.000Z",
     "original": "It’s a double-standard",
