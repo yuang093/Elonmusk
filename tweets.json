@@ -1,5 +1,35 @@
 [
   {
+    "id": "2101319531041857634",
+    "created_at": "2026-09-19T14:36:31.000Z",
+    "original": "He was a genius",
+    "translation": "他是個天才",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T00:07:49.329795+08:00",
+    "url": "https://x.com/elonmusk/status/2101319531041857634"
+  },
+  {
+    "id": "2101318630030053497",
+    "created_at": "2026-09-19T14:32:56.000Z",
+    "original": "\"If you don't include your women graduates in your breeding pool and leave them on the shelf, you would end up a more stupid society... So what happens? There will be less bright people to support dumb people in the next generation. That's a problem.\"\n\nLee Kuan Yew",
+    "translation": "「如果你不把女大學畢業生納入你的『生育池』，讓她們一直晾在那邊，結果就是整個社會會變得越來越笨⋯⋯所以會怎樣？下一代就會少了很多聰明人來養笨蛋。這就是個大問題。」\n\n——李光耀",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSliJoMaEAAOTf8?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-20T00:07:58.702246+08:00",
+    "url": "https://x.com/elonmusk/status/2101318630030053497"
+  },
+  {
     "id": "2101310842293702881",
     "created_at": "2026-09-19T14:01:59.000Z",
     "original": "With so much equipment, it was inevitable",
