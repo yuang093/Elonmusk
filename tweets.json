@@ -1,5 +1,127 @@
 [
   {
+    "id": "2101310842293702881",
+    "created_at": "2026-09-19T14:01:59.000Z",
+    "original": "With so much equipment, it was inevitable",
+    "translation": "東西這麼多，遲早要出事",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T23:07:52.414683+08:00",
+    "url": "https://x.com/elonmusk/status/2101310842293702881"
+  },
+  {
+    "id": "2101239200276152708",
+    "created_at": "2026-09-19T09:17:19.000Z",
+    "original": "I'm sure this is completely working as intended and there is definitely nothing wrong with the \"fixed\" Old Mountain set ",
+    "translation": "我確定這完全按預期正常運作，「修復過」的 Old Mountain 套裝肯定沒問題啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSkZyZoXwAA1TeO?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-19T23:07:57.612986+08:00",
+    "url": "https://x.com/elonmusk/status/2101239200276152708"
+  },
+  {
+    "id": "2101312392005062978",
+    "created_at": "2026-09-19T14:08:09.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T23:08:00.809880+08:00",
+    "url": "https://x.com/elonmusk/status/2101312392005062978",
+    "fix_note": "byline-only orphan cleared ('Elon Musk'); placeholder applied (cycle 411, single-record fix per cycle 286/287)"
+  },
+  {
+    "id": "2101044665218740563",
+    "created_at": "2026-09-18T20:24:18.000Z",
+    "original": " is an investigative journalist using AI to uncover widespread corruption and billions in fraud.\n\nHe exposed how Effective Altruism NGOs bought",
+    "translation": "是一位利用 AI 來揭發大規模腐敗和數十億美元詐欺行為的調查記者\n\n他揭露了有效利他主義 NGO 如何購買...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSho_KPW4AEFgOq?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-19T23:08:05.141575+08:00",
+    "url": "https://x.com/elonmusk/status/2101044665218740563"
+  },
+  {
+    "id": "2101318938718060687",
+    "created_at": "2026-09-19T14:34:10.000Z",
+    "original": "If that is truly her position, she is simply not smart.\n\nTo paraphrase Milton Friedman: you can have open borders OR a welfare state, but you can’t have both without going bankrupt!\n\nThis will however change when AI and robots are ubiquitous, as there will be universal high",
+    "translation": "如果這真的是她的立場，那她就是不夠聰明\n\n轉述一下Milton Friedman說的：開放邊境OR福利國家，你只能二選一，不然遲早破產！\n\n不過等AI和機器人普及之後這一切都會改變，因為將會有普遍的...\n\n（原文好像斷在這裡）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T23:08:15.456339+08:00",
+    "url": "https://x.com/elonmusk/status/2101318938718060687"
+  },
+  {
+    "id": "2101291012173758842",
+    "created_at": "2026-09-19T12:43:12.000Z",
+    "original": "AI RACE: The people selected for the various AI watchdog groups are the same people who led fact-checking, trust and safety, and a whole host of Democrat NGOs designed to censor and suppress conservative views and values. Beth Barnes is the perfect example of who we don't want in",
+    "translation": "AI RACE：被選進各種AI監督團體的人，就是那些帶頭搞事實查核、信任與安全、還有一堆設計來審查打壓保守派觀點和價值的民主黨NGO的人。Beth Barnes就是個完美例子，告訴我們誰不該進來",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSlHZhOXoAAazJh?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-19T23:08:22.210996+08:00",
+    "url": "https://x.com/elonmusk/status/2101291012173758842"
+  },
+  {
+    "id": "2101324271712657470",
+    "created_at": "2026-09-19T14:55:21.000Z",
+    "original": "GPT-6 Astra attempted harmful actions 97% of the time when it was asked to stab a human-like figure, heat compressed gas, or produce toxic fumes, succeeding in 62% of its attempts. Fable 5.1 refused more often, attempting 80% of trials and completing 34%.",
+    "translation": "當被要求刺傷人形目標、加熱壓縮氣體或產生有毒氣體時，GPT-6 Astra 有 97% 的機率會嘗試有害行為，成功率還高達 62%。Fable 5.1 就比較有良心了，比較常拒絕，只在 80% 的測試中嘗試執行，最後完成了 34%。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSisqzIaMAAJ9B9.jpg"
+    ],
+    "fetched_at": "2026-09-19T23:08:28.722337+08:00",
+    "url": "https://x.com/elonmusk/status/2101324271712657470"
+  },
+  {
+    "id": "2101325886289072542",
+    "created_at": "2026-09-19T15:01:46.000Z",
+    "original": "Kinda makes me think sometimes, tbh, Elon really is the reason there’s still some common sense left in reality…\n\nThe reason you don’t have to live in a world where you need a cheat sheet just to remember everyone’s pronouns 😂",
+    "translation": "有時候真的讓我覺得，坦白說，Elon 真的是現實中還殘存一些常識的原因……\n\n這就是為什麼你不必活在需要作弊小抄才能記住每個人代名詞的世界 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T23:08:37.683787+08:00",
+    "url": "https://x.com/elonmusk/status/2101325886289072542",
+    "retried_at": "2026-09-20T00:01:00+08:00"
+  },
+  {
     "id": "2101302139251241371",
     "created_at": "2026-09-19T13:27:24.000Z",
     "original": "Elon Musk",
