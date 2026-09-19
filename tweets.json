@@ -1,5 +1,35 @@
 [
   {
+    "id": "2101078067816861719",
+    "created_at": "2026-09-18T22:37:02.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T08:02:39.589433+08:00",
+    "url": "https://x.com/elonmusk/status/2101078067816861719",
+    "fix_note": "cycle 272 byline-only codification: original was author byline only, set to placeholder"
+  },
+  {
+    "id": "2101047397040189800",
+    "created_at": "2026-09-18T20:35:09.000Z",
+    "original": "He's applying AI to uncover massive grift & fraud, like the $21B racial wealth transfer he reveals on the show today. \n\nIt's no coincidence the far-left wants control of AI - it’s too useful to expose corruption!\n\nBullish on Brian, and on AI helping to improve our civilization 🇺🇸",
+    "translation": "他正在應用人工智慧來揭露大規模的詐騙和欺詐，就像他在今天的節目中揭露的210億美元的種族財富轉移一樣。\n\n遠左派想要控制人工智慧並非巧合——它太有用了，無法揭露腐敗！\n\n對Brian持樂觀態度，也對人工智慧幫助改善我們的文明充滿信心 🇺🇸",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-19T08:02:42.802664+08:00",
+    "url": "https://x.com/elonmusk/status/2101047397040189800",
+    "retried_at": "2026-09-19T08:02:58+08:00"
+  },
+  {
     "id": "2101055147539349748",
     "created_at": "2026-09-18T21:05:57.000Z",
     "original": "Interesting",
