@@ -1,5 +1,94 @@
 [
   {
+    "id": "2101595865454703063",
+    "created_at": "2026-09-20T08:54:34.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T18:08:16.924413+08:00",
+    "url": "https://x.com/elonmusk/status/2101595865454703063"
+  },
+  {
+    "id": "2101572953234419812",
+    "created_at": "2026-09-20T07:23:32.000Z",
+    "original": "Uranium in Uranus will be our best merch ever. \n\nPut it on your mantelpiece and show your guests Uranus! x.com/xfreeze/status…",
+    "translation": "天王星裡的鈾會是我們最棒的周邊商品。\n\n放在壁爐架上，讓客人看看你的Uranus！ x.com/xfreeze/status",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSpJciaa0AAVUCX?format=png&name=240x240"
+    ],
+    "fetched_at": "2026-09-20T18:08:26.175239+08:00",
+    "url": "https://x.com/elonmusk/status/2101572953234419812"
+  },
+  {
+    "id": "2101599793290375486",
+    "created_at": "2026-09-20T09:10:11.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T18:08:28.228336+08:00",
+    "url": "https://x.com/elonmusk/status/2101599793290375486"
+  },
+  {
+    "id": "2101599412392702329",
+    "created_at": "2026-09-20T09:08:40.000Z",
+    "original": "Bill Gates once came to Giga Texas and told Elon that a long-range electric semi truck was impossible and it doesn't work\n\nElon’s response was:\n“We literally have them. Drive one yourself. Pepsi is using them right now”\n\nBill Gates still kept insisting:\n“No, it doesn’t work”\n\nAnd",
+    "translation": "比爾·蓋茨曾經來到Giga德州，並告訴伊隆，長程電動半掛卡車是不可能的，它行不通。\n\n伊隆的回應是：\n「我們實際上已經有了。你可以自己開一輛看看。百事可樂現在正在使用它們。」\n\n但比爾·蓋茨仍然堅持說：\n「不，它行不通。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T18:08:36.523456+08:00",
+    "url": "https://x.com/elonmusk/status/2101599412392702329",
+    "retried_at": "2026-09-20T19:03:55+08:00"
+  },
+  {
+    "id": "2101599676214702243",
+    "created_at": "2026-09-20T09:09:43.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSosbF2asAElWda?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-20T18:08:38.959967+08:00",
+    "url": "https://x.com/elonmusk/status/2101599676214702243"
+  },
+  {
+    "id": "2101601873115681037",
+    "created_at": "2026-09-20T09:18:27.000Z",
+    "original": "This is the future we shall bring into being",
+    "translation": "這就是咱們要搞出來的未來",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-20T18:08:41.818443+08:00",
+    "url": "https://x.com/elonmusk/status/2101601873115681037"
+  },
+  {
     "id": "2101468494520782943",
     "created_at": "2026-09-20T00:28:27.000Z",
     "original": "K3 civ or bust. The bugs can come too.",
