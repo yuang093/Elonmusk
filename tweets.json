@@ -1,5 +1,47 @@
 [
   {
+    "id": "2101603800742334651",
+    "created_at": "2026-09-20T09:26:06.000Z",
+    "original": "Great game",
+    "translation": "這場比賽太讚了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-21T04:07:48.518643+08:00",
+    "url": "https://x.com/elonmusk/status/2101603800742334651"
+  },
+  {
+    "id": "2101025599276167352",
+    "created_at": "2026-09-18T19:08:32.000Z",
+    "original": "We have fixed an issue affecting Tree of Whispers reward caches and have restored Solo Self-Found. Thank you for your patience and for standing with us while the team worked to resolve these issues.",
+    "translation": "我們已經修復了低語之樹獎勵寶箱的問題，也恢復了單人專家模式。感謝大家耐心等待我們修復，感謝各位與我們同在！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-21T04:07:53.498572+08:00",
+    "url": "https://x.com/elonmusk/status/2101025599276167352"
+  },
+  {
+    "id": "2101732496396439751",
+    "created_at": "2026-09-20T17:57:30.000Z",
+    "original": "Boring Company is working on a simple, precursor Hyperloop tunnel between Austin and San Antonio (>200 mph). \n\nDue to traffic congestion, that journey can currently take up to 2.5 hours. ",
+    "translation": "Boring Company 正在搞一條簡單的 Hyperloop 前導隧道，串連 Austin 跟 San Antonio（時速 200+ 英里）。\n\n因為塞車，這段路現在最多要 2.5 小時。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-21T04:07:59.176417+08:00",
+    "url": "https://x.com/elonmusk/status/2101732496396439751"
+  },
+  {
     "id": "2101595865454703063",
     "created_at": "2026-09-20T08:54:34.000Z",
     "original": "Elon Musk",
