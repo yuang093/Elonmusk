@@ -1,5 +1,21 @@
 [
   {
+    "id": "2102082011233931762",
+    "created_at": "2026-09-21T17:06:20.000Z",
+    "original": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI labs. Coding Agent Index performance has also improved, overtaking GPT-5.6 Sol\n\nGrok 4.7 scores +2 points over Grok 4.6 on the Intelligence Index, with strong performance on",
+    "translation": "Grok 4.7 在 Artificial Analysis 智商指數拿到 46 分，幫 SpaceXAI 直接殺進前 4 大 AI 實驗室。程式碼代理指數表現也起飛了，直接超車 GPT-5.6 Sol\n\nGrok 4.7 在智商指數比 Grok 4.6 高出 2 分，而且在各方面表現都相當猛，特別是在⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSwR-rAb0AA-TNh?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-22T01:08:20.746859+08:00",
+    "url": "https://x.com/elonmusk/status/2102082011233931762"
+  },
+  {
     "id": "2102065121514209706",
     "created_at": "2026-09-21T15:59:14.000Z",
     "original": "Amazon won’t be able to tell whether the buyer is a human or an AI acting on their behalf if access is via the user’s IP address & cookies",
