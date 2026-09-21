@@ -1,5 +1,126 @@
 [
   {
+    "id": "2102065121514209706",
+    "created_at": "2026-09-21T15:59:14.000Z",
+    "original": "Amazon won’t be able to tell whether the buyer is a human or an AI acting on their behalf if access is via the user’s IP address & cookies",
+    "translation": "如果你是透過使用者的 IP 位址和 Cookie 來訪問的話，Amazon 根本分不出來買家是人類還是 AI 幫你買的啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T01:01:25.772437+08:00",
+    "url": "https://x.com/elonmusk/status/2102065121514209706"
+  },
+  {
+    "id": "2102012446600794222",
+    "created_at": "2026-09-21T12:29:55.000Z",
+    "original": "Amazon cuts off Muse. \n\nWhile I am bullish Meta and Muse, I think many people are overlooking the digital knife fight that’s about to occur\n\nNobody wants to get commoditized or layered here. Let the games begin",
+    "translation": "Amazon把Muse砍掉了。\n\n雖然我看好Meta和Muse，但很多人忽略了即將上演的數位大亂鬥\n\n在這個領域裡，沒有人想要變成commodity或被層層剝削。遊戲開始了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSvYcRjWEAAoJUv?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-22T01:01:33.156946+08:00",
+    "url": "https://x.com/elonmusk/status/2102012446600794222"
+  },
+  {
+    "id": "2102073129526784226",
+    "created_at": "2026-09-21T16:31:03.000Z",
+    "original": "Try Grok 4.7",
+    "translation": "試試 Grok 4.7 吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T01:01:37.289831+08:00",
+    "url": "https://x.com/elonmusk/status/2102073129526784226"
+  },
+  {
+    "id": "2102070699204440362",
+    "created_at": "2026-09-21T16:21:23.000Z",
+    "original": "Grok Bot is the orchestrator between my Agents/Bots\n\nI only talk to my Chief of Staff whom routes every ask.\n\nBot Engineers:\nGrok Build + Grok 4.6\nClaude Code + Fable 5.1\nChatGPT/Codex + GPT-6 Astra\n\nPersistent memory across them.\nNo copy-paste between chats.\nX realtime search",
+    "translation": "Grok Bot 就是我那些 Agent/Bot 的總指揮\n\n我只跟我的 Chief of Staff 報告，所有需求都由他來分配\n\nBot 工程師陣容：\nGrok Build + Grok 4.6\nClaude Code + Fable 5.1\nChatGPT/Codex + GPT-6 Astra\n\n它們之間共享持久記憶\n聊天記錄不用 copy-paste 互相傳\nX 即時搜尋功能加持",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T01:01:44.202081+08:00",
+    "url": "https://x.com/elonmusk/status/2102070699204440362"
+  },
+  {
+    "id": "2102073202306351517",
+    "created_at": "2026-09-21T16:31:20.000Z",
+    "original": "So real 😂",
+    "translation": "太真實了 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T01:01:47.769536+08:00",
+    "url": "https://x.com/elonmusk/status/2102073202306351517"
+  },
+  {
+    "id": "2102066026959487189",
+    "created_at": "2026-09-21T16:02:49.000Z",
+    "original": "Aide Pushes Cart Through Halls Of Congress Yelling 'Bring Out Your Dead!'",
+    "translation": "助理推著推車穿梭國會大廳 邊喊「把死人交出來！」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T01:01:57.619964+08:00",
+    "url": "https://x.com/elonmusk/status/2102066026959487189"
+  },
+  {
+    "id": "2102068280156414171",
+    "created_at": "2026-09-21T16:11:47.000Z",
+    "original": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use",
+    "translation": "7天後，Starship首次軌道發射就要搭載Starlink V3衛星啦，這可是要實際部署使用的！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSwABHUWwAEgiZN?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSwACpqWwAAZhea?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HSwAEhrXMAATZ3R?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HSwAGJNXUAAIQ2G?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-22T01:02:03.668535+08:00",
+    "url": "https://x.com/elonmusk/status/2102068280156414171"
+  },
+  {
+    "id": "2102071804495872374",
+    "created_at": "2026-09-21T16:25:47.000Z",
+    "original": "Grok 4.7 works longer on difficult tasks, checks its work more carefully, and comes with our strongest safeguards to date.",
+    "translation": "Grok 4.7 在困難任務上會花更多時間、更仔細檢查工作，而且配備了我們迄今為止最強大的防護機制。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSwLemqWoAAP4EW?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-22T01:02:08.325788+08:00",
+    "url": "https://x.com/elonmusk/status/2102071804495872374"
+  },
+  {
     "id": "2101920001112379537",
     "created_at": "2026-09-21T06:22:34.000Z",
     "original": "Just use the Sun. Anything we do on Earth is pathetically tiny compared to the Sun.",
