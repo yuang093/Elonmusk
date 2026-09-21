@@ -1,1 +1,1 @@
-2026-09-21 13:00 CST (cycle 447 substantive +5 records, standard pattern, fetcher at 13:01 CST hour 05 UTC non-retry-eligible absorbed 5 new records DURING this tick, deploy-stamp bump)
+2026-09-21 14:00 CST (cycle 448 substantive +3 records, standard pattern, fetcher at 14:02 CST hour 06 UTC retry-eligible absorbed 3 new records DURING this tick, deploy-stamp bump)

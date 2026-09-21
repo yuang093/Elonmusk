@@ -1,5 +1,51 @@
 [
   {
+    "id": "2101896047404396685",
+    "created_at": "2026-09-21T04:47:23.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk（伊隆·馬斯克）啦～那個又是特斯拉又是SpaceX又是Twitter（現在叫X）的大佬XD",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-21T14:02:41.805458+08:00",
+    "url": "https://x.com/elonmusk/status/2101896047404396685"
+  },
+  {
+    "id": "2101891788348739798",
+    "created_at": "2026-09-21T04:30:28.000Z",
+    "original": " at Riot Fest. I introduced myself, I donated $1,000 to Shatner's charity for the XMoney program. I asked if we can take a selfie for ",
+    "translation": "在 Riot Fest 見到 Shatner 本人！自我介紹後，捐了 1000 塊給他的 XMoney 慈善計畫，還問能不能合照一張📸",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HStrXACXMAMBSnc?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HStrbWvWoAAkWOB?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HStrb51XAAA7GxH?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-21T14:02:47.101164+08:00",
+    "url": "https://x.com/elonmusk/status/2101891788348739798"
+  },
+  {
+    "id": "2101897132009501009",
+    "created_at": "2026-09-21T04:51:42.000Z",
+    "original": "We’re working on making it faster",
+    "translation": "正在努力加速中啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-21T14:02:50.248539+08:00",
+    "url": "https://x.com/elonmusk/status/2101897132009501009"
+  },
+  {
     "id": "2101864130915319830",
     "created_at": "2026-09-21T02:40:34.000Z",
     "original": "There hundreds, maybe thousands, of fraud rings of almost every nationality stealing money from US taxpayers",
