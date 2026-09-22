@@ -1,5 +1,21 @@
 [
   {
+    "id": "2102428227545493995",
+    "created_at": "2026-09-22T16:02:05.000Z",
+    "original": "Some of the funniest times on this app 😂",
+    "translation": "這APP上最好笑的時光 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS0FwPpaoAAts_G?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-23T00:07:48.989768+08:00",
+    "url": "https://x.com/elonmusk/status/2102428227545493995"
+  },
+  {
     "id": "2102422703798137219",
     "created_at": "2026-09-22T15:40:08.000Z",
     "original": "Grok 4.7 turned a simple prompt into this interactive 3D jet engine visualizer in minutes.\n\nThis is insane. 🔥",
