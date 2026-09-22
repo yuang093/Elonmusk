@@ -1,5 +1,78 @@
 [
   {
+    "id": "2102439244887453825",
+    "created_at": "2026-09-22T16:45:52.000Z",
+    "original": "I will admit, I am enjoying vibe coding. I may have been a teensy tiny bit wrong.",
+    "translation": "我得承認，我正在享受氛圍編碼。我可能有一點點錯了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T03:08:24.796677+08:00",
+    "url": "https://x.com/elonmusk/status/2102439244887453825",
+    "retried_at": "2026-09-23T04:02:42+08:00"
+  },
+  {
+    "id": "2102454843973718441",
+    "created_at": "2026-09-22T17:47:51.000Z",
+    "original": "It’s great, as expected",
+    "translation": "果然很棒！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T03:08:28.792801+08:00",
+    "url": "https://x.com/elonmusk/status/2102454843973718441"
+  },
+  {
+    "id": "2102438330017476875",
+    "created_at": "2026-09-22T16:42:13.000Z",
+    "original": "It's a strong model",
+    "translation": "這模型很猛",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS1cbfObwAAA29m?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-23T03:08:32.937565+08:00",
+    "url": "https://x.com/elonmusk/status/2102438330017476875"
+  },
+  {
+    "id": "2102463558705709531",
+    "created_at": "2026-09-22T18:22:28.000Z",
+    "original": "Maybe sooner",
+    "translation": "也許更快吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T03:08:36.777402+08:00",
+    "url": "https://x.com/elonmusk/status/2102463558705709531"
+  },
+  {
+    "id": "2102441286687211817",
+    "created_at": "2026-09-22T16:53:58.000Z",
+    "original": "Today, Pioneer Labs is announcing our first step towards terraforming Mars. 🚀🌼\n\nWith equipment that fits in just a single rocket launch, we can convert Martian dirt, water, and air into enough building materials to construct a small city on Mars.\n\nTo do it, we made the first",
+    "translation": "今天，Pioneer Labs 宣布我們在火星地球化計畫上的第一步。🚀🌼\n\n靠著僅需一次火箭發射就能裝載的設備，我們可以將火星土壤、水和空氣轉化為足以在火星上建造一座小城市的建材。\n\n而要做到這點，我們打造了首個…\n\n（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T03:08:45.347643+08:00",
+    "url": "https://x.com/elonmusk/status/2102441286687211817"
+  },
+  {
     "id": "2102437979797287357",
     "created_at": "2026-09-22T16:40:50.000Z",
     "original": "You should definitely be in the creator program",
