@@ -1,5 +1,35 @@
 [
   {
+    "id": "2102422703798137219",
+    "created_at": "2026-09-22T15:40:08.000Z",
+    "original": "Grok 4.7 turned a simple prompt into this interactive 3D jet engine visualizer in minutes.\n\nThis is insane. 🔥",
+    "translation": "Grok 4.7 幾分鐘就把一個簡單的 prompt 生成了這個互動式 3D 引擎視覺化工具。\n\n這也太猛了吧。🔥",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T00:02:04.677994+08:00",
+    "url": "https://x.com/elonmusk/status/2102422703798137219"
+  },
+  {
+    "id": "2102423241897705926",
+    "created_at": "2026-09-22T15:42:16.000Z",
+    "original": "Over the last few weeks, Grok Build teams have optimized the harness for 4.7:\n\n- Better presentation, less slop, and better prose\n- Better self-validation\n- Improved thinking efficiency\n- Improved long-horizon monitoring tasks\n- Improved VLM and multimodal tasks\n\nMany FSD and x.com/elonmusk/statu…",
+    "translation": "過去這幾週，Grok Build 團隊針對 4.7 優化了測試環境：\n\n- 呈現更讚、減少一堆垃圾、文本品質往上\n- 自我驗證更給力\n- 思維效率提升\n- 長期任務監控能力更好\n- VLM 和多模態任務表現更優\n\n很多 FSD 和 x.com/elonmusk/statu——（原推文後續內容擷取不完整）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T00:02:21.072650+08:00",
+    "url": "https://x.com/elonmusk/status/2102423241897705926",
+    "retried_at": "2026-09-23T00:02:00+08:00",
+    "scrape_truncated": true
+  },
+  {
     "id": "2102190416434987193",
     "created_at": "2026-09-22T00:17:06.000Z",
     "original": "Elon Musk",
