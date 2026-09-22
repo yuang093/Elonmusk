@@ -1,5 +1,19 @@
 [
   {
+    "id": "2102520283618017355",
+    "created_at": "2026-09-22T22:07:53.000Z",
+    "original": "We ran fresh Next.js evals. The tally:\n① Opus 5.5    [𝟿𝟽%]\n② GPT 6 Sol   [𝟿𝟽%]\n③ Fable 5.1     [𝟿𝟽%]\n④ Grok 4.7     [𝟿𝟺%]\n\nNotably, Grok is 2x-7x cheaper x.com/nextjs/status/…",
+    "translation": "我們剛做了新一輪 Next.js 評測，成績出來啦：\n\n① Opus 5.5    [𝟿𝟽%]\n② GPT 6 Sol   [𝟿𝟽%]\n③ Fable 5.1     [𝟿𝟽%]\n④ Grok 4.7     [𝟿𝟺%]\n\n重點是，Grok 便宜了 2-7 倍啊啊啊 x.com/nextjs/status/…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-23T07:02:19.823121+08:00",
+    "url": "https://x.com/elonmusk/status/2102520283618017355"
+  },
+  {
     "id": "2102439244887453825",
     "created_at": "2026-09-22T16:45:52.000Z",
     "original": "I will admit, I am enjoying vibe coding. I may have been a teensy tiny bit wrong.",
