@@ -1,5 +1,65 @@
 [
   {
+    "id": "2102105302841627133",
+    "created_at": "2026-09-21T18:38:54.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T09:08:19.908877+08:00",
+    "url": "https://x.com/elonmusk/status/2102105302841627133"
+  },
+  {
+    "id": "2102098340699668865",
+    "created_at": "2026-09-21T18:11:14.000Z",
+    "original": "Grok 4.7 made this in blender. \n\nI didn't tell it what to make but only that it should be something it can accomplish in 10 minutes or so.\n\nHonestly not bad at all.  Not bad at all.\n\nDid they train Grok on blender?",
+    "translation": "Grok 4.7 在 blender 裡做出這個\n\n我沒有指定要做什麼，只說了做個大概10分鐘內能搞定的就行\n\n老實說還不錯欸，真的還不錯\n\n所以他們有拿 blender 訓練 Grok 嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-22T09:08:25.055209+08:00",
+    "url": "https://x.com/elonmusk/status/2102098340699668865"
+  },
+  {
+    "id": "2102188167860273661",
+    "created_at": "2026-09-22T00:08:10.000Z",
+    "original": "This was unexpected. Grok 4.7 scored 100% on my music error detection test, the same as GPT-6 Astra. ",
+    "translation": "沒想到啊。Grok 4.7 在我的音樂錯誤偵測測試直接拿滿分，跟 GPT-6 Astra 一樣猛。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSw3tyda0AAzTSN?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-22T09:08:30.757708+08:00",
+    "url": "https://x.com/elonmusk/status/2102188167860273661"
+  },
+  {
+    "id": "2102201534776025356",
+    "created_at": "2026-09-22T01:01:17.000Z",
+    "original": "In just the last 90 days:\n\n1. Grok 4.3 — barely top 10. “xAI is dead beyond compute leases.”\n\n2. Grok 4.5 — massive comeback. “Maybe a chance. But Grok will never catch up to the frontier.”\n\n3. Grok 4.6 — they’re frontier. “Still not top 3.”\n\n4. Grok 4.7 — now top 3 in frontier",
+    "translation": "就在這短短 90 天內：\n\n1. Grok 4.3 — 勉強擠進前十。「xAI 除了靠算力租借維生外啥也不是。」\n\n2. Grok 4.5 — 大逆轉。「或許還有一絲希望，但 Grok 永遠追不上 frontier 了。」\n\n3. Grok 4.6 — 他們已經是 frontier 等級了。「還是沒辦法前三吧。」\n\n4. Grok 4.7 — 現在直接前三了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSxw3uLWMAECVw3?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-22T09:08:35.726835+08:00",
+    "url": "https://x.com/elonmusk/status/2102201534776025356"
+  },
+  {
     "id": "2102187423098642792",
     "created_at": "2026-09-22T00:05:13.000Z",
     "original": "Grok 4.7 is behind only Anthropic models on AA-Briefcase, ranking just behind Opus 5 at ~50% of its Cost per Task\n\nGrok 4.7’s improvements over Grok 4.6 are clear in AA-Briefcase-Lite, our public due diligence scenario where models are tasked with building market models and",
