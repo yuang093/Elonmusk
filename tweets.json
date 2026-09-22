@@ -1,5 +1,21 @@
 [
   {
+    "id": "2102187423098642792",
+    "created_at": "2026-09-22T00:05:13.000Z",
+    "original": "Grok 4.7 is behind only Anthropic models on AA-Briefcase, ranking just behind Opus 5 at ~50% of its Cost per Task\n\nGrok 4.7’s improvements over Grok 4.6 are clear in AA-Briefcase-Lite, our public due diligence scenario where models are tasked with building market models and",
+    "translation": "Grok 4.7 在 AA-Briefcase 上僅落後於 Anthropic 模型，排名緊追在 Opus 5 後面，成本效益大概是後者的 50%\n\nGrok 4.7 在 AA-Briefcase-Lite 這個公開盡職調查場景中，相比 Grok 4.6 的進步相當明顯，在這個場景中模型要負責建立市場模型還有...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HSxoh97bsAAL1zb?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-22T08:08:15.492528+08:00",
+    "url": "https://x.com/elonmusk/status/2102187423098642792"
+  },
+  {
     "id": "2102079909174583337",
     "created_at": "2026-09-21T16:57:59.000Z",
     "original": "Interesting",
