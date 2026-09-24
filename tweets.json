@@ -1,5 +1,64 @@
 [
   {
+    "id": "2103011641075876342",
+    "created_at": "2026-09-24T06:40:21.000Z",
+    "original": "I see a rocket, what do you see? 😂",
+    "translation": "我看到火箭，你看到什麼？😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T23:02:47.988594+08:00",
+    "url": "https://x.com/elonmusk/status/2103011641075876342"
+  },
+  {
+    "id": "2102975221926072466",
+    "created_at": "2026-09-24T04:15:38.000Z",
+    "original": "Elon Musk has a unique style of doing business",
+    "translation": "馬斯克做生意很有自己的一套作風",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS9E0eTbgAAuDpM?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HS9E0eVasAAzFuY?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-24T23:02:52.536540+08:00",
+    "url": "https://x.com/elonmusk/status/2102975221926072466"
+  },
+  {
+    "id": "2103127506778005646",
+    "created_at": "2026-09-24T14:20:46.000Z",
+    "original": "It’s pretty bad",
+    "translation": "還挺糟的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T23:02:55.598958+08:00",
+    "url": "https://x.com/elonmusk/status/2103127506778005646"
+  },
+  {
+    "id": "2103059935324221535",
+    "created_at": "2026-09-24T09:52:16.000Z",
+    "original": "EXCLUSIVE: California has created a shadow welfare system for illegal aliens. Free housing, cash, healthcare, food, phones, college tuition, even car insurance—costing taxpayers more than $10 billion per year.\n\nWe went inside the system and exposed it all.",
+    "translation": "獨家：加州幫非法移民搞了一套隱形福利系統。免費住房、現金、醫療、食物、手機、大學學費，甚至汽車保險——每年燒掉納稅人超過100億美元。\n\n我們深入這個系統內部，全部給你爆出來。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T23:03:02.854116+08:00",
+    "url": "https://x.com/elonmusk/status/2103059935324221535"
+  },
+  {
     "id": "2103002859331617232",
     "created_at": "2026-09-24T06:05:28.000Z",
     "original": "Elon Musk",
