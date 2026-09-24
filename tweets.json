@@ -1,5 +1,109 @@
 [
   {
+    "id": "2103222100148605222",
+    "created_at": "2026-09-24T20:36:39.000Z",
+    "original": "The people have had enough",
+    "translation": "人民已經受夠了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T06:08:18.928405+08:00",
+    "url": "https://x.com/elonmusk/status/2103222100148605222"
+  },
+  {
+    "id": "2103208340348101020",
+    "created_at": "2026-09-24T19:41:58.000Z",
+    "original": "🚨BREAKING: There are now thousands outside Basingstoke police station demanding the release of Danny Tommo as locals join Patriot Platform\n\nThe government has made a massive mistake. This is going to backfire... 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "translation": "🚨突發：現在有數千人聚集在貝辛斯托克警察局外，要求釋放 Danny Tommo！當地人紛紛加入愛國者平台\n\n政府真的搞砸了。這樣做遲早會反噬自己... 🇬🇧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T06:08:24.933188+08:00",
+    "url": "https://x.com/elonmusk/status/2103208340348101020"
+  },
+  {
+    "id": "2103239128796315960",
+    "created_at": "2026-09-24T21:44:19.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T06:08:26.523754+08:00",
+    "url": "https://x.com/elonmusk/status/2103239128796315960"
+  },
+  {
+    "id": "2102875497109631322",
+    "created_at": "2026-09-23T21:39:22.000Z",
+    "original": "🚨BREAKING: Activist Danny Tommo has been arrested on suspicion of \"criminal damage\" after bursting a migrant dinghy which had no migrants on board\n\nThe government is taking citizens to court for damaging boats used by fighting age men to invade the country.\n\nLet that sink in.",
+    "translation": "🚨突發：行動人士 Danny Tommo 戳破了一艘根本沒有移民的小艇後，因涉嫌「刑事毀壞」被捕\n\n政府現在把公民告上法院，只因為他們破壞了那些適齡男性用來入侵國家的船。\n\n好好消化一下這件事。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS7qHlqWAAETpwN?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-25T06:08:34.246093+08:00",
+    "url": "https://x.com/elonmusk/status/2102875497109631322"
+  },
+  {
+    "id": "2103239445952516185",
+    "created_at": "2026-09-24T21:45:34.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T06:08:36.352921+08:00",
+    "url": "https://x.com/elonmusk/status/2103239445952516185"
+  },
+  {
+    "id": "2103173296497783070",
+    "created_at": "2026-09-24T17:22:43.000Z",
+    "original": "Kicking out the free press is what fragile authoritarians do. Not American presidents. ",
+    "translation": "把自由媒體踢出去，是脆弱獨裁者才會做的事，不是美國總統該做的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS_490qXQAATJtr?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-25T06:08:39.775714+08:00",
+    "url": "https://x.com/elonmusk/status/2103173296497783070"
+  },
+  {
+    "id": "2103238840072937532",
+    "created_at": "2026-09-24T21:43:10.000Z",
+    "original": "By popular request, a new, easier way to see Under The Hood. (You can still download a JSON file, too.)\n\nSee your report at ",
+    "translation": "應大家要求，現在有個新的、更簡單的方法來看 Under The Hood。（你還是可以下載 JSON 檔案的啦。）\n\n看你的報告請至",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTAwdFMaEAASBCz?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-25T06:08:45.476626+08:00",
+    "url": "https://x.com/elonmusk/status/2103238840072937532"
+  },
+  {
     "id": "2103214377809940751",
     "created_at": "2026-09-24T20:05:58.000Z",
     "original": "This popped up again in my 𝕏 feed.\n\nA reminder to avoid complacency & entitlement at all costs.",
