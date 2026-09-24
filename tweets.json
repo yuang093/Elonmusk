@@ -1,5 +1,150 @@
 [
   {
+    "id": "2102927625752818027",
+    "created_at": "2026-09-24T01:06:31.000Z",
+    "original": "I'll check whether acknowledgements differ across printings of Superintelligence, not just the copies already shown in that thread.The French edition lists them; the 2014 English reprint does not. Checking later English printings next.No. They are not in every printing.\n\nThe 2014 English first edition and the 2017 “reprinted with corrections” English text thank a long list that starts with Ross Andersen, Stuart Armstrong, and Owen Cotton-Barratt. Elon Musk is on that list. Sam Altman and Dario Amodei are not. That is the version several people in the thread were looking at, including the Kindle copy.\n\nSome later versions use a longer acknowledgements list. The French Dunod translation, for example, starts that paragraph with Sam Altman and Dario Amodei, then Ross Andersen, and adds many extra names (Yoshua Bengio, Geoffrey Hinton, Larry Page, Mustafa Suleyman, and others). The screenshot in the original claim matches that expanded wording, not the 2014 English text.\n\nSo the claim is edition-dependent: absent from the original English printings, present in at least one later/translated edition. I have not checked every subsequent English paperback line by line, but the split is already enough to say they are not acknowledged in all printings.",
+    "translation": "我會檢查《超級智能》（Superintelligence）不同印刷版本中的致謝是否有所不同，而不僅僅是那個討論串中已顯示的副本。法國版列出了致謝名單；2014年的英文重印版則沒有。我接下來會檢查後來的英文印刷版本。不，它們並非出現在每一個印刷版本中。\n\n2014年英文第一版和2017年「經修正後重印」的英文文本感謝了一長串人名，從羅斯·安德森（Ross Andersen）、斯圖爾特·阿姆斯特朗（Stuart Armstrong）和歐文·科頓-巴拉特（Owen Cotton-Barratt）開始。埃隆·馬斯克（Elon Musk）在這個名單上。薩姆·奧爾特曼（Sam Altman）和達里奥·阿莫代伊（Dario Amodei）則不在。這是討論串中包括Kindle副本在內的幾個人查看的版本。\n\n一些後來的版本使用了更長的致謝名單。例如，法國Dunod譯本在該段落開始處提到了薩姆·奧爾特曼和達里奥·阿莫代伊，然後是羅斯·安德森，並添加了許多額外的名字（約書亞·本吉奧（Yoshua Bengio）、傑弗里·辛頓（Geoffrey Hinton）、拉里·佩奇（Larry Page）、穆斯塔法·蘇萊曼（Mustafa Suleyman）等）。原始聲稱中的截圖與這個擴展的文字相符，而不是2014年的英文文本。\n\n因此，這個聲稱是依版本而定的：在最初的英文印刷版本中缺席，在至少一個後來的/翻譯的版本中存在。我沒有逐行檢查每一個後來的英文平裝版本，但已經足夠說明它們並非在所有印刷版本中都得到致謝。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T11:02:29.822752+08:00",
+    "url": "https://x.com/elonmusk/status/2102927625752818027",
+    "retried_at": "2026-09-24T11:04:36+08:00"
+  },
+  {
+    "id": "2102865834343321951",
+    "created_at": "2026-09-23T21:00:58.000Z",
+    "original": "In the original 2014 edition of Superintelligence, Sam Altman and Dario Amodei are not included in the acknowledgements; that list begins with Ross Andersen. ",
+    "translation": "在2014年原版的《超智慧》當中，Sam Altman和Dario Amodei沒有被列入致謝名單；那份名單是從Ross Andersen開始的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS7hK80WgAAyVpQ?format=jpg&name=medium"
+    ],
+    "fetched_at": "2026-09-24T11:02:37.932017+08:00",
+    "url": "https://x.com/elonmusk/status/2102865834343321951"
+  },
+  {
+    "id": "2102944206432199025",
+    "created_at": "2026-09-24T02:12:24.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T11:02:41.315515+08:00",
+    "url": "https://x.com/elonmusk/status/2102944206432199025",
+    "fix_note": [
+      "cycle513: byline-only orphan cleared, 'Elon Musk' -> canonical placeholder"
+    ]
+  },
+  {
+    "id": "2102855431291101353",
+    "created_at": "2026-09-23T20:19:38.000Z",
+    "original": "AI Is The Most Powerful Joule In History\n\nEconomic activity transforms energy -> GDP.\n\nHistorically, technology has improved this conversion. AI represents humanity’s most profound conversion mechanism yet (~10x humans & growing).\n\nEnergy-rich, low-income countries don't exist!",
+    "translation": "AI是人類史上最猛的焦耳\n\n經濟活動就是把能源轉換成GDP\n歷史上科技一直在優化這個轉換效率\nAI代表了人類迄今最猛的轉換機制（大概是人類的10倍還在持續成長）\n\n能源豐富但低收入的國家？根本不存在好嗎！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS2ZxYjWwAANiYB?format=jpg&name=240x240",
+      "https://pbs.twimg.com/media/HS2Zz3TW8AAsfJg?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-24T11:02:51.483998+08:00",
+    "url": "https://x.com/elonmusk/status/2102855431291101353"
+  },
+  {
+    "id": "2102946300270649451",
+    "created_at": "2026-09-24T02:20:43.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 X.com 僅顯示作者署名）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T11:02:59.501576+08:00",
+    "url": "https://x.com/elonmusk/status/2102946300270649451",
+    "fix_note": [
+      "cycle513: byline-only orphan cleared, 'Elon Musk' -> canonical placeholder"
+    ]
+  },
+  {
+    "id": "2102833408728830310",
+    "created_at": "2026-09-23T18:52:08.000Z",
+    "original": "Made with Grok Imagine",
+    "translation": "Grok Imagine 出品",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS7D1tlWYAAxr4J?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-24T11:03:05.163605+08:00",
+    "url": "https://x.com/elonmusk/status/2102833408728830310"
+  },
+  {
+    "id": "2102952674727784693",
+    "created_at": "2026-09-24T02:46:03.000Z",
+    "original": "Ship 41 moved to the launch pad at Starbase",
+    "translation": "Ship 41 開到 Starbase 發射台了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS6UGjvXkAAyHtp?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HS6UIKjWcAAIFCz?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HS6UJosXkAAtmfZ?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HS6ULERWMAAKMsr?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-24T11:03:11.017816+08:00",
+    "url": "https://x.com/elonmusk/status/2102952674727784693"
+  },
+  {
+    "id": "2102952936771035459",
+    "created_at": "2026-09-24T02:47:05.000Z",
+    "original": "Not only should mandatory seat belt use on commercial flights end, but so should the use of IVA spacesuits.\n\nIn their 60+ years of history in service, zero lives have been saved by these suits and in real contingencies they failed to save lives at all. Yet astronauts still spend x.com/satofishi/stat…",
+    "translation": "不只是商用航班的強制安全帶規定應該廢除，IVA 太空衣也該停止了。\n\n在這 60 多年的服役歷史中，這些太空衣壓根兒沒救過任何一條命，實際出狀況時也完全無法保住航天員的性命。但太空人們還是得花上一堆時間⋯⋯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T11:03:20.090515+08:00",
+    "url": "https://x.com/elonmusk/status/2102952936771035459"
+  },
+  {
+    "id": "2102953907936993446",
+    "created_at": "2026-09-24T02:50:57.000Z",
+    "original": "EXCLUSIVE: California has created a shadow welfare system for illegal aliens. Free housing, cash, healthcare, food, phones, college tuition, even car insurance—costing taxpayers more than $10 billion per year.\n\nWe went inside the system and exposed it all.",
+    "translation": "獨家：加州為非法移民打造了一個隱形福利體系。免費住房、現金、醫療、食物、手機、大學學費，甚至汽車保險——每年花費納稅人超過100億美元。\n\n我們深入這個體系內部，全部曝光。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T11:03:27.063106+08:00",
+    "url": "https://x.com/elonmusk/status/2102953907936993446"
+  },
+  {
     "id": "2102813669419851940",
     "created_at": "2026-09-23T17:33:41.000Z",
     "original": "Democrats support illegal aliens voting in our elections. x.com/basedmikelee/s…",
