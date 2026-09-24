@@ -1,5 +1,35 @@
 [
   {
+    "id": "2103214377809940751",
+    "created_at": "2026-09-24T20:05:58.000Z",
+    "original": "This popped up again in my 𝕏 feed.\n\nA reminder to avoid complacency & entitlement at all costs.",
+    "translation": "這篇又跳出現在我X的動態了。\n\n提醒自己千萬別變得自滿或覺得自己高人一等。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T05:08:20.983732+08:00",
+    "url": "https://x.com/elonmusk/status/2103214377809940751"
+  },
+  {
+    "id": "2036097323458343361",
+    "created_at": "2026-03-23T15:06:45.000Z",
+    "original": "People are sleeping on Elon... again. And especially on xAI. \nWhat appears as chaos is actually the whiplash of reprioritization after clearing a bottleneck. Such as the abrupt focus on Starlink after...",
+    "translation": "大家又在低估馬斯克惹...again。而且特別是xAI。\n看似一團亂，但其實是打通瓶頸後重新排優先順序的陣痛期。比如突然把重心放到Starlink就是在...之後...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HEB9SmqbQAACQeQ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-25T05:08:25.226320+08:00",
+    "url": "https://x.com/elonmusk/status/2036097323458343361"
+  },
+  {
     "id": "2103189988171018749",
     "created_at": "2026-09-24T18:29:03.000Z",
     "original": "Elon Musk",
