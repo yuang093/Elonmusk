@@ -1,5 +1,67 @@
 [
   {
+    "id": "2103002859331617232",
+    "created_at": "2026-09-24T06:05:28.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-24T15:08:17.337616+08:00",
+    "url": "https://x.com/elonmusk/status/2103002859331617232"
+  },
+  {
+    "id": "2102841784653222373",
+    "created_at": "2026-09-23T19:25:25.000Z",
+    "original": "Meanwhile Elon be like",
+    "translation": "與此同時 Elon 在那邊...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS7LdJ9XIAA4I-V?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-24T15:08:22.523558+08:00",
+    "url": "https://x.com/elonmusk/status/2102841784653222373"
+  },
+  {
+    "id": "2103005014277111831",
+    "created_at": "2026-09-24T06:14:02.000Z",
+    "original": "Take an early look at the front page of The Wall Street Journal ",
+    "translation": "搶先看華爾街日報頭版",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS9IIjaWQAAd405?format=jpg&name=900x900"
+    ],
+    "fetched_at": "2026-09-24T15:08:29.207567+08:00",
+    "url": "https://x.com/elonmusk/status/2103005014277111831"
+  },
+  {
+    "id": "2103005475075670176",
+    "created_at": "2026-09-24T06:15:51.000Z",
+    "original": "An Earth economy is less than a trillionth the size of a K2 economy",
+    "translation": "地球經濟還不到 K2 經濟的兆分之一",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS81W3paQAAhRoP?format=jpg&name=900x900"
+    ],
+    "fetched_at": "2026-09-24T15:08:35.377106+08:00",
+    "url": "https://x.com/elonmusk/status/2103005475075670176"
+  },
+  {
     "id": "2102953185136746897",
     "created_at": "2026-09-24T02:48:04.000Z",
     "original": "She is declaring herself to be a traitor",
