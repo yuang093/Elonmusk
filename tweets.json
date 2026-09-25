@@ -1,5 +1,112 @@
 [
   {
+    "id": "2103383138223448336",
+    "created_at": "2026-09-25T07:16:33.000Z",
+    "original": "Starship is magnificent",
+    "translation": "Starship 真的超帥的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T16:08:13.131422+08:00",
+    "url": "https://x.com/elonmusk/status/2103383138223448336"
+  },
+  {
+    "id": "2103234902032314838",
+    "created_at": "2026-09-24T21:27:31.000Z",
+    "original": "Launch rehearsal complete ahead of Starship Flight 14",
+    "translation": "星艦第14次飛行前發射演練完成啦！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTAw_h_W8AANsx9?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HTAsCIBXMAAJG-M?format=jpg&name=120x120",
+      "https://pbs.twimg.com/media/HTAsKOBXcAAUqjP?format=jpg&name=120x120",
+      "https://pbs.twimg.com/media/HTAsp75WEAEPjwC?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-09-25T16:08:15.038888+08:00",
+    "url": "https://x.com/elonmusk/status/2103234902032314838"
+  },
+  {
+    "id": "2103385332263838043",
+    "created_at": "2026-09-25T07:25:16.000Z",
+    "original": "Interesting",
+    "translation": "哦～有意思",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T16:08:18.802671+08:00",
+    "url": "https://x.com/elonmusk/status/2103385332263838043"
+  },
+  {
+    "id": "2103224225620201613",
+    "created_at": "2026-09-24T20:45:06.000Z",
+    "original": "SpaceX will win AI.\n\nMight sound like an absurd claim right now, but stay with me.\n\nFor over a year, I’ve argued that frontier capability gains eventually stop mattering economically once “good-enough AI” is crossed in the agentic era.\n\nAnd models themselves stop being a unique",
+    "translation": "SpaceX會在AI這塊贏。\n\n現在聽起來可能有點荒謬，但聽我說。\n\n一年多來我一直在說，一旦在代理時代跨過了「夠用的AI」這個門檻，最前緣的能力提升最終在經濟上就不那麼關鍵了。\n\n而且模型本身也不再是獨特的差異化點...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTAnSD3XsAAKbmJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-25T16:08:27.812548+08:00",
+    "url": "https://x.com/elonmusk/status/2103224225620201613"
+  },
+  {
+    "id": "2103382290994962788",
+    "created_at": "2026-09-25T07:13:11.000Z",
+    "original": "Legacy media REFUSED to show you a SINGLE SECOND of President Trump's speech and historic state dinner with Xi Jinping tonight at the White House\n\nSo here's the ENTIRE thing, from start to finish, with translations for Xi's speech\n\nDO NOT LET LEGACY MEDIA KEEP YOU IN THE DARK",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T16:08:36.009165+08:00",
+    "url": "https://x.com/elonmusk/status/2103382290994962788"
+  },
+  {
+    "id": "2103383018882896249",
+    "created_at": "2026-09-25T07:16:05.000Z",
+    "original": "Stainless Steel Starship",
+    "translation": "不鏽鋼星艦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTC3tQwWAAABDID?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-25T16:08:40.641340+08:00",
+    "url": "https://x.com/elonmusk/status/2103383018882896249"
+  },
+  {
+    "id": "2103388450120737068",
+    "created_at": "2026-09-25T07:37:40.000Z",
+    "original": "This is our first factory built for Semi.\n\n– 50,000 units/year\n\n– Every variant built on the same production line (Standard, Long Range, European spec)\n\n– 1.8M sq ft",
+    "translation": "這是我們第一座專門為 Semi 打造的工廠\n\n– 年產 50,000 台\n\n– 所有版本都在同一條產線上生產（Standard、Long Range、歐規版）\n\n– 占地面積 180 萬平方英尺",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-25T16:08:44.943674+08:00",
+    "url": "https://x.com/elonmusk/status/2103388450120737068"
+  },
+  {
     "id": "2103348098386784268",
     "created_at": "2026-09-25T04:57:19.000Z",
     "original": "That amazing business plan turns out to be true! 🤣",
