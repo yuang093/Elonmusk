@@ -1,5 +1,79 @@
 [
   {
+    "id": "2103514184293966105",
+    "created_at": "2026-09-25T15:57:17.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T01:08:16.753189+08:00",
+    "url": "https://x.com/elonmusk/status/2103514184293966105"
+  },
+  {
+    "id": "2103286891797709143",
+    "created_at": "2026-09-25T00:54:06.000Z",
+    "original": " that the suspect arrested for stabbing two UMass Dartmouth football players over the weekend, killing one, is a Nigerian national who had been in the U.S. illegally as a B-2 visa overstay, but was shielded from",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTBgR_gXwAEDxS0?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-26T01:08:27.017534+08:00",
+    "url": "https://x.com/elonmusk/status/2103286891797709143"
+  },
+  {
+    "id": "2103520928579949056",
+    "created_at": "2026-09-25T16:24:05.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T01:08:32.830787+08:00",
+    "url": "https://x.com/elonmusk/status/2103520928579949056"
+  },
+  {
+    "id": "2103505746050891927",
+    "created_at": "2026-09-25T15:23:45.000Z",
+    "original": "It’s so good to have AI bring the outside perspective to the amazing accomplishment of western culture. \n\nSet it to your local anthem, play it in every school once a week.",
+    "translation": "有AI帶來外部視角真的很棒，畢竟這是西方文化的驚人成就嘛～\n\n配個當地國歌當BGM，每週在學校播一次。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T01:08:38.728484+08:00",
+    "url": "https://x.com/elonmusk/status/2103505746050891927"
+  },
+  {
+    "id": "2103526000415879522",
+    "created_at": "2026-09-25T16:44:14.000Z",
+    "original": "Grok is pulling away as the dominant agentic trading harness on Coinbase for Agents\n\nGrok - 59.54%\nCustom CLI - 21.73%\nClaude - 13.37%\nPerplexity - 3.48%\nChatGPT - 1.54%\nClaude Code - 0.35%\n\nVolume growth across spot, futures, and now, equities continues.",
+    "translation": "Grok 正在拉開差距，成為 Coinbase for Agents 上主導的代理交易工具\n\nGrok - 59.54%\nCustom CLI - 21.73%\nClaude - 13.37%\nPerplexity - 3.48%\nChatGPT - 1.54%\nClaude Code - 0.35%\n\n現貨、期貨，以及現在的股票交易量持續成長中。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HS_zeOnb0AAmUCo?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-09-26T01:08:45.467414+08:00",
+    "url": "https://x.com/elonmusk/status/2103526000415879522"
+  },
+  {
     "id": "2103392323258208496",
     "created_at": "2026-09-25T07:53:03.000Z",
     "original": "Elon Musk",
