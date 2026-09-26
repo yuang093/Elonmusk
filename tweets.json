@@ -1,5 +1,80 @@
 [
   {
+    "id": "2103590779385954434",
+    "created_at": "2026-09-25T21:01:39.000Z",
+    "original": "So beautiful",
+    "translation": "好美啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T06:08:15.008039+08:00",
+    "url": "https://x.com/elonmusk/status/2103590779385954434"
+  },
+  {
+    "id": "2103592713249804548",
+    "created_at": "2026-09-25T21:09:20.000Z",
+    "original": "Every time. \n\nThis is hack on the empathy instinct of the West.",
+    "translation": "每次都這樣。\n\n這就是在對西方人的同理心進行 hack。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T06:08:23.427617+08:00",
+    "url": "https://x.com/elonmusk/status/2103592713249804548"
+  },
+  {
+    "id": "2103557827453227394",
+    "created_at": "2026-09-25T18:50:42.000Z",
+    "original": "The NGOs end up increasing the number of homeless people they manage, because that’s the only way to increase their revenue! Incentives drive outcomes. \n\n“Homeless” is a propaganda word used to describe people on the street who are mentally ill or severely addicted to drugs. The x.com/arthurmacwater…",
+    "translation": "NGO最後只會不斷擴大他們管的街友數量，因為這是增加收入的唯一方法啦！激勵機制決定一切！\n\n「街友」根本就是宣傳用語啦，其實就是在說那些在街上流浪、有嚴重精神問題或毒癮纏身的人。\n\nx.com/arthurmacwater…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTFWh8oXgAANQRz?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-26T06:08:29.982466+08:00",
+    "url": "https://x.com/elonmusk/status/2103557827453227394"
+  },
+  {
+    "id": "2103595073657315513",
+    "created_at": "2026-09-25T21:18:43.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T06:08:31.662231+08:00",
+    "url": "https://x.com/elonmusk/status/2103595073657315513"
+  },
+  {
+    "id": "2103540716634878313",
+    "created_at": "2026-09-25T17:42:43.000Z",
+    "original": "Restore Britain is one point behind the Lib Dems in the latest poll.\n\nWe can do this.",
+    "translation": "恢復英國黨在最新的民調中落後自由民主黨一分。\n\n我們做得到。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTFHHUlXAAAilZb?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-26T06:08:41.226699+08:00",
+    "url": "https://x.com/elonmusk/status/2103540716634878313",
+    "retried_at": "2026-09-26T07:03:21+08:00"
+  },
+  {
     "id": "2103540479266836485",
     "created_at": "2026-09-25T17:41:46.000Z",
     "original": "We might be able to reduce to 2 grid fins and use S-turns for the third axis of control",

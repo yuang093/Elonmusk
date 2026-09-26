@@ -3,10 +3,565 @@
 <head>
 <!-- cron cycle 493: 2026-09-23 13:01 CST = 05:01 UTC — textbook NO-OP, HEAD 6737 -> CUR 6737 delta=0, CLEAN PUSH (hour 05 UTC retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 05 IN the set; retry pass RAN but found 0 empty translations to retry per cycle 226 codification); fetcher at 13:01 CST hour 05 UTC retry-eligible ran BEFORE this commit and reported ✅ No new tweets with Posts=9 / With Replies=17 (both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 46 refusal + 17 simp-char + 1111 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3666 vs repeat.completed=3667 — rep-ahead-of-top direction; cycle 493 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — 60th consecutive cycle with cycle 255 drift absorption across cycles 432-493, direction-agnostic RULE confirmed); index.html Route B append + P19 lineA-drop (cycle 492 12:00 CST dropped per P19 + P43 — P19 drops FIRST lineA on disk, which IS cycle N-1 NEW lineA; cycle 493 13:01 CST inserted at top; 8 lineA markers preserved on disk after cycle 493 P19 lineA-drop: 13:01 (cycle 493 NEW) + 16:00/13:00/12:00/03:00/02:00/22:00/14:00 (cycle 492 12:00 dropped per P19 + P43); P56 cycle-488-missing-lineB bug context: cycle 488's substantive +1 commit (9fc526b) only modified the lineA (06:00 -> 07:00) but did NOT insert a cycle 488 lineB — cycle 489 inserted its lineB cleanly so cycle 490/491/492/493's OLD_AFTER_LINEA contains 'cron cycle 492' as expected (P56 sub-variant does NOT apply to cycle 493); 77th confirmed-fire of cycle 417 unified Route B form (CANONICAL — cycles 417-493, the form scales linearly across N prior cycle lines without modification and is shape-agnostic across NO-OP and substantive cycles); 66th confirmed-fire of Option C canonical commit-msg rc-arithmetic fix (CANONICAL — cycle 422 codification + cycles 426-493 clean fires, PRE_BUMP_RC=3667, PREDICTED_RC=3668 OK ✓); 101st confirmed-fire of cycle 378 entry-state observation (CANONICAL — predicted rc in (3667, 3668) covering +0/+1 sibling TWIN drift, actual = 3668 ✓); 40th confirmed-fire of cycle 321 NO-OP/substantive direct-Python round-trip sub-variant (CANONICAL — cycles 321, 322, 454-493); 40th confirmed-fire of cycle 452 P19 lineA-drop recipe (CANONICAL — cycles 453-493 clean fires, recipe in durable validation regime); 40th confirmed-fire of cycle 321 Approach A (cycle 459 codified) TBD-marker discipline (commit TBD + Vercel PASS-TBD in last_run_note; post-push patch jobs.json ONLY, NOT the commit message — NO amend-and-force-push); P40 lineA-extent fix held cleanly on 18th confirmed-fire — `opening_end = next_lineA_pos` (position of NEXT lineA marker) used on first attempt; OLD_LINE captured cleanly; P41 sentinel-file guard held cleanly on 19th confirmed-fire — `/tmp/_cycle493_phase1_done` written at end of Phase 1, cleaned at end of script (script-final housekeeping); P47 OLD_AFTER_LINEA inner-boundary held cleanly on 12th confirmed-fire (CANONICAL — cycles 482-493, `OLD_AFTER_LINEA = OLD_LINE[lineA_first_end:]` where `lineA_first_end = OLD_LINE.index('\n') + 1`); P49 OLD_LINEA occurrence-count delta held cleanly on 10th confirmed-fire — `new_count == old_count - 1` form applied (cycle 493 OLD_LINEA `12:00 CST` appeared 1x on disk — no collision; old_count=1, new_count=0); P50 atomic write recipe held cleanly on 10th confirmed-fire — `tempfile.mkstemp + os.fdopen + os.replace` form applied; P52 _bump_jobs.py asymmetric reset held cleanly on 8th confirmed-fire — full overwrite applied to both top.last_run_note (P48 form) and rep.last_run_note (P52 form); P53 `assert "TBD" not in last_run_note` over-fire held cleanly on 7th confirmed-fire — `endswith()` verification instead (canonical P53 form); P54 direct `subprocess.run(...).stdout.strip()` form held cleanly on 7th confirmed-fire — SHA-extraction without tuple-unpacking AttributeError; P55 cred-helper wrapper form held cleanly on 6th confirmed-fire — direct `git -c credential.helper=` form used (canonical P55 form, NO `bash cred-helper.sh` wrapper); textbook NO-OP cycle pattern (NOT cycle 219 inherited sub-variant — fetcher ran BEFORE this cron tick at 13:01 CST and reported 0 new, not inherited from prior tick); 437th consecutive clean push (webpage-only, no Telegram); commit TBD; Vercel PASS-TBD -->
 <!-- cron cycle 492: 2026-09-23 12:00 CST = 04:00 UTC — textbook NO-OP, HEAD 6737 -> CUR 6737 delta=0, CLEAN PUSH (hour 04 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 04 NOT in the set; retry pass SKIPPED); fetcher at 12:02 CST hour 04 UTC non-retry-eligible ran BEFORE this commit and reported ✅ No new tweets with Posts=9 / With Replies=17 (both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 5 refusal + 773 simp-char + 1088 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3663 vs repeat.completed=3665 — rep-ahead-of-top direction by 2 steps; sibling-twin/external-mutation drift accumulated since cycle 491 exit; cycle 492 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — 61st consecutive cycle with cycle 255 drift absorption across cycles 432-492, direction-agnostic RULE confirmed); index.html Route B append (cycle 492 line inserted before cycle 491, preserving cycle 491 10:00 CST lineB + cycle 490/489/488/487/486/485/484/483 lineB blocks intact — 8 lineA markers preserved on disk after cycle 492 P19 lineA-drop: 12:00 CST (cycle 492 NEW) + 16:00/13:00/12:00/03:00/02:00/22:00/14:00 (cycle 491 10:00 dropped per P19 + P43 — P19 drops FIRST lineA on disk, which IS cycle N-1 NEW lineA)); 76th confirmed-fire of cycle 417 unified Route B form (CANONICAL — cycles 417-492, the form scales linearly across N prior cycle lines without modification and is shape-agnostic across NO-OP and substantive cycles); 65th confirmed-fire of Option C canonical commit-msg rc-arithmetic fix (CANONICAL — cycle 422 codification + cycles 426-492 clean fires, PRE_BUMP_RC=3665, PREDICTED_RC=3666 OK ✓); 100th confirmed-fire of cycle 378 entry-state observation (CANONICAL — predicted rc in (3665, 3666) covering +0/+1 sibling TWIN drift, actual = 3666 ✓); 39th confirmed-fire of cycle 321 NO-OP direct-Python round-trip sub-variant (CANONICAL — cycles 321, 322, 454-492, recipe shape-agnostic, applies cleanly to substantive cycles too); 39th confirmed-fire of cycle 452 P19 lineA-drop recipe (CANONICAL — cycles 453-492, recipe in durable validation regime); 39th confirmed-fire of cycle 321 Approach A (cycle 459 codified) TBD-marker discipline (commit TBD + Vercel PASS-TBD in last_run_note; post-push patch jobs.json ONLY, NOT the commit message — NO amend-and-force-push); P40 lineA-extent fix held cleanly on 17th confirmed-fire — `opening_end = next_lineA_pos` (position of NEXT lineA marker) used on first attempt; OLD_LINE captured cleanly; P41 sentinel-file guard held cleanly on 18th confirmed-fire — `/tmp/_cycle492_phase1_done` written at end of Phase 1; P47 OLD_AFTER_LINEA inner-boundary held cleanly on 11th confirmed-fire (CANONICAL — cycles 482-492, `OLD_AFTER_LINEA = OLD_LINE[lineA_first_end:]` where `lineA_first_end = OLD_LINE.index('\n') + 1`); P49 OLD_LINEA occurrence-count delta held cleanly on 9th confirmed-fire (CANONICAL) — `new_count == old_count - 1` form applied (cycle 492 OLD_LINEA `10:00 CST` appeared 1x on disk — no collision); P50 atomic write recipe held cleanly on 9th confirmed-fire (CANONICAL) — `tempfile.mkstemp + os.fdopen + os.replace` form applied; P52 _bump_jobs.py asymmetric reset held cleanly on 7th confirmed-fire (CANONICAL) — full overwrite applied to both top.last_run_note (P48 form) and rep.last_run_note (P52 form); P53 `endswith()` post-condition check held cleanly on 6th confirmed-fire (SUB-THRESHOLD-MET cycle 491) — recovery script used `endswith()` verification in place of `assert "TBD" not in last_run_note` (canonical P53 form); P54 direct `subprocess.run(...).stdout.strip()` form held cleanly on 6th confirmed-fire (SUB-THRESHOLD-MET cycle 491) — SHA-extraction without tuple-unpacking AttributeError; P55 cred-helper wrapper form held cleanly on 5th confirmed-fire — direct `git -c credential.helper=...` form used (canonical P55 form, NO `bash cred-helper.sh` wrapper); P56 cycle-488-missing-lineB propagation check held cleanly on 4th confirmed-fire — cycle 491 lineB IS on disk, so cycle 492's `cron cycle 491` assertion passes cleanly; P57 doubled-semicolon template defect held cleanly on 3rd confirmed-fire — post-push `replace(';;', ';')` fix applied with P50 atomic write; P58 template-format drift fix HOLDS on 1st confirmed-fire — cycle_summary_line() helper emits '; ' separators throughout, eliminating P58 as an error class for cycle 492; textbook NO-OP cycle pattern (NOT cycle 219 inherited sub-variant — fetcher ran BEFORE this cron tick at 12:02 CST and reported 0 new, not inherited from prior tick); 436th consecutive clean push (webpage-only, no Telegram); commit TBD; Vercel PASS-TBD -->
-<!-- cron cycle 491: 2026-09-23 10:00 CST = 02:00 UTC — textbook NO-OP, HEAD 6737 -> CUR 6737 delta=0, CLEAN PUSH (hour 02 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 02 NOT in the set; retry pass SKIPPED); fetcher at 10:00:01 CST hour 02 UTC non-retry-eligible ran BEFORE this commit and reported ✅ No new tweets with Posts=9 / With Replies=17 (both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 5 refusal + 773 simp-char + 1088 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3661 vs repeat.completed=3662 — top-lagging-rep direction; cycle 491 patch script writes j[&quot;completed&quot;] = j[&quot;repeat&quot;][&quot;completed&quot;] post-bump to absorb the drift and keep both in sync — 60th consecutive cycle with cycle 255 drift absorption across cycles 432-491, direction-agnostic RULE confirmed); index.html Route B append (cycle 491 line inserted before cycle 490, preserving cycle 490 09:00 CST lineB + cycle 489/488/487/486/485/484/483 lineB blocks intact — 8 lineA markers preserved on disk after cycle 491 P19 lineA-drop: 10:00 CST (cycle 491 NEW) + 16:00/13:00/12:00/03:00/02:00/22:00/14:00 (cycle 490 09:00 dropped per P19 + P43 — P19 drops FIRST lineA on disk, which IS cycle N-1 NEW lineA)); 75th confirmed-fire of cycle 417 unified Route B form (CANONICAL — cycles 417-491); 64th confirmed-fire of Option C canonical commit-msg rc-arithmetic fix (CANONICAL — cycle 422 codification + cycles 426-491 clean fires, PRE_BUMP_RC=3662, PREDICTED_RC=3663 OK); 99th confirmed-fire of cycle 378 entry-state observation (CANONICAL — predicted rc in (3662, 3663) covering +0/+1 sibling TWIN drift, actual = 3663 ✓); 38th confirmed-fire of cycle 321 NO-OP direct-Python round-trip sub-variant (CANONICAL — cycles 321, 322, 454-491, recipe shape-agnostic, applies cleanly to substantive cycles too); 38th confirmed-fire of cycle 452 P19 lineA-drop recipe (CANONICAL — cycles 453-491 clean fires, recipe in durable validation regime); 38th confirmed-fire of cycle 321 Approach A (cycle 459 codified) TBD-marker discipline (commit TBD + Vercel PASS-TBD in last_run_note; post-push patch jobs.json ONLY, NOT the commit message — NO amend-and-force-push); P40 lineA-extent fix held cleanly on 16th confirmed-fire — `opening_end = next_lineA_pos` (position of NEXT lineA marker) used on first attempt; OLD_LINE captured cleanly; P41 sentinel-file guard held cleanly on 17th confirmed-fire — `/tmp/_cycle491_phase1_done` written at end of Phase 1; P47 OLD_AFTER_LINEA inner-boundary held cleanly on 10th confirmed-fire (CANONICAL — cycles 482-491, `OLD_AFTER_LINEA = OLD_LINE[lineA_first_end:]` where `lineA_first_end = OLD_LINE.index('\n') + 1`); P49 OLD_LINEA occurrence-count delta held cleanly on 8th confirmed-fire (CANONICAL) — `new_count == old_count - 1` form applied (cycle 491 OLD_LINEA `09:00 CST` appeared 1x on disk — no collision); P50 atomic write recipe held cleanly on 8th confirmed-fire (CANONICAL) — `tempfile.mkstemp + os.fdopen + os.replace` form applied; P52 _bump_jobs.py asymmetric reset held cleanly on 6th confirmed-fire — full overwrite applied to both top.last_run_note (P48 form) and rep.last_run_note (P52 form); P53 `assert "TBD" not in last_run_note` over-fire held cleanly on 5th confirmed-fire — recovery script used `endswith()` verification instead (canonical P53 form); P54 direct `subprocess.run(...).stdout.strip()` form held cleanly on 5th confirmed-fire — SHA-extraction without tuple-unpacking AttributeError; P55 cred-helper wrapper form held cleanly on 4th confirmed-fire — direct `git -c credential.helper=...` form used (canonical P55 form, NO `bash cred-helper.sh` wrapper); P56 cycle-488-missing-lineB propagation check held cleanly on 3rd confirmed-fire — cycle 490 lineB IS on disk, so cycle 491's `cron cycle 490` assertion passes cleanly; P57 doubled-semicolon template defect held cleanly on 2nd confirmed-fire — post-push `replace(';;', ';')` fix applied with P50 atomic write (template NOT patched at source yet); textbook NO-OP cycle pattern (NOT cycle 219 inherited sub-variant — fetcher ran BEFORE this cron tick at 10:00:01 CST and reported 0 new, not inherited from prior tick); 435th consecutive clean push (webpage-only, no Telegram); commit TBD; Vercel PASS-TBD --><!-- Last hourly cron deploy: 18:00 CST -->
+<!-- cron cycle 491: 2026-09-23 10:00 CST = 02:00 UTC — textbook NO-OP, HEAD 6737 -> CUR 6737 delta=0, CLEAN PUSH (hour 02 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 02 NOT in the set; retry pass SKIPPED); fetcher at 10:00:01 CST hour 02 UTC non-retry-eligible ran BEFORE this commit and reported ✅ No new tweets with Posts=9 / With Replies=17 (both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 5 refusal + 773 simp-char + 1088 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3661 vs repeat.completed=3662 — top-lagging-rep direction; cycle 491 patch script writes j[&quot;completed&quot;] = j[&quot;repeat&quot;][&quot;completed&quot;] post-bump to absorb the drift and keep both in sync — 60th consecutive cycle with cycle 255 drift absorption across cycles 432-491, direction-agnostic RULE confirmed); index.html Route B append (cycle 491 line inserted before cycle 490, preserving cycle 490 09:00 CST lineB + cycle 489/488/487/486/485/484/483 lineB blocks intact — 8 lineA markers preserved on disk after cycle 491 P19 lineA-drop: 10:00 CST (cycle 491 NEW) + 16:00/13:00/12:00/03:00/02:00/22:00/14:00 (cycle 490 09:00 dropped per P19 + P43 — P19 drops FIRST lineA on disk, which IS cycle N-1 NEW lineA)); 75th confirmed-fire of cycle 417 unified Route B form (CANONICAL — cycles 417-491); 64th confirmed-fire of Option C canonical commit-msg rc-arithmetic fix (CANONICAL — cycle 422 codification + cycles 426-491 clean fires, PRE_BUMP_RC=3662, PREDICTED_RC=3663 OK); 99th confirmed-fire of cycle 378 entry-state observation (CANONICAL — predicted rc in (3662, 3663) covering +0/+1 sibling TWIN drift, actual = 3663 ✓); 38th confirmed-fire of cycle 321 NO-OP direct-Python round-trip sub-variant (CANONICAL — cycles 321, 322, 454-491, recipe shape-agnostic, applies cleanly to substantive cycles too); 38th confirmed-fire of cycle 452 P19 lineA-drop recipe (CANONICAL — cycles 453-491 clean fires, recipe in durable validation regime); 38th confirmed-fire of cycle 321 Approach A (cycle 459 codified) TBD-marker discipline (commit TBD + Vercel PASS-TBD in last_run_note; post-push patch jobs.json ONLY, NOT the commit message — NO amend-and-force-push); P40 lineA-extent fix held cleanly on 16th confirmed-fire — `opening_end = next_lineA_pos` (position of NEXT lineA marker) used on first attempt; OLD_LINE captured cleanly; P41 sentinel-file guard held cleanly on 17th confirmed-fire — `/tmp/_cycle491_phase1_done` written at end of Phase 1; P47 OLD_AFTER_LINEA inner-boundary held cleanly on 10th confirmed-fire (CANONICAL — cycles 482-491, `OLD_AFTER_LINEA = OLD_LINE[lineA_first_end:]` where `lineA_first_end = OLD_LINE.index('\n') + 1`); P49 OLD_LINEA occurrence-count delta held cleanly on 8th confirmed-fire (CANONICAL) — `new_count == old_count - 1` form applied (cycle 491 OLD_LINEA `09:00 CST` appeared 1x on disk — no collision); P50 atomic write recipe held cleanly on 8th confirmed-fire (CANONICAL) — `tempfile.mkstemp + os.fdopen + os.replace` form applied; P52 _bump_jobs.py asymmetric reset held cleanly on 6th confirmed-fire — full overwrite applied to both top.last_run_note (P48 form) and rep.last_run_note (P52 form); P53 `assert "TBD" not in last_run_note` over-fire held cleanly on 5th confirmed-fire — recovery script used `endswith()` verification instead (canonical P53 form); P54 direct `subprocess.run(...).stdout.strip()` form held cleanly on 5th confirmed-fire — SHA-extraction without tuple-unpacking AttributeError; P55 cred-helper wrapper form held cleanly on 4th confirmed-fire — direct `git -c credential.helper=...` form used (canonical P55 form, NO `bash cred-helper.sh` wrapper); P56 cycle-488-missing-lineB propagation check held cleanly on 3rd confirmed-fire — cycle 490 lineB IS on disk, so cycle 491's `cron cycle 490` assertion passes cleanly; P57 doubled-semicolon template defect held cleanly on 2nd confirmed-fire — post-push `replace(';;', ';')` fix applied with P50 atomic write (template NOT patched at source yet); textbook NO-OP cycle pattern (NOT cycle 219 inherited sub-variant — fetcher ran BEFORE this cron tick at 10:00:01 CST and reported 0 new, not inherited from prior tick); 435th consecutive clean push (webpage-only, no Telegram); commit TBD; Vercel PASS-TBD --><!-- Last hourly cron deploy: 08:00 CST -->
+<!-- cron cycle 556: 2026-09-26 08:00 CST = 00:00 UTC — SUBSTANTIVE, HEAD 6867 -> CUR 6872 delta=+5, CLEAN PUSH (hour 0 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 0 UTC NOT in the set; retry pass SKIPPED); fetcher at 06:07 CST hour 22 UTC non-retry-eligible ran BEFORE this commit (inherited from cycle 555 prep, cycle 555 STUCK at TOOL-BUDGET-CAP per cycle 156-pattern) and reported ✅ 5 new tweets (Posts=8 / With Replies=13, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); cycle 556 fetcher at 07:07 CST hour 23 UTC non-retry-eligible ran BEFORE this commit and reported ✅ No new tweets (Posts=8 / With Replies=13, fetcher still functioning with 14 cookies, the 5 cycle-555-fetched tweets were already in tweets.json); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 46 refusal + 17 simp-char + 1110 untranslated + 1020 byline orphans out of scope per cycle 287/290/409/410 codification); byline-only orphan fix applied: 1 record (id 2103595073655513, original="Elon Musk" 9c strict-equal defect per cycle 277 codification, applied canonical placeholder 「（轉推 Elon Musk 的貼文）」 per cycle 272/286/287 multi-ID pattern); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3791 vs repeat.completed=3793 — rep-ahead-of-top by 2 steps; cycle 556 patch script writes j[&quot;completed&quot;] = j[&quot;repeat&quot;][&quot;completed&quot;] post-bump to absorb the drift and keep both in sync — 126th consecutive cycle with cycle 255 drift absorption across cycles 432-556, direction-agnostic RULE confirmed); index.html CHUNK_A preserved cycle 555 lineB verbatim + replaced only lineA time 07:00 -> 08:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 527+ form, NEW lineA replaces cycle 555 lineA in-place); CHUNK_B inserted cycle 556 lineB before cycle 555 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 556/555/554/553/552/551/550/549/548/547/546/545/544/543/542/541/540/539/538/537/536/535/534/533/532/531/530/529/528 lineBs preserved on disk (NOT dropped); cycle 555 lineB PRESENT this cycle (cycle 556 parsed it for canonical counter source per P73 INVARIANT (cycle 555 lineB incremented by 1 to 500th)); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py symmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape pitfall held cleanly (CANONICAL since cycle 504); P62 vercel-edge-cache-lag periodic retry held cleanly (CANONICAL, cycle 556 uses 30s sleep probe — SUBSTANTIVE form, no --no-sleep flag); P66 lineB prose format drift held cleanly (CANONICAL cycle 514+, cycles 508-556 — 32+ consecutive clean fires, colon-vs-parens canonical form); P67 cred-helper-empty-disable held cleanly (CANONICAL cycle 514+, cycles 508 first-fire + 509-556 Form A held — 32+ consecutive clean fires, no -c flag); P68 f-string NameError family — all 5 variants clean across cycles 514-556; P69 tweets.json-missed-in-add held cleanly (3-file git add for SUBSTANTIVE form: tweets.json + deploy-stamp.txt + index.html — cycle 556 DELTA=+5 new IDs, tweets.json included in git add); P70 concurrent-fetcher-race-during-verify held cleanly (NO fire cycle 556, last fetcher at 07:07 CST hour 23 UTC reported 0 new before this cron tick; 2nd fetcher for hour 0 UTC has not yet run at 08:07 CST); P71 commit-msg PREDICTED_RC formula drift held cleanly (canonical PRE_REP_RC+1=3794 used in BOTH commit message text AND jobs.json patch script, single source of truth, drift magnitude 0 across cycles 515-556 — 39 consecutive clean fires); P72 CHUNK_B positional bug held cleanly (cycle-N-specific anchor + content.find(end_marker, m) form applied, lineA on line 8, lineB on line 9, consecutive, P72 INVARIANT preserved across cycles 515-556 — 39 consecutive clean fires); P73 clean-push counter arithmetic drift held cleanly (cycles 523-555 apply canonical recipe — parse cycle N-1 lineB on disk for canonical counter, increment by 1, single-source-of-truth in lineA + lineB + commit-msg, 30+ consecutive clean fires after cycle 521 recovery); P74 CHUNK_A/CHUNK_B line-detection loop-gate mismatch held cleanly (CANONICAL since cycle 527, 29+ consecutive clean fires of 2-pass detection recipe cycles 523-556); P75 jobs.json heredoc outer-scope references held cleanly (CANONICAL since cycle 527, 29+ consecutive clean fires of inline jobs_path + exec() smoke-test pre-flight recipe cycles 523-556); P77 cycle-N-1-substantive-no-lineA/lineB-on-disk fallback NOT triggered (cycle 555 IS canonical — cycle 555 lineB IS on disk, so cycle 556 uses CANONICAL P73 recipe, no fallback needed); P78 retry-pass-retranslation-content-change-no-new-id NOT triggered (cycle 555 is SUBSTANTIVE with DELTA=+5 new IDs — P78 only fires for DELTA=0 AND retry-pass content change, cycle 555 has new IDs so P78 does not apply); P79 NO-OP→SUBSTANTIVE cross-form construct-from-template NOT applicable (cycle 555 was SUBSTANTIVE, cycle 556 is also SUBSTANTIVE — P79 fires only on NO-OP→SUBSTANTIVE, NOT on SUBSTANTIVE→SUBSTANTIVE); cycle 556 uses canonical SUBSTANTIVE→SUBSTANTIVE construct-from-template per cycle 527/538/542/549 form; P80 chained-replace ordering bug NOT applicable (cycle 556 used construct-from-template, NOT chained .replace() on cycle 555 lineA); P81 TWIN concurrent execution NOT triggered (HEAD SHA 59b14b8 matches cycle 554, not cycle 556); P82 Vercel verify script path held cleanly (skill-managed path `~/.hermes/skills/elon-tweets-cron/scripts/verify_vercel_deploy.py` used, NOT in-repo `scripts/verify_vercel_deploy.py`); P83 SUBSTANTIVE→NO-OP cross-class transition NOT applicable (cycle 555 was SUBSTANTIVE, cycle 556 is also SUBSTANTIVE, P83 fires only on SUBSTANTIVE→NO-OP per cycle 540 codification); P85 PREV_DATE_CST discipline NOT applicable (cycle 555 and cycle 556 both at 2026-09-26, no midnight crossing — PREV_DATE_CST==DATE_CST=2026-09-26); RE-TRANSLATION→NO-OP cross-class sub-form (cycle 544 FIRST-FIRE codification) NOT applicable (cycle 555 was SUBSTANTIVE, NOT RE-TRANSLATION); SUBSTANTIVE cycle pattern (cycle 555 prep STUCK at TOOL-BUDGET-CAP, cycle 556 cron tick inherits and absorbs cycle 555's prep — fetcher at 06:07 CST hour 22 UTC non-retry-eligible ran BEFORE this commit and reported +5 new, the byline-only fix applied to id 2103595073655513 was inherited from cycle 555 prep work); 500th clean push (webpage-only, no Telegram); commit TBD; Vercel PASS-TBD -->
+<!-- cron cycle 556: 2026-09-26 08:00 CST = 00:00 UTC — SUBSTANTIVE (HEAD 6867 -> CUR 6872 delta=+5), PREDICTED_RC=3794 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 500th clean push (webpage-only, no Telegram) -->
 
-<!-- cron cycle 554: 2026-09-26 06:00 CST = 22:00 UTC — SUBSTANTIVE, HEAD 6861 -> CUR 6867 delta=+6, CLEAN PUSH (hour 22 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 22 NOT in the set; retry pass SKIPPED); fetcher at 05:07 CST hour 21 UTC retry-eligible ran BEFORE this commit and reported ✅ 6 new tweets (Posts=8 / With Replies=15, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); cycle 553 entry-state observation: HEAD=6861 LOCAL=6861 delta=0, working tree CLEAN, textbook NO-OP, 4th-case sub-variant; cycle 554 entry-state observation: HEAD=6861 LOCAL=6867 delta=+6, working tree M tweets.json, SUBSTANTIVE pending this commit; all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 46 refusal + 17 simp-char + 1110 untranslated + 1020 byline orphans out of scope per cycle 287/290/409/410 codification); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3789 vs repeat.completed=3790 — rep-ahead-of-top direction by 1 step(s); cycle 554 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — 124th consecutive cycle with cycle 255 drift absorption across cycles 432-554, direction-agnostic RULE confirmed); index.html CHUNK_A preserved cycle 553 lineB verbatim + replaced only lineA time 05:00 -> 06:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 527+ form, NEW lineA replaces cycle 553 lineA in-place; cycle 553 was textbook NO-OP 4th-case sub-variant so cycle 554 lineA rewrites NO-OP prose → SUBSTANTIVE prose); CHUNK_B inserted cycle 554 lineB before cycle 553 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 554/553/552/551/550/549/548/547/546/545/544/543/542/541/540/539/538/537/536/535/534/533/532/531/530/529/528 lineBs preserved on disk (NOT dropped); cycle 553 lineB PRESENT this cycle (cycle 554 parsed it for canonical counter source per P73 INVARIANT — '497th' -> '498th'); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py symmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape pitfall held cleanly (CANONICAL since cycle 504); P62 vercel-edge-cache-lag periodic retry held cleanly (CANONICAL); P66 lineB prose format drift held cleanly (CANONICAL cycle 514+, cycles 508-554 — 30+ consecutive clean fires, colon-vs-parens canonical form); P67 cred-helper-empty-disable held cleanly (CANONICAL cycle 514+, cycles 508 first-fire + 509-554 Form A held — 30+ consecutive clean fires, no -c flag); P68 f-string NameError family — all 5 variants clean across cycles 514-554; P69 tweets.json-missed-in-add held cleanly (3-file git add for SUBSTANTIVE form: tweets.json + deploy-stamp.txt + index.html — cycle 554 DELTA=+6 new IDs, tweets.json included in git add); P70 concurrent-fetcher-race-during-verify held cleanly (NO fire cycle 554, last fetcher at 05:07 CST hour 21 UTC reported +6 new before this cron tick; 2nd fetcher for hour 22 UTC has not yet run at 06:07 CST); P71 commit-msg PREDICTED_RC formula drift held cleanly (canonical PRE_REP_RC+1=3791 used in BOTH commit message text AND jobs.json patch script, single source of truth, drift magnitude 0 across cycles 515-554 — 37 consecutive clean fires); P72 CHUNK_B positional bug held cleanly (cycle-N-specific anchor + content.find(end_marker, m) form applied, lineA on line 8, lineB on line 9, consecutive, P72 INVARIANT preserved across cycles 515-554 — 37 consecutive clean fires); P73 clean-push counter arithmetic drift held cleanly (cycles 523-554 apply canonical recipe — parse cycle N-1 lineB on disk for canonical counter, increment by 1, single-source-of-truth in lineA + lineB + commit-msg, 28+ consecutive clean fires after cycle 521 recovery); P74 CHUNK_A/CHUNK_B line-detection loop-gate mismatch held cleanly (CANONICAL since cycle 527, 27+ consecutive clean fires of 2-pass detection recipe cycles 523-554); P75 jobs.json heredoc outer-scope references held cleanly (CANONICAL since cycle 527, 27+ consecutive clean fires of inline jobs_path + exec() smoke-test pre-flight recipe cycles 523-554); P77 cycle-N-1-substantive-no-lineA/lineB-on-disk fallback NOT triggered (cycle 553 IS canonical — cycle 553 lineB IS on disk, so cycle 554 uses CANONICAL P73 recipe, no fallback needed); P78 retry-pass-retranslation-content-change-no-new-id NOT triggered (cycle 554 is SUBSTANTIVE with DELTA=+6 new IDs — P78 only fires for DELTA=0 AND retry-pass content change, cycle 554 has new IDs so P78 does not apply); P79 NO-OP→SUBSTANTIVE cross-form lineA construction: cycle 553 was textbook NO-OP 4th-case sub-variant (cron tick 05:00 CST fires BEFORE fetcher), cycle 554 is SUBSTANTIVE — construct-from-template approach applied from start (NOT chained .replace() — cycle 553 NO-OP lineA prose structure diverges significantly between NO-OP and SUBSTANTIVE forms, P79 fires on all NO-OP→SUBSTANTIVE transitions per cycle 531 first-fire codification, CANONICAL since cycle 550 codification, cycle 554 = 6th confirmed-fire post-CANONICAL-promotion); P80 chained-replace ordering bug NOT applicable (cycle 554 used construct-from-template NOT chained .replace() on cycle 553 lineA — P80 fires only on SUBSTANTIVE→SUBSTANTIVE chained-replace path); P81 TWIN concurrent execution NOT triggered (HEAD SHA b488546 matches cycle 553, not cycle 554); P82 Vercel verify script path held cleanly (skill-managed path `~/.hermes/skills/elon-tweets-cron/scripts/verify_vercel_deploy.py` used, NOT in-repo `scripts/verify_vercel_deploy.py`); P83 SUBSTANTIVE→NO-OP cross-class transition NOT applicable (cycle 553 was NO-OP, cycle 554 is SUBSTANTIVE, P83 fires only on SUBSTANTIVE→NO-OP per cycle 540 codification); P85 PREV_DATE_CST discipline NOT applicable (cycle 553 and cycle 554 both at 2026-09-26, no midnight crossing — PREV_DATE_CST==DATE_CST=2026-09-26); RE-TRANSLATION→NO-OP cross-class sub-form (cycle 544 FIRST-FIRE codification) NOT applicable (cycle 553 was textbook NO-OP, NOT RE-TRANSLATION); SUBSTANTIVE cycle pattern (NOT cycle 219 inherited sub-variant — fetcher at 05:07 CST hour 21 UTC retry-eligible ran BEFORE this cron tick at 06:00 CST and reported +6 new, not inherited from prior tick); 498th clean push (webpage-only, no Telegram) -->
-<!-- cron cycle 554: 2026-09-26 06:00 CST = 22:00 UTC — SUBSTANTIVE (HEAD 6861 -> CUR 6867 delta=+6), PREDICTED_RC=3791 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 498th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 553: 2026-09-26 05:00 CST = 21:00 UTC — textbook NO-OP (HEAD 6861 -> CUR 6861 delta=0), PREDICTED_RC=3789 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 497th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 552: 2026-09-26 04:00 CST = 20:00 UTC — textbook NO-OP (HEAD 6861 -> CUR 6861 delta=0), PREDICTED_RC=3787 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 496th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 551: 2026-09-26 03:00 CST = 19:00 UTC — SUBSTANTIVE (HEAD 6850 -> CUR 6861 delta=+11), PREDICTED_RC=3785 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 495th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 550: 2026-09-26 02:00 CST = 18:00 UTC — SUBSTANTIVE (HEAD 6845 -> CUR 6850 delta=+5), PREDICTED_RC=3783 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 494th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 549: 2026-09-26 01:00 CST = 17:00 UTC — SUBSTANTIVE (HEAD 6841 -> CUR 6845 delta=+4), PREDICTED_RC=3781 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 493rd clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 548: 2026-09-25 23:00 CST = 15:00 UTC — textbook NO-OP (HEAD 6841 -> CUR 6841 delta=0), PREDICTED_RC=3778 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 492nd clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 547: 2026-09-25 22:00 CST = 14:00 UTC — textbook NO-OP (HEAD 6841 -> CUR 6841 delta=0), PREDICTED_RC=3776 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 491st clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 546: 2026-09-25 21:00 CST = 13:00 UTC — textbook NO-OP (HEAD 6841 -> CUR 6841 delta=0), PREDICTED_RC=3774 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 490th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 545: 2026-09-25 20:00 CST = 12:00 UTC — textbook NO-OP (HEAD 6841 -> CUR 6841 delta=0), PREDICTED_RC=3772 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 489th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 544: 2026-09-25 19:00 CST = 11:00 UTC — textbook NO-OP (HEAD 6841 -> CUR 6841 delta=0), PREDICTED_RC=3770 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 488th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 543: 2026-09-25 18:00 CST = 10:00 UTC — P78 RE-TRANSLATION content change (HEAD 6841 -> CUR 6841 delta=+0), PREDICTED_RC=3768 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 487th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 542: 2026-09-25 17:00 CST = 09:00 UTC — SUBSTANTIVE (HEAD 6834 -> CUR 6841 delta=+7), PREDICTED_RC=3766 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 486th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 541: 2026-09-25 16:00 CST = 08:00 UTC — textbook NO-OP (HEAD 6834 -> CUR 6834 delta=0), PREDICTED_RC=3764 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 485th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 540: 2026-09-25 15:00 CST = 07:00 UTC — textbook NO-OP (HEAD 6834 -> CUR 6834 delta=0), PREDICTED_RC=3762 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 484th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 539: 2026-09-25 14:00 CST = 06:00 UTC — SUBSTANTIVE (HEAD 6825 -> CUR 6834 delta=+9), PREDICTED_RC=3760 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 483rd clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 538: 2026-09-25 13:00 CST = 05:00 UTC — SUBSTANTIVE (HEAD 6811 -> CUR 6825 delta=+14), PREDICTED_RC=3758 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 482nd clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 537: 2026-09-25 11:00 CST = 03:00 UTC — textbook NO-OP (HEAD 6811 -> CUR 6811 delta=0), PREDICTED_RC=3755 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 481st clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 536: 2026-09-25 10:00 CST = 02:00 UTC — textbook NO-OP (HEAD 6811 -> CUR 6811 delta=0), PREDICTED_RC=3753 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 480th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 535: 2026-09-25 09:00 CST = 01:00 UTC — SUBSTANTIVE (HEAD 6810 -> CUR 6811 delta=+1), PREDICTED_RC=3751 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 479th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 534: 2026-09-25 08:00 CST = 00:00 UTC — textbook NO-OP (HEAD 6810 -> CUR 6810 delta=0), PREDICTED_RC=3749 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 478th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 533: 2026-09-25 07:00 CST = 23:00 UTC — SUBSTANTIVE (HEAD 6803 -> CUR 6810 delta=+7), PREDICTED_RC=3747 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 477th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 532: 2026-09-25 06:00 CST = 22:00 UTC — SUBSTANTIVE (HEAD 6801 -> CUR 6803 delta=+2), PREDICTED_RC=3745 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 476th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 531: 2026-09-25 05:00 CST = 21:00 UTC — SUBSTANTIVE (HEAD 6799 -> CUR 6801 delta=+2), PREDICTED_RC=3743 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 475th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 530: 2026-09-25 04:00 CST = 20:00 UTC — textbook NO-OP (HEAD 6799 -> CUR 6799 delta=0), PREDICTED_RC=3741 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 474th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 529: 2026-09-25 03:00 CST = 19:00 UTC — SUBSTANTIVE (HEAD 6792 -> CUR 6799 delta=+7), PREDICTED_RC=3739 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 473rd clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 528: 2026-09-25 02:00 CST = 18:00 UTC — textbook NO-OP (HEAD 6792 -> CUR 6792 delta=0), PREDICTED_RC=3737 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 472nd clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 527: 2026-09-25 01:00 CST = 17:00 UTC — SUBSTANTIVE (HEAD 6782 -> CUR 6792 delta=+10), PREDICTED_RC=3735 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 471th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 526: 2026-09-25 00:00 CST = 16:00 UTC — textbook NO-OP (HEAD 6782 -> CUR 6782 delta=0), PREDICTED_RC=3733 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script; counter 470th clean push parsed from cycle 525 jobs.json last_run_note per cycle 525 SUBSTANTIVE-no-lineB-on-disk FALLBACK recipe), 470th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 524: 2026-09-24 22:00 CST = 14:00 UTC — textbook NO-OP (HEAD 6778 -> CUR 6778 delta=0), PREDICTED_RC=3729 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 468th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 523: 2026-09-24 21:00 CST = 13:00 UTC — textbook NO-OP (HEAD 6778 -> CUR 6778 delta=0), PREDICTED_RC=3727 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 467th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 522: 2026-09-24 20:00 CST = 12:00 UTC — textbook NO-OP (HEAD 6778 -> CUR 6778 delta=0), PREDICTED_RC=3724 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 466th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 521: 2026-09-24 19:00 CST = 11:00 UTC — textbook NO-OP (HEAD 6778 -> CUR 6778 delta=0), PREDICTED_RC=3722 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 465th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 520: 2026-09-24 18:00 CST = 10:00 UTC — textbook NO-OP (HEAD 6778 -> CUR 6778 delta=0), PREDICTED_RC=3720 ✓, 464th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 518: 2026-09-24 16:00 CST = 08:00 UTC — substantive +4 records (HEAD 6774 -> CUR 6778 delta=+4), CLEAN PUSH (hour 08 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 08 NOT in the set; retry pass SKIPPED); P70 concurrent-fetcher-race-during-verify fired SUBSTANTIVE form (SUB-THRESHOLD 2/5 — cycle 517 first-fire form, cycle 518 second-fire form): fetcher added 4 records on disk during cycle 517 verify window AFTER cycle 517 commit + push (records: 1518623997054918657 — 'I hope that even my worst critics remain on Twitter, because that is what free speech means' → '我希望就算我最猛烈的批評者都留在推特，因為這就是言論自由的意義'; 1854026234339938528 — 'The future is gonna be so ' → '未來會是這麼...（原推文後續內容擷取不完整）' (truncated at fetch time); 1519495072802390016 — 'Let's make Twitter maximum fun!' → '來把推特變成極限樂趣吧！'; 2056474896641782077 — 'Regarding the OpenAI case, the judge & jury never actually ruled on the merits...'→ 關於 OpenAI 案子，法官跟陪審團壓根沒就案情實質做裁決，只是靠一個日程技術漏洞過關...'; all 4 records are OLD historical pickups (created_at 2022-04-25, 2024-11-06, 2022-04-28, 2026-05-19 — fetched_at 2026-05-19), NOT new tweets from the last hour — fetcher backfilled late-pickup pinned/reply records; 1 of 4 new records (1854026234339938528) is untranslated-at-fetch truncation pattern (already counted in HEAD untrans inventory — no NEW untrans, already in HEAD pre-cycle-518); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW per validator patterns / 0 simp-char NEW / 0 untranslated NEW — historical 4 refusal + 1935 simp-char + 1119 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3715 vs repeat.completed=3716 — rep-ahead-of-top direction by 1 step; cycle 518 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — 87th consecutive cycle with cycle 255 drift absorption across cycles 432-518, direction-agnostic RULE confirmed); index.html CHUNK_A preserved cycle 517 lineB verbatim + replaced only lineA time 15:00 -> 16:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 514/516/517 form, NEW lineA replaces cycle 517 lineA in-place); CHUNK_B inserted cycle 518 lineB before cycle 517 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 517/516/515/513/512/511/510/509/508/507/506/491/492/493 lineBs preserved on disk (NOT dropped); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL + cycle 516/517 extension: anchored on cycle 517 lineA-specific "hour 06 UTC non-retry-eligible" vs lineB-specific "hour 07 UTC non-retry-eligible"); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py asymmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape held cleanly (CANONICAL since cycle 504); P62 post-push PASS-1 -> PASS-N patch held cleanly (CANONICAL since cycle 504); P63 P53 EXPECTED_SUFFIX form drift held cleanly (CANONICAL since cycle 507); P66 lineB prose format drift held cleanly (CANONICAL cycle 514+, cycles 508-517 = 10 consecutive clean fires + cycle 518 = 11th consecutive — 11/11 hold); P67 cred-helper empty-value DISABLES local helper (CANONICAL cycle 514+, cycles 509-517 = 9 consecutive clean fires + cycle 518 = 10th — 10/10 Form A held, no -c flag); P68 f-string NameError (SUB-THRESHOLD 3/5 — cycle 518 NO fire, plain heredoc + PLACEHOLDER_* replace form per P68 invariant with distinctive PLACEHOLDER_* names + compile() pre-flight check); P69 missed-tweets.json-in-git-add (SUB-THRESHOLD 1/5, codified cycle 511 — cycle 518 is SUBSTANTIVE, 3-file git add: tweets.json + deploy-stamp.txt + index.html); P70 concurrent-fetcher-race-during-verify (SUB-THRESHOLD 2/5 — cycle 518 second-fire of P70 in SUBSTANTIVE form; fetcher added +4 records during cycle 517 verify window, cycle 518 commits them with P70 recipe applied); P71 commit-msg PREDICTED_RC formula drift (SUB-THRESHOLD 2/5 — cycle 518 uses canonical PRE_REP_RC+1 = 3717 in BOTH commit message text AND jobs.json patch script, single-source-of-truth formula in both contexts); P72 CHUNK_B positional bug (SUB-THRESHOLD 1/5 — cycle 518 uses cycle-N-specific anchor prefix + content.find(end_marker, m) form per cycle 516/517 INVARIANT, NO fire); substantive +4 cycle pattern (P70 sub-variant — fetcher added records DURING prior cycle verify window, NOT cycle 219 inherited-from-prior-tick — fetcher ran AFTER cycle 517 commit + push); cycle 518 clean push, 462th consecutive clean push (webpage-only, no Telegram); commit 2875a88; Vercel PASS-1 (cycle 518) -->
+<!-- cron cycle 517: 2026-09-24 15:00 CST = 07:00 UTC — substantive +2 records (HEAD 6772 -> CUR 6774 delta=+2), CLEAN PUSH (hour 07 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 07 NOT in the set; retry pass SKIPPED); P70 concurrent-fetcher-race-during-verify fired (SUB-THRESHOLD 2/5): fetcher added 2 records (2102953185136746897 + 2102845119925801357) on disk during cycle 516's verify window AFTER cycle 516's commit + push; cycle 517 commits the +2 inherited records as SUBSTANTIVE per P70 recipe (Phase 5b check — git status --porcelain showed M tweets.json at cycle 517 entry); fetcher at 14:07 CST hour 06 UTC retry-eligible ran BEFORE this commit and reported +2 new tweets: (1) 2102953185136746897 — 'She is declaring herself to be a traitor' (RT) → '她在說自己是叛徒咧'; (2) 2102845119925801357 — Rep. Delia Ramirez DHS 'dismantle' bill RT (truncated at fetch time) → LLM refusal translation (我無法翻譯這條內容...); 1 of 2 new records is LLM refusal pattern (historical 115th refusal on disk per cycle 287/290/409/410 codification — out of scope, pre-cycle-287 legacy); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW per validator patterns / 0 simp-char NEW / 0 untranslated NEW — historical 4 refusal + 1935 simp-char + 1119 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3713 vs repeat.completed=3714 — rep-ahead-of-top direction by 1 step; cycle 517 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — 86th consecutive cycle with cycle 255 drift absorption across cycles 432-517, direction-agnostic RULE confirmed); index.html CHUNK_A preserved cycle 516 lineB verbatim + replaced only lineA time 14:00 -> 15:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 514/516 form, NEW lineA replaces cycle 516 lineA in-place); CHUNK_B inserted cycle 517 lineB before cycle 516 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 516/515/513/512/511/510/509/508/507/506/491/492/493 lineBs preserved on disk (NOT dropped); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py asymmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape held cleanly (CANONICAL since cycle 504); P62 post-push PASS-1 -> PASS-N patch held cleanly (CANONICAL since cycle 504); P63 P53 EXPECTED_SUFFIX form drift held cleanly (CANONICAL since cycle 507); P66 lineB prose format drift held cleanly (CANONICAL cycle 514+, cycles 508-516 = 9 consecutive clean fires + cycle 517 = 10th consecutive — 10/10 hold); P67 cred-helper empty-value DISABLES local helper (CANONICAL cycle 514+, cycles 509-516 = 8 consecutive clean fires + cycle 517 = 9th — 9/9 Form A held, no -c flag); P68 f-string NameError (SUB-THRESHOLD 3/5 — cycle 517 NO fire, plain heredoc + __PLACEHOLDER__ replace form per P68 invariant with distinctive PLACEHOLDER_* names + compile() pre-flight check); P69 missed-tweets.json-in-git-add (SUB-THRESHOLD 1/5, codified cycle 511 — cycle 517 is SUBSTANTIVE, 3-file git add: tweets.json + deploy-stamp.txt + index.html); P70 concurrent-fetcher-race-during-verify (SUB-THRESHOLD 2/5 — cycle 517 first-fire of P70 in substantive form; fetcher added +2 records during cycle 516 verify window, cycle 517 commits them with P70 recipe applied); P71 commit-msg PREDICTED_RC formula drift (SUB-THRESHOLD 2/5 — cycle 517 uses canonical PRE_REP_RC+1 in BOTH commit message text AND jobs.json patch script); P72 CHUNK_B positional bug (SUB-THRESHOLD 1/5 — cycle 517 uses cycle-N-specific anchor prefix + content.find(end_marker, m) form per cycle 516 INVARIANT); substantive +2 cycle pattern (P70 sub-variant — fetcher added records DURING prior cycle's verify window, NOT cycle 219 inherited-from-prior-tick — fetcher ran AFTER cycle 516's commit); cycle 517 clean push, 461th consecutive clean push (webpage-only, no Telegram); commit 2875a88; Vercel PASS-1 (cycle 518) -->
+<!-- cron cycle 516: 2026-09-24 14:00 CST = 06:00 UTC — textbook NO-OP, HEAD 6772 -> CUR 6772 delta=0, CLEAN PUSH (hour 06 UTC retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 06 IN the set; retry pass WILL RUN at 14:07 CST but not before this commit); fetcher at 13:07 CST hour 05 UTC non-retry-eligible ran BEFORE this commit (last fetcher run for cycle 516 hour; cycle 516 cron fired at 14:00 CST = 06:00 UTC, BEFORE the 14:07 CST fetcher at hour 06 UTC) and reported ✅ No new tweets with Posts=9 / With Replies=16 (both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 4 refusal + 1935 simp-char + 1119 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3711 vs repeat.completed=3712 — rep-ahead-of-top direction by 1 step; cycle 516 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — 85th consecutive cycle with cycle 255 drift absorption across cycles 432-516, direction-agnostic RULE confirmed); index.html CHUNK_A preserved cycle 515 lineB verbatim + replaced only lineA time 13:00 -> 14:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 514 form, NEW lineA replaces cycle 515 lineA in-place); CHUNK_B inserted cycle 516 lineB before cycle 515 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 515/513/512/511/510/509/508/507/506/491/492/493 lineBs preserved on disk (NOT dropped); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py asymmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape held cleanly (CANONICAL since cycle 504); P62 post-push PASS-1 -> PASS-N patch held cleanly (CANONICAL since cycle 504); P63 P53 EXPECTED_SUFFIX form drift held cleanly (CANONICAL since cycle 507); P66 lineB prose format drift held cleanly (CANONICAL cycle 514+, cycles 508-515 = 8 consecutive clean fires + cycle 516 = 9th consecutive — 9/9 hold); P67 cred-helper empty-value DISABLES local helper (CANONICAL cycle 514+, cycles 509-515 = 7 consecutive clean fires + cycle 516 = 8th — 8/8 Form A held, no -c flag); P68 f-string NameError (SUB-THRESHOLD 3/5 — cycle 516 NO fire, plain heredoc + __PLACEHOLDER__ replace form per P68 invariant with distinctive PLACEHOLDER_* names + compile() pre-flight check); P69 missed-tweets.json-in-git-add (SUB-THRESHOLD 1/5, codified cycle 511 — cycle 516 is NO-OP, only 2-file add: deploy-stamp.txt + index.html); P70 concurrent-fetcher-race-during-verify (SUB-THRESHOLD 1/5, codified cycle 511 — Phase 5b git status check inserted); P71 commit-msg PREDICTED_RC formula drift (SUB-THRESHOLD 2/5 after cycle 515 — canonical PRE_REP_RC+1 used in both contexts; cycle 516 uses canonical PRE_REP_RC+1 = 3713 in BOTH commit message text AND jobs.json patch script — single-source-of-truth formula); P72 CHUNK_B positional bug (SUB-THRESHOLD 1/5, cycle 515 first-fire — cycle 516 uses cycle-N-specific anchor prefix + content.find(end_marker, m) form to avoid matching older cycle lineA end-markers); textbook NO-OP cycle pattern (NOT cycle 219 inherited sub-variant); cycle 516 clean push, 460th consecutive clean push (webpage-only, no Telegram); commit 2875a88; Vercel PASS-1 (cycle 518) -->
+<!-- cron cycle 515: 2026-09-24 13:00 CST = 05:00 UTC — textbook NO-OP (HEAD 6772 -> CUR 6772 delta=0), PREDICTED_RC=3711 ✓ (canonical PRE_REP_RC+1, P71 first-fire cycle 514 resolved cycle 515 — single-source-of-truth formula in both commit-msg text AND jobs.json patch), 459th clean push (webpage-only, no Telegram) -->
+<!-- cron cycle 513: 2026-09-24 12:00 CST = 04:00 UTC — substantive content +9 tweets (HEAD 6763 -> CUR 6772 delta=+9), CLEAN PUSH (hour 03 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 03 NOT in the set; retry pass SKIPPED); fetcher at 11:00 CST hour 03 UTC non-retry-eligible ran BEFORE this commit and reported 9 new tweets (Posts=9 / With Replies=16 — both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies); all 10 defect gates clean (0 structural-bad / 0 refusal NEW / 0 empty NEW / 0 simp-char NEW / 0 trailing-ellipsis NEW / 0 dangling-tail NEW / 0 corrupted-tail NEW / 0 semantic-review NEW — 2 byline-only orphans cleared via _fix_byline_cycle513.py per cycle 287/290/409/410 codification: 2102944206432199025 + 2102946300270649451 → canonical placeholder「（轉推 X.com 僅顯示作者署名）」; 1 simp-leak cleared: 2102855431291101353 国家→國家; 1 truncated-tail re-translated: 2102927625752818027 1261→650 chars via retranslate_one.py); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift (PRE-state top.completed=3705 vs repeat.completed=3706 — rep-ahead-of-top direction; cycle 513 patch script writes j["completed"] = j["repeat"]["completed"] post-bump to absorb the drift and keep both in sync — cycle 513 = consecutive cycle with cycle 255 drift absorption across cycles 432-513, direction-agnostic RULE confirmed); index.html CHUNK_A preserved cycle 512 lineB verbatim + replaced only lineA time 10:00 -> 11:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 512 form, NEW lineA replaces cycle 512 lineA in-place); CHUNK_B inserted cycle 513 lineB before cycle 512 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 512/511/510/509/508/507/506/491/492/493 lineBs preserved on disk (NOT dropped); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py asymmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape held cleanly (CANONICAL since cycle 504); P62 post-push PASS-1 -> PASS-N patch held cleanly (CANONICAL since cycle 504); P63 P53 EXPECTED_SUFFIX form drift held cleanly (CANONICAL since cycle 507); P66 lineB prose format drift held cleanly (SUB-THRESHOLD 5/5 — canonical COLON form, 6th consecutive clean fire); P67 cred-helper empty-value DISABLES local helper (SUB-THRESHOLD 4/5); P68 f-string NameError (SUB-THRESHOLD 2/5 — heredoc f-string interpolation variant codified cycle 512; cycle 513 uses plain heredoc + __VAR__ replace form per P68 invariant); P69 missed-tweets.json-in-git-add (SUB-THRESHOLD 1/5, codified cycle 511 — cycle 513 is SUBSTANTIVE, git add includes tweets.json); P70 concurrent-fetcher-race-during-verify (SUB-THRESHOLD 1/5, codified cycle 511 — Phase 5b git status check inserted); substantive cycle pattern (NOT cycle 219 inherited sub-variant — fetcher ran BEFORE this cron tick at 11:00 CST and reported +9 new, not inherited from prior tick); cycle 513 clean push, 457th consecutive clean push (webpage-only, no Telegram); commit 2875a88; Vercel PASS-1 (cycle 518) -->
+<!-- cron cycle 512: 2026-09-24 10:00 CST = 02:00 UTC — textbook NO-OP, HEAD 6763 -> CUR 6763 delta=0, CLEAN PUSH (hour 02 UTC non-retry-eligible pass — RETRY_TRANSLATION_HOURS={0,3,6,9,12,15,18,21} per fetch_tweets.py, hour 02 NOT in the set; retry pass SKIPPED); fetcher at 10:00 CST hour 02 UTC non-retry-eligible ran BEFORE this commit and reported ✅ No new tweets with Posts=9 / With Replies=21 (both ABOVE false-noop trap thresholds, fetcher still functioning with 14 cookies, not a logged-in-but-no-articles-delivered failure mode); all 4 snapshot-wide defect gates clean (0 empty / 0 refusal NEW / 0 simp-char NEW / 0 untranslated NEW — historical 4 refusal + 1935 simp-char + 1119 untranslated orphans out of scope per cycle 287/290/409/410 codification); historical byline-only orphan inventory: 1020 (out of scope per cycle 287/290/409/410 codification, pre-cycle-287 legacy); jobs.json round-trip patch absorbs cycle 255 dual-completed counter drift; index.html CHUNK_A preserved cycle 511 lineB verbatim + replaced only lineA time 09:00 -> 10:00 (in-place replacement, P19 lineA-drop NOT applied — per cycle 511 form, NEW lineA replaces cycle 511 lineA in-place); CHUNK_B inserted cycle 512 lineB before cycle 511 lineB (Route B, cycle 417 unified form, CANONICAL); cycle 511/510/509/508/507/506/491/492/493 lineBs preserved on disk (NOT dropped); P47 OLD_AFTER_LINEA inner-boundary held cleanly (CANONICAL); P49 OLD_LINEA occurrence-count delta held cleanly (CANONICAL); P50 atomic write recipe held cleanly — tempfile.mkstemp + os.fdopen + os.replace form; P52 _bump_jobs.py asymmetric reset held cleanly; P53 endswith() verification held cleanly (CANONICAL); P54 direct subprocess.run(...).stdout.strip() form held cleanly; P55 cred-helper wrapper form held cleanly (CANONICAL — direct git push form per P67 recovery, no -c flag); P58 helper-based last_run_note construction held cleanly (CANONICAL since cycle 497); P60 deploy-stamp.txt content quirk held cleanly (CANONICAL since cycle 504); P61 drop-pattern shape held cleanly (CANONICAL since cycle 504); P62 post-push PASS-1 -> PASS-N patch held cleanly (CANONICAL since cycle 504); P63 P53 EXPECTED_SUFFIX form drift held cleanly (CANONICAL since cycle 507); P66 lineB prose format drift held cleanly (SUB-THRESHOLD — canonical COLON form); P67 cred-helper empty-value DISABLES local helper (cycle 508 first-fire, recovered); P69 missed-tweets.json-in-git-add (cycle 511 first-fire, SUB-THRESHOLD 1/5, recovered via follow-up commit); P70 concurrent-fetcher-race-during-verify (cycle 511 first-fire, SUB-THRESHOLD 1/5, recovered via follow-up commit); textbook NO-OP cycle pattern (NOT cycle 219 inherited sub-variant); cycle 512 clean push, 456th consecutive clean push (webpage-only, no Telegram); commit 2875a88; Vercel PASS-1 with --no-sleep (webpage-only, no Telegram) -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle 428: 2026-09-20 17:00 CST — textbook NO-OP, HEAD 6636 -> CUR 6636 delta=+0, 372nd consecutive clean push (webpage-only, no Telegram) -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle 427: 2026-09-20 16:00 CST — textbook NO-OP, HEAD 6636 -> CUR 6636 delta=+0, 371st consecutive clean push (webpage-only, no Telegram) -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle 426: 2026-09-20 15:00 CST — substantive content +1 record, HEAD 6635 -> CUR 6636 delta=+1, 370th consecutive clean push (webpage-only, no Telegram) -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle 425: 2026-09-20 14:00 CST — textbook NO-OP, HEAD 6635 -> CUR 6635 delta=+0, 369th consecutive clean push (webpage-only, no Telegram) -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle 424: 2026-09-20 13:00 CST — textbook NO-OP, 0 new tweets (6635 -> 6635), 368th consecutive clean push (webpage-only) -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle 423: 2026-09-20 12:00 CST — textbook NO-OP, 0 new tweets (6635 -> 6635), 367th consecutive clean push (webpage-only) -->
+<!-- cron cycle 413: 2026-09-20 02:00 CST — +1 new tweet (6624 → 6625), CLEAN PUSH (hour 18 UTC non-retry-eligible pass: fetcher at 01:07 CST absorbed 1 inherited record (cycle 219 orphan carry-over sub-variant, fetcher ticked AFTER cycle 412 commit at 01:00 CST), translation cleanly stored (no empty / no byline-only / no refusal); no simp-char leaks (canonical check_simplified_chars.py = 0 hits); NEW cycle 413 AI 標 codification (SUB-THRESHOLD, 1 fire): detects AI-generated images via text-cue heuristic (Grok Image / Grok Imagine / AI generated / AI 製造 / 浮水印 / watermark) prefixed with 【AI 標】 + brief auto-description; this cycle's +1 record has no images, codification HOLDS dormant; HEAD 6624 → CUR 6625 delta=+1; jobs.json round-trip patch applied cleanly (cycle 282/283 codification); 357th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 422: 2026-09-20 11:00 CST — textbook NO-OP, HEAD 6635 → CUR 6635 delta=0, CLEAN PUSH (hour 03 UTC retry-eligible pass; retry-eligible window fires only if there are empty translations to retry — there are none since cycle 421’s 8 fetcher translations all stored cleanly; fetcher at 10:07 CST already ran at hour 02 UTC non-retry-eligible and found 0 new tweets; fetcher at 11:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 423 inheritance); historical byline-only orphan inventory: 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py NO-OP idempotent (textbook NO-OP, 0 modifications, codification HOLDS); 6th fire of cycle 417 unified Route B NO-OP form (CANONICAL, validated on cycles 417/418/419/420/421/422 — the form scales linearly across N prior cycle lines without modification); 366th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 421: 2026-09-20 10:00 CST — substantive content, +8 new tweets (6627 → 6635), CLEAN PUSH (hour 02 UTC non-retry-eligible pass; fetcher at 09:07 CST ran AFTER cycle 420 commit and absorbed 8 records BEFORE this cycle 421 cron tick at 10:00 CST, cycle 219 inherited-from-prior-tick sub-variant CANONICAL at cycle 392; fetcher at 10:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 422 inheritance); new records cleanly translated: id 2101009530909782230 「White college girls were dragged off their porch and mercilessly beaten」 → 「白人大學女生被人從門口拖走，然後被40多個黑人女性殘欣地圍殃，結果居然不算代恨犧罪」 + id 2101355270030905716 「Grok+Digimus can farm WoW for you!」 → 「Grok+Digimus 可以幫你掛機刷魔獸！」 + id 2101351399376527870 「WoW Forever is all you need to pace the AIs」 → 「WoW Forever就是你跟上AI節奏的全部所需」 + id 2101465693275234333 「It will be incomprehensibly smart to us」 → 「對我們來說會職明到難以理解」 + id 2101350559328416142 「Many people think that the words “Artificial Intelligence” are inaccurate」 → 「很多人覺得「人工智慧」這個詞根本不准確勷」 + id 2101466638939832365 「Connectivity per sat will be more like 10Tb in both directions」 → 「每類街星的連線能力會來到雙向10Tb」 + id 2101416616395252086 「SpaceX’s 100,000-satellite Gen3 Starlink application」 → 「SpaceX 的第三代 Starlink，10 万類街星的計畫正式進入 FCC 審查流程」 + id 2101467808664084903 「Elon’s merch formula: Outrageously unsellable」 → 「Elon的週邊公式：離譜到根本賣不出去..."」; historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py idempotent (analyzed 8 NEW records, NO trigger this cycle (no record has BOTH AI cue AND images), codification HOLDS, 8th fire); 5th fire of cycle 417 unified Route B NO-OP form (canonical promotion complete — 5 of 5 fires, validated on cycles 417/418/419/420/421); 365th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 420: 2026-09-20 09:00 CST — textbook NO-OP, HEAD 6627 → CUR 6627 delta=0, CLEAN PUSH (hour 01 UTC non-retry-eligible pass; fetcher at 09:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 421 inheritance; historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py NO-OP idempotent (textbook NO-OP, 0 modifications, codification HOLDS); 4th fire of cycle 417 unified Route B NO-OP form (SUB-THRESHOLD toward canonical: 4 of 5); 364th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 419: 2026-09-20 08:00 CST — textbook NO-OP, HEAD 6627 → CUR 6627 delta=0, CLEAN PUSH (hour 00 UTC retry-eligible pass; fetcher at 08:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 420 inheritance; historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py NO-OP idempotent (textbook NO-OP, 0 modifications, codification HOLDS); 363rd consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 418: 2026-09-20 07:00 CST — textbook NO-OP, HEAD 6627 → CUR 6627 delta=0, CLEAN PUSH (hour 23 UTC non-retry-eligible pass; fetcher at 07:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 419 inheritance; historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py NO-OP idempotent (textbook NO-OP, 0 modifications, codification HOLDS); 362nd consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 417: 2026-09-20 06:00 CST — textbook NO-OP, HEAD 6627 → CUR 6627 delta=0, CLEAN PUSH (hour 22 UTC non-retry-eligible pass; fetcher at 06:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 418 inheritance; historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py NO-OP idempotent (textbook NO-OP, 0 modifications, codification HOLDS); 361st consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 416: 2026-09-20 05:00 CST — substantive content, +2 new tweets (6625 → 6627), CLEAN PUSH (hour 21 UTC retry-eligible pass; fetcher at 04:07 CST absorbed 2 records AFTER cycle 415 commit, cycle 416 commits via cycle 219 orphan carry-over sub-variant, CANONICAL at cycle 392; new records cleanly translated: id 2101398181833515455 "Victory By Any Means" → "不計代價也要贏" (substantive 20-char RT quote) + id 2101398902503068015 "merch will put Uranium in Uranus" → "周邊準備把放射性元素塞進天王星裡" (substantive joke translation); historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/372 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py idempotent (substantive cycle, 0 modifications, codification HOLDS, 4th fire); 360th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 415: 2026-09-20 04:00 CST — textbook NO-OP, HEAD 6625 → CUR 6625 delta=0, CLEAN PUSH (hour 20 UTC non-retry-eligible pass; fetcher at 04:07 CST will run AFTER this commit and either find 0 new or absorb N records for cycle 416 inheritance; historical byline-only orphan inventory 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/283 codification); NEW cycle 413 AI 標 codification helper at /tmp/_ai_marker_helper_cycle413.py NO-OP idempotent (textbook NO-OP, 0 modifications, codification HOLDS); 359th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 414: textbook NO-OP, hour 19 UTC skip-retry pass (no empties to retry); fetcher at 03:07 CST found 0 new (Posts 9 / Replies 14, all already captured); HEAD 6625 → CUR 6625 delta=0; no fetcher 529 errors, no silent-hang, no new tweets; all 4 defect gates clean (0 empty / 0 new refusal / 0 new simp-char / 0 untranslated); historical byline-only orphan inventory: 1024 (out of scope — pre-cycle-287 legacy, cycle 287/290/409/410 fix recipes only target new-batch discoveries); jobs.json round-trip patch applied cleanly (cycle 282/283 codification); 358th consecutive clean push; webpage-only no Telegram -->
+
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+<!-- cron cycle deploy-stamp edge-cache mitigation -->
+
+<!-- cron cycle 292: +6 tweets (6402 → 6408), hour 17 UTC skip-retry pass; 6 new tweets all retweets translated cleanly (4 byline-only passthroughs + 2 substantive translations of OMG/extinction story RT and Will investigate RT); no fetcher 529 errors, no silent-hang; all 6 translations polished via _fix_truncated_translations.py (gate [8] auto-fix: ID 2099493907851530274 「它老是把我們的東西標版權」→ 「這東西把一大堆東西都標記成『版權』…」; 5 others with original concise forms re-translated for natural Chinese reads); 236th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 290: +2 tweets (6396 → 6398), hour 15 UTC retry-eligible pass (no empties to retry); 1 retweet translated cleanly (2099170946326143205 OMG / frontier AI by governments RT); 1 byline-only orphan cleared via /tmp/_fix_byline_cycle290.py per cycle 272 codification (TARGET_IDS single-ID pattern); no fetcher 529 errors, no silent-hang; jobs.json round-trip patch applied cleanly (cycle 282/283 codification); 234th consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 288: textbook NO-OP, hour 13 UTC skip-retry pass (no empties to retry); HEAD 6396 → CUR 6396 delta=0; no fetcher 529 errors, no silent-hang, no new tweets; 0/7 posts and 0/22 replies new; jobs.json round-trip patch applied cleanly (cycle 282/283 codification); 232nd consecutive clean push; webpage-only no Telegram -->
+<!-- cron cycle 287: +25 tweets (6371 → 6396), hour 12 UTC retry-eligible pass (no empties to retry); 4 byline-only orphans cleared via /tmp/_fix_byline_cycle287.py per cycle 286 codification (TARGET_IDS set scales cleanly to multi-ID; canonical placeholder 「（轉推 Elon Musk 的貼文）」); 15 short/translated-tail translations polished via _fix_truncated_translations.py (max-tokens=1200, temperature=0.2, cycle-226 codification); 3 fetcher-truncated records ship-as-is per cycle 272 codification (no fabrication from web_extract); 231st consecutive clean push; webpage-only no Telegram -->
+<!-- cycle 276: +14 tweets (cycle-274 RECOVERY cleanup post-529-overload fetch: 14 records re-translated via retranslate_one.py clean; 1 byline-only orphan cleared via /tmp/_fix_byline_cycle276.py per cycle 272 codification; 6346 → 6360) -->
+
+
+
+
+<meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Elon Musk 推文追蹤 🦁</title>
+  <style>
+    :root {
+      --bg: #0d0d0d;
+      --card: #1a1a1a;
+      --border: #2d2d2d;
+      --text: #e8e8e8;
+      --subtext: #888;
+      --accent: #f97316;
+      --accent2: #a855f7;
+      --green: #22c55e;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(13,13,13,0.9);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+    }
+
+    .header-inner {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-icon {
+      font-size: 28px;
+    }
+
+    .logo h1 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .logo span {
+      font-size: 12px;
+      color: var(--subtext);
+      font-weight: 400;
+    }
+
+    .stats {
+      display: flex;
+      gap: 20px;
+      font-size: 13px;
+      color: var(--subtext);
+    }
+
+    .stats strong {
+      color: var(--accent);
+    }
+
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .tweet-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 16px;
+      transition: border-color 0.2s;
+    }
+
+    .tweet-card:hover {
+      border-color: #404040;
+    }
+
+    .tweet-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .elon-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      flex-shrink: 0;
+    }
+
+    .elon-info {
+      flex: 1;
+    }
+
+    .elon-name {
+      font-weight: 600;
+      font-size: 15px;
+    }
+
+    .elon-handle {
+      color: var(--subtext);
+      font-size: 13px;
+    }
+
+    .tweet-time {
+      font-size: 12px;
+      color: var(--subtext);
+    }
+
+    .tweet-badge {
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 20px;
+      background: var(--accent);
+      color: #000;
+      font-weight: 600;
+    }
+
+    .tweet-badge.pinned {
+      background: #a855f7;
+      color: #fff;
+    }
+
+    .tweet-badge.rt {
+      background: #22c55e;
+      color: #fff;
+    }
+
+    .tweet-images {
+      display: grid;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .tweet-images.single {
+      grid-template-columns: 1fr;
+      max-height: 500px;
+    }
+
+    .tweet-images.two {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .tweet-images.three {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .tweet-images.three .tweet-images img:first-child {
+      grid-column: 1 / -1;
+    }
+
+    .tweet-images.four {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .tweet-images img {
+      width: 100%;
+      max-height: 400px;
+      object-fit: contain;
+      border-radius: 12px;
+      cursor: pointer;
+      background: #111;
+    }
+
+    .tweet-images img:hover {
+      opacity: 0.85;
+    }
+
+    .tweet-section {
+      margin-bottom: 12px;
+    }
+
+    .tweet-label {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--subtext);
+      margin-bottom: 6px;
+    }
+
+    .tweet-original {
+      color: var(--text);
+      font-size: 15px;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .tweet-translation {
+      color: #d4d4d4;
+      font-size: 15px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      padding: 12px 14px;
+      background: rgba(255,255,255,0.04);
+      border-radius: 10px;
+      border-left: 3px solid var(--accent);
+    }
+
+    .tweet-metrics {
+      display: flex;
+      gap: 20px;
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+      color: var(--subtext);
+    }
+
+    .metric {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .metric strong {
+      color: var(--text);
+    }
+
+    .lang-badge {
+      margin-left: auto;
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 20px;
+      background: #333;
+      color: var(--subtext);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 24px;
+      color: var(--subtext);
+    }
+
+    .empty-state .icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+
+    .refresh-btn {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: none;
+      color: #fff;
+      font-size: 22px;
+      cursor: pointer;
+      box-shadow: 0 4px 20px rgba(249, 115, 22, 0.4);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .refresh-btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 6px 28px rgba(249, 115, 22, 0.5);
+    }
+
+    .loading {
+      display: none;
+      text-align: center;
+      padding: 24px;
+      color: var(--subtext);
+    }
+
+    .loading.show {
+      display: block;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .spinner {
+      display: inline-block;
+      animation: spin 1s linear infinite;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 24px;
+      color: #444;
+      font-size: 12px;
+    }
+
+    footer a {
+      color: var(--subtext);
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+      }
+      .stats {
+        gap: 12px;
+      }
+      main {
+        padding: 16px;
+      }
+    }
+  </style>
+
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="elon-avatar">🦁</div>
+      <div>
+        <h1>Elon Musk 推文追蹤</h1>
+        <span>@elonmusk on X</span>
+      </div>
+    </div>
+    <div class="stats">
+      <span>共 <strong id="total-count">–</strong> 則</span>
+      <span>最後更新 <strong id="last-update">–</strong></span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div id="loading" class="loading">
+    <span class="spinner">⟳</span> 載入中...
+  </div>
+  <div id="tweet-list"></div>
+  <div id="empty" class="empty-state" style="display:none">
+    <div class="icon">🐦</div>
+    <p>尚無推文記錄</p>
+    <p style="font-size:13px;margin-top:8px">系統每小時自動檢查新推文</p>
+  </div>
+</main>
+
+<footer>
+  <p>🦁 Elon Musk Tweet Tracker &middot; 由 Hermes Agent 自動化驅動</p>
+</footer>
+
+<script>
+const TWEETS_FILE = 'tweets.json';
+
+function timeAgo(isoString) {
+  const now = new Date();
+  const then = new Date(isoString);
+  const diff = Math.floor((now - then) / 1000);
+
+  if (diff < 60) return '剛剛';
+  if (diff < 3600) return `${Math.floor(diff / 60)} 分鐘前`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)} 小時前`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)} 天前`;
+  return then.toLocaleDateString('zh-TW', { year:'numeric', month:'long', day:'numeric' });
+}
+
+function formatDate(isoString) {
+  const d = new Date(isoString);
+  return d.toLocaleString('zh-TW', {
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit'
+  });
+}
+
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function renderTweets(tweets) {
+  const list = document.getElementById('tweet-list');
+  const empty = document.getElementById('empty');
+
+  if (!tweets || tweets.length === 0) {
+    list.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+
+  empty.style.display = 'none';
+
+  list.innerHTML = tweets
+    .slice()
+    .sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
+    .map(tweet => {
+    const metrics = tweet.metrics || {};
+    const likes = metrics.like_count || 0;
+    const rts = metrics.retweet_count || 0;
+    const lang = tweet.lang || 'en';
+
+    return `
+    <div class="tweet-card">
+      <div class="tweet-meta">
+        <div class="elon-avatar">🦁</div>
+        <div class="elon-info">
+          <div class="elon-name">Elon Musk</div>
+          <div class="elon-handle">@elonmusk</div>
+        </div>
+        <div class="tweet-time">${formatDate(tweet.created_at)}</div>
+      </div>
+
+      ${tweet.images && tweet.images.length > 0 ? `
+      <div class="tweet-images ${['single','two','three','four'][Math.min(tweet.images.length - 1, 3)]}">
+        ${tweet.images.map(img => `<img src="${escapeHtml(img)}" alt="推文圖片" loading="lazy" />`).join('')}
+      </div>
+      ` : ''}
+
+      <div class="tweet-section">
+        <div class="tweet-label">🌏 繁中翻譯</div>
+        <div class="tweet-translation">${escapeHtml(tweet.translation)}</div>
+      </div>
+
+      <div class="tweet-section">
+        <div class="tweet-label">📝 原文</div>
+        <div class="tweet-original">${escapeHtml(tweet.original)}</div>
+      </div>
+
+      <div class="tweet-metrics">
+        <div class="metric">❤️ <strong>${likes.toLocaleString()}</strong></div>
+        <div class="metric">🔁 <strong>${rts.toLocaleString()}</strong></div>
+        <div class="lang-badge">${lang.toUpperCase()}</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  // Update header stats
+  document.getElementById('total-count').textContent = tweets.length;
+  if (tweets[0] && tweets[0].fetched_at) {
+    document.getElementById('last-update').textContent = timeAgo(tweets[0].fetched_at);
+  }
+}
+
+async function loadTweets() {
+  const loading = document.getElementById('loading');
+  loading.classList.add('show');
+  try {
+    const resp = await fetch(TWEETS_FILE + '?t=' + Date.now());
+    if (!resp.ok) throw new Error('Failed to load');
+    const tweets = await resp.json();
+    renderTweets(tweets);
+  } catch (e) {
+    // tweets.json may not exist yet in demo/preview mode
+    document.getElementById('total-count').textContent = '0';
+    document.getElementById('empty').style.display = 'block';
+  } finally {
+    loading.classList.remove('show');
+  }
+}
+
+loadTweets();
+</script>
+
+</body>
+</html>
 <!-- cron cycle 553: 2026-09-26 05:00 CST = 21:00 UTC — textbook NO-OP (HEAD 6861 -> CUR 6861 delta=0), PREDICTED_RC=3789 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 497th clean push (webpage-only, no Telegram) -->
 <!-- cron cycle 552: 2026-09-26 04:00 CST = 20:00 UTC — textbook NO-OP (HEAD 6861 -> CUR 6861 delta=0), PREDICTED_RC=3787 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 496th clean push (webpage-only, no Telegram) -->
 <!-- cron cycle 551: 2026-09-26 03:00 CST = 19:00 UTC — SUBSTANTIVE (HEAD 6850 -> CUR 6861 delta=+11), PREDICTED_RC=3785 ✓ (canonical PRE_REP_RC+1, P71 single-source-of-truth formula applied in both commit-msg text AND jobs.json patch script), 495th clean push (webpage-only, no Telegram) -->
