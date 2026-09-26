@@ -1,5 +1,67 @@
 [
   {
+    "id": "2103606898927006149",
+    "created_at": "2026-09-25T22:05:42.000Z",
+    "original": "Minihard originally got that name due to being half the size of Macroharder, but then we doubled the size of “Minihard” 😂",
+    "translation": "Minihard當初會取這個名字，是因為它是Macroharder一半的大小，結果後來我們把「Minihard」的規模又翻倍了 😂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T12:01:55.323561+08:00",
+    "url": "https://x.com/elonmusk/status/2103606898927006149"
+  },
+  {
+    "id": "2103594746711290163",
+    "created_at": "2026-09-25T21:17:25.000Z",
+    "original": "SpaceX's supercomputing facilities in the Mid-South rank among the world’s most advanced AI training clusters, spanning over 2.5 million feet, millions of GPUs, and over two gigawatts of compute → ",
+    "translation": "SpaceX 在中南部的超級電腦設施，根本就是全球最頂的 AI 訓練叢集啊！佔地超過 250 萬平方英尺、數百萬顆 GPU，算力直接突破 2GW 👀",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T12:02:04.169694+08:00",
+    "url": "https://x.com/elonmusk/status/2103594746711290163"
+  },
+  {
+    "id": "2103684619908309397",
+    "created_at": "2026-09-26T03:14:32.000Z",
+    "original": "Elon Musk",
+    "translation": "【轉推 — X.com 僅顯示作者署名】",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-26T12:02:06.216073+08:00",
+    "url": "https://x.com/elonmusk/status/2103684619908309397",
+    "fix_note": "cycle 560 byline-only RT fix: original='Elon Musk' translation='Elon Musk' replaced with canonical placeholder; underlying content is Musk \"💯\" reply to @dhh quote-tweet (https://x.com/elonmusk/status/2103684619908309397, captured fetched_at 2026-09-26T03:14 CST)"
+  },
+  {
+    "id": "2103628564687974840",
+    "created_at": "2026-09-25T23:31:48.000Z",
+    "original": "2017: Austin spent $35 million on homelessness. 2,036 homeless counted.\n\n2025: $118 million. 3,238 homeless.\n\nSpending more than tripled and homelessness went up 59%.\n\nIf you service the homeless lifestyle, you will get more of it.\n\nThe NGOs that run this system get paid by the problem of homelessness, so they have no reason to end it -- in fact, their only incentive is to make sure the problem grows.",
+    "translation": "2017年：奧斯汀在遊民問題上花費了3500萬美元。統計到的遊民數量為2,036人。\n\n2025年：支出1億1800萬美元。遊民數量增至3,238人。\n\n支出增加了兩倍多，而遊民數量上升了59%。\n\n如果你為遊民的生活方式提供服務，你將會得到更多這樣的情況。\n\n運營這個系統的非政府組織（NGO）通過遊民問題獲得資金，因此他們沒有理由去結束這個問題——事實上，他們唯一的動機就是確保這個問題不斷增長。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTFWh8oXgAANQRz?format=png&name=small"
+    ],
+    "fetched_at": "2026-09-26T12:02:16.369640+08:00",
+    "url": "https://x.com/elonmusk/status/2103628564687974840",
+    "original_truncated_recovered": true,
+    "retried_at": "2026-09-26T12:01:00+08:00",
+    "fix_note": "cycle 560 fetcher captured truncated original (279c, ending mid-clause at \"by the \"); recovered full original from web_extract on https://x.com/AustinJustice/status/2103557827453227394 (404c); translation to be re-translated by retranslate_one.py --max-tokens 1500 on the recovered text"
+  },
+  {
     "id": "2103590779385954434",
     "created_at": "2026-09-25T21:01:39.000Z",
     "original": "So beautiful",
