@@ -1,5 +1,49 @@
 [
   {
+    "id": "2103892094662349085",
+    "created_at": "2026-09-26T16:58:58.000Z",
+    "original": "Probably true",
+    "translation": "大概是真的吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-27T06:01:48.151041+08:00",
+    "url": "https://x.com/elonmusk/status/2103892094662349085"
+  },
+  {
+    "id": "2103958249922072840",
+    "created_at": "2026-09-26T21:21:51.000Z",
+    "original": "Grok Bot now connects to your finances.\n\nLink your bank, card, and investment accounts with the new Finance integration, then ask Bot to help manage your spending, investments, and more.",
+    "translation": "Grok Bot 現在可以連結你的財務資料囉～\n\n只要用新的 Finance 整合功能把你的銀行、信用卡和投資帳戶都串起來，然後直接問 Bot 幫你管錢、理投資之類的，超方便der～",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTKt7P3aUAAZptd?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-09-27T06:01:54.029953+08:00",
+    "url": "https://x.com/elonmusk/status/2103958249922072840"
+  },
+  {
+    "id": "2103960796942516451",
+    "created_at": "2026-09-26T21:31:58.000Z",
+    "original": "if we double the industrial production in outer-space every 12 months starting from some initial seed in 2030 then we hit Kardashev I by 2064 and Kardashev II by 2098. If we take 24 months for each doubling, we still hit Kardashev I by 2096 and Kardashev II by 2165",
+    "translation": "如果我們從2030年的某個初始基數開始，每12個月把太空工業產量翻倍的話，那2064年就能達到卡爾達肖夫I型，2098年再衝到卡爾達肖夫II型。就算改成每24個月才翻一次，也還是能在2096年摸到I型、2165年摸到II型。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-27T06:02:00.542929+08:00",
+    "url": "https://x.com/elonmusk/status/2103960796942516451"
+  },
+  {
     "id": "2103894760838897922",
     "created_at": "2026-09-26T17:09:34.000Z",
     "original": "🚨INSANE \n\nDemocrat Tom Suozzi says his biggest goal in politics is mass amnesty for criminal illegals: \n\n\"My biggest goal of what I want to accomplish in politics right now is I want to legalize 7 or 8 or 9 or 10 million people in our country.\"",
