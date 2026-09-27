@@ -1,5 +1,35 @@
 [
   {
+    "id": "2104164497166315861",
+    "created_at": "2026-09-27T11:01:24.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-28T00:08:16.897302+08:00",
+    "url": "https://x.com/elonmusk/status/2104164497166315861"
+  },
+  {
+    "id": "2104078008185192783",
+    "created_at": "2026-09-27T05:17:43.000Z",
+    "original": "Celebrity Jeopardy! debuted on December 7, 1996, with Will Ferrell as Alex Trebek, Darrell Hammond as Sean Connery, Norm Macdonald as Burt Reynolds, and Martin Short as Jerry Lewis.\n\nNorm Macdonald had been inspired by an SCTV sketch called “Half-Wits.” He contacted Eugene Levy,",
+    "translation": "《名人危險遊戲！》於1996年12月7日首播，威爾·法洛飾演亞歷克斯·特雷bek，戴瑞爾·漢蒙德飾演肖恩·康納利，諾姆·麥克唐納飾演伯特·雷諾茲，馬丁·肖特飾演傑瑞·路易斯。\n\n諾姆·麥克唐納的靈感來自SCTV的一個短劇叫「半吊子」。他聯繫了尤金·列維，",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTMvyjFWkAAbzjo.jpg"
+    ],
+    "fetched_at": "2026-09-28T00:08:23.334353+08:00",
+    "url": "https://x.com/elonmusk/status/2104078008185192783"
+  },
+  {
     "id": "2104128645526909109",
     "created_at": "2026-09-27T08:38:56.000Z",
     "original": "Elon Musk",
