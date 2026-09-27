@@ -1,1 +1,1 @@
-Last hourly cron deploy: 07:00 CST
+Last hourly cron deploy: 08:00 CST
