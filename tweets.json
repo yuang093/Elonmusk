@@ -1,5 +1,33 @@
 [
   {
+    "id": "2104572192247984493",
+    "created_at": "2026-09-28T14:01:26.000Z",
+    "original": "Starship performs its orbital insertion burn and enters orbit of Earth for the first time",
+    "translation": "Starship 完成軌道插入燃燒，第一次進入地球軌道啦！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-28T22:07:54.911476+08:00",
+    "url": "https://x.com/elonmusk/status/2104572192247984493"
+  },
+  {
+    "id": "2104572572067099102",
+    "created_at": "2026-09-28T14:02:56.000Z",
+    "original": "All 26 Starlink V3 operational satellites deployed and operating nominally",
+    "translation": "26顆 Starlink V3 作業衛星全部部署完畢，運行正常！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-28T22:07:59.033081+08:00",
+    "url": "https://x.com/elonmusk/status/2104572572067099102"
+  },
+  {
     "id": "2104545337478406579",
     "created_at": "2026-09-28T12:14:43.000Z",
     "original": "Starship Flight 14 launches in ~30 mins",
