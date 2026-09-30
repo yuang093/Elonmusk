@@ -1,5 +1,36 @@
 [
   {
+    "id": "2105103317932142825",
+    "created_at": "2026-09-30T01:11:56.000Z",
+    "original": "Elon Musk",
+    "translation": "伊隆·馬斯克（Elon Musk）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-09-30T11:07:55.243112+08:00",
+    "url": "https://x.com/elonmusk/status/2105103317932142825"
+  },
+  {
+    "id": "2105087367686025454",
+    "created_at": "2026-09-30T00:08:33.000Z",
+    "original": "I think it's a significant positive step that the leaders of every major American lab have committed to implementing robust internal controls and multiple layers of audits and reviews. This should give people more confidence that the technology each lab is building will work as",
+    "translation": "我覺得這是很棒的正向一步，美國各大實驗室的負責人都承諾要實施嚴格的內部控制和多層審計機制。這應該能讓大家對每個實驗室正在打造的技術更有信心，會如預期那樣正常運作",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTatYxRXkAAAZ8e?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HTatYxRWoAAb8Fz?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-09-30T11:08:00.913433+08:00",
+    "url": "https://x.com/elonmusk/status/2105087367686025454"
+  },
+  {
     "id": "2105091996255703121",
     "created_at": "2026-09-30T00:26:57.000Z",
     "original": "He will lose his job over this",
