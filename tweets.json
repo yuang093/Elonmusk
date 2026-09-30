@@ -1,5 +1,33 @@
 [
   {
+    "id": "2105120448866365860",
+    "created_at": "2026-09-30T02:20:00.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T01:08:18.607802+08:00",
+    "url": "https://x.com/elonmusk/status/2105120448866365860"
+  },
+  {
+    "id": "2104953557258584114",
+    "created_at": "2026-09-29T15:16:50.000Z",
+    "original": ", the new online home for the United States of America",
+    "translation": "美國的網路新家",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T01:08:25.117686+08:00",
+    "url": "https://x.com/elonmusk/status/2104953557258584114"
+  },
+  {
     "id": "2105139959720014101",
     "created_at": "2026-09-30T03:37:32.000Z",
     "original": "Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!",
