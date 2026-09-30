@@ -1,5 +1,77 @@
 [
   {
+    "id": "2105353513681215995",
+    "created_at": "2026-09-30T17:46:07.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T03:08:12.196627+08:00",
+    "url": "https://x.com/elonmusk/status/2105353513681215995"
+  },
+  {
+    "id": "2104084695843807694",
+    "created_at": "2026-09-27T05:44:18.000Z",
+    "original": "Used Grok to turn a spare 4.2\" e-ink display into a World War 2 daily newspaper that sits on my desk.\n\nUpdates once a day with the major events from this date, 87 years ago. WW2 started Sept 1st, 1939, so today is Day 26: \"Warsaw Fights On\"",
+    "translation": "用 Grok 把閒置的 4.2 吋電子墨水螢幕改造成二戰每日報紙，放在桌上當擺設。\n\n每天自動更新 87 年前的今天發生了什麼大事。二戰 1939 年 9 月 1 日開打，所以今天是第 26",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTM1il4b0AArHt4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-01T03:08:21.978342+08:00",
+    "url": "https://x.com/elonmusk/status/2104084695843807694"
+  },
+  {
+    "id": "2105363186882859480",
+    "created_at": "2026-09-30T18:24:34.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T03:08:23.946660+08:00",
+    "url": "https://x.com/elonmusk/status/2105363186882859480"
+  },
+  {
+    "id": "2084001193416626205",
+    "created_at": "2026-08-02T19:39:38.000Z",
+    "original": "Our loss in the High Court paves the way for hundreds of children to be used as guinea pigs in the puberty blockers trial.\n\nWorse still, the UK government will pay these kids up to £500 in vouchers to take part.\n\nWe are living in truly terrifying times.",
+    "translation": "我們在高等法院敗訴了，這下好了，數百個孩子要被當成小白鼠去做青春期阻斷劑試驗了。\n\n更扯的是，英國政府還會給這些小孩發最高500鎊的禮券當報酬。\n\n真的是活在什麼鬼時代啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T03:08:30.087010+08:00",
+    "url": "https://x.com/elonmusk/status/2084001193416626205"
+  },
+  {
+    "id": "2105361313392476174",
+    "created_at": "2026-09-30T18:17:07.000Z",
+    "original": "Today’s economic numbers: \n— Q2 GDP revised up to 2.2% (was 1.5%). \n— Core PCE 3.0% vs 3.3% expected. \n— ADP private jobs +90k vs ~68k expected.\n\nGrowth beat. Inflation cooled. Jobs better than expected. \n\nThe Trump economy is strong.",
+    "translation": "今日經濟數據出爐：\n— Q2 GDP上修至2.2%（本來1.5%）\n— 核心PCE 3.0% 對比預期3.3%\n— ADP民間就業 +9萬 對比預期約6.8萬\n\n成長超預期、通貨膨脹降溫、就業也比預期好\n\nTrump經濟就是猛",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T03:08:36.469108+08:00",
+    "url": "https://x.com/elonmusk/status/2105361313392476174"
+  },
+  {
     "id": "2105338968329884044",
     "created_at": "2026-09-30T16:48:20.000Z",
     "original": "Not as good as the other one, but still impressive",
