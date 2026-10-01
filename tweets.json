@@ -1,5 +1,21 @@
 [
   {
+    "id": "2105463042305667103",
+    "created_at": "2026-10-01T01:01:21.000Z",
+    "original": "A 2021 systematic review found significant improvements in acid reflux symptoms within 6 weeks from inclined bed therapy, even when objectively measured via esophageal pH",
+    "translation": "一項 2021 年系統性回顧發現，傾斜床療法在 6 週內對胃食道逆流症狀有顯著改善，即使以食道 pH 值客觀量測，結果依然如此。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTQbsazWIAAaLF-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-01T09:08:16.939940+08:00",
+    "url": "https://x.com/elonmusk/status/2105463042305667103"
+  },
+  {
     "id": "2105425770965356697",
     "created_at": "2026-09-30T22:33:15.000Z",
     "original": "I find it funny that some people got hung up on Starship not having gone orbital before Flight 14 when in the grand scheme of things it was completely arbitrary in terms of performance. The 19ish second burn only added about 91 m/s of velocity (a 1.2% increase in velocity)\n\nThis",
