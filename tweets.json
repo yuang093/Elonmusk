@@ -1,5 +1,63 @@
 [
   {
+    "id": "2105664138668044320",
+    "created_at": "2026-10-01T14:20:26.000Z",
+    "original": " predicts there will eventually be more robots than people\n\n10 billion robots × 200GB = 2 TRILLION GB of RAM\n\nThe world currently produces only ~45 billion GB of DRAM per year\n\nTerafab",
+    "translation": "預測未來機器人數量會超越人類\n\n100億台機器人 × 200GB = 2兆GB的RAM\n\n但全世界現在一年只生產約450億GB的DRAM\n\n太拉發克（譯者註：指需要 terascale 等級的晶圓廠）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T05:07:49.305664+08:00",
+    "url": "https://x.com/elonmusk/status/2105664138668044320"
+  },
+  {
+    "id": "2105751786925752511",
+    "created_at": "2026-10-01T20:08:43.000Z",
+    "original": " and his excellent team. They worked incredibly hard, with no compensation, to make government services work better for all Americans. \n\n🫡 🇺🇸",
+    "translation": "和他們優秀的團隊。他們超級努力，沒有任何報酬，就是為了讓政府服務對所有美國人來說更好用。\n\n🫡 🇺🇸",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T05:07:56.231528+08:00",
+    "url": "https://x.com/elonmusk/status/2105751786925752511"
+  },
+  {
+    "id": "2105752064747847794",
+    "created_at": "2026-10-01T20:09:49.000Z",
+    "original": " noticed I didn't update my Uber reservation\n\nBot realized, then pinged me to update the reservation *during* my connecting flight\n\nI had ",
+    "translation": "才發現我沒更新Uber預約\n\n機器人發現了，然後在我*轉機途中*傳訊息叫我更新預約\n\n我那時候...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTkC6sobAAAW5zJ?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-02T05:08:06.505685+08:00",
+    "url": "https://x.com/elonmusk/status/2105752064747847794"
+  },
+  {
+    "id": "2105755817555436014",
+    "created_at": "2026-10-01T20:24:44.000Z",
+    "original": "feel like grok bot is fast AF now",
+    "translation": "grok bot 現在速度快到飛起",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T05:08:10.325572+08:00",
+    "url": "https://x.com/elonmusk/status/2105755817555436014"
+  },
+  {
     "id": "2105723816068489335",
     "created_at": "2026-10-01T18:17:34.000Z",
     "original": "EDS is real",
