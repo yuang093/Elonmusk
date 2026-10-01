@@ -1,5 +1,123 @@
 [
   {
+    "id": "2105672543017255400",
+    "created_at": "2026-10-01T14:53:50.000Z",
+    "original": "“Altercation” is a ridiculous choice of words",
+    "translation": "「Altercation」這用詞根本就是在裝腔作勢吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T00:07:52.189157+08:00",
+    "url": "https://x.com/elonmusk/status/2105672543017255400"
+  },
+  {
+    "id": "2105355381732188620",
+    "created_at": "2026-09-30T17:53:33.000Z",
+    "original": "NY Times just got hit with a BRUTAL community note.",
+    "translation": "紐約時報剛被狠標了一個社群備註。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTe5PWrWgAACG3t?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-02T00:07:58.505981+08:00",
+    "url": "https://x.com/elonmusk/status/2105355381732188620"
+  },
+  {
+    "id": "2105676023870501354",
+    "created_at": "2026-10-01T15:07:40.000Z",
+    "original": "Yeah, reciprocating engines in cars spend ~3/4 of their energy generating heat and only ~1/4 generating motion. \n\nHowever, it should be noted that combined cycle gas/steam turbines have an impressive efficiency of 64%!",
+    "translation": "對啦，汽車用的內燃機大概有3/4的能量都拿去發熱了，真正用來驅動的只有大概1/4。\n\n不過話說回來，複合循環的燃氣/蒸汽渦輪機效率可以達到64%，這真的很猛！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T00:08:04.411937+08:00",
+    "url": "https://x.com/elonmusk/status/2105676023870501354"
+  },
+  {
+    "id": "2105652886684500382",
+    "created_at": "2026-10-01T13:35:43.000Z",
+    "original": "A combustion engine is basically a heater that happens to generate forward motion\n\nMoving to a Model Y was trading up - getting a faster, more luxurious vehicle while putting 80% of my daily driving cost back in my pocket, and it can drive itself!\n\nGreat to see more car people",
+    "translation": "燃油引擎說穿了就是個會順便動起來的暖氣機\n\n換開 Model Y 根本是升級好嗎 - 車子更快更豪華，日常開銷還能省下 80%，重點是還能自動駕駛！\n\n看到越來越多車友真的超棒的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T00:08:12.182746+08:00",
+    "url": "https://x.com/elonmusk/status/2105652886684500382"
+  },
+  {
+    "id": "2105678713409229058",
+    "created_at": "2026-10-01T15:18:21.000Z",
+    "original": "Unless they figure how to make planes actually invisible, “stealth” just means low radar cross section in the 2 to 18 GHz range. \n\nAgainst an advanced enemy, current stealth technology is not worth the design constraints imo.",
+    "translation": "除非他們能搞出真正隱形的飛機，否則所謂的「隱形」就是在 2 到 18 GHz 頻段有較低的雷達截面積而已。\n\n對上先進敵人的話，目前的隱形技術根本就不值得那些設計上的限制。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T00:08:18.048292+08:00",
+    "url": "https://x.com/elonmusk/status/2105678713409229058"
+  },
+  {
+    "id": "2105537327414260087",
+    "created_at": "2026-10-01T05:56:32.000Z",
+    "original": "Lesser known things about Starlink. \nWhatever you want to call it, on top of being an illuminator of opportunity for detection below, the mega constellation can detect everything *from above*.\n \nA giant, phased array radar in space. \n \nStealth's dead btw. \n",
+    "translation": "關於 Starlink 比較少人知道的事。\n\n不管你怎麼稱呼它好了，除了能當個照明彈讓下面被偵測到之外，這個巨型星鏈還能從天上偵測所有東西。\n\n根本就是一台漂浮在太空裡的巨型相控陣雷達。\n\n隱形戰機死透了啊，順帶一提。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTcNx2Ia0AACquB?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-02T00:08:24.600798+08:00",
+    "url": "https://x.com/elonmusk/status/2105537327414260087"
+  },
+  {
+    "id": "2105681004371542326",
+    "created_at": "2026-10-01T15:27:27.000Z",
+    "original": "@AmericanAir",
+    "translation": "@美國航空",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTjhtlZWgAA7AeZ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-02T00:08:31.204064+08:00",
+    "url": "https://x.com/elonmusk/status/2105681004371542326"
+  },
+  {
+    "id": "2105688953978298612",
+    "created_at": "2026-10-01T15:59:03.000Z",
+    "original": "Dragon separates from Falcon 9’s second stage",
+    "translation": "龍飛船跟獵鷹九號二級分家啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T00:08:37.737058+08:00",
+    "url": "https://x.com/elonmusk/status/2105688953978298612"
+  },
+  {
     "id": "2105544628036313243",
     "created_at": "2026-10-01T06:25:33.000Z",
     "original": "Elon Musk",
