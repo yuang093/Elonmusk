@@ -1,5 +1,93 @@
 [
   {
+    "id": "2105388109508854172",
+    "created_at": "2026-09-30T20:03:36.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T15:08:16.414980+08:00",
+    "url": "https://x.com/elonmusk/status/2105388109508854172"
+  },
+  {
+    "id": "2105375659401035868",
+    "created_at": "2026-09-30T19:14:07.000Z",
+    "original": "NEW: RFK Jr. says Medicare spending on wound care patches exploded from $200 million in 2019 to $14 billion last year: \"It's all stolen.\"\n\nBad actors billed Medicare billions by slapping the most expensive skin grafts on elderly and dying patients who didn't need them.\n\n\"The",
+    "translation": "突發：RFK Jr. 表示醫療保險在傷口貼片上的支出從 2019 年的 2 億美元暴增到去年的 140 億美元：「這些全都是被偷走的。」\n\n一些無良人士在不需要的老年和末期病患身上貼上最貴的皮膚移植片，然後跟醫療保險詐領數十億美元。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T15:08:22.410699+08:00",
+    "url": "https://x.com/elonmusk/status/2105375659401035868"
+  },
+  {
+    "id": "2105543688009003240",
+    "created_at": "2026-10-01T06:21:48.000Z",
+    "original": "Our sushi bar is incredible",
+    "translation": "我們的壽司吧超猛的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T15:08:29.356132+08:00",
+    "url": "https://x.com/elonmusk/status/2105543688009003240"
+  },
+  {
+    "id": "2105356175134826522",
+    "created_at": "2026-09-30T17:56:42.000Z",
+    "original": "Had a great time at Starbase. Flight 14 was incredible and I also ate the best sushi I’ve ever had. Look forward to coming back!",
+    "translation": "在Starbase玩得超開心！Flight 14簡直太扯了，而且還吃到此生最棒的壽司！好想再去！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTe6SE7WgAAi3ss?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-01T15:08:43.403326+08:00",
+    "url": "https://x.com/elonmusk/status/2105356175134826522"
+  },
+  {
+    "id": "2105543421712843238",
+    "created_at": "2026-10-01T06:20:45.000Z",
+    "original": " if you want to create Encyclopedia Galactica!",
+    "translation": "想創建銀河系百科全書嗎！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T15:08:51.155377+08:00",
+    "url": "https://x.com/elonmusk/status/2105543421712843238"
+  },
+  {
+    "id": "2105543992637100269",
+    "created_at": "2026-10-01T06:23:01.000Z",
+    "original": " combined with cloud agents is a magical experience! here's my favorite use case:\n\n1. create a new team engineer bot and add it to slack \n2. @ your bot whenever you want it to do some coding work \n3. you can even tell it to create new Projects, which is a way to group ",
+    "translation": "搭配 cloud agents 根本是魔法體驗！這是我最愛的用法：\n\n1. 建立一個新的團隊工程師 bot 加到 slack\n2. 想寫程式的時候就 @ 你的 bot\n3. 甚至可以叫它建立新專案，這是一種將相關內容分組的方式",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTfM4ssaUAANWHE?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-01T15:09:03.577111+08:00",
+    "url": "https://x.com/elonmusk/status/2105543992637100269"
+  },
+  {
     "id": "2105463042305667103",
     "created_at": "2026-10-01T01:01:21.000Z",
     "original": "A 2021 systematic review found significant improvements in acid reflux symptoms within 6 weeks from inclined bed therapy, even when objectively measured via esophageal pH",
