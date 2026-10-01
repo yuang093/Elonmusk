@@ -1,5 +1,51 @@
 [
   {
+    "id": "2105544628036313243",
+    "created_at": "2026-10-01T06:25:33.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T23:08:16.335327+08:00",
+    "url": "https://x.com/elonmusk/status/2105544628036313243"
+  },
+  {
+    "id": "2105330580720427025",
+    "created_at": "2026-09-30T16:15:00.000Z",
+    "original": "Data centers on the ground are limited by permits and power.\n\nSpaceX's answer is Starmind, orbital AI data centers with about 72 Nvidia chips and up to 175 kW per satellite.\n\nThat's about 5,700 satellites per gigawatt. Terafab builds the chips, and Starship launches them.",
+    "translation": "地面數據中心被許可證和電力卡得死死的。\n\nSpaceX的解法是 Starmind，軌道AI數據中心，每顆衛星大約72個Nvidia晶片，最高175千瓦供電。\n\n算下來大約每GW需要5,700顆衛星。Terafab負責造晶片，Starship負責把它們射上去。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-01T23:08:23.116048+08:00",
+    "url": "https://x.com/elonmusk/status/2105330580720427025"
+  },
+  {
+    "id": "2105668516259266881",
+    "created_at": "2026-10-01T14:37:50.000Z",
+    "original": "Three Falcon rockets vertical at three of our launch pads in Florida and California → ",
+    "translation": "三支獵鷹火箭筆直挺立在佛羅里達和加州的三個發射台上 →",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTiUp_2WsAAwokS?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HTiUp_oXsAASw3l?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HTiUp_lWEAAWVbQ?format=jpg&name=360x360"
+    ],
+    "fetched_at": "2026-10-01T23:08:26.974525+08:00",
+    "url": "https://x.com/elonmusk/status/2105668516259266881"
+  },
+  {
     "id": "2105388109508854172",
     "created_at": "2026-09-30T20:03:36.000Z",
     "original": "Elon Musk",
