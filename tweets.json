@@ -1,5 +1,54 @@
 [
   {
+    "id": "2106048077736071222",
+    "created_at": "2026-10-02T15:46:04.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-03T02:08:15.447345+08:00",
+    "url": "https://x.com/elonmusk/status/2106048077736071222"
+  },
+  {
+    "id": "2105991760019107979",
+    "created_at": "2026-10-02T12:02:17.000Z",
+    "original": "98% of US households aren't paying for AI yet\n\nMore charts in State of Markets II: ",
+    "translation": "98%的美國家庭還沒在花錢用AI咧\n\n更多圖表在 State of Markets II：",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTkLgjdbIAARwFZ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-03T02:08:21.121654+08:00",
+    "url": "https://x.com/elonmusk/status/2105991760019107979"
+  },
+  {
+    "id": "2106083414848028834",
+    "created_at": "2026-10-02T18:06:29.000Z",
+    "original": "Teams complete three Falcon launches, four first stage landings at four landing zones in Florida and California, and docking Dragon to the ",
+    "translation": "團隊完成了三次獵鷹發射、四次第一節在佛羅里達和加州四個著陸點的著陸，還有讓Dragon對接到太空站",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTpJgLeWgAAVDZN?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HTpJgaTXkAAouwe?format=jpg&name=360x360",
+      "https://pbs.twimg.com/media/HTpJhFeWAAAOjNE?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HTpJhhFWUAABgLF?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-03T02:08:30.525389+08:00",
+    "url": "https://x.com/elonmusk/status/2106083414848028834"
+  },
+  {
     "id": "2105936681824334266",
     "created_at": "2026-10-02T08:23:26.000Z",
     "original": "Yeah, the “labs” term makes no sense. They are for-profit corporations. \n\nAny entity that reports quarterly earnings per share is obviously not a “lab”! \n\nThey may own labs, but they also have large enterprise sales teams generating billions of dollars in revenue.",
