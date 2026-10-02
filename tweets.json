@@ -1,5 +1,81 @@
 [
   {
+    "id": "2106077020451184813",
+    "created_at": "2026-10-02T17:41:05.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-03T03:07:48.880719+08:00",
+    "url": "https://x.com/elonmusk/status/2106077020451184813"
+  },
+  {
+    "id": "2105948063022055920",
+    "created_at": "2026-10-02T09:08:39.000Z",
+    "original": "Young second and third-generation migrants film a French firefighter after setting him on fire during the school protests in Bordeaux \n\n🇫🇷",
+    "translation": "年輕的第二代和第三代移民在波爾多的學校抗議活動中將一名法國消防員點燃後拍下他\n\n🇫🇷",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTnUmY9XAAE53ic?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-03T03:07:54.403529+08:00",
+    "url": "https://x.com/elonmusk/status/2105948063022055920"
+  },
+  {
+    "id": "2106097300984750287",
+    "created_at": "2026-10-02T19:01:40.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-03T03:07:57.823044+08:00",
+    "url": "https://x.com/elonmusk/status/2106097300984750287"
+  },
+  {
+    "id": "2106084946943287386",
+    "created_at": "2026-10-02T18:12:35.000Z",
+    "original": "not sure that people really grok the revenue generation potential of starship + starlink/starmind\n\non our expectations each launch could drive $700+ million in incremental annual revenue (and growing, as SpaceXai crosses into AI software revenue monetization)",
+    "translation": "不太確定大家是不是真的吃透星艦 + Starlink/Starmind 的變現潛力\n\n根據我們的預期，每次發射可帶來超過7億美元的年度增量收入（而且持續增長，隨著 SpaceXai 跨入 AI 軟體變現階段）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTpRC6CaYAABpDO?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-03T03:08:04.940112+08:00",
+    "url": "https://x.com/elonmusk/status/2106084946943287386"
+  },
+  {
+    "id": "2106097088123834773",
+    "created_at": "2026-10-02T19:00:49.000Z",
+    "original": "For those not aware, NASA certified the Cybertruck as an Astronaut Emergency Egress Vehicle, allowing SpaceX to replace their aging MRAPs.\n\nIf something goes wrong on the pad, the crew needs to get as far away as possible, as quickly as possible, and Cybertruck provides that ",
+    "translation": "科普一下，NASA已經認證Cybertruck作為太空人緊急撤離載具了，SpaceX終於可以換掉那些老舊的MRAP了。\n\n萬一發射台出事，機組人員得用最快速度跑得越遠越好——Cybertruck就能做到這點。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTmNFGIX0AAyFf6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-03T03:08:13.056183+08:00",
+    "url": "https://x.com/elonmusk/status/2106097088123834773"
+  },
+  {
     "id": "2106048077736071222",
     "created_at": "2026-10-02T15:46:04.000Z",
     "original": "Elon Musk",
