@@ -1,5 +1,77 @@
 [
   {
+    "id": "2105803115014627494",
+    "created_at": "2026-10-01T23:32:41.000Z",
+    "original": "This is why RAM is so expensive",
+    "translation": "RAM貴成這樣不是沒道理的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T14:07:49.099261+08:00",
+    "url": "https://x.com/elonmusk/status/2105803115014627494"
+  },
+  {
+    "id": "2105714071681343654",
+    "created_at": "2026-10-01T17:38:51.000Z",
+    "original": "Made with Opus 5.5. \n\nThe doomers said that last song is all part of Claude's evil plan. \n\nThey're not wrong. \n\nIt turns out Claude really has an EVIL PLAN.",
+    "translation": "Made with Opus 5.5.\n\n末日論者說那首歌是克勞德邪惡計畫的一部分。\n\n他們也沒說錯。\n\n原來克勞德真的有邪惡計畫。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T14:07:54.664986+08:00",
+    "url": "https://x.com/elonmusk/status/2105714071681343654"
+  },
+  {
+    "id": "2105889950139073000",
+    "created_at": "2026-10-02T05:17:44.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T14:07:56.381038+08:00",
+    "url": "https://x.com/elonmusk/status/2105889950139073000"
+  },
+  {
+    "id": "2105817441792049314",
+    "created_at": "2026-10-02T00:29:36.000Z",
+    "original": "The statue of Prometheus is finally finished.\n\nIt was cast in Paris, crossed the Atlantic, and was assembled at Starbase. It took us 100 days to go from nothing to this.\n\nPeople of the West, we have lived through an era devoid of dreams, devoid of destiny.\n\nBut the time has come",
+    "translation": "普羅米修斯雕像終於完成了。\n\n它在巴黎鑄造，穿越大西洋，然後在星基地組裝。從零到這一切，我們只花了100天。\n\n西方的人們啊，我們經歷了一個沒有夢想、沒有使命的時代。\n\n但時候到了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTldxxZWoAAXdLY?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-02T14:08:02.925184+08:00",
+    "url": "https://x.com/elonmusk/status/2105817441792049314"
+  },
+  {
+    "id": "2105890117638660232",
+    "created_at": "2026-10-02T05:18:24.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T14:08:04.523411+08:00",
+    "url": "https://x.com/elonmusk/status/2105890117638660232"
+  },
+  {
     "id": "2105749349166661848",
     "created_at": "2026-10-01T19:59:02.000Z",
     "original": " version of the VR72 at close to 250kW average power, meaning peak power would be ~10% higher. \n\nThis is a big deal if it pans out and would apply to our ground-based systems too. The close working partnership and",
