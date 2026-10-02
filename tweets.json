@@ -1,5 +1,47 @@
 [
   {
+    "id": "2105915961140494383",
+    "created_at": "2026-10-02T07:01:05.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T17:07:49.372749+08:00",
+    "url": "https://x.com/elonmusk/status/2105915961140494383"
+  },
+  {
+    "id": "2105817662651777367",
+    "created_at": "2026-10-02T00:30:29.000Z",
+    "original": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea!\n\nToday's successful launch with our partner ",
+    "translation": "還記得第一次開會的時候，團隊提出把運算能力搬到太空的想法——這想法超酷的！\n\n今天成功發射啦，與我們的合作夥伴一起 🎉",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T17:07:53.794628+08:00",
+    "url": "https://x.com/elonmusk/status/2105817662651777367"
+  },
+  {
+    "id": "2105930010205024419",
+    "created_at": "2026-10-02T07:56:55.000Z",
+    "original": "Actually, we decided to nudge AI5 up a little to 96GB, as Tesla would otherwise be the only company using the min RAM version of LP5",
+    "translation": "其實我們決定把 AI5 稍微提高到 96GB，不然 Tesla 就會變成唯一使用 LP5 最小 RAM 版本的公司了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-02T17:07:59.086772+08:00",
+    "url": "https://x.com/elonmusk/status/2105930010205024419"
+  },
+  {
     "id": "2105744240340771015",
     "created_at": "2026-10-01T19:38:44.000Z",
     "original": "https://economist.com/the-americas/2026/09/24/the-dictators-laboratory-nayib-bukele-is-pushing-ai-hard?taid=6abd1f41c297a000011c614a&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter…",
