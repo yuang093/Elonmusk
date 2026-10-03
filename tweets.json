@@ -1,5 +1,63 @@
 [
   {
+    "id": "2106295761516601547",
+    "created_at": "2026-10-03T08:10:17.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-04T03:07:46.791887+08:00",
+    "url": "https://x.com/elonmusk/status/2106295761516601547"
+  },
+  {
+    "id": "2106012085746372756",
+    "created_at": "2026-10-02T13:23:03.000Z",
+    "original": "President Trump has suspended harmful migration from all over the globe and undertaken a corresponding program to mass revoke visas and benefits for those who should never have had them in the first place. The sole leader in the Western world to do so—he is SAVING America.",
+    "translation": "川普總統已經暫停來自全球各地的有害移民，還要大刀闊斧地撤銷那些根本從一開始就不該拿到的簽證和福利。整個西方世界只有他一個領導人敢這樣做——他簡直是在拯救美國啊！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-04T03:07:53.383891+08:00",
+    "url": "https://x.com/elonmusk/status/2106012085746372756"
+  },
+  {
+    "id": "2106373320144998788",
+    "created_at": "2026-10-03T13:18:28.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-04T03:07:55.488871+08:00",
+    "url": "https://x.com/elonmusk/status/2106373320144998788"
+  },
+  {
+    "id": "2106454808676716916",
+    "created_at": "2026-10-03T18:42:17.000Z",
+    "original": "Starship deploying Starlink V3 satellites",
+    "translation": "Starship 部署 Starlink V3 衛星囉！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTuhe-KXUAANxEg?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-04T03:07:57.863293+08:00",
+    "url": "https://x.com/elonmusk/status/2106454808676716916"
+  },
+  {
     "id": "2106052168323321915",
     "created_at": "2026-10-02T16:02:20.000Z",
     "original": "Skunkston ♟️🧨",
