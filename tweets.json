@@ -1,5 +1,63 @@
 [
   {
+    "id": "2106103115485479310",
+    "created_at": "2026-10-02T19:24:46.000Z",
+    "original": "Growth will accelerate far beyond that",
+    "translation": "那算啥，成長會直接起飛好嗎",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-03T07:07:53.325122+08:00",
+    "url": "https://x.com/elonmusk/status/2106103115485479310"
+  },
+  {
+    "id": "2105812929476280477",
+    "created_at": "2026-10-02T00:11:41.000Z",
+    "original": "the gdp should grow at 3-4% a year with AI",
+    "translation": "有了AI，GDP應該每年成長個 3-4% 啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTlZsseXgAAdKWy?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-03T07:07:57.238761+08:00",
+    "url": "https://x.com/elonmusk/status/2105812929476280477"
+  },
+  {
+    "id": "2106157577293996170",
+    "created_at": "2026-10-02T23:01:11.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-03T07:07:59.250667+08:00",
+    "url": "https://x.com/elonmusk/status/2106157577293996170"
+  },
+  {
+    "id": "2106066807912366164",
+    "created_at": "2026-10-02T17:00:30.000Z",
+    "original": "CNN in Iran: \n\n“They’re just chanting death to America, but they seem friendly at the same time.”",
+    "translation": "CNN 在伊朗採訪：\n\n「他們就在那喊美國去死，但看起來人還挺友善的。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-03T07:08:05.018878+08:00",
+    "url": "https://x.com/elonmusk/status/2106066807912366164"
+  },
+  {
     "id": "2106097974728339701",
     "created_at": "2026-10-02T19:04:21.000Z",
     "original": "It is important to appreciate that Gibney’s goal is not truth in any way, shape or form, but rather to undermine my ability to be politically effective. He is a shill for the far left, as even a cursory examination of his public statements makes clear.",
