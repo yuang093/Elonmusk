@@ -1,5 +1,65 @@
 [
   {
+    "id": "2106686720964014174",
+    "created_at": "2026-10-04T10:03:49.000Z",
+    "original": "Elon Musk",
+    "translation": "伊隆·馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-05T00:07:48.354687+08:00",
+    "url": "https://x.com/elonmusk/status/2106686720964014174"
+  },
+  {
+    "id": "2106024929590235530",
+    "created_at": "2026-10-02T14:14:05.000Z",
+    "original": "No, AI didn’t just solve the Navier-Stokes equations. \n\nSo what did it do?",
+    "translation": "不，AI沒有剛剛解開納維-斯托克斯方程式。\n\n那它到底做了什麼？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-05T00:07:53.535320+08:00",
+    "url": "https://x.com/elonmusk/status/2106024929590235530"
+  },
+  {
+    "id": "2106769237435982129",
+    "created_at": "2026-10-04T15:31:42.000Z",
+    "original": "this is unreal…\n\nthe SpaceXAI engineer who leads Grok Bot, Lauren Tan - shipped 2,500 PRs last month - and reviews them after they land, in the morning\n\nI took SpaceXAI's Grok Bot docs + her 1-hour livestream and turned them into a 3-page prompting blueprint: \n\nthe 10-field ",
+    "translation": "這太扯了…\n\nSpaceXAI 的工程師、帶領 Grok Bot 團隊的 Lauren Tan，上個月送了 2,500 個 PR，而且早上還會 review\n\n我把 SpaceXAI 的 Grok Bot 文件加上她 1 小時的直播，整理成了一份 3 頁的 prompt 攻略：\n\n這個 10 欄位的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTu22bcWwAADVZO?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-05T00:07:59.609727+08:00",
+    "url": "https://x.com/elonmusk/status/2106769237435982129"
+  },
+  {
+    "id": "2106769853575000431",
+    "created_at": "2026-10-04T15:34:09.000Z",
+    "original": "It looks like I might have underestimated Grok 4.7, this is a very good model.\n\nIt just scored the highest on Frontier v4 beating GPT-6.1 Sol, Opus 5.5, and GPT-6 Astra at every effort level.",
+    "translation": "看起來我可能低估了Grok 4.7，這是真的很猛的模型。\n\n它在Frontier v4上直接拿了最高分，在各個難度等級都打敗了GPT-6.1 Sol、Opus 5.5和GPT-6 Astra。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTyiD6IbIAAXSsf?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-10-05T00:08:03.683901+08:00",
+    "url": "https://x.com/elonmusk/status/2106769853575000431"
+  },
+  {
     "id": "2106757368419958954",
     "created_at": "2026-10-04T14:44:32.000Z",
     "original": " \n\nHe explains Leftism better in 90 seconds, than you could learn from any academic in 20 years.",
