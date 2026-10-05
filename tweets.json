@@ -1,5 +1,22 @@
 [
   {
+    "id": "2106804375863914704",
+    "created_at": "2026-10-04T17:51:20.000Z",
+    "original": "So much of the secret to success in games is to just stop fiddling with it after it's fun...cause then it starts the slow, inevitable slide to suck.\n\nYou have WoW, don't touch WoW, watch WoW go.\n\nIt's so easy...and yet you have this.",
+    "translation": "遊戲成功的許多秘密就在於在它變得好玩之後就別再亂動了...因為接著它就會開始緩慢且不可避免地走向爛掉。\n\n你有《魔獸世界》，別碰《魔獸世界》，看著《魔獸世界》發展。\n\n這麼簡單...然而你卻看到了這樣的結果。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HTv8LNwXIAECd0f?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-05T10:08:25.852820+08:00",
+    "url": "https://x.com/elonmusk/status/2106804375863914704",
+    "retried_at": "2026-10-05T11:02:53+08:00"
+  },
+  {
     "id": "2106583469044232515",
     "created_at": "2026-10-04T03:13:32.000Z",
     "original": "Honest review on Grok Bot after a month...\n\n- web browsing still have some room for improvement\n- It was slow at first but super fast now\n- voice calling is very convenient \n- there should be more API or plugins to websites, apps, and devices\n- 'primary' Grok Bot came out for",
