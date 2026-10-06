@@ -1,5 +1,35 @@
 [
   {
+    "id": "2107064214103961880",
+    "created_at": "2026-10-05T11:03:50.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-07T03:08:18.175082+08:00",
+    "url": "https://x.com/elonmusk/status/2107064214103961880"
+  },
+  {
+    "id": "2106907186177650985",
+    "created_at": "2026-10-05T00:39:52.000Z",
+    "original": "“Why are you demanding so much censorship in Brazil?”\n\nA supreme court justice answered that question with a criminal case, then cut X off for more than 20 million people.\n\nMoraes had been sending sealed takedown orders and threatening to jail X’s Brazilian lawyer unless the",
+    "translation": "「你為什麼要在巴西要求這麼多言論審查？」\n\n最高法院大法官用刑事案件回答了這個問題，然後讓 X 斷線，超過 2000 萬人受影響。\n\nMoraes 之前一直在發送隱藏的下架命令，還威脅要把 X 的巴西律師關進去，除非對方服從...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HT086pMXkAQoqtk?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-07T03:08:24.942620+08:00",
+    "url": "https://x.com/elonmusk/status/2106907186177650985"
+  },
+  {
     "id": "2107493516741939571",
     "created_at": "2026-10-06T15:29:44.000Z",
     "original": "I gave Grok Bot a printer. Now, it helps me plan my day\n\n",
