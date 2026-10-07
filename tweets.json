@@ -1,5 +1,111 @@
 [
   {
+    "id": "2107677634469708043",
+    "created_at": "2026-10-07T03:41:21.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-07T13:07:45.683655+08:00",
+    "url": "https://x.com/elonmusk/status/2107677634469708043"
+  },
+  {
+    "id": "2107350648538947870",
+    "created_at": "2026-10-06T06:02:01.000Z",
+    "original": "Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active.\n\n- Frontier reasoning efficiency\n- Advances the Western open frontier on coding & agentic tasks\n- Trained end-to-end from scratch\n\nFull weights release this month.\n\nLearn more about",
+    "translation": "來介紹一下 Beam：高效能的 agentic 開放模型，總參數量 501B，活躍參數 23B。\n\n- 前沿推理效率\n- 在程式碼與 agentic 任務上推進了西方開放前沿\n- 從零開始端到端訓練\n\n本月將完整開源模型權重。\n\n想了解更多請看",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HT46mRYXwAAxTdt?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-07T13:07:49.742390+08:00",
+    "url": "https://x.com/elonmusk/status/2107350648538947870"
+  },
+  {
+    "id": "2107686149196292110",
+    "created_at": "2026-10-07T04:15:11.000Z",
+    "original": "Extremely troubling",
+    "translation": "超級令人頭疼",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-07T13:07:52.947451+08:00",
+    "url": "https://x.com/elonmusk/status/2107686149196292110"
+  },
+  {
+    "id": "2107656602597621823",
+    "created_at": "2026-10-07T02:17:47.000Z",
+    "original": "Although trans people are only 1% of the population, they’re 5.4% of K-12 active school shooters since 2015. \n\nThat’s 5.4x their share. \nMales are 1.8x theirs. Females are 0.03x.\n\nAffirming extreme rates of psychiatric illness, self harm, and violent ideation as an “identity” is",
+    "translation": "儘管跨性別者僅佔人口的1%，但自2015年以來，他們佔了K-12校園活躍槍擊手的5.4%。\n\n這是他們應佔比例的5.4倍。\n男性是應佔比例的1.8倍。女性則是0.03倍。\n\n將極高的精神病發病率、自殘和暴力意念的比率肯定為一種「身份認同」是",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HT_mZwvX0AAVUoJ?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HT_mZwrW8AAtQCM?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-07T13:07:57.401827+08:00",
+    "url": "https://x.com/elonmusk/status/2107656602597621823",
+    "retried_at": "2026-10-07T14:03:00+08:00"
+  },
+  {
+    "id": "2107695858259292561",
+    "created_at": "2026-10-07T04:53:46.000Z",
+    "original": "“I'm in a Model Y L, and using [FSD Supervised]. \n\nThis is the most unbelievable technology I have ever experienced in a car.”",
+    "translation": "我現在坐在 Model Y L 裡，用著 [FSD Supervised]。這是我在車上體驗過最扯的技術。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-07T13:08:03.549945+08:00",
+    "url": "https://x.com/elonmusk/status/2107695858259292561"
+  },
+  {
+    "id": "2107696351794622954",
+    "created_at": "2026-10-07T04:55:44.000Z",
+    "original": "Grok Bot summary: IAC 2026 presentation by SpaceXAI President Michael Nicolls.\n\n🎯 The main message\n- SpaceX was founded in 2002 to make life multi-planetary and \"extend the light of consciousness to the stars.\"\n- He said the biggest risk as constellations grow is not debris.",
+    "translation": "🎯 重點摘要\n\n- SpaceX 在 2002 年成立，就是要讓生命成為多行星物種，「把意識之光延伸到星星去」\n- 他說，隨著星鏈越搞越大，最大的風險根本不是碎片問題",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HT-cOGaa8AAPgXs?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-07T13:08:08.634036+08:00",
+    "url": "https://x.com/elonmusk/status/2107696351794622954"
+  },
+  {
+    "id": "2107697003899846720",
+    "created_at": "2026-10-07T04:58:19.000Z",
+    "original": "Bad news guys: Grok Bot is actually really good 🙃",
+    "translation": "各位～有壞消息：Grok Bot 意外地好用欸 🙃",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-07T13:08:13.446530+08:00",
+    "url": "https://x.com/elonmusk/status/2107697003899846720"
+  },
+  {
     "id": "2107644416303435797",
     "created_at": "2026-10-07T01:29:21.000Z",
     "original": "Elon Musk",
