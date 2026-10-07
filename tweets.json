@@ -1,5 +1,93 @@
 [
   {
+    "id": "2107723117829505068",
+    "created_at": "2026-10-07T06:42:05.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T00:07:50.268177+08:00",
+    "url": "https://x.com/elonmusk/status/2107723117829505068"
+  },
+  {
+    "id": "2107593912634216737",
+    "created_at": "2026-10-06T22:08:40.000Z",
+    "original": "Try asking your Grok Bot to send an email\n\nIt'll claim an inbox — name@mail.grokbot.com\n\nYour bot now has an email to use. It can send and receive emails",
+    "translation": "試著叫你的 Grok Bot 寄封 email 看看\n\n它會幫你開一個收件匣 — name@mail.grokbot.com\n\n你的 bot 現在有自己的 email 了 可以收發 email 了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HT-BnkSbUAAWzvR?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-08T00:07:55.258449+08:00",
+    "url": "https://x.com/elonmusk/status/2107593912634216737"
+  },
+  {
+    "id": "2107846855447240891",
+    "created_at": "2026-10-07T14:53:46.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T00:07:57.344464+08:00",
+    "url": "https://x.com/elonmusk/status/2107846855447240891"
+  },
+  {
+    "id": "2107819870389735608",
+    "created_at": "2026-10-07T13:06:33.000Z",
+    "original": "India wont allow starlink to operate. Indian govt exists to protect Ambani, Mittal, Tata, Mahindra, Adani and other large business houses.\n\nLook at what a royal mess India has made with adoption of EVs. A country that imports $200 billion of energy from radical islamic nations",
+    "translation": "印度不會讓 starlink 營運。印度政府存在的意義就是保護 Ambani、Mittal、Tata、Mahindra、Adani 這些大企業。\n\n看看印度搞電動車普及搞成什麼鬼樣子。一個從伊斯蘭極端國家進口 2000 億美元能源的國家",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T00:08:04.330947+08:00",
+    "url": "https://x.com/elonmusk/status/2107819870389735608"
+  },
+  {
+    "id": "2107853835528274320",
+    "created_at": "2026-10-07T15:21:31.000Z",
+    "original": "SpaceX just got a massive FCC green light for Starlink Mobile\n\nThe FCC has approved SpaceX to launch and operate up to 15,000 next-generation satellites built for direct-to-phone connectivity\n\nThe new system is designed to:\n\n• Target peak speeds of up to 150 Mbps per user\n•",
+    "translation": "SpaceX 剛拿到 FCC 大開綠燈 for Starlink Mobile\n\nFCC 批准 SpaceX 可以發射並營運多達 15,000 顆專為直連手機設計的下一代衛星\n\n新系統設計目標：\n\n• 瞄準每位用戶最高 150 Mbps 的峰值速度",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUCXvy5bMAADf-L?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-08T00:08:11.378595+08:00",
+    "url": "https://x.com/elonmusk/status/2107853835528274320"
+  },
+  {
+    "id": "2107854307077034294",
+    "created_at": "2026-10-07T15:23:23.000Z",
+    "original": " 🇮🇳\n\n• 11,256 of India’s listed villages still lacked 4G coverage as of May 2026.\n\n• India had 1.093 billion internet subscriptions in March 2026, but only 440.87 million were rural. Rural subscription density was 48.31 per 100 people, compared with 126.80",
+    "translation": "🇮🇳\n\n• 截至2026年5月，印度仍有11,256個掛牌村莊沒4G覆蓋\n\n• 印度2026年3月有10.93億網路用戶，但只有4.4087億在鄉下地區。鄉下每100人只有48.31個用戶，城市則是126.80",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T00:08:19.282317+08:00",
+    "url": "https://x.com/elonmusk/status/2107854307077034294"
+  },
+  {
     "id": "2107848493830463815",
     "created_at": "2026-10-07T15:00:17.000Z",
     "original": "Dragon undocks from the Space Station",
