@@ -1,5 +1,35 @@
 [
   {
+    "id": "2107644416303435797",
+    "created_at": "2026-10-07T01:29:21.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-07T12:08:14.214764+08:00",
+    "url": "https://x.com/elonmusk/status/2107644416303435797"
+  },
+  {
+    "id": "2107186849370247235",
+    "created_at": "2026-10-05T19:11:09.000Z",
+    "original": "Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active.\n\n- Frontier reasoning efficiency\n- Advances the Western open frontier on coding & agentic tasks\n- Trained end-to-end from scratch\n\nFull weights release this month.\n\nLearn more about",
+    "translation": "Beam正式登場：超高效能的代理型開源模型，總參數501B，活躍參數23B。\n\n- 前沿推理效率\n- 在coding和agentic任務上推動了西方開源前沿\n- 從零開始端到端訓練\n\n本月完整權重開源！\n\n想了解更多請點",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HT46mRYXwAAxTdt?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-07T12:08:22.428524+08:00",
+    "url": "https://x.com/elonmusk/status/2107186849370247235"
+  },
+  {
     "id": "2107587717307806057",
     "created_at": "2026-10-06T21:44:03.000Z",
     "original": "The technology simply doesn’t exist to change sex",
