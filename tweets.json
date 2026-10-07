@@ -1,5 +1,35 @@
 [
   {
+    "id": "2107924525992247606",
+    "created_at": "2026-10-07T20:02:24.000Z",
+    "original": "Looking into it",
+    "translation": "查一下",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T05:07:48.557284+08:00",
+    "url": "https://x.com/elonmusk/status/2107924525992247606"
+  },
+  {
+    "id": "2107880432071061891",
+    "created_at": "2026-10-07T17:07:12.000Z",
+    "original": "I never ran out of Grok Bot usage what the hell is this? I only run some cron jobs and nothing has changed but somehow my usage jumped like 40% just today. Is opus 5.5 already working under the hood and if yes how the F can I not use it if that's the case? At this rate I'm gonna",
+    "translation": "Grok Bot 的用量我從來沒用完過，這啥情形？我就只跑了幾個 cron jobs，什麼都沒變，但今天用量直接暴增 40%。opus 5.5 是不是已經在背景偷跑了？如果是的話我為啥不能用？照這速度下去我遲早...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUCyFFXXYAE6ukX?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-08T05:07:55.932371+08:00",
+    "url": "https://x.com/elonmusk/status/2107880432071061891"
+  },
+  {
     "id": "2107889241619681481",
     "created_at": "2026-10-07T17:42:12.000Z",
     "original": "Elon Musk",
