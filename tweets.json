@@ -1,5 +1,35 @@
 [
   {
+    "id": "2107998173663051794",
+    "created_at": "2026-10-08T00:55:03.000Z",
+    "original": ". Millions of customers can now message over apps, share location and stay connected on compatible phones in cellular dead zones 🛰️📱",
+    "translation": "現在數百萬用戶可以直接用App傳訊息、分享定位，就算在訊號死角也能繼續連線 🛰️📱",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUDhLqFaAAAhi2F?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-08T09:07:52.835756+08:00",
+    "url": "https://x.com/elonmusk/status/2107998173663051794"
+  },
+  {
+    "id": "2107999887187165544",
+    "created_at": "2026-10-08T01:01:52.000Z",
+    "original": "Grok Bot is absolutely incredible.",
+    "translation": "Grok Bot真的超猛的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T09:07:55.928528+08:00",
+    "url": "https://x.com/elonmusk/status/2107999887187165544"
+  },
+  {
     "id": "2107979289501344137",
     "created_at": "2026-10-07T23:40:01.000Z",
     "original": "Grok Bot can now search, read, and monitor X.",
