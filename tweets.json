@@ -1,9 +1,124 @@
 [
   {
+    "id": "2108142614016864457",
+    "created_at": "2026-10-08T10:29:01.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:07:48.779258+08:00",
+    "url": "https://x.com/elonmusk/status/2108142614016864457",
+    "byline_orphan": true
+  },
+  {
+    "id": "2107873126440939677",
+    "created_at": "2026-10-07T16:38:10.000Z",
+    "original": "Elon left the names unstated. Public context from the long-running spectrum dispute and India's telecom duopoly points to Mukesh Ambani of Reliance Jio and Sunil Bharti Mittal of Bharti Airtel. They dominate terrestrial services and previously pushed auctions that raised barriers",
+    "translation": "Elon沒直接點名啦。不過從這場拖很久的頻譜爭議，加上印度電信雙頭壟斷的背景來看，指向的大概就是Reliance Jio的Mukesh Ambani和Bharti Airtel的Sunil Bharti Mittel這兩位啦。他們主導地面服務，之前還一直推動拍賣制度來提高進入門檻咧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:07:57.555463+08:00",
+    "url": "https://x.com/elonmusk/status/2107873126440939677"
+  },
+  {
+    "id": "2108145018540339646",
+    "created_at": "2026-10-08T10:38:34.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:08:00.372969+08:00",
+    "url": "https://x.com/elonmusk/status/2108145018540339646",
+    "byline_orphan": true
+  },
+  {
+    "id": "2107898803730993176",
+    "created_at": "2026-10-07T18:20:12.000Z",
+    "original": "Venkatesh Alla",
+    "translation": "（轉推 Venkatesh Alla 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:08:03.852874+08:00",
+    "url": "https://x.com/elonmusk/status/2107898803730993176",
+    "byline_orphan": true
+  },
+  {
+    "id": "2108182144015344118",
+    "created_at": "2026-10-08T13:06:05.000Z",
+    "original": "Many such cases throughout the world",
+    "translation": "世界各地這種事一堆啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:08:07.209101+08:00",
+    "url": "https://x.com/elonmusk/status/2108182144015344118"
+  },
+  {
+    "id": "2108177695271948445",
+    "created_at": "2026-10-08T12:48:25.000Z",
+    "original": " is essential for India, and I hope it will be deployed soon. Its ability to connect directly to devices through satellites could fundamentally expand how internet connectivity is delivered. Also, we need many options, not just to have a choice, but to break the",
+    "translation": "對印度來說至關重要，希望儘快部署。它能透過衛星直接連到裝置，從根本上擴展網路連線的配送方式。而且我們需要更多選擇，不只是為了有替代方案，而是要打破壟斷。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:08:16.612780+08:00",
+    "url": "https://x.com/elonmusk/status/2108177695271948445"
+  },
+  {
+    "id": "2108179398700757378",
+    "created_at": "2026-10-08T12:55:11.000Z",
+    "original": "Many people still misunderstand what Starlink is actually for\n\nStarlink isn’t a replacement.....It’s a lifeline\n\n“Starlink will give access to the internet to people that either don’t have access, or where their access is extremely expensive or very bad”\n\nThat is the part people",
+    "translation": "很多人到現在還誤會 Starlink 的用途\n\nStarlink 不是要取代什麼⋯⋯它是救命繩\n\n「Starlink 是要讓那些根本沒網路的人、或是網路貴到靠北或爛到不行的人也能上網」\n\n這才是重點啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:08:23.682057+08:00",
+    "url": "https://x.com/elonmusk/status/2108179398700757378"
+  },
+  {
+    "id": "2108180318842736942",
+    "created_at": "2026-10-08T12:58:50.000Z",
+    "original": "Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide! x.com/xfreeze/status…",
+    "translation": "Starlink 幫最偏遠的地方連上網路，讓大家能自學、發大財，還能把東西賣到全世界！x.com/xfreeze/status…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-08T21:08:30.666573+08:00",
+    "url": "https://x.com/elonmusk/status/2108180318842736942"
+  },
+  {
     "id": "2108072897126494456",
     "created_at": "2026-10-08T05:51:59.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -11,7 +126,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-08T19:07:48.775166+08:00",
-    "url": "https://x.com/elonmusk/status/2108072897126494456"
+    "url": "https://x.com/elonmusk/status/2108072897126494456",
+    "byline_orphan": true
   },
   {
     "id": "2107822416458043750",
@@ -31,7 +147,7 @@
     "id": "2108140438402310265",
     "created_at": "2026-10-08T10:20:22.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -39,7 +155,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-08T19:07:54.475039+08:00",
-    "url": "https://x.com/elonmusk/status/2108140438402310265"
+    "url": "https://x.com/elonmusk/status/2108140438402310265",
+    "byline_orphan": true
   },
   {
     "id": "2107607335971463430",
@@ -59,7 +176,7 @@
     "id": "2108141774388810084",
     "created_at": "2026-10-08T10:25:41.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -67,7 +184,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-08T19:08:04.187782+08:00",
-    "url": "https://x.com/elonmusk/status/2108141774388810084"
+    "url": "https://x.com/elonmusk/status/2108141774388810084",
+    "byline_orphan": true
   },
   {
     "id": "2108062331095908717",
@@ -1330,7 +1448,7 @@
     "id": "2107690560140312983",
     "created_at": "2026-10-07T04:32:43.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -1338,7 +1456,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-07T15:08:18.528235+08:00",
-    "url": "https://x.com/elonmusk/status/2107690560140312983"
+    "url": "https://x.com/elonmusk/status/2107690560140312983",
+    "byline_orphan": true
   },
   {
     "id": "2107634185125191683",
@@ -1358,7 +1477,7 @@
     "id": "2107696732545204524",
     "created_at": "2026-10-07T04:57:14.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -1366,7 +1485,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-07T15:08:31.661398+08:00",
-    "url": "https://x.com/elonmusk/status/2107696732545204524"
+    "url": "https://x.com/elonmusk/status/2107696732545204524",
+    "byline_orphan": true
   },
   {
     "id": "2107646310212091955",
@@ -1386,7 +1506,7 @@
     "id": "2107720549812387924",
     "created_at": "2026-10-07T06:31:53.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -1394,7 +1514,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-07T15:08:38.375479+08:00",
-    "url": "https://x.com/elonmusk/status/2107720549812387924"
+    "url": "https://x.com/elonmusk/status/2107720549812387924",
+    "byline_orphan": true
   },
   {
     "id": "2107687128687636736",
@@ -1443,7 +1564,7 @@
     "id": "2107721300819235211",
     "created_at": "2026-10-07T06:34:52.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -1451,7 +1572,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-07T15:09:07.250041+08:00",
-    "url": "https://x.com/elonmusk/status/2107721300819235211"
+    "url": "https://x.com/elonmusk/status/2107721300819235211",
+    "byline_orphan": true
   },
   {
     "id": "2107703916913656059",
@@ -1533,7 +1655,7 @@
     "id": "2107677634469708043",
     "created_at": "2026-10-07T03:41:21.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -1541,7 +1663,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-07T13:07:45.683655+08:00",
-    "url": "https://x.com/elonmusk/status/2107677634469708043"
+    "url": "https://x.com/elonmusk/status/2107677634469708043",
+    "byline_orphan": true
   },
   {
     "id": "2107350648538947870",
@@ -1639,7 +1762,7 @@
     "id": "2107644416303435797",
     "created_at": "2026-10-07T01:29:21.000Z",
     "original": "Elon Musk",
-    "translation": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -1647,7 +1770,8 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-07T12:08:14.214764+08:00",
-    "url": "https://x.com/elonmusk/status/2107644416303435797"
+    "url": "https://x.com/elonmusk/status/2107644416303435797",
+    "byline_orphan": true
   },
   {
     "id": "2107186849370247235",
