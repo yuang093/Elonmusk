@@ -1,5 +1,22 @@
 [
   {
+    "id": "2107961709717807149",
+    "created_at": "2026-10-07T22:30:10.000Z",
+    "original": "The claim that militants used Starlink in India makes no sense.\n\nStarlink satellite beams are turned off over India. With the beams off, no Starlink device can connect in India.\n\nEven Elon Musk himself has confirmed this.\n\nStop spreading misinformation. ",
+    "translation": "「說武裝分子在印度使用 Starlink 的說法根本說不通。\n\nStarlink 的衛星波束在印度是關閉的。波束關閉的話，印度的任何 Starlink 設備都無法連線。\n\n就連 Elon Musk 自己都已經證實了。\n\n別再散播假消息了。」",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUD8APza8AAQn39?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HUDcgwlbQAA6Fre?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-10-08T07:07:52.844617+08:00",
+    "url": "https://x.com/elonmusk/status/2107961709717807149"
+  },
+  {
     "id": "2107924525992247606",
     "created_at": "2026-10-07T20:02:24.000Z",
     "original": "Looking into it",
