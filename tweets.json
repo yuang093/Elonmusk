@@ -1,5 +1,35 @@
 [
   {
+    "id": "2108396588544745887",
+    "created_at": "2026-10-09T03:18:13.000Z",
+    "original": "First month I paid $200 Cursor Ultra just to try Grok Bot. I said to myself.. it's okay even I don't find it worth it, I will still learn something. I learned so much since I started Grok Bot + Cursor. I never imagined myself building an app. Not only I can't do coding but I also",
+    "translation": "第一個月我花了200美元訂閱 Cursor Ultra，就只是為了試試 Grok Bot。我跟自己說...就算覺得划不來，至少還是能學到東西。自從開始用 Grok Bot + Cursor 以來，我學到了好多。從沒想過自己能做出一個 App。不僅我不會寫程式，而且我還...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-09T12:07:26.990775+08:00",
+    "url": "https://x.com/elonmusk/status/2108396588544745887"
+  },
+  {
+    "id": "2108396888160387541",
+    "created_at": "2026-10-09T03:19:24.000Z",
+    "original": "You can now watch Grokipedia evolve in real time\n\nLive edits are happening constantly across the platform as Grok reviews, updates and improves articles\n\nYou can literally follow the knowledge base changing as it happens\n\nPretty wild to watch an SI-maintained encyclopedia update",
+    "translation": "你現在可以即時觀看 Grokipedia 演化\n\n平台上持續有直播編輯在進行，Grok 會審查、更新和改進條目\n\n你簡直可以看著知識庫即時變化\n\n看一個 SI 維護的百科全書持續更新真的很狂",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUKCyK5aMAAcSqM?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-09T12:07:34.961232+08:00",
+    "url": "https://x.com/elonmusk/status/2108396888160387541"
+  },
+  {
     "id": "2108270660275609612",
     "created_at": "2026-10-08T18:57:49.000Z",
     "original": " messes up we’ll make you whole” guarantee.\n\nGrok Bot signed me up for a recurring meal prep subscription instead of the one off order I asked it do make.\n\nCost me £57 extra ($75)",
