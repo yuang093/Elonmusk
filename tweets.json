@@ -1,5 +1,78 @@
 [
   {
+    "id": "2108754472709358067",
+    "created_at": "2026-10-10T03:00:19.000Z",
+    "original": "Elon Musk",
+    "translation": "伊隆·馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T12:07:48.106102+08:00",
+    "url": "https://x.com/elonmusk/status/2108754472709358067",
+    "retried_at": "2026-10-10T13:01:00+08:00"
+  },
+  {
+    "id": "2108732567151366389",
+    "created_at": "2026-10-10T01:33:17.000Z",
+    "original": "elon is the kanye of tech and SI",
+    "translation": "elon根本就是科技圈跟SI界的kanye吧",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUO5BlAbEAARUlY?format=png&name=360x360"
+    ],
+    "fetched_at": "2026-10-10T12:07:55.521906+08:00",
+    "url": "https://x.com/elonmusk/status/2108732567151366389"
+  },
+  {
+    "id": "2108759873152270622",
+    "created_at": "2026-10-10T03:21:47.000Z",
+    "original": "Dollars obviously won’t be the unit of measure at that point, so what I really mean is >1 petawatt/year",
+    "translation": "到那時候錢肯定不是什麼單位了，所以我真正想說的是 >1 petawatt/年",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T12:08:11.086766+08:00",
+    "url": "https://x.com/elonmusk/status/2108759873152270622"
+  },
+  {
+    "id": "2108760362082316674",
+    "created_at": "2026-10-10T03:23:43.000Z",
+    "original": "BREAKING: Venezuela’s telecom regulator, Conatel, has officially authorized Starlink to provide satellite internet nationwide. 🇻🇪\n\nAfter June’s earthquakes damaged phone and internet networks, Starlink provided more than 1,600 kits to support rescue teams, medical staff and",
+    "translation": "突發：委內瑞拉電信監管機構 Conatel 正式授權 Starlink 在全國提供衛星網路服務。🇻🇪\n\n在六月地震摧毀電話和網路基礎設施後，Starlink 已提供超過 1,600 套設備支援救援團隊、醫護人員...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T12:08:18.906331+08:00",
+    "url": "https://x.com/elonmusk/status/2108760362082316674"
+  },
+  {
+    "id": "2108768021527613825",
+    "created_at": "2026-10-10T03:54:10.000Z",
+    "original": "I stole the plan from ",
+    "translation": "計畫是從那邊偷的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T12:08:27.169834+08:00",
+    "url": "https://x.com/elonmusk/status/2108768021527613825"
+  },
+  {
     "id": "2108723113085067360",
     "created_at": "2026-10-10T00:55:42.000Z",
     "original": "Elon Musk",
