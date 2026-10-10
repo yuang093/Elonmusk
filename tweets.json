@@ -1,5 +1,63 @@
 [
   {
+    "id": "2108779379455103133",
+    "created_at": "2026-10-10T04:39:17.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T15:07:49.426161+08:00",
+    "url": "https://x.com/elonmusk/status/2108779379455103133"
+  },
+  {
+    "id": "2108649532611498340",
+    "created_at": "2026-10-09T20:03:20.000Z",
+    "original": " more than ever before. It's an inadvertant love song to American innovation as told by the dumb losers who build nothing and complain about everything.",
+    "translation": "比以往任何時候都更加強烈。簡直是寫給美國創新能力的一首意外情歌，由那些啥都不會做、只會整天抱怨的魯蛇來現身說法。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T15:07:56.039548+08:00",
+    "url": "https://x.com/elonmusk/status/2108649532611498340"
+  },
+  {
+    "id": "2108813515003977798",
+    "created_at": "2026-10-10T06:54:56.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T15:07:59.065486+08:00",
+    "url": "https://x.com/elonmusk/status/2108813515003977798"
+  },
+  {
+    "id": "2108796236144975937",
+    "created_at": "2026-10-10T05:46:16.000Z",
+    "original": "holy shit this movie seems even more retarded than I could have imagined",
+    "translation": "靠 這部片比我能想到的還要更智障",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUPy_4aXQAEwv7i?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-10T15:08:05.508388+08:00",
+    "url": "https://x.com/elonmusk/status/2108796236144975937"
+  },
+  {
     "id": "2108767817390592266",
     "created_at": "2026-10-10T03:53:21.000Z",
     "original": "I stole the plan from ",
