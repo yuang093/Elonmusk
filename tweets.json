@@ -1,5 +1,66 @@
 [
   {
+    "id": "2108723113085067360",
+    "created_at": "2026-10-10T00:55:42.000Z",
+    "original": "Elon Musk",
+    "translation": "伊隆·馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T11:02:31.551583+08:00",
+    "url": "https://x.com/elonmusk/status/2108723113085067360",
+    "retried_at": "2026-10-10T11:03:17+08:00"
+  },
+  {
+    "id": "2108624703992787069",
+    "created_at": "2026-10-09T18:24:40.000Z",
+    "original": "High schoolers aren't good survey respondents. They think it's funny to self-report that they're trans.\n\nThis makes estimating trans percentages very difficult.\n\nStudents who self-report being trans also often report being blind, deaf, armed, obese, 7-foot crackheads in gangs.",
+    "translation": "高中生不是好的調查受訪者。他們覺得自我報告自己是trans很好玩。\n\n這讓估計trans比例變得很困難。\n\n自我報告是trans的學生，通常也會報告自己是盲人、聾子、持械、肥胖、是7尺高的幫派毒蟲。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUNWFeJX0AAPinW?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-10T11:02:43.923295+08:00",
+    "url": "https://x.com/elonmusk/status/2108624703992787069"
+  },
+  {
+    "id": "2108754257952538909",
+    "created_at": "2026-10-10T02:59:28.000Z",
+    "original": "Yup, even more so for bandwidth. \n\nBits per second of SI agents will exceed that of all humans by 1000X within a few years.",
+    "translation": "對，而且頻寬更是如此。\n\n幾年內，SI agents 的 bits per second 會是人類總和的 1000 倍。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T11:02:50.122161+08:00",
+    "url": "https://x.com/elonmusk/status/2108754257952538909"
+  },
+  {
+    "id": "2108750943680630893",
+    "created_at": "2026-10-10T02:46:18.000Z",
+    "original": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. \n\nThe usage of AI as a chat system that can only work for you at the pace that you can prompt it will seem",
+    "translation": "代理 (agents) 會生出其他代理、代理在背景同時處理所有任務、還有代理群 (agent swarms)，消耗的 tokens 會是人們一次只叫一個代理的 1,000 倍。\n\n把 AI 當成聊天系統用，只能跟著你輸入指令的速度幫你工作，屆時看起來會很…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUI31ZvaAAAplkt?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-10T11:03:01.265601+08:00",
+    "url": "https://x.com/elonmusk/status/2108750943680630893"
+  },
+  {
     "id": "2108604841039909298",
     "created_at": "2026-10-09T17:05:44.000Z",
     "original": "1 quadrillion is a number most people have never heard of let alone tried to comprehend. \n\nFor our civilization to even approach K2 level, we would have to have companies approaching this valuation, right?",
