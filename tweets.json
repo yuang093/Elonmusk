@@ -1,5 +1,33 @@
 [
   {
+    "id": "2108815681642741943",
+    "created_at": "2026-10-10T07:03:33.000Z",
+    "original": "Elon Musk",
+    "translation": "（轉推 Elon Musk 的貼文）",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T16:08:15.151638+08:00",
+    "url": "https://x.com/elonmusk/status/2108815681642741943"
+  },
+  {
+    "id": "2108766306128351638",
+    "created_at": "2026-10-10T03:47:21.000Z",
+    "original": "If the existing internet is better, great. Then they won’t be hurt by a little more competition. \n\nFor people who don’t have any access at all, it will be helpful.",
+    "translation": "現有網路如果更好的話，那很棒啊。那多一點競爭也傷不了他們。\n\n對於完全沒有網路可用的人來說，這會很有幫助。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-10T16:08:20.208140+08:00",
+    "url": "https://x.com/elonmusk/status/2108766306128351638"
+  },
+  {
     "id": "2108779379455103133",
     "created_at": "2026-10-10T04:39:17.000Z",
     "original": "Elon Musk",
