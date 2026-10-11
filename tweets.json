@@ -1,5 +1,63 @@
 [
   {
+    "id": "2109132579152552066",
+    "created_at": "2026-10-11T04:02:47.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-11T13:07:49.498782+08:00",
+    "url": "https://x.com/elonmusk/status/2109132579152552066"
+  },
+  {
+    "id": "2108996437824737311",
+    "created_at": "2026-10-10T19:01:48.000Z",
+    "original": "The ridiculous arguments by Ambani’s army of Internet shills make no sense\n\nOn the one hand, they say Starlink couldn’t possibly compete with the amazing low prices offered by Ambani’s de facto monopoly in India and then, in the same breath, they essentially claim that Starlink x.com/aaronburnett/s…",
+    "translation": "Ambani那些網路水軍的荒謬論點根本站不住腳\n\n一方面他們說Starlink根本不可能跟Ambani在印度實質壟斷的低價比\n\n但另一方面他們又幾乎同時聲稱Starlink...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-11T13:07:56.957528+08:00",
+    "url": "https://x.com/elonmusk/status/2108996437824737311"
+  },
+  {
+    "id": "2109028064567181461",
+    "created_at": "2026-10-10T21:07:29.000Z",
+    "original": "The ridiculous arguments by Ambani’s army of Internet shills make no sense\n\nOn the one hand, they say Starlink couldn’t possibly compete with the amazing low prices offered by Ambani’s de facto monopoly in India and then, in the same breath, they essentially claim that Starlink x.com/aaronburnett/s…",
+    "translation": "Ambani那群網軍的荒謬論點根本站不住腳\n\n一方面他們說Starlink根本不可能競爭過Ambani在印度實質壟斷提供的超低價格，接著又說Starlink...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUTF1qiasAAROP4?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-11T12:07:53.394307+08:00",
+    "url": "https://x.com/elonmusk/status/2109028064567181461"
+  },
+  {
+    "id": "2109132465784930785",
+    "created_at": "2026-10-11T04:02:20.000Z",
+    "original": " and although I am pioneering its use in physical industries like printing, packaging, beverage, injection mold, vitamin capsule and dozens of other clients in the pipeline, the world need millions of folks ",
+    "translation": "雖然我在印刷、包裝、飲料、射出成型、維生素膠囊等實體產業開創這項應用，還有數十家客戶正在洽談中，但這個世界需要數百萬人...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-11T12:07:58.083719+08:00",
+    "url": "https://x.com/elonmusk/status/2109132465784930785"
+  },
+  {
     "id": "2109033017184338141",
     "created_at": "2026-10-10T21:27:09.000Z",
     "original": "Zelensky has gone too far",
