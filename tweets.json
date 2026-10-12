@@ -1,5 +1,123 @@
 [
   {
+    "id": "2109519492359606773",
+    "created_at": "2026-10-12T05:40:14.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T00:07:47.081243+08:00",
+    "url": "https://x.com/elonmusk/status/2109519492359606773"
+  },
+  {
+    "id": "2109502983172136986",
+    "created_at": "2026-10-12T04:34:38.000Z",
+    "original": "The problem is the length of the experience, subjectively. I know many, probably most, people, don't consider this a serious issue for a long list of reasons, some of them pretty good, but it's potentially a very, very long time subjectively.",
+    "translation": "問題在於這段經歷的時長，主觀上來說。我知道很多人，可能大多數人，出於一堆理由不覺得是這個嚴重問題，有些理由還挺靠譜的，但主觀上來說，這可能是一段非常非常漫長的時間。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T00:07:54.233089+08:00",
+    "url": "https://x.com/elonmusk/status/2109502983172136986"
+  },
+  {
+    "id": "2109667697932079563",
+    "created_at": "2026-10-12T15:29:09.000Z",
+    "original": "Really fun way to spend $10 as a kid tbh. I loved it!\n\nAnd you do learn things if you play many video games.",
+    "translation": "老實說，小時候花10塊錢超棒的方式。我超愛的！\n\n而且玩很多電玩的話真的會學到東西。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T00:08:00.048402+08:00",
+    "url": "https://x.com/elonmusk/status/2109667697932079563"
+  },
+  {
+    "id": "2109640191740621217",
+    "created_at": "2026-10-12T13:39:51.000Z",
+    "original": "Well well well. Well. \nBloomberg: Broadcom CEO Likens Many AI Investors to Casino Gamblers\nand more...\nBroadcom’s Tan said AI model developers need to find customers that can generate returns from deploying the technology, rather than relying on users who are now “wasting money”",
+    "translation": "好傢伙，好喔。\n\n彭博：Broadcom 執行長將許多 AI 投資人比作賭場賭客\n\nBroadcom 的陳（Tan）表示，AI 模型開發商需要找到能從部署技術中獲得回報的客戶，而不是依賴那些現在「在燒錢」的使用者。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUbx3s-XIAAkdwr?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T00:08:05.625527+08:00",
+    "url": "https://x.com/elonmusk/status/2109640191740621217"
+  },
+  {
+    "id": "2109668152754020609",
+    "created_at": "2026-10-12T15:30:58.000Z",
+    "original": "Scaling power harnessed, along with super fast construction, cooling, networking and batteries. This is hard.",
+    "translation": "電力要顧、建設要快、散熱要搞、網路要顧、電池也要顧，全部加起來真的很難啊。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T00:08:11.133402+08:00",
+    "url": "https://x.com/elonmusk/status/2109668152754020609"
+  },
+  {
+    "id": "2109658962807386330",
+    "created_at": "2026-10-12T14:54:26.000Z",
+    "original": "Today we are announcing our biggest bet yet on our own silicon.\n\nStarting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making it the primary inference system for our own product and services.\n\nAnd we’re introducing Maia 300, which delivers 40%",
+    "translation": "今天要宣布個大事！我們在自家晶片上押了有史以來最大的一把！\n\n從明年開始，我們要把Maia系列擴展到數GW的部署規模，讓它成為我們自家產品和服務的主要推理系統。\n\n而且還推出了Maia 300，可以提升40%的效能！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUbmBBIbwAATSC6?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T00:08:19.824858+08:00",
+    "url": "https://x.com/elonmusk/status/2109658962807386330"
+  },
+  {
+    "id": "2109672494713987362",
+    "created_at": "2026-10-12T15:48:13.000Z",
+    "original": "It’s the right name",
+    "translation": "這名字對了啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T00:08:23.347634+08:00",
+    "url": "https://x.com/elonmusk/status/2109672494713987362"
+  },
+  {
+    "id": "2109558975809360225",
+    "created_at": "2026-10-12T08:17:08.000Z",
+    "original": "If you still follow Mike after this stupid insult, you have zero principles.\n\nPlease tell me I'm wrong so I can unfollow you.\n\nElon doesn't just walk on hot coals.\nHe lies down on them, face down.\n\nFalcon 1\nModel 3 Production Hell\nOrbcomm 2\nTesla Pivot to AI & Robotics",
+    "translation": "如果你在這麼爛的罵人之後還關注 Mike，你根本沒有原則。\n\n拜託告訴我我錯了，這樣我才能取消追蹤你。\n\nElon 不只是走過滾燙的煤炭。\n\n他是直接躺上去、臉朝下。\n\nFalcon 1\nModel 3 生產地獄\nOrbcomm 2\nTesla 轉型 AI 與機器人",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUaosvvaQAADaE-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T00:08:29.459020+08:00",
+    "url": "https://x.com/elonmusk/status/2109558975809360225"
+  },
+  {
     "id": "2109473185846395137",
     "created_at": "2026-10-12T02:36:14.000Z",
     "original": "Stainless steel Cybertruck meets stainless steel rocket",
