@@ -1,7 +1,156 @@
 [
   {
-    "id": "2109519492359606773",
-    "created_at": "2026-10-12T05:40:14.000Z",
+    "id": "2109692430178255016",
+    "created_at": "2026-10-12T17:07:26.000Z",
+    "original": "A new four-hour documentary on Elon Musk is so determined to expose the billionaire’s failings that it inadvertently showcases the achievements that made him the richest man in the world.\n\nRead ",
+    "translation": "一部新的四小時 Elon Musk 紀錄片，卯起來想要爆這位億萬富翁的黑料，結果卻不小心秀出了那些讓他成為世界首富的成就。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUcTHetXMAAiEkS?format=png&name=small"
+    ],
+    "fetched_at": "2026-10-13T02:08:31.334252+08:00",
+    "url": "https://x.com/elonmusk/status/2109692430178255016"
+  },
+  {
+    "id": "2109293617101844650",
+    "created_at": "2026-10-11T14:42:41.000Z",
+    "original": "For this one I had to delete 2 full days of opus attempts to get this. Think I'm gonna go build out some more tooling to lower failure rate (this still isn't perfect) and maybe do some more techno/electroclash again. More soon",
+    "translation": "這個我刪掉了整整2天的opus嘗試才搞定。覺得我應該去多建一些工具來降低失敗率（這還是不完美），然後可能再來搞點techno/electroclash。很快就會有新東西",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:08:17.623917+08:00",
+    "url": "https://x.com/elonmusk/status/2109293617101844650"
+  },
+  {
+    "id": "2109673422162624648",
+    "created_at": "2026-10-12T15:51:54.000Z",
+    "original": "Did we not provide an easy way to increase the usage limit?",
+    "translation": "不是有提供個簡單的方法可以增加使用限制嗎？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:08:22.924722+08:00",
+    "url": "https://x.com/elonmusk/status/2109673422162624648"
+  },
+  {
+    "id": "2109668563485376582",
+    "created_at": "2026-10-12T15:32:35.000Z",
+    "original": " heavy account a couple of days before end of week despite offloading to cursor, devin, claude, codex (!) for anything that required thinking.\n\nI think having dashboards/visualisations of where quotas go needs to be standard, codex good here",
+    "translation": "週末前幾天帳號負擔超重，雖然什麼需要動腦的任務都已經丢給 cursor、devin、claude、codex 處理了。\n\n我覺得配額用到哪去的儀表板/視覺化應該要是標配，codex 在這塊做得不錯",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:08:29.229769+08:00",
+    "url": "https://x.com/elonmusk/status/2109668563485376582"
+  },
+  {
+    "id": "2109681076566188467",
+    "created_at": "2026-10-12T16:22:19.000Z",
+    "original": "These numbers do not match at all what we see with Grok ",
+    "translation": "這些數字跟 Grok 顯示的完全對不上",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:08:33.777311+08:00",
+    "url": "https://x.com/elonmusk/status/2109681076566188467"
+  },
+  {
+    "id": "2109674931013423282",
+    "created_at": "2026-10-12T15:57:54.000Z",
+    "original": "Meta Muse's retention is out, and it's almost as good as ChatGPT!\n\nIt's higher than ChatGPT at D7 (>30%) and just lower at D14 (22%). Not quite in the elite D14 tier of WA (67%) YT (59%) Insta (54%) or TikTok/Snap (37%), though.\n\nMuse is one of the highest retaining AI products!",
+    "translation": "Meta Muse 的留存數據出來了，超猛的，幾乎跟 ChatGPT 一樣強！\n\nD7 留存率 (>30%) 比 ChatGPT 還高，D14 (22%) 稍微低一點。但也沒辦法跟那些頂尖怪物比啦——WhatsApp (67%)、YouTube (59%)、Instagram (54%) 或 TikTok/Snap (37%) 的 D14 留存率根本是另一個檔次。\n\n不過 Muse 已經是留存率最高的 AI 產品之一了！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUZb93AaoAAmgPV?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T01:08:40.887836+08:00",
+    "url": "https://x.com/elonmusk/status/2109674931013423282"
+  },
+  {
+    "id": "2109682666140553434",
+    "created_at": "2026-10-12T16:28:38.000Z",
+    "original": "What are the top things we need to fix or features we need to add to Grok ",
+    "translation": "Grok最需要修復的問題或需要新增的功能有哪些？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:08:46.373884+08:00",
+    "url": "https://x.com/elonmusk/status/2109682666140553434"
+  },
+  {
+    "id": "2109680284257911002",
+    "created_at": "2026-10-12T16:19:10.000Z",
+    "original": "Topped it up and found the bug\n\nBy default when spinning up lots of agents from other folk it reads everything they do constantly \n\nThis is the main coordinator bot we now have\n\nWill get it to patch itself to the better behaviour but maybe it should warn when spiking usage",
+    "translation": "充值完發現一個 bug\n\n預設當你大量建立別人的 agent 時，它會一直讀取他們所有的操作\n\n這是我們現在的主要協調 bot\n\n會讓它自己修補成更好的行為，但用量暴增時或許該發個警告",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUcXCJgWoAArpUf?format=jpg&name=240x240",
+      "https://pbs.twimg.com/media/HUcXCJeXUAA6yK2?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T01:08:57.142266+08:00",
+    "url": "https://x.com/elonmusk/status/2109680284257911002"
+  },
+  {
+    "id": "2109683050833465666",
+    "created_at": "2026-10-12T16:30:09.000Z",
+    "original": "No crying in the casino",
+    "translation": "賭場不准哭",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:09:02.305834+08:00",
+    "url": "https://x.com/elonmusk/status/2109683050833465666"
+  },
+  {
+    "id": "2109617458222952919",
+    "created_at": "2026-10-12T12:09:31.000Z",
+    "original": " CEO HOCK TAN SAYS SOME AI INVESTORS ARE BETTING LIKE THEY'RE IN A CASINO\n\nTan spoke Monday at an event in Singapore, per Bloomberg.\n\n- \"A lot of investors have no clue what they are investing in.\" \n- He warned a shortage of capital could be the next limit on AI",
+    "translation": "Hock Tan表示一些AI投資者下注的方式根本就像在賭場\n\nTan週一在新加坡的活動上發言，據Bloomberg報導\n\n- 「很多投資者壓根不知道自己到底在投什麼」\n- 他警告資金短缺可能是AI的下一個瓶頸",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUbZ91pWoAAH9MC?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T01:09:10.252328+08:00",
+    "url": "https://x.com/elonmusk/status/2109617458222952919"
+  },
+  {
+    "id": "2109688396520276469",
+    "created_at": "2026-10-12T16:51:24.000Z",
     "original": "Elon Musk",
     "translation": "",
     "metrics": {},
@@ -10,8 +159,131 @@
     "is_retweet": true,
     "is_quote": false,
     "images": [],
+    "fetched_at": "2026-10-13T01:09:13.177976+08:00",
+    "url": "https://x.com/elonmusk/status/2109688396520276469"
+  },
+  {
+    "id": "2109670682598739998",
+    "created_at": "2026-10-12T15:41:01.000Z",
+    "original": "@realDonaldTrump",
+    "translation": "@realDonaldTrump",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:09:18.831241+08:00",
+    "url": "https://x.com/elonmusk/status/2109670682598739998"
+  },
+  {
+    "id": "2109688880853119009",
+    "created_at": "2026-10-12T16:53:19.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:09:21.184988+08:00",
+    "url": "https://x.com/elonmusk/status/2109688880853119009"
+  },
+  {
+    "id": "2109647443675508977",
+    "created_at": "2026-10-12T14:08:40.000Z",
+    "original": "Pie chart of naturalizations in 2023. The US naturalized roughly 4x as many people as all of Asia combined.",
+    "translation": "2023年入籍人數圓餅圖。美國入籍的人數大約是整個亞洲加起來的4倍。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUb45AZWcAAjUKJ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T01:09:25.814758+08:00",
+    "url": "https://x.com/elonmusk/status/2109647443675508977"
+  },
+  {
+    "id": "2109690977279426846",
+    "created_at": "2026-10-12T17:01:39.000Z",
+    "original": "When China figures out how to manufacture a product, their ability to scale is often greater than the rest of the world combined. We saw this with lithium batteries and solar, for example. \n\nSpaceX is a rare counter-example, where its mass to orbit is roughly an order of",
+    "translation": "當中國搞清楚怎麼製造某個產品的時候，他們能擴產的能力通常比全世界加起來還猛。這在鋰電池和太陽能上都能看到。\n\nSpaceX是個少見的反例，它上軌道的質量大概高出一個數量級。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-13T01:09:35.879174+08:00",
+    "url": "https://x.com/elonmusk/status/2109690977279426846"
+  },
+  {
+    "id": "2109655913758110018",
+    "created_at": "2026-10-12T14:42:20.000Z",
+    "original": ", Samsung and SK Hynix are getting hit after China's CXMT announced progress on its new 4F² DRAM architecture, with plans to introduce DDR5 server memory using the technology by the end of 2026. For those",
+    "translation": "Samsung 和 SK Hynix 股價被打趴 中國 CXMT 宣布他們新的 4F² DRAM 架構有進展了，計畫在 2026 年底前推出採用這技術的 DDR5 伺服器記憶體。對於那些",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUcA30jaIAEcY8c?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HUb9M8jWMAAWA1n?format=jpg&name=120x120",
+      "https://pbs.twimg.com/media/HUb9Nk9WUAAo3n-?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-10-13T01:09:41.178967+08:00",
+    "url": "https://x.com/elonmusk/status/2109655913758110018"
+  },
+  {
+    "id": "2109681296616374289",
+    "created_at": "2026-10-12T16:23:11.000Z",
+    "original": "  we were on the freeway when a wrong way driver hit us head on at freeway speeds.  \n\nI remember parts of the accident.  Seeing the trucks headlight, my",
+    "translation": "我們在高速公路上逆向的駕駛直接正面撞上來\n\n我記得事故的一些片段 看到卡車的頭燈 我的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUbVppoaIAAM2Zo?format=jpg&name=120x120"
+    ],
+    "fetched_at": "2026-10-13T01:09:46.418085+08:00",
+    "url": "https://x.com/elonmusk/status/2109681296616374289"
+  },
+  {
+    "id": "2109690326474440765",
+    "created_at": "2026-10-12T16:59:04.000Z",
+    "original": "I thought this one was parody…\nIt’s real.\n\nJames Talarico calling Whiteness a virus.\nJust a totally normal, moderate guy.",
+    "translation": "我還以為這是惡搞的...\n結果是真的。\n\nJames Talarico 把白人特質說成病毒。\n就一個完全正常、溫和的正常人。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUcSlSKXwAEjWKw?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-13T01:09:52.960185+08:00",
+    "url": "https://x.com/elonmusk/status/2109690326474440765"
+  },
+  {
+    "id": "2109519492359606773",
+    "created_at": "2026-10-12T05:40:14.000Z",
+    "original": "Elon Musk",
+    "translation": "Elon Musk",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
     "fetched_at": "2026-10-13T00:07:47.081243+08:00",
-    "url": "https://x.com/elonmusk/status/2109519492359606773"
+    "url": "https://x.com/elonmusk/status/2109519492359606773",
+    "retried_at": "2026-10-13T02:07:08.257082+08:00"
   },
   {
     "id": "2109502983172136986",
