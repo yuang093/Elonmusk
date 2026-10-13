@@ -1,5 +1,94 @@
 [
   {
+    "id": "2109970404601156050",
+    "created_at": "2026-10-13T11:32:00.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-14T03:08:16.819497+08:00",
+    "url": "https://x.com/elonmusk/status/2109970404601156050"
+  },
+  {
+    "id": "2109958813868573167",
+    "created_at": "2026-10-13T10:45:57.000Z",
+    "original": "Jack Clark of Anthropic now thinks it's more likely we see full RSI become possible in 2027 than in 2028.",
+    "translation": "Anthropic 的 Jack Clark 現在更傾向認為，咱們能在 2027 年看到完整的 RSI，2028 年的機率反而比較低。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUgUJbKXcAAjRYQ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-14T03:08:22.029903+08:00",
+    "url": "https://x.com/elonmusk/status/2109958813868573167"
+  },
+  {
+    "id": "2110078083214831813",
+    "created_at": "2026-10-13T18:39:53.000Z",
+    "original": "Extremely troubling",
+    "translation": "真的超崩潰",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-14T03:08:24.871461+08:00",
+    "url": "https://x.com/elonmusk/status/2110078083214831813"
+  },
+  {
+    "id": "2110053451111489644",
+    "created_at": "2026-10-13T17:02:00.000Z",
+    "original": "\n\nI investigated a trans cult that used mind control, human experimentation and homebrew cocktails of hormones and drugs.\n\nThen came the bodies.\n\nDiscover the truth about trans violence.",
+    "translation": "\n\n我深入調查了一個使用洗腦控制、人體實驗，以及自製荷爾蒙和藥物雞尾酒的跨性別邪教組織。\n\n接著就出現了受害者遺體。\n\n一起來揭開跨性別暴力背後的真相。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-14T03:08:30.799556+08:00",
+    "url": "https://x.com/elonmusk/status/2110053451111489644",
+    "retried_at": "2026-10-14T04:01:02+08:00"
+  },
+  {
+    "id": "2110077948384735481",
+    "created_at": "2026-10-13T18:39:20.000Z",
+    "original": "Gemini 4 Argon is here.\n\nIt’s available globally today for developers and enterprises in the paid tier of the Gemini API and the Gemini platform, for Ultra subscribers in Google Antigravity, and Ultra and Pro subscribers in the Gemini app and Search.\n\nHope you all enjoy it!",
+    "translation": "Gemini 4 Argon 來啦！\n\n今天起全球開放給 Gemini API 和 Gemini 平台的開發者和企業付費方案，Google Antigravity 的 Ultra 訂閱戶，以及 Gemini app 和 Search 的 Ultra 和 Pro 訂閱戶也能用到。\n\n希望大家玩得開心！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-14T03:08:34.470096+08:00",
+    "url": "https://x.com/elonmusk/status/2110077948384735481"
+  },
+  {
+    "id": "2110082016838328713",
+    "created_at": "2026-10-13T18:55:30.000Z",
+    "original": "Introducing The Cheeky Pint Benchmark.\n\nWe made our intern watch every episode of Cheeky Pint to bring you this breakdown of pints drank by guests to the nearest sixth.\n\nCongratulations to ",
+    "translation": "來介紹一下 Cheeky Pint Benchmark。\n\n我們讓 intern 把 Cheeky Pint 每一集都看完了，給你帶來這份：來賓喝了多少品脫、最接近到六分位的數據大整理。\n\n恭喜各位啦～",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUhqaJyXcAATaz-?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-14T03:08:37.604187+08:00",
+    "url": "https://x.com/elonmusk/status/2110082016838328713"
+  },
+  {
     "id": "2109863752430731289",
     "created_at": "2026-10-13T04:28:12.000Z",
     "original": "Terafab is a massive step toward humanity becoming a Kardashev Type II civilization\n\nIt's a chip factory built for a future where we harness the power of our own star",
