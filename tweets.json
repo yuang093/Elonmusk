@@ -1,5 +1,33 @@
 [
   {
+    "id": "2110445577184133456",
+    "created_at": "2026-10-14T19:00:10.000Z",
+    "original": "Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS.\n\nStarlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities",
+    "translation": "Starshield 系統是美國政府擁有和控制的，任何關於速度或使用限制都由美軍說了算，最後由 POTUS 拍板定案。\n\nStarlink 是 SpaceX 旗下的一款商業服務，由 SpaceX 擁有和控制。Starlink 的使用範圍僅限於民用或國防相關活動。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-15T06:07:54.974450+08:00",
+    "url": "https://x.com/elonmusk/status/2110445577184133456"
+  },
+  {
+    "id": "2110483960312799675",
+    "created_at": "2026-10-14T21:32:41.000Z",
+    "original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at 86.9, while also being competitive on latency\n\nGrok Voice 3.0 is ",
+    "translation": "SpaceXAI 的 Grok Voice 3.0 是新一代的語音對語音模型，在 Artificial Analysis 語音對語音排行榜上以 86.9 分空降第一，而且在延遲方面也很有競爭力\n\nGrok Voice 3.0 是…",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-15T06:07:57.974045+08:00",
+    "url": "https://x.com/elonmusk/status/2110483960312799675"
+  },
+  {
     "id": "2110407463384318196",
     "created_at": "2026-10-14T16:28:43.000Z",
     "original": "Elon Musk",
