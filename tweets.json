@@ -1,5 +1,50 @@
 [
   {
+    "id": "2110154589278503175",
+    "created_at": "2026-10-13T23:43:53.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-14T08:08:35.207038+08:00",
+    "url": "https://x.com/elonmusk/status/2110154589278503175"
+  },
+  {
+    "id": "2110128893680378299",
+    "created_at": "2026-10-13T22:01:47.000Z",
+    "original": "The AI buildout is increasingly funded by debt, and private credit is playing a much bigger role than it did even a year ago.\nIn the second quarter of 2026, Apollo and Blackstone led a $35 billion...",
+    "translation": "AI 的基礎建設越來越多靠舉債來燒錢，私人信貸扮演的角色也比一年前吃重太多。\n2026 年第二季，Apollo 和 Blackstone 領頭搞了 350 億美元...",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUiu-XmbMAA2ZBf?format=png&name=small",
+      "https://pbs.twimg.com/media/HUiJUBbaEAA_k1_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-14T08:08:39.957501+08:00",
+    "url": "https://x.com/elonmusk/status/2110128893680378299"
+  },
+  {
+    "id": "2110154332553597413",
+    "created_at": "2026-10-13T23:42:52.000Z",
+    "original": "The Tesla Model 3 with FSD is mind-blowing. Jessica and I drove to the gym without touching the controls once. It backed out of our driveway, drove there, and backed into a parking space. It's amazing that you can buy so much future for $40k.",
+    "translation": "配備FSD的Tesla Model 3真的太狂了。我和Jessica開去健身房，方向盤一次都沒碰過。它自己倒車出車道、自己開過去、還自己倒車入庫。$40k就能買到這麼多未來科技，真的有夠猛。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-14T08:08:46.957070+08:00",
+    "url": "https://x.com/elonmusk/status/2110154332553597413"
+  },
+  {
     "id": "2110109173048299981",
     "created_at": "2026-10-13T20:43:25.000Z",
     "original": "Today’s selloff just makes the worries look overdone in the semi/AI space. The market is nervous about three things right now and I don't think any of them hold up in the next couple of weeks;\n\n1) CXMT. China's memory champion is the fear of the week. But its push into the next ",
