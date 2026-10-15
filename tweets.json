@@ -1,5 +1,158 @@
 [
   {
+    "id": "2110831633846956275",
+    "created_at": "2026-10-15T20:34:13.000Z",
+    "original": "We will catch up",
+    "translation": "之後再聊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T06:08:17.253852+08:00",
+    "url": "https://x.com/elonmusk/status/2110831633846956275"
+  },
+  {
+    "id": "2110745494045478968",
+    "created_at": "2026-10-15T14:51:56.000Z",
+    "original": "In September, China's combustion vehicle (ICE) sales dropped to just a third of the market for the first time\n\nBattery electric vehicles are getting close to half of the market (47.3%), while Plug-ins added another 19.7%.\n\nOnly 5 years from >90% to 33% ICE.",
+    "translation": "9月中國燃油車（ICE）銷量首次掉到只剩市場的三分之一了\n\n純電車快要吃下半個市場了（47.3%），插電混合動力再補上19.7%\n\n從>90%掉到33%燃油車，只花了5年😱",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUrduuGWMAAyAF3?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HUp-6WsWwAAV74y?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-10-16T06:08:22.169837+08:00",
+    "url": "https://x.com/elonmusk/status/2110745494045478968"
+  },
+  {
+    "id": "2110845777928925466",
+    "created_at": "2026-10-15T21:30:25.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T06:08:24.074900+08:00",
+    "url": "https://x.com/elonmusk/status/2110845777928925466"
+  },
+  {
+    "id": "2110707882748436831",
+    "created_at": "2026-10-15T12:22:28.000Z",
+    "original": "Never deleting this app.",
+    "translation": "打死都不刪這個 app。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUq9ohyWUAEj4_u?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-16T06:08:26.462136+08:00",
+    "url": "https://x.com/elonmusk/status/2110707882748436831"
+  },
+  {
+    "id": "2110846041385738464",
+    "created_at": "2026-10-15T21:31:28.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T06:08:28.201424+08:00",
+    "url": "https://x.com/elonmusk/status/2110846041385738464"
+  },
+  {
+    "id": "975103893209141249",
+    "created_at": "2018-03-17T20:17:39.000Z",
+    "original": " production.  What a ride... and it's only just begun!  Thanks for your extraordinary commitment to the relationship.  Planning a romantic dinner tonight to celebrate!",
+    "translation": "作品出來了。真是過癮啊...而且才剛開始呢！感謝你對這段合作關係的全力投入，今晚準備來場浪漫晚餐慶祝一下！",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/DYg_VZfVMAAiKZ7?format=jpg&name=small",
+      "https://pbs.twimg.com/media/DYhChRkU8AATIu9?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-16T06:08:34.208433+08:00",
+    "url": "https://x.com/elonmusk/status/975103893209141249"
+  },
+  {
+    "id": "2110849542048432394",
+    "created_at": "2026-10-15T21:45:23.000Z",
+    "original": "Cybercab will be a gamechanger",
+    "translation": "Cybercab 會是個 game changer",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T06:08:38.744243+08:00",
+    "url": "https://x.com/elonmusk/status/2110849542048432394"
+  },
+  {
+    "id": "2110739531406192739",
+    "created_at": "2026-10-15T14:28:14.000Z",
+    "original": "In September, China's combustion vehicle (ICE) sales dropped to just a third of the market for the first time\n\nBattery electric vehicles are getting close to half of the market (47.3%), while Plug-ins added another 19.7%.\n\nOnly 5 years from >90% to 33% ICE.",
+    "translation": "九月，中國內燃機車（ICE）銷量首次掉到只佔市場的三分之一\n\n純電動車已經快要砍半市場了（47.3%），插電混動再加19.7%\n\n才5年就從超過90%掉到33%內燃機車。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUrY3l8XsAA7urH?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HUp-6WsWwAAV74y?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-10-16T06:08:43.114297+08:00",
+    "url": "https://x.com/elonmusk/status/2110739531406192739"
+  },
+  {
+    "id": "2110852392304402860",
+    "created_at": "2026-10-15T21:56:42.000Z",
+    "original": "Rockstar Games posted its GTA 6 promo on YouTube and 𝕏. Just 90 minutes later:\n\n𝕏: 7.5 million views\nYouTube: 1.6 million views\n\nNearly 4.7 times as many reported views on 𝕏.",
+    "translation": "Rockstar Games 在 YouTube 和 X 上發布了 GTA 6 宣傳片。才 90 分鐘後：\n\nX：750 萬觀看\nYouTube：160 萬觀看\n\nX 上的觀看次數幾乎是 4.7 倍。\n\n這引發了一個問題：X 是否在為 Rockstar 的 GTA 6 宣傳片刷觀看次數？畢竟，考慮到 YouTube 在遊戲社群中的主導地位，這個差距實在太懸殊了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUrdK8CbMAEBKo1?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-16T06:08:48.401336+08:00",
+    "url": "https://x.com/elonmusk/status/2110852392304402860"
+  },
+  {
+    "id": "2110852716247519517",
+    "created_at": "2026-10-15T21:57:59.000Z",
+    "original": " find my number listed on sites and file the removals. I made it a free skill so you can do the same. ",
+    "translation": "找出電話號碼被哪些網站給收录了，然後一波移除申請送上去。我把這個做成了免費技能，這樣你也能這樣搞。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T06:08:53.204853+08:00",
+    "url": "https://x.com/elonmusk/status/2110852716247519517"
+  },
+  {
     "id": "2110784494076657699",
     "created_at": "2026-10-15T17:26:54.000Z",
     "original": "Elon Musk",
