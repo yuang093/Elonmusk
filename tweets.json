@@ -1,5 +1,63 @@
 [
   {
+    "id": "2110851417913086287",
+    "created_at": "2026-10-15T21:52:50.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T07:08:13.906822+08:00",
+    "url": "https://x.com/elonmusk/status/2110851417913086287"
+  },
+  {
+    "id": "2108662470906724856",
+    "created_at": "2026-10-09T20:54:44.000Z",
+    "original": "\n\nClaudia's soul now can be downloaded\n\nI aggregated all of the info on how to make A-tier slopcore:\n\n- an mcp server (e.g., for grok bot!)\n- an agent skill \n- a wiki\n- character sheets",
+    "translation": "Claudia的靈魂現在可以下載了\n\n我彙整了所有做A級爛core的方法：\n\n- 一個MCP server（例如給grok bot用的！）\n- 一個agent skill\n- 一個wiki\n- 角色卡",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUE7iBpaQAAQt1w?format=jpg&name=240x240"
+    ],
+    "fetched_at": "2026-10-16T07:08:21.382524+08:00",
+    "url": "https://x.com/elonmusk/status/2108662470906724856"
+  },
+  {
+    "id": "2110865910881820875",
+    "created_at": "2026-10-15T22:50:25.000Z",
+    "original": "i was about to pay for a small Codex subscription just for computer use..\n\nhonestly, I didn't expect Grok bot's computer use to be this fast... I've been more and more impressed with it every day lately.\n\nfor day to day stuff, nothing else I've used comes close right now...great",
+    "translation": "本來要訂一個小額 Codex 方案就只是為了用電腦功能..\n\n說真的沒想到 Grok bot 的電腦操作可以這麼快...最近真的是越用越驚豔\n\n日常使用來說，目前用過的真的沒有能打的...太猛了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T07:08:26.685108+08:00",
+    "url": "https://x.com/elonmusk/status/2110865910881820875"
+  },
+  {
+    "id": "2110866513955868924",
+    "created_at": "2026-10-15T22:52:49.000Z",
+    "original": "HOLY SH*T, JENSEN HUANG SAYS GROK BOT USAGE IS SKYROCKETING, AND ELON IS DOING SOMETHING ALMOST NOBODY ELSE DOES\n\nJENSEN HUANG SAYS GROK BOT USAGE IS SKYROCKETING, AND ELON IS DOING SOMETHING ALMOST NOBODY ELSE DOES\n\nnvidia's ceo, spent one minute on elon and grok bot.\n\nwhat he ",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-16T07:08:36.732311+08:00",
+    "url": "https://x.com/elonmusk/status/2110866513955868924"
+  },
+  {
     "id": "2110831633846956275",
     "created_at": "2026-10-15T20:34:13.000Z",
     "original": "We will catch up",
