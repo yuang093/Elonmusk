@@ -101,7 +101,7 @@
     "id": "2110768298916991173",
     "created_at": "2026-10-15T16:22:33.000Z",
     "original": "Tesla now runs half of America’s public DC fast chargers with over 40,000 ports, while the $7.5B federal NEVI program had opened just 384 by April 2025.\n\nOne company built the backbone of the national network with its own capital while the government spent billions and produced a",
-    "translation": "",
+    "translation": "特斯拉現在經營著全美一半的公共直流快充站，擁有超過40,000個充電端口，而750億美元的聯邦NEVI計劃到2025年4月僅開通了384個。一家公司用自有資本建立了全國網絡的主幹，而政府花了數十億美元卻只創造了一個",
     "metrics": {},
     "lang": "en",
     "pinned": false,
@@ -111,7 +111,8 @@
       "https://pbs.twimg.com/media/HUr0lE6XcAA7CJx?format=jpg&name=small"
     ],
     "fetched_at": "2026-10-16T14:08:42.279645+08:00",
-    "url": "https://x.com/elonmusk/status/2110768298916991173"
+    "url": "https://x.com/elonmusk/status/2110768298916991173",
+    "retried_at": "2026-10-16T17:07:18.338464+08:00"
   },
   {
     "id": "2110964776801034587",
