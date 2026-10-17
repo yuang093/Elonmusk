@@ -1,5 +1,33 @@
 [
   {
+    "id": "2111505936451788974",
+    "created_at": "2026-10-17T17:13:39.000Z",
+    "original": "It will not access anything unless asked specifically to do so",
+    "translation": "不會主動去動任何東西，除非你明確叫它去做",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T03:07:50.369679+08:00",
+    "url": "https://x.com/elonmusk/status/2111505936451788974"
+  },
+  {
+    "id": "2111239592435208613",
+    "created_at": "2026-10-16T23:35:18.000Z",
+    "original": "Elon, can we have a setting so that we can block Grok Bot from accessing certain DMs. I have DMs with some really important people on here that I need to make sure never get leaked. Otherwise I would connect it to help me manage my group chats.",
+    "translation": "Elon，能不能加個設定讓我們可以封鎖 Grok Bot 存取特定私訊啊？我這裡有些真的很重要的訊息，必須確保絕對不能外洩。不然我其實會想把它接進來幫我管理群組聊天的。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T03:07:56.719260+08:00",
+    "url": "https://x.com/elonmusk/status/2111239592435208613"
+  },
+  {
     "id": "2111493351627538477",
     "created_at": "2026-10-17T16:23:39.000Z",
     "original": "Elon Musk",
