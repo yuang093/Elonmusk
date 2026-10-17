@@ -1,5 +1,181 @@
 [
   {
+    "id": "2111493351627538477",
+    "created_at": "2026-10-17T16:23:39.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T02:08:53.673074+08:00",
+    "url": "https://x.com/elonmusk/status/2111493351627538477"
+  },
+  {
+    "id": "2111480418847559683",
+    "created_at": "2026-10-17T15:32:15.000Z",
+    "original": "Designed, engineered, and made in America",
+    "translation": "美國設計、美國工程、美國製造",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUzq91ZaAAAROoh?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-18T02:09:01.958220+08:00",
+    "url": "https://x.com/elonmusk/status/2111480418847559683"
+  },
+  {
+    "id": "2111504802895061076",
+    "created_at": "2026-10-17T17:09:09.000Z",
+    "original": " progress. \n\nMy role is providing engineering thoughts here and there, getting some permits unblocked and crazy merch ideas.",
+    "translation": "進度。\n\n我的工作就是到處提供工程建議、搞定一堆許可證、順便想一些瘋狂周邊點子。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T02:09:07.528586+08:00",
+    "url": "https://x.com/elonmusk/status/2111504802895061076"
+  },
+  {
+    "id": "2111488692472963443",
+    "created_at": "2026-10-17T16:05:08.000Z",
+    "original": "The Boring Company is building something far bigger than most people even realize\n\nWhile everyone is focused on Tesla and SpaceX, Elon Musk is also transforming underground transportation and industrial infrastructure, and the scale of what’s now happening is incredible\n\nThe",
+    "translation": "The Boring Company 正在打造的東西，遠比大多數人能想像的還要龐大\n\n當大家都在盯著 Tesla 跟 SpaceX 的時候，Elon Musk 同時也在顛覆地下交通和工業基礎建設，而現在正在發生的規模真的超狂的",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HU2DxNKbQAAQGPW?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-18T02:09:12.092514+08:00",
+    "url": "https://x.com/elonmusk/status/2111488692472963443"
+  },
+  {
+    "id": "2111505670696522017",
+    "created_at": "2026-10-17T17:12:36.000Z",
+    "original": "BREAKING: Southwest Airlines now has 47 aircraft equipped with Starlink, with its entire fleet expected to be connected by fall 2027.\n\nSouthwest’s Chief Customer and Brand Officer Tony Roach praised ",
+    "translation": "獨家：西南航空目前已有47架飛機配備Starlink，預計2027年秋季前全機隊都能連上網。\n\n西南航空客戶與品牌長Tony Roach對此表示讚賞",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HU1tdixakAA7l1j?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-18T02:09:16.216082+08:00",
+    "url": "https://x.com/elonmusk/status/2111505670696522017"
+  },
+  {
+    "id": "2111507158215057620",
+    "created_at": "2026-10-17T17:18:31.000Z",
+    "original": "Future fun Roadster demos will include flying over the Snake River or maybe Grand Canyon and landing on its wheels and exceeding half the speed of sound",
+    "translation": "未來Roadster炫酷的展示活動，會飛越蛇河或大峽谷，然後用輪子著地，速度還會超過一半音速",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T02:09:21.607915+08:00",
+    "url": "https://x.com/elonmusk/status/2111507158215057620"
+  },
+  {
+    "id": "2111507692045148515",
+    "created_at": "2026-10-17T17:20:38.000Z",
+    "original": "Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car",
+    "translation": "反正命運最愛搞反差這套，所以「Roadster」遲早變成飛天車根本是預定好的劇情啊",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T02:09:28.529094+08:00",
+    "url": "https://x.com/elonmusk/status/2111507692045148515"
+  },
+  {
+    "id": "2111238257543643544",
+    "created_at": "2026-10-16T23:30:00.000Z",
+    "original": "You are probably safer in San Salvador than Paris at this point \n\nCriminals cause crime. \n\nEl Salvador understands this. \n\nThe West has forgotten it.",
+    "translation": "你現在在聖薩爾瓦多可能比在巴黎還安全\n\n罪犯造成犯罪\n\n薩爾瓦多懂這點\n\n西方已經忘了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUygAY4awAECs-j?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-18T01:08:20.741156+08:00",
+    "url": "https://x.com/elonmusk/status/2111238257543643544"
+  },
+  {
+    "id": "2111493318060511257",
+    "created_at": "2026-10-17T16:23:31.000Z",
+    "original": "No roads in space",
+    "translation": "太空中沒有路啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T01:08:27.438204+08:00",
+    "url": "https://x.com/elonmusk/status/2111493318060511257"
+  },
+  {
+    "id": "2111463531870609589",
+    "created_at": "2026-10-17T14:25:09.000Z",
+    "original": "TESLA ROADSTER: DOWNFORCE\n\nFlying cars are real",
+    "translation": "TESLA ROADSTER：下壓力\n\n飛天車真的實現了",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T01:08:30.969479+08:00",
+    "url": "https://x.com/elonmusk/status/2111463531870609589"
+  },
+  {
+    "id": "2111503817779167590",
+    "created_at": "2026-10-17T17:05:14.000Z",
+    "original": "BS.  His politics are not dark and people who get inflamed are idiots. IMHO, the best way to describe his politics is common sense.  Elon single-handedly saved the first amendment in America and he started the process that is identifying at least 1/2 ",
+    "translation": "廢話。他的政治立場根本一點都不黑暗，會被激怒的都是白痴。個人認為，形容他政治最貼切的詞就是「common sense」。Elon單槍匹馬拯救了美國第一修正案，然後他開始了這個至少能揪出1/2的過程。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T01:08:35.953555+08:00",
+    "url": "https://x.com/elonmusk/status/2111503817779167590"
+  },
+  {
+    "id": "2111503973064573300",
+    "created_at": "2026-10-17T17:05:51.000Z",
+    "original": "Starlink is helping connect healthcare facilities in Papua New Guinea 🇵🇬\n\nFour health centres in Morobe Province have received Starlink kits, with three already installed, giving healthcare workers reliable internet for communication, medical research and patient care\n\nAnd this",
+    "translation": "Starlink 正在幫助巴布亞紐幾內亞的醫療機構連接網路 🇵🇬\n\n莫洛貝省的四個健康中心收到了 Starlink 套件，其中三個已經安裝好了，讓醫護人員能夠穩定上網進行通訊、醫學研究和病患照護\n\n而且這還只是開始",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T01:08:40.391690+08:00",
+    "url": "https://x.com/elonmusk/status/2111503973064573300"
+  },
+  {
     "id": "2110963869845959101",
     "created_at": "2026-10-16T05:19:41.000Z",
     "original": "Just remember.\n\nYou aren’t actually driving the Roadster at all.\n\nYou are driving a computer and it is telling another computer how to drive the car.\n\nIt is steer by wire. Brake by wire. Accelerate by wire.\n\nBut you will think it is better to drive than any other.\n\nIsn’t that a",
@@ -25,8 +201,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T20:08:53.622736+08:00",
-    "url": "https://x.com/elonmusk/status/2111423598414250233",
-    "retried_at": "2026-10-17T23:07:06.713052+08:00"
+    "url": "https://x.com/elonmusk/status/2111423598414250233"
   },
   {
     "id": "2111327635095834954",
@@ -166,8 +341,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T13:07:43.782225+08:00",
-    "url": "https://x.com/elonmusk/status/2111307709538824477",
-    "retried_at": "2026-10-17T23:07:06.638694+08:00"
+    "url": "https://x.com/elonmusk/status/2111307709538824477"
   },
   {
     "id": "2111282027232411859",
@@ -322,8 +496,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T12:07:52.096192+08:00",
-    "url": "https://x.com/elonmusk/status/2111272984388190389",
-    "retried_at": "2026-10-17T23:07:06.266952+08:00"
+    "url": "https://x.com/elonmusk/status/2111272984388190389"
   },
   {
     "id": "2111180797789241675",
@@ -456,8 +629,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T06:07:48.685021+08:00",
-    "url": "https://x.com/elonmusk/status/2111174273381613986",
-    "retried_at": "2026-10-17T23:07:07.872729+08:00"
+    "url": "https://x.com/elonmusk/status/2111174273381613986"
   },
   {
     "id": "2111106856643108887",
@@ -485,8 +657,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T06:07:54.008461+08:00",
-    "url": "https://x.com/elonmusk/status/2111214519686943027",
-    "retried_at": "2026-10-17T23:07:07.930387+08:00"
+    "url": "https://x.com/elonmusk/status/2111214519686943027"
   },
   {
     "id": "2111188577543471549",
@@ -502,8 +673,7 @@
       "https://pbs.twimg.com/media/HUxy0qZXwAAwigy?format=jpg&name=small"
     ],
     "fetched_at": "2026-10-17T06:07:55.873071+08:00",
-    "url": "https://x.com/elonmusk/status/2111188577543471549",
-    "retried_at": "2026-10-17T23:07:09.126533+08:00"
+    "url": "https://x.com/elonmusk/status/2111188577543471549"
   },
   {
     "id": "2111215192952406348",
@@ -517,8 +687,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T06:07:58.039213+08:00",
-    "url": "https://x.com/elonmusk/status/2111215192952406348",
-    "retried_at": "2026-10-17T23:07:10.054620+08:00"
+    "url": "https://x.com/elonmusk/status/2111215192952406348"
   },
   {
     "id": "2109314007899259255",
@@ -546,8 +715,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T03:08:13.805266+08:00",
-    "url": "https://x.com/elonmusk/status/2111157147396681747",
-    "retried_at": "2026-10-17T23:07:08.433377+08:00"
+    "url": "https://x.com/elonmusk/status/2111157147396681747"
   },
   {
     "id": "2111065470120157512",
@@ -577,8 +745,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T03:08:20.083208+08:00",
-    "url": "https://x.com/elonmusk/status/2111158161487036475",
-    "retried_at": "2026-10-17T23:07:10.489685+08:00"
+    "url": "https://x.com/elonmusk/status/2111158161487036475"
   },
   {
     "id": "2111129779319517215",
@@ -611,8 +778,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T03:08:27.098758+08:00",
-    "url": "https://x.com/elonmusk/status/2111158294890819766",
-    "retried_at": "2026-10-17T23:07:10.290119+08:00"
+    "url": "https://x.com/elonmusk/status/2111158294890819766"
   },
   {
     "id": "2111076237313507831",
@@ -670,8 +836,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T03:08:36.809231+08:00",
-    "url": "https://x.com/elonmusk/status/2111159231252685234",
-    "retried_at": "2026-10-17T23:07:10.497125+08:00"
+    "url": "https://x.com/elonmusk/status/2111159231252685234"
   },
   {
     "id": "2111157167399088292",
@@ -699,8 +864,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T03:08:42.525470+08:00",
-    "url": "https://x.com/elonmusk/status/2111160347176382541",
-    "retried_at": "2026-10-17T23:07:12.951217+08:00"
+    "url": "https://x.com/elonmusk/status/2111160347176382541"
   },
   {
     "id": "2110917400145330203",
@@ -756,8 +920,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T03:09:01.150076+08:00",
-    "url": "https://x.com/elonmusk/status/2111170192386757053",
-    "retried_at": "2026-10-17T23:07:12.914109+08:00"
+    "url": "https://x.com/elonmusk/status/2111170192386757053"
   },
   {
     "id": "2111170548038324695",
@@ -887,8 +1050,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T01:07:57.292437+08:00",
-    "url": "https://x.com/elonmusk/status/2111132338302460289",
-    "retried_at": "2026-10-17T23:07:12.861310+08:00"
+    "url": "https://x.com/elonmusk/status/2111132338302460289"
   },
   {
     "id": "2111084486155010105",
@@ -974,8 +1136,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T01:08:19.328279+08:00",
-    "url": "https://x.com/elonmusk/status/2111134958009864636",
-    "retried_at": "2026-10-17T23:07:13.366478+08:00"
+    "url": "https://x.com/elonmusk/status/2111134958009864636"
   },
   {
     "id": "2111112029075337669",
@@ -1003,8 +1164,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-17T01:08:26.699289+08:00",
-    "url": "https://x.com/elonmusk/status/2111135048485187840",
-    "retried_at": "2026-10-17T23:07:12.361490+08:00"
+    "url": "https://x.com/elonmusk/status/2111135048485187840"
   },
   {
     "id": "2111095823836786697",
@@ -1092,8 +1252,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T15:07:52.251293+08:00",
-    "url": "https://x.com/elonmusk/status/2110967695583875208",
-    "retried_at": "2026-10-17T23:07:12.731604+08:00"
+    "url": "https://x.com/elonmusk/status/2110967695583875208"
   },
   {
     "id": "2110925325362196890",
@@ -1121,8 +1280,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T15:08:07.886751+08:00",
-    "url": "https://x.com/elonmusk/status/2110967784612229613",
-    "retried_at": "2026-10-17T23:07:14.899845+08:00"
+    "url": "https://x.com/elonmusk/status/2110967784612229613"
   },
   {
     "id": "2110930265216340029",
@@ -1223,8 +1381,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T14:08:58.233415+08:00",
-    "url": "https://x.com/elonmusk/status/2110967114538357217",
-    "retried_at": "2026-10-17T23:07:15.994047+08:00"
+    "url": "https://x.com/elonmusk/status/2110967114538357217"
   },
   {
     "id": "2110925625188036612",
@@ -1254,8 +1411,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T13:07:51.027714+08:00",
-    "url": "https://x.com/elonmusk/status/2110939557151543342",
-    "retried_at": "2026-10-17T23:07:14.284422+08:00"
+    "url": "https://x.com/elonmusk/status/2110939557151543342"
   },
   {
     "id": "2110947164512038931",
@@ -1286,8 +1442,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T12:07:48.602048+08:00",
-    "url": "https://x.com/elonmusk/status/2110897480107794487",
-    "retried_at": "2026-10-17T23:07:16.930481+08:00"
+    "url": "https://x.com/elonmusk/status/2110897480107794487"
   },
   {
     "id": "2110892019103277516",
@@ -1315,8 +1470,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T12:07:57.977157+08:00",
-    "url": "https://x.com/elonmusk/status/2110913595252838695",
-    "retried_at": "2026-10-17T23:07:16.104102+08:00"
+    "url": "https://x.com/elonmusk/status/2110913595252838695"
   },
   {
     "id": "2110912461591413217",
@@ -1344,8 +1498,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T12:08:09.595746+08:00",
-    "url": "https://x.com/elonmusk/status/2110931448664572344",
-    "retried_at": "2026-10-17T23:07:15.469697+08:00"
+    "url": "https://x.com/elonmusk/status/2110931448664572344"
   },
   {
     "id": "2110923965946626373",
@@ -1401,8 +1554,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T12:08:37.075700+08:00",
-    "url": "https://x.com/elonmusk/status/2110939344009650427",
-    "retried_at": "2026-10-17T23:07:16.451279+08:00"
+    "url": "https://x.com/elonmusk/status/2110939344009650427"
   },
   {
     "id": "2110934548049731681",
@@ -1430,8 +1582,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T11:07:48.070665+08:00",
-    "url": "https://x.com/elonmusk/status/2110923689797808453",
-    "retried_at": "2026-10-17T23:07:17.209913+08:00"
+    "url": "https://x.com/elonmusk/status/2110923689797808453"
   },
   {
     "id": "2110895088138096988",
@@ -1516,8 +1667,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T08:08:38.839075+08:00",
-    "url": "https://x.com/elonmusk/status/2110863835267756542",
-    "retried_at": "2026-10-17T23:07:17.439639+08:00"
+    "url": "https://x.com/elonmusk/status/2110863835267756542"
   },
   {
     "id": "2110717689178067213",
@@ -1561,8 +1711,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T07:08:13.906822+08:00",
-    "url": "https://x.com/elonmusk/status/2110851417913086287",
-    "retried_at": "2026-10-17T23:07:19.318988+08:00"
+    "url": "https://x.com/elonmusk/status/2110851417913086287"
   },
   {
     "id": "2108662470906724856",
@@ -1652,8 +1801,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T06:08:24.074900+08:00",
-    "url": "https://x.com/elonmusk/status/2110845777928925466",
-    "retried_at": "2026-10-17T23:07:18.605577+08:00"
+    "url": "https://x.com/elonmusk/status/2110845777928925466"
   },
   {
     "id": "2110707882748436831",
@@ -1683,8 +1831,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T06:08:28.201424+08:00",
-    "url": "https://x.com/elonmusk/status/2110846041385738464",
-    "retried_at": "2026-10-17T23:07:19.684188+08:00"
+    "url": "https://x.com/elonmusk/status/2110846041385738464"
   },
   {
     "id": "975103893209141249",
@@ -1776,8 +1923,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T05:02:53.627455+08:00",
-    "url": "https://x.com/elonmusk/status/2110784494076657699",
-    "retried_at": "2026-10-17T23:07:21.564430+08:00"
+    "url": "https://x.com/elonmusk/status/2110784494076657699"
   },
   {
     "id": "2110778437065691511",
@@ -1805,8 +1951,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T05:03:04.497529+08:00",
-    "url": "https://x.com/elonmusk/status/2110787996848980191",
-    "retried_at": "2026-10-17T23:07:20.144631+08:00"
+    "url": "https://x.com/elonmusk/status/2110787996848980191"
   },
   {
     "id": "2110748224097222874",
@@ -1896,8 +2041,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-16T04:02:14.550666+08:00",
-    "url": "https://x.com/elonmusk/status/2110706336812155334",
-    "retried_at": "2026-10-17T23:07:18.755438+08:00"
+    "url": "https://x.com/elonmusk/status/2110706336812155334"
   },
   {
     "id": "2109726045553488131",
@@ -1981,8 +2125,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T21:07:51.297996+08:00",
-    "url": "https://x.com/elonmusk/status/2110618291399962816",
-    "retried_at": "2026-10-17T23:07:20.566903+08:00"
+    "url": "https://x.com/elonmusk/status/2110618291399962816"
   },
   {
     "id": "2110608118988062934",
@@ -2096,8 +2239,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T15:08:08.777703+08:00",
-    "url": "https://x.com/elonmusk/status/2110613300421542383",
-    "retried_at": "2026-10-17T23:07:20.297254+08:00"
+    "url": "https://x.com/elonmusk/status/2110613300421542383"
   },
   {
     "id": "2110619230161035670",
@@ -2287,8 +2429,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T11:08:09.405901+08:00",
-    "url": "https://x.com/elonmusk/status/2110549391211679822",
-    "retried_at": "2026-10-17T23:07:20.799127+08:00"
+    "url": "https://x.com/elonmusk/status/2110549391211679822"
   },
   {
     "id": "2110522801719247218",
@@ -2480,8 +2621,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T11:09:37.517539+08:00",
-    "url": "https://x.com/elonmusk/status/2110567340069003542",
-    "retried_at": "2026-10-17T23:07:25.523029+08:00"
+    "url": "https://x.com/elonmusk/status/2110567340069003542"
   },
   {
     "id": "2110523661606383648",
@@ -2553,8 +2693,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T10:08:04.774000+08:00",
-    "url": "https://x.com/elonmusk/status/2110544339701039179",
-    "retried_at": "2026-10-17T23:07:22.077995+08:00"
+    "url": "https://x.com/elonmusk/status/2110544339701039179"
   },
   {
     "id": "2110520640952234201",
@@ -2699,8 +2838,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T08:08:36.976754+08:00",
-    "url": "https://x.com/elonmusk/status/2110480720301081080",
-    "retried_at": "2026-10-17T23:07:22.518027+08:00"
+    "url": "https://x.com/elonmusk/status/2110480720301081080"
   },
   {
     "id": "2110391764100239591",
@@ -2728,8 +2866,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T08:08:49.371214+08:00",
-    "url": "https://x.com/elonmusk/status/2110516939873517989",
-    "retried_at": "2026-10-17T23:07:21.829997+08:00"
+    "url": "https://x.com/elonmusk/status/2110516939873517989"
   },
   {
     "id": "2110452989689581893",
@@ -2850,8 +2987,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T03:07:48.162013+08:00",
-    "url": "https://x.com/elonmusk/status/2110407463384318196",
-    "retried_at": "2026-10-17T23:07:22.520641+08:00"
+    "url": "https://x.com/elonmusk/status/2110407463384318196"
   },
   {
     "id": "2110121011672977838",
@@ -2911,8 +3047,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T01:08:27.386093+08:00",
-    "url": "https://x.com/elonmusk/status/2110402790958977065",
-    "retried_at": "2026-10-17T23:07:24.531609+08:00"
+    "url": "https://x.com/elonmusk/status/2110402790958977065"
   },
   {
     "id": "2110205472452018653",
@@ -2986,8 +3121,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T00:08:25.631605+08:00",
-    "url": "https://x.com/elonmusk/status/2110393133498528170",
-    "retried_at": "2026-10-17T23:07:23.645016+08:00"
+    "url": "https://x.com/elonmusk/status/2110393133498528170"
   },
   {
     "id": "2110391933055143946",
@@ -3015,8 +3149,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-15T00:08:32.622105+08:00",
-    "url": "https://x.com/elonmusk/status/2110393370262839718",
-    "retried_at": "2026-10-17T23:07:24.429170+08:00"
+    "url": "https://x.com/elonmusk/status/2110393370262839718"
   },
   {
     "id": "2110397029650477363",
@@ -3044,8 +3177,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T22:07:48.599401+08:00",
-    "url": "https://x.com/elonmusk/status/2110225499205390759",
-    "retried_at": "2026-10-17T23:07:24.677472+08:00"
+    "url": "https://x.com/elonmusk/status/2110225499205390759"
   },
   {
     "id": "2109966141011394804",
@@ -3073,8 +3205,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T22:07:57.706853+08:00",
-    "url": "https://x.com/elonmusk/status/2110364181996433785",
-    "retried_at": "2026-10-17T23:07:24.514924+08:00"
+    "url": "https://x.com/elonmusk/status/2110364181996433785"
   },
   {
     "id": "2110197681679192287",
@@ -3146,8 +3277,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T13:07:50.168004+08:00",
-    "url": "https://x.com/elonmusk/status/2110187662124749238",
-    "retried_at": "2026-10-17T23:07:25.540010+08:00"
+    "url": "https://x.com/elonmusk/status/2110187662124749238"
   },
   {
     "id": "2110157557377466565",
@@ -3180,8 +3310,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T13:07:58.346055+08:00",
-    "url": "https://x.com/elonmusk/status/2110220345420771699",
-    "retried_at": "2026-10-17T23:07:26.318728+08:00"
+    "url": "https://x.com/elonmusk/status/2110220345420771699"
   },
   {
     "id": "2110131847586001115",
@@ -3209,8 +3338,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T13:08:06.571152+08:00",
-    "url": "https://x.com/elonmusk/status/2110220573418885246",
-    "retried_at": "2026-10-17T23:07:26.042419+08:00"
+    "url": "https://x.com/elonmusk/status/2110220573418885246"
   },
   {
     "id": "2109942459488960713",
@@ -3268,8 +3396,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T13:08:32.573878+08:00",
-    "url": "https://x.com/elonmusk/status/2110221961997713444",
-    "retried_at": "2026-10-17T23:07:26.197108+08:00"
+    "url": "https://x.com/elonmusk/status/2110221961997713444"
   },
   {
     "id": "2109988524565090378",
@@ -3345,8 +3472,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T08:08:35.207038+08:00",
-    "url": "https://x.com/elonmusk/status/2110154589278503175",
-    "retried_at": "2026-10-17T23:07:26.551466+08:00"
+    "url": "https://x.com/elonmusk/status/2110154589278503175"
   },
   {
     "id": "2110128893680378299",
@@ -3512,8 +3638,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T06:08:50.787927+08:00",
-    "url": "https://x.com/elonmusk/status/2110123414476493004",
-    "retried_at": "2026-10-17T23:07:27.276452+08:00"
+    "url": "https://x.com/elonmusk/status/2110123414476493004"
   },
   {
     "id": "2110039872472010775",
@@ -3597,8 +3722,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-14T06:09:19.624294+08:00",
-    "url": "https://x.com/elonmusk/status/2110125596424516006",
-    "retried_at": "2026-10-17T23:07:27.722327+08:00"
+    "url": "https://x.com/elonmusk/status/2110125596424516006"
   },
   {
     "id": "2110120886254596174",
@@ -3843,8 +3967,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T20:08:05.223450+08:00",
-    "url": "https://x.com/elonmusk/status/2109954931721650623",
-    "retried_at": "2026-10-17T23:07:27.678960+08:00"
+    "url": "https://x.com/elonmusk/status/2109954931721650623"
   },
   {
     "id": "2109944469579530627",
@@ -3872,8 +3995,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T20:08:14.931135+08:00",
-    "url": "https://x.com/elonmusk/status/2109969797312356746",
-    "retried_at": "2026-10-17T23:07:28.184169+08:00"
+    "url": "https://x.com/elonmusk/status/2109969797312356746"
   },
   {
     "id": "2109939558376767635",
@@ -3901,8 +4023,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T19:07:49.897383+08:00",
-    "url": "https://x.com/elonmusk/status/2109860799347085804",
-    "retried_at": "2026-10-17T23:07:29.110723+08:00"
+    "url": "https://x.com/elonmusk/status/2109860799347085804"
   },
   {
     "id": "2109839536117465540",
@@ -3930,8 +4051,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T19:08:02.123593+08:00",
-    "url": "https://x.com/elonmusk/status/2109867408236351855",
-    "retried_at": "2026-10-17T23:07:28.256999+08:00"
+    "url": "https://x.com/elonmusk/status/2109867408236351855"
   },
   {
     "id": "2109955246923641259",
@@ -4033,8 +4153,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T10:08:17.081271+08:00",
-    "url": "https://x.com/elonmusk/status/2109793718362390945",
-    "retried_at": "2026-10-17T23:07:28.953621+08:00"
+    "url": "https://x.com/elonmusk/status/2109793718362390945"
   },
   {
     "id": "2109733498114417013",
@@ -4295,8 +4414,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T01:09:13.177976+08:00",
-    "url": "https://x.com/elonmusk/status/2109688396520276469",
-    "retried_at": "2026-10-17T23:07:30.967018+08:00"
+    "url": "https://x.com/elonmusk/status/2109688396520276469"
   },
   {
     "id": "2109670682598739998",
@@ -4324,8 +4442,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-13T01:09:21.184988+08:00",
-    "url": "https://x.com/elonmusk/status/2109688880853119009",
-    "retried_at": "2026-10-17T23:07:29.420912+08:00"
+    "url": "https://x.com/elonmusk/status/2109688880853119009"
   },
   {
     "id": "2109647443675508977",
@@ -4727,8 +4844,7 @@
     "is_quote": false,
     "images": [],
     "fetched_at": "2026-10-12T11:08:48.463121+08:00",
-    "url": "https://x.com/elonmusk/status/2109469889236804058",
-    "retried_at": "2026-10-17T23:07:30.221852+08:00"
+    "url": "https://x.com/elonmusk/status/2109469889236804058"
   },
   {
     "id": "2109453251934290303",
