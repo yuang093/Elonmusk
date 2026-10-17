@@ -1,5 +1,50 @@
 [
   {
+    "id": "2111553152306794858",
+    "created_at": "2026-10-17T20:21:16.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T05:08:51.630859+08:00",
+    "url": "https://x.com/elonmusk/status/2111553152306794858"
+  },
+  {
+    "id": "2111423052936257834",
+    "created_at": "2026-10-17T11:44:18.000Z",
+    "original": "It is an astonishing fact that half of all births in several Canadian provinces are to mothers not born in Canada. Immigration is 4-7 times native births.\n\nCanada is witnessing one of the fastest demographic transformation in history and will soon be less European than Mexico.",
+    "translation": "真的很扯欸，加拿大好幾個省份的新生兒有一半的媽媽根本不是加拿大出生的。移民的出生人數是本地人的 4 到 7 倍。\n\n加拿大正在經歷歷史上最快的人口結構大轉型，而且很快就會變得比墨西哥還要不「歐洲」了。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HU1IDcrWQAAB86n?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HDYGAC_X0AAy03f?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-18T05:08:58.534544+08:00",
+    "url": "https://x.com/elonmusk/status/2111423052936257834"
+  },
+  {
+    "id": "2111551063870570853",
+    "created_at": "2026-10-17T20:12:59.000Z",
+    "original": "To be demoralized is to have your sense of reality so inverted that you fail to recognize you are in a state of war, mistake those attacking you for victims, and willingly assist them in undermining your own society while believing you are doing something good.",
+    "translation": "被 demoralized 就是：你的現實感整個顛倒過來，明明自己正在打仗卻看不出來，把那些攻擊你的人當成受害者，還心甘情願幫他們搞垮自己的社會，同時還覺得自己是在做善事。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T05:09:03.097147+08:00",
+    "url": "https://x.com/elonmusk/status/2111551063870570853"
+  },
+  {
     "id": "2111534333404049717",
     "created_at": "2026-10-17T19:06:30.000Z",
     "original": "Elon Musk",
