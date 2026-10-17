@@ -1,5 +1,96 @@
 [
   {
+    "id": "2111534333404049717",
+    "created_at": "2026-10-17T19:06:30.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T04:08:15.838602+08:00",
+    "url": "https://x.com/elonmusk/status/2111534333404049717"
+  },
+  {
+    "id": "2110829904501567698",
+    "created_at": "2026-10-15T20:27:21.000Z",
+    "original": "Jesus. This new SDNY indictment charges a 19-year-old man with plying two college girls with fentanyl, then raping one of them who wound up dying.\n\nCurrently unclear on which Manhattan college campus this happened.",
+    "translation": "天哪。SDNY 這份新起訴書指控一名 19 歲男子給兩名大學女生灌了芬太尼，然後性侵了其中一人，對方後來死了。\n\n目前還不清楚這是發生在曼哈頓哪個大學校園。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HUsrXLcXoAAXmu5?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HUsrXLaX0AAdn3u?format=jpg&name=small",
+      "https://pbs.twimg.com/media/HUsrXLoWIAAm9ra?format=jpg&name=medium"
+    ],
+    "fetched_at": "2026-10-18T04:08:20.494061+08:00",
+    "url": "https://x.com/elonmusk/status/2110829904501567698"
+  },
+  {
+    "id": "2111535037695046068",
+    "created_at": "2026-10-17T19:09:18.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T04:08:21.727240+08:00",
+    "url": "https://x.com/elonmusk/status/2111535037695046068"
+  },
+  {
+    "id": "2111218929930489929",
+    "created_at": "2026-10-16T22:13:12.000Z",
+    "original": "Men spend their entire youth and adolescence learning to harness the awesome power of testosterone.\n\nYou can’t pump a delusional nutjob full of testosterone and then act surprised when your newly trooned-out and already-crazy Frankstein’s monster goes insane because she’s",
+    "translation": "男人花了他們整個青年和青春期在學習駕馭睪固酮那股驚人的力量。你不能把一個妄想症患者灌滿睪固酮，然後又對她那個剛做完變性手術、已經夠瘋狂的科學怪人因為完全無法承受這種荷爾蒙的衝擊而發瘋感到意外。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T04:08:25.173198+08:00",
+    "url": "https://x.com/elonmusk/status/2111218929930489929",
+    "retried_at": "2026-10-18T05:02:51+08:00"
+  },
+  {
+    "id": "2111535836395180413",
+    "created_at": "2026-10-17T19:12:28.000Z",
+    "original": "Extremely disturbing",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-18T04:08:28.817457+08:00",
+    "url": "https://x.com/elonmusk/status/2111535836395180413"
+  },
+  {
+    "id": "2111409108381323604",
+    "created_at": "2026-10-17T10:48:54.000Z",
+    "original": "At voksne mennesker, og i dette tilfellet en \"journalist\", omtaler muslimer generelt som tilhørende en \"voldtektskultur\" er ikke normalt. Det er ikke overraskende fra anonyme søppelprofiler på X, men i den vanlige verden er det  ikke normalt.",
+    "translation": "成年人——在這種情況下還是個「記者」——將穆斯林總體稱為屬於「強姦文化」的一員，這不正常。從X上那些匿名垃圾帳號說出這種話不意外，但在正常世界裡，這不正常。",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HU07ZBjWMAAmwza?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-18T04:08:34.208870+08:00",
+    "url": "https://x.com/elonmusk/status/2111409108381323604"
+  },
+  {
     "id": "2111505936451788974",
     "created_at": "2026-10-17T17:13:39.000Z",
     "original": "It will not access anything unless asked specifically to do so",
