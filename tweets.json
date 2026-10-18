@@ -1,5 +1,77 @@
 [
   {
+    "id": "2111930742615802163",
+    "created_at": "2026-10-18T21:21:41.000Z",
+    "original": "What it’s like trying to rent AI/SI compute",
+    "translation": "租用 AI/SI 算力的日常崩潰 😩",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T06:07:49.635191+08:00",
+    "url": "https://x.com/elonmusk/status/2111930742615802163"
+  },
+  {
+    "id": "2111900345639326195",
+    "created_at": "2026-10-18T19:20:54.000Z",
+    "original": "Working on it",
+    "translation": "正在搞呢",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T05:08:27.297633+08:00",
+    "url": "https://x.com/elonmusk/status/2111900345639326195"
+  },
+  {
+    "id": "2111833052351696937",
+    "created_at": "2026-10-18T14:53:30.000Z",
+    "original": " who's fighting this now? Maybe it's worth reactivating ",
+    "translation": "誰在搞這個啊？或許值得重新啟動一下？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T05:08:29.799925+08:00",
+    "url": "https://x.com/elonmusk/status/2111833052351696937"
+  },
+  {
+    "id": "2111903171119321351",
+    "created_at": "2026-10-18T19:32:07.000Z",
+    "original": "Elon Musk",
+    "translation": "伊隆·馬斯克",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T05:08:35.057767+08:00",
+    "url": "https://x.com/elonmusk/status/2111903171119321351"
+  },
+  {
+    "id": "2111914748648296655",
+    "created_at": "2026-10-18T20:18:08.000Z",
+    "original": " is like hiring an incredibly competent employee",
+    "translation": "就像請了一個超級能幹的員工",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HU7vW_BWYAA2dR_?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-19T05:08:38.278656+08:00",
+    "url": "https://x.com/elonmusk/status/2111914748648296655"
+  },
+  {
     "id": "2111865900680778194",
     "created_at": "2026-10-18T17:04:01.000Z",
     "original": "Elon Musk",
