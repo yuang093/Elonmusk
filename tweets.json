@@ -1,5 +1,63 @@
 [
   {
+    "id": "2111865900680778194",
+    "created_at": "2026-10-18T17:04:01.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T04:07:49.113334+08:00",
+    "url": "https://x.com/elonmusk/status/2111865900680778194"
+  },
+  {
+    "id": "2111844823598817650",
+    "created_at": "2026-10-18T15:40:16.000Z",
+    "original": "Made with Grok Imagine",
+    "translation": "用 Grok Imagine 做的啦",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [
+      "https://pbs.twimg.com/media/HU7HqwAW0AATMjQ?format=jpg&name=small"
+    ],
+    "fetched_at": "2026-10-19T04:07:52.691777+08:00",
+    "url": "https://x.com/elonmusk/status/2111844823598817650"
+  },
+  {
+    "id": "2111899914556817745",
+    "created_at": "2026-10-18T19:19:11.000Z",
+    "original": "Elon Musk",
+    "translation": "",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T04:07:54.176662+08:00",
+    "url": "https://x.com/elonmusk/status/2111899914556817745"
+  },
+  {
+    "id": "2111792640358301935",
+    "created_at": "2026-10-18T12:12:55.000Z",
+    "original": "The spells were already spent back in 2024, but there are still little fringe pockets on X hoping they can conjure another magic cancelation. \n\nMaybe if they chant \"racist\" or \"fascist\" a little louder than last time, the good old days of 2020 will return?",
+    "translation": "這些法術早在2024年就已經用光了啦，但X上面還是有些小圈圈在那边痴心妄想，希望能再施展一次魔法級的取消魔法。\n\n也許他們只要比上次更大聲地嘴「種族歧視」「法西斯」，2020年的美好時光就會回來喔？",
+    "metrics": {},
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": true,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-19T04:07:58.563369+08:00",
+    "url": "https://x.com/elonmusk/status/2111792640358301935"
+  },
+  {
     "id": "2111867437238853726",
     "created_at": "2026-10-18T17:10:08.000Z",
     "original": "“HUNNY MY GROK BOT CALLED OUR FAVORITE ITALIAN RESTAURANT AND MADE US RESERVATIONS”\n\nI built a Grok Bot whose only job is to pick up the phone and book you a table at restaurant. Literally make the call in a beautiful Grok voice. It is absolutely amazing! And it’s free.\n\nTry it:",
