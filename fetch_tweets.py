@@ -236,6 +236,72 @@ def translate_to_chinese(text):
     return result
 
 
+# ── Cycle 1186 candidate/acceptance guards ─────────────────────────────────
+# A record is TRANSLATABLE only if its original carries prose. A bare byline
+# ("Elon Musk") and a link-only source ("/handle/status/123") are the two
+# canonical non-translatable shapes; their correct state is the EMPTY string,
+# which is why the retry pass must skip them rather than "fill" them.
+_BARE_BYLINE = {"elon musk", "elon", ""}
+
+
+def _has_translatable_content(original):
+    """True only when the original contains prose worth translating."""
+    o = (original or "").strip()
+    if not o:
+        return False
+    if o.lower() in _BARE_BYLINE:
+        return False                      # bare-byline retweet
+    if o.startswith("http"):              # link-only source
+        return False
+    if o.startswith("/") and "/" in o[1:]:
+        tail = o.rsplit("/", 1)[-1]
+        if tail[:1].isdigit() or tail.isdigit():
+            return False                  # "/handle/status/<id>"
+    # Needs at least one token that is PROSE: not a URL, not a bare @handle,
+    # not a path fragment. ("@elonmusk" alone is a handle, not prose.)
+    for tok in re.split(r"\s+", o):
+        tok = tok.strip().strip(".,:;!?")
+        if not tok or tok.startswith("@"):
+            continue
+        if tok.startswith("http") or "/" in tok:
+            continue
+        if len(tok) >= 2:
+            return True
+    return False
+
+
+_REFUSAL_PREFIXES = ("很抱歉，我無法翻譯", "很抱歉，我無法協助翻譯",
+                     "很抱歉，我無法", "I'm sorry, I can't", "I cannot translate")
+
+
+def _translation_acceptable(original, result):
+    """Per-record acceptance gate. Returns (ok, reason).
+
+    Mirrors the house gates so a regression cannot be written in the first
+    place: non-empty, prose-shaped (not an echo), not a refusal, not a byline,
+    and Traditional (using the durable self-validating table when importable).
+    """
+    r = (result or "").strip()
+    o = (original or "").strip()
+    if not r:
+        return False, "empty"
+    if r.lower() in _BARE_BYLINE and o.lower() in _BARE_BYLINE:
+        return False, "byline-copy"
+    if r.startswith(_REFUSAL_PREFIXES):
+        return False, "llm-refusal"
+    if r.lower() == o.lower():
+        return False, "echo-of-original"
+    # Traditional check — best effort; never blocks on import failure.
+    try:
+        from s2t_map import DIFF as _S2T   # dict form, asserted s != t
+        bad = sorted({c for c in r if c in _S2T})
+        if bad:
+            return False, "simplified:%s" % "".join(bad[:8])
+    except Exception:
+        pass
+    return True, "ok"
+
+
 def retry_empty_translations(tweets, dry_run=False, max_workers=6):
     """3-hourly retry pass: revisit tweets whose translation is empty string.
 
@@ -251,12 +317,21 @@ def retry_empty_translations(tweets, dry_run=False, max_workers=6):
     """
     from concurrent.futures import ThreadPoolExecutor, as_completed
 
-    candidates = [
+    _raw = [
         t for t in tweets
         if t.get("translation", "") == "" and t.get("original", "").strip() != ""
     ]
+    # Cycle 1186: a bare byline / link-only source has nothing to translate.
+    # Left unfiltered, a HEALTHY API returns "Elon Musk" for "Elon Musk",
+    # which is non-empty and would be written under the 繁中翻譯 label.
+    candidates = [t for t in _raw if _has_translatable_content(t.get("original"))]
+    _skipped = len(_raw) - len(candidates)
+    if _skipped:
+        print(f"  ⛔ retry_empty_translations: SKIPPED {_skipped} non-translatable "
+              f"(bare-byline / link-only) — correct state is the empty string "
+              f"[cycle 1186 guard]")
     if not candidates:
-        print("  ✅ retry_empty_translations: no empty translations to retry")
+        print("  ✅ retry_empty_translations: no translatable empty translations to retry")
         return 0
 
     print(f"  🔁 retry_empty_translations: {len(candidates)} empty translations to retry "
@@ -274,21 +349,26 @@ def retry_empty_translations(tweets, dry_run=False, max_workers=6):
 
     fixed = 0
     failed = 0
+    rejected = 0
+    reasons = {}
     with ThreadPoolExecutor(max_workers=max_workers) as pool:
         futures = [pool.submit(_retry_one, t) for t in candidates]
         for fut in as_completed(futures):
             t, result = fut.result()
-            if result is not None and result.strip() != "":
+            ok, reason = _translation_acceptable(t.get("original"), result)
+            if ok:
                 if not dry_run:
-                    t["translation"] = result
+                    t["translation"] = result.strip()
                     t["retried_at"] = datetime.now().astimezone().isoformat()
                 fixed += 1
                 print(f"    ✅ {t['id']}: {result[:80]}")
             else:
-                failed += 1
-                print(f"    ❌ {t['id']}: still empty after retry")
+                rejected += 1
+                reasons[reason] = reasons.get(reason, 0) + 1
+                print(f"    ❌ {t['id']}: REJECTED by acceptance gate ({reason})")
 
-    print(f"  📊 retry_empty_translations: {fixed} fixed, {failed} still empty")
+    print(f"  📊 retry_empty_translations: {fixed} fixed, {failed} still empty, "
+          f"{rejected} rejected by acceptance gate {reasons}")
     return fixed
 
 # ── Telegram ────────────────────────────────────────────────────────────────
