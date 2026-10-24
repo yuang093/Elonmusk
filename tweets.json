@@ -1,5 +1,43 @@
 [
   {
+    "id": "2113796183688982771",
+    "created_at": "2026-10-24T00:54:17.000Z",
+    "original": "Grok @Bot saves sensitive info in a vault\n\nGrok Bot can now save your logins, cards, and contact information.\n\nAdd them once, and Bot securely remembers them for the future.",
+    "translation": "Grok @Bot 將敏感資訊保存在保險庫中\n\nGrok 機器人現在可以儲存你的登入資訊、卡片和聯絡資料。\n\n只要輸入一次，機器人就能安全地記住這些資訊，供日後使用。",
+    "metrics": {
+      "like_count": 796,
+      "retweet_count": 120,
+      "reply_count": 227,
+      "view_count": 295982
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-24T09:18:52.203612+08:00",
+    "url": "https://x.com/elonmusk/status/2113796183688982771"
+  },
+  {
+    "id": "2113796285207552407",
+    "created_at": "2026-10-24T00:54:41.000Z",
+    "original": "Yes\n\nELON MUSK: The best way to counter the legacy media's propaganda is by sending people links to videos and information on the 𝕏 platform.",
+    "translation": "是\n\nElon Musk：要反制傳統媒體的宣傳，最有效的方法就是把影片和資訊的連結透過 X 平台傳給大家。",
+    "metrics": {
+      "like_count": 1593,
+      "retweet_count": 282,
+      "reply_count": 286,
+      "view_count": 343201
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-24T09:18:52.203612+08:00",
+    "url": "https://x.com/elonmusk/status/2113796285207552407"
+  },
+  {
     "id": "2112931457786081428",
     "created_at": "2026-10-21T15:38:10.000Z",
     "original": "Some fools still think the legacy news is real. Amazing.",
