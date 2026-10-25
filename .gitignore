@@ -15,6 +15,11 @@ fetch.log
 # Backup artifacts
 tweets.json.before
 
+# pending commit-message corrections (carried into the NEXT cycle's commit;
+# a pushed commit is never amended -- see Reminder 37 / the corrections
+# mechanism in the commit script)
+.pending_corrections.json
+
 # Python
 __pycache__/
 *.py[cod]
