@@ -1,5 +1,45 @@
 [
   {
+    "id": "2114242922006897145",
+    "created_at": "2026-10-25T06:29:27.000Z",
+    "original": "Cool\n\nEveryone said \"Hey Grok\" was impossible on iPhone. Even Grok said Apple keeps wake words for Siri only. So I kept digging, and I found a way. Now I just say \"Hey Grok\" and Grok Bot voice chat opens. No extra apps, no cost, all built into iOS.\n\nHow to set it up:\n\n1. Make sure your Grok Bot app is up to date\n\n2. Shortcuts app → + → Add Action → search \"Grok Bot\" → pick \"Start Voice Chat with Bot\"\n\n3. Settings → Accessibility → Vocal Shortcuts → Set Up → pick that shortcut → type \"Hey Grok\" and say it 3 times\n\n4. In the shortcut's details, turn on \"Allow Running When Locked\"\n\nIf your phone is locked, iOS asks for one tap first. If Face ID already unlocked it, it's fully hands-free.",
+    "translation": "酷\n\n大家都說 iPhone 上不可能用「Hey Grok」，就連 Grok 自己也說，Apple 的喚醒語只留給 Siri。所以我不斷研究，最後真的找到方法了。現在只要說「Hey Grok」，就會開啟 Grok Bot 語音聊天。不需要額外 App，也不用花錢，全都內建在 iOS 裡。\n\n設定方式：\n\n1. 確認你的 Grok Bot App 是最新版\n\n2. 捷徑 App → ＋ → 新增動作 → 搜尋「Grok Bot」→ 選擇「Start Voice Chat with Bot」\n\n3. 設定 → 輔助使用 → 語音捷徑 → 設定 → 選擇該捷徑 → 輸入「Hey Grok」，然後說 3 次\n\n4. 在捷徑詳細資料中，開啟「允許在鎖定時執行」\n\n如果手機處於鎖定狀態，iOS 會先要求你點一下。不過如果 Face ID 已經自動解鎖，就能完全免手操作。",
+    "metrics": {
+      "like_count": 7318,
+      "retweet_count": 709,
+      "reply_count": 675,
+      "view_count": 1147828
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2114217001547620352/img/-MHtuUnqdyqi72S_.jpg"
+    ],
+    "fetched_at": "2026-10-25T21:12:04.167019+08:00",
+    "url": "https://x.com/elonmusk/status/2114242922006897145"
+  },
+  {
+    "id": "2114243303994486876",
+    "created_at": "2026-10-25T06:30:59.000Z",
+    "original": "Try @Starlink for awesome Internet everywhere!\n\n@GuntherEagleman @grok I just set up @Starlink in 15 minutes. Literally laid it in my backyard. Saying goodbye to the scrappy Spectrum service feels so good!",
+    "translation": "試試 @Starlink，隨處都能享有超棒的網路！\n\n@GuntherEagleman @grok 我只花了 15 分鐘就設定好 @Starlink。真的就是把設備放在後院而已。跟鳥爛的 Spectrum 服務說再見，感覺太爽了！",
+    "metrics": {
+      "like_count": 9715,
+      "retweet_count": 850,
+      "reply_count": 2073,
+      "view_count": 6581563
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-25T21:12:04.167019+08:00",
+    "url": "https://x.com/elonmusk/status/2114243303994486876"
+  },
+  {
     "id": "2114235125496250766",
     "created_at": "2026-10-25T05:58:29.000Z",
     "original": "True\n\nJames Talarico says he is a moderate.\n\nIt is easy to find out if that is true.\n\nTalarico voted on 9,612 bills during his six years in the Texas House of Representatives.\n\nThat record shows what Talarico believes.\n\nIt shows that Talarico is a bald-faced liar and extremist.",
