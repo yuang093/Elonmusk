@@ -1,5 +1,46 @@
 [
   {
+    "id": "2114507338249875500",
+    "created_at": "2026-10-26T00:00:09.000Z",
+    "original": "True\n\nIf Democrats get power, they will:\n\n1. Lawfare Trump officials;\n2. Pack SCOTUS;\n3. Go after Elon, SpaceX, and Tesla--then billionaires, then millionaires;\n4. Crush free speech;\n5. Make voter ID illegal;\n6. Flood the country with illegals.\n\nIt sounds insane. It *is* insane.",
+    "translation": "沒錯\n\n如果民主黨掌權，他們會：\n\n1. 用法律手段纏鬥川普的官員；\n2. 擴充最高法院（SCOTUS）；\n3. 對 Elon、SpaceX 和 Tesla 開刀——先搞億萬富豪，再搞百萬富翁；\n4. 扼殺言論自由；\n5. 把選民 ID 變成非法用品；\n6. 讓非法移民淹沒整個國家。\n\n聽起來像瘋了話。  \n它*就是*瘋了。",
+    "metrics": {
+      "like_count": 15210,
+      "retweet_count": 1934,
+      "reply_count": 1599,
+      "view_count": 1457009
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-26T11:08:25.841913+08:00",
+    "url": "https://x.com/elonmusk/status/2114507338249875500"
+  },
+  {
+    "id": "2114513919566033266",
+    "created_at": "2026-10-26T00:26:18.000Z",
+    "original": "Starship Flight 15 static fire\n\nFull duration 33-engine static fire for the Super Heavy booster preparing for Flight 15",
+    "translation": "星艦第 15 次飛行靜態點火\n\n超重型助推器為第 15 次飛行進行全時長 33 引擎靜態點火測試 🚀",
+    "metrics": {
+      "like_count": 9581,
+      "retweet_count": 961,
+      "reply_count": 1027,
+      "view_count": 999581
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2114442950600015872/img/ZlS2P1zA1XoYpvu9.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2114442993151229953/img/u9-AQorDCh3sesXn.jpg"
+    ],
+    "fetched_at": "2026-10-26T11:08:25.841913+08:00",
+    "url": "https://x.com/elonmusk/status/2114513919566033266"
+  },
+  {
     "id": "2114365361068138990",
     "created_at": "2026-10-25T14:35:59.000Z",
     "original": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!\n\nGrok Bot 0.77 looks INSANE 🔥\n\n> Calls: your Bot can dial someone, sit on hold, press keys and get transferred while you watch a live transcript\n\n> Messages on Mac: a setup screen under Connect Apps, still switched off\n\n> Tailscale: Grok Bot can join your private tailnet once an admin approves it\n\n> Payments: a screen to connect payment accounts and pick a default, on top of yesterday’s Vault\n\n> Sharing: emails when someone shares a Bot with you, and invites need Premium or Ultra",
