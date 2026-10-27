@@ -1,5 +1,45 @@
 [
   {
+    "id": "2114936152205697247",
+    "created_at": "2026-10-27T04:24:06.000Z",
+    "original": "A Storm of Cybercabs\n\nCybercab and Yap",
+    "translation": "一場 Cybercab 風暴\n\nCybercab 與 Yap",
+    "metrics": {
+      "like_count": 2896,
+      "retweet_count": 357,
+      "reply_count": 502,
+      "view_count": 557985
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVkZL1GaUAAddob.jpg"
+    ],
+    "fetched_at": "2026-10-27T13:26:15.318956+08:00",
+    "url": "https://x.com/elonmusk/status/2114936152205697247"
+  },
+  {
+    "id": "2114944426271441127",
+    "created_at": "2026-10-27T04:56:59.000Z",
+    "original": "Cute 🥰\n\nI was the opening act for a family of ducks.\n\nThank you, Berlin. What a GTC.\n\nEurope is building its AI ecosystem and economy, from AI factories to agents to robots.\n\nDSX POD: Vera Rubin modular factories built, cabled and tested in the factory, then delivered ready to produce intelligence.\n\nAgents: models, harnesses, sandboxes, knowledge and tools. NVIDIA Agent Toolkit brings the pieces together so companies control what their agents know, access and do.  NVIDIA OpenShell enhances safety.\n\nPhysical AI: new customers across AI-RAN, robotaxis and robotics.\n\nPersonal AI: after four years building with Microsoft, RTX Spark brings personal agents to the Windows PC.\n\nThank you to President @EmmanuelMacron, Prime Minister @andyburnham and Chancellor @bundeskanzler for hosting me. Great to celebrate Sferical One with Sweden’s technology leaders. And thank you to President @TokayevKZ for the warm welcome.\n\nAnd to our partners and NVIDIA teams: thank you for making it happen.\n\nThe keynote is here: https://youtu.be/rF1EsryCAwc",
+    "translation": "太可愛了 🥰\n\n我曾經是鴨子一家的暖場嘉賓。\n\n謝謝你，柏林。這趟 GTC 真的精彩極了。\n\n歐洲正在打造自己的 AI 生態系與經濟體系，從 AI 工廠、AI 代理到機器人，各方面都在快速推進。\n\nDSX POD：Vera Rubin 模組化工廠在廠內完成組建、佈線與測試，之後直接交付，開箱即可用來創造智慧。\n\nAI 代理：模型、執行框架、沙盒、知識與工具。NVIDIA Agent Toolkit 把這些環整合起來，讓企業能掌控 AI 代理知道什麼、能存取什麼，以及能做什麼。NVIDIA OpenShell 進一步提升安全性。\n\n實體 AI：AI-RAN、Robotaxi 與機器人領域迎來全新客戶。\n\n個人 AI：與 Microsoft 合作打造四年後，RTX Spark 終於把個人 AI 代理帶到 Windows PC。\n\n感謝 President @EmmanuelMacron、Prime Minister @andyburnham 和 Chancellor @bundeskanzler 的款待。很高興能與瑞典的科技領袖一起慶祝 Sferical One。也感謝 President @TokayevKZ 的熱烈歡迎。\n\n也感謝我們的合作夥伴與 NVIDIA 團隊，是你們讓這一切成真。\n\n主題演講在這裡：https://youtu.be/rF1EsryCAwc",
+    "metrics": {
+      "like_count": 1260,
+      "retweet_count": 131,
+      "reply_count": 292,
+      "view_count": 417034
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-27T13:26:15.318956+08:00",
+    "url": "https://x.com/elonmusk/status/2114944426271441127"
+  },
+  {
     "id": "2114848066767630417",
     "created_at": "2026-10-26T22:34:05.000Z",
     "original": "Everyday is zero-day these days",
