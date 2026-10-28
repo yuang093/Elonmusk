@@ -1,5 +1,85 @@
 [
   {
+    "id": "2115346075666325755",
+    "created_at": "2026-10-28T07:33:00.000Z",
+    "original": "I saw the worst of you\nAnd I still chose you",
+    "translation": "我看過你最糟糕的一面  \n卻還是選了你",
+    "metrics": {
+      "like_count": 10407,
+      "retweet_count": 1446,
+      "reply_count": 2043,
+      "view_count": 1208823
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-28T19:22:45.192261+08:00",
+    "url": "https://x.com/elonmusk/status/2115346075666325755"
+  },
+  {
+    "id": "2115346748730380385",
+    "created_at": "2026-10-28T07:35:40.000Z",
+    "original": "Hire Grok @Bot, you won’t regret it\n\nPlanchet, my Grok Bot is promoted to fully-fledged team member. He has access to all our thinking (research, emails, models, slack, industry data), he is incredibly resourceful - a mesmerizing get-it-done attitude, ultra-fast, receptive with feedback. It is mind-blowing.",
+    "translation": "雇用 Grok @Bot，你絕不會後悔。\n\nPlanchet，我的 Grok Bot 已經升格為正式團隊成員。他可以存取我們所有的思考成果（研究資料、電子郵件、模型、Slack、產業數據），而且簡直無所不能——那種令人著迷的「交到我手上就能搞定」的幹勁，超快速度，又能立即吸收回饋。實在太不可思議了。",
+    "metrics": {
+      "like_count": 4751,
+      "retweet_count": 391,
+      "reply_count": 549,
+      "view_count": 8057075
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-28T19:22:45.192261+08:00",
+    "url": "https://x.com/elonmusk/status/2115346748730380385"
+  },
+  {
+    "id": "2115348410396287061",
+    "created_at": "2026-10-28T07:42:16.000Z",
+    "original": "Grok @Bot rocks\n\nGavin Baker says Grok Bot is the most impactful AI product he and his firm have had yet, and reveals he’s up to 17 Grok Bots\n\n“I mean, as a user, Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet. I glued together all this stuff with Claude Code, and I’m sure it was user error on my part, you know, 50 years old. I’m doing my best.\"\n\n\"But Grok Bot, it just makes it so easy. I think I’m up to like 17 Grok Bots. And every day I think of a new one to add.”",
+    "translation": "Grok @Bot 太強了\n\nGavin Baker 說，Grok Bot 是他跟他的公司至今用過影響力最大的 AI 產品，並透露他已經弄了多達 17 個 Grok Bot。\n\n「我的意思是，身為使用者，Grok Bot 是我跟我們公司目前用過，影響力最大的 AI 產品。我用 Claude Code 把這些東西全拼湊起來；我敢肯定是我自己的操作問題，你知道的，我都 50 歲了，正在盡力而為。」\n\n「但 Grok Bot 真的讓一切變得超簡單。我覺得我現在搞到大概 17 個 Grok Bot 了，而且每天我都會想到新的再加一個。」",
+    "metrics": {
+      "like_count": 4070,
+      "retweet_count": 389,
+      "reply_count": 418,
+      "view_count": 7774999
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2115166648361779200/img/gd7KfiOQFs3R2HwE.jpg"
+    ],
+    "fetched_at": "2026-10-28T19:22:45.192261+08:00",
+    "url": "https://x.com/elonmusk/status/2115348410396287061"
+  },
+  {
+    "id": "2115353441954636214",
+    "created_at": "2026-10-28T08:02:16.000Z",
+    "original": "Try Grok @Bot\n\nBaker on a16z admitted something nobody his age says out loud. 23-year-olds are more fluent in AI than he will ever be. He has been trying hard. He is still behind.\n\nThen he explained how Grok Bot leveled it.\n\n\"We got Claude Code. I built some stuff, did some cool stuff. Then in 3 minutes of creating Grok Bots, I had much better versions of everything I created.\"\n\nPodcast summarizer. 10 seconds in Grok Bot.\nSubstack summarizer, X summarizer, X sentiment tracker. Hours in Claude Code. 7 to 12 seconds in Grok Bot. Better.\n\nHis frame: \"To me, Grok Bot does feel like another ChatGPT moment.\"\n\nBaker runs billions. He is calling Grok Bot a category reset.",
+    "translation": "試試 Grok @Bot\n\na16z 的 Baker 承認了一件他這個年紀的人通常不會說出口的事：23 歲的人對 AI 的掌握程度，可能永遠都會超過他。他已經很努力了，但還是落後。\n\n接著他解釋 Grok Bot 是怎麼做到「追平」的。\n\n「我們有 Claude Code。我做了一些東西，也弄了幾個蠻酷的成果。接著只花了 3 分鐘打造 Grok Bot，我就把先前做過的所有東西都升級成更好的版本。」\n\nPodcast 摘要工具。用 Grok Bot，10 秒搞定。\n\nSubstack 摘要、X 摘要、X 情緒追蹤器。用 Claude Code 得花好幾個小時；用 Grok Bot 只要 7 到 12 秒，而且效果更好。\n\n他的說法是：「對我來說，使用 Grok Bot 的感覺，就像 ChatGPT 剛出現的那一刻。」\n\nBaker 管理著數十億的資金，而現在他直接稱 Grok Bot 為一次「品類重置」。",
+    "metrics": {
+      "like_count": 3533,
+      "retweet_count": 340,
+      "reply_count": 603,
+      "view_count": 7308478
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2114063250505535489/img/BHxtUemgZk7osVfs.jpg"
+    ],
+    "fetched_at": "2026-10-28T19:22:45.192261+08:00",
+    "url": "https://x.com/elonmusk/status/2115353441954636214"
+  },
+  {
     "id": "2115126959940554814",
     "created_at": "2026-10-27T17:02:19.000Z",
     "original": "🤨\n\nHundreds of ballots left exposed at Skid Row homeless center ahead of LA election https://trib.al/jDflz8e",
