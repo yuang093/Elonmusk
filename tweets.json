@@ -1,5 +1,68 @@
 [
   {
+    "id": "2115447957843821013",
+    "created_at": "2026-10-28T14:17:50.000Z",
+    "original": "At Tesla, we even care about the chipmunks\n\n98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away\n\n“I've been driving it probably 2-3 months, and it's not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not run over the chipmunk … For somebody that's 98-years-old, this is a real treat.”",
+    "translation": "在 Tesla，我們連花栗鼠都很在意\n\n98 歲男子買下人生第一輛自駕版 Tesla Model Y，驚喜不已\n\n「我大概開了 2 到 3 個月，它駕駛時從未出過任何錯。事實上，前幾天它還停下來了——一隻花栗鼠正穿越馬路，當時路上也沒有其他車輛，但它沒有直接撞上那隻花栗鼠……對一位 98 歲的長輩來說，這真是一份特別的享受。」",
+    "metrics": {
+      "like_count": 9377,
+      "retweet_count": 946,
+      "reply_count": 1041,
+      "view_count": 1017167
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2115415518186196992/img/9_I9eTHapXcvWD3L.jpg"
+    ],
+    "fetched_at": "2026-10-29T00:11:59.771995+08:00",
+    "url": "https://x.com/elonmusk/status/2115447957843821013"
+  },
+  {
+    "id": "2115451044423668045",
+    "created_at": "2026-10-28T14:30:06.000Z",
+    "original": "True\n\nFSD could literally free up OVER $1.5 trillion/yr... WHY isn't anyone talking about this??\n\nIf Lawmakers were serious about serving the people, they would start focusing on how to speed up FSD adoption.\n\nThe Data:\nFatal & serious crashes cost the U.S. almost $2 trillion per year in total societal harm; including ~$400 billion in direct economic costs in the form of:\n- medical bills\n- property damage \n- lost wages\n- enormous quality-of-life cost of lost years\n- permanent disability\n\nTesla’s latest FSD data shows vehicles with FSD engaged are ~9× SAFER than the average driver. \n\nThat means, if fully adopted, FSD could produce savings the size of any one of these:\n- ~6% of GDP\n- The entire Social Security program\n- Medicare AND Medicaid\n- Roughly 2× the defense budget\n\nAt this scale, FSD (and technologies like it) could be one of the first real steps toward an age of AI \"abundance\" people talk about.\n\n50 years from now, our children and grandchildren will look back in horror at the fact that we ever drove at all.",
+    "translation": "真的\n\nFSD 每年光是能釋放超過 **1.5 兆美元**……為什麼根本沒有人在討論這件事？？\n\n如果議員們是真心想為人民服務，他們早就該開始研究如何加速 FSD 的普及。\n\n數據如下：\n\n死亡與嚴重車禍每年讓美國損失將近 **2 兆美元的社會總成本**；其中包括約 **4,000 億美元的直接經濟成本**，例如：\n\n- 醫療費用\n- 財產損失\n- 薪資損失\n- 因失去生命而造成的巨大生活品質成本\n- 永久性失能\n\n特斯拉最新的 FSD 數據顯示，開啟 FSD 的車輛，比一般駕駛安全約 **9 倍**。\n\n這代表，如果 FSD 全面普及，光是省下的金額就相當於以下其中一項：\n\n- 約占 GDP 的 **6%**\n- 整個社會安全制度\n- Medicare **和** Medicaid\n- 大約是國防預算的 **2 倍**\n\n這種規模下，FSD（以及類似技術）可能會成為通往人們所談論的 AI「富足時代」的首批真正步驟之一。\n\n50 年後，我們的子女和孫子回頭看，會驚駭地發現：我們居然還曾經需要自己開車。",
+    "metrics": {
+      "like_count": 3920,
+      "retweet_count": 444,
+      "reply_count": 547,
+      "view_count": 876847
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVpuMM9bkAEAdv8.jpg?name=orig"
+    ],
+    "fetched_at": "2026-10-29T00:11:59.771995+08:00",
+    "url": "https://x.com/elonmusk/status/2115451044423668045"
+  },
+  {
+    "id": "2115471764960735355",
+    "created_at": "2026-10-28T15:52:26.000Z",
+    "original": "They do\n\nVote like children’s lives depend on it.\n\nBecause they do.",
+    "translation": "他們真的會耶，投票時一副「孩子的小命全都握在他們手裡」的樣子。\n\n因為真的是如此啊。",
+    "metrics": {
+      "like_count": 3270,
+      "retweet_count": 467,
+      "reply_count": 439,
+      "view_count": 524195
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVpuqvEWQAMi6h3.jpg?name=orig"
+    ],
+    "fetched_at": "2026-10-29T00:11:59.771995+08:00",
+    "url": "https://x.com/elonmusk/status/2115471764960735355"
+  },
+  {
     "id": "2115346075666325755",
     "created_at": "2026-10-28T07:33:00.000Z",
     "original": "I saw the worst of you\nAnd I still chose you",
