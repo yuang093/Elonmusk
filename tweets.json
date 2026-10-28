@@ -1,5 +1,47 @@
 [
   {
+    "id": "2115501119296463056",
+    "created_at": "2026-10-28T17:49:05.000Z",
+    "original": "🇺🇸 Robotaxi Houston 🇺🇸\n\nThere has never been an excuse to drink and drive. With @Tesla expanding their Cybercab/Robotaxi services area across #Houston, there are more ways than ever to get home safely after a night out.\n\nPlan ahead, make the smart choice, and never get behind the wheel impaired. #DontDrinkAndDrive",
+    "translation": "🇺🇸 休士頓 Robotaxi 🇺🇸\n\n酒駕從來都沒有藉口。隨著 @Tesla 將 Cybercab／Robotaxi 的服務範圍擴大到 #休士頓，夜晚外出後要安全回家的方式，比以往多了更多選擇。\n\n提前規劃，做個聰明的選擇，絕對不要在喝了酒後還坐到駕駛座上。#不要酒駕",
+    "metrics": {
+      "like_count": 4372,
+      "retweet_count": 449,
+      "reply_count": 619,
+      "view_count": 680445
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig"
+    ],
+    "fetched_at": "2026-10-29T03:13:58.018712+08:00",
+    "url": "https://x.com/elonmusk/status/2115501119296463056"
+  },
+  {
+    "id": "2115503730368061688",
+    "created_at": "2026-10-28T17:59:28.000Z",
+    "original": "Impressive\n\nI did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.\n\nFollowing Argon's release just two weeks ago, Carbon shows the pace at which we’re pushing the frontier, it ranks #1 on the recently updated v5.0 of @ArtificialAnlys Intelligence Index at 59. It also leads across key cybersecurity evaluations scoring 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation, and 71.0% on CWE-bench for patching.\n\nWe’re seeing significant improvements in long-horizon tasks even compared to Argon, and we’ve strengthened frontier safeguards.\n\nAs we did with Argon, we’re going to roll it out gradually + responsibly. Some trusted cyber defenders will get access starting this week. We'll be expanding it to more partners through our Fairwind Program, ahead of wider availability soon, so hang tight!",
+    "translation": "厲害\n\n我確實說過我們會定期發布模型……隆重推出 Gemini 4 Carbon，我們的下一款前沿模型。\n\n繼 Argon 兩週前發布後，Carbon 展現了我們推進前沿技術的速度。它在近期更新的 @ArtificialAnlys Intelligence Index v5.0 中以 59 分登上第 1 名。\n\n在多項關鍵網路安全評測中也領先：漏洞偵測在 SEC-bench Pro 拿下 88.2%，漏洞利用在 ExploitGym 為 54.8%，修補漏洞在 CWE-bench 則達 71.0%。\n\n即使與 Argon 相比，我們也看到長程任務能力有顯著提升，並強化了前沿安全防護。\n\n跟 Argon 一樣，我們會採取漸進且負責任的方式推出。本週起，部分受信任的網路安全防禦者就能使用。我們也會透過 Fairwind Program 優先向更多合作夥伴開放，之後很快就能全面供應，先等等吧！",
+    "metrics": {
+      "like_count": 7633,
+      "retweet_count": 399,
+      "reply_count": 685,
+      "view_count": 855546
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVu5GHmbUAAppsK.jpg?name=orig"
+    ],
+    "fetched_at": "2026-10-29T03:13:58.018712+08:00",
+    "url": "https://x.com/elonmusk/status/2115503730368061688"
+  },
+  {
     "id": "2115447957843821013",
     "created_at": "2026-10-28T14:17:50.000Z",
     "original": "At Tesla, we even care about the chipmunks\n\n98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away\n\n“I've been driving it probably 2-3 months, and it's not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not run over the chipmunk … For somebody that's 98-years-old, this is a real treat.”",
