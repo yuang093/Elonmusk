@@ -1,5 +1,26 @@
 [
   {
+    "id": "2115921600658735169",
+    "created_at": "2026-10-29T21:39:56.000Z",
+    "original": "Worth noting that Grok @Bot has no free tier\n\nGrok Bot is growing at an absolutely insane pace\n\nDaily active users have increased for 16 consecutive days, marking its longest growth streak since launch\n\nHere's how fast it's growing:\n\n• Under 100K daily active users in early September\n• Over 600K daily active users by October 26\n• More than 6X growth in less than two months\n\nAnd this is only the beginning",
+    "translation": "值得一提，Grok @Bot 沒有免費方案\n\nGrok Bot 的成長速度簡直離譜\n\n日活躍使用者連續 16 天增加，創下上線以來最長的成長連勝紀錄\n\n它的成長速度有多快：\n\n• 9 月初時，日活躍使用者不到 10 萬\n• 到 10 月 26 日，日活躍使用者已突破 60 萬\n• 不到兩個月，成長超過 6 倍\n\n而且這才剛開始而已",
+    "metrics": {
+      "like_count": 3526,
+      "retweet_count": 295,
+      "reply_count": 731,
+      "view_count": 591734
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVzCaLIbgAAeHBm.jpg?name=orig"
+    ],
+    "fetched_at": "2026-10-30T06:11:35.829134+08:00",
+    "url": "https://x.com/elonmusk/status/2115921600658735169"
+  },
+  {
     "id": "2115823011399938182",
     "created_at": "2026-10-29T15:08:10.000Z",
     "original": "Interesting\n\nI am excited to be an investor in trade(xyz) as they partner with ICE to bring 24/7 perpetual futures on Hyperliquid to the United States.   As a market participant, I am looking forward to to using their innovative product to enhance my investment process.",
