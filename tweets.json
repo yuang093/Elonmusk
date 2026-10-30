@@ -1,5 +1,83 @@
 [
   {
+    "id": "2116296050168508726",
+    "created_at": "2026-10-30T22:27:51.000Z",
+    "original": "Yes\n\nPeople ought to think more about who wrote the software that's running in their head (sigh). It probably wasn't them\n\n-- Elon Musk",
+    "translation": "是\n\n人們應該多想想，究竟是誰寫出了運行在自己腦中的軟體（嘆）。那八成不是他們自己\n\n— Elon Musk",
+    "metrics": {
+      "like_count": 2877,
+      "retweet_count": 332,
+      "reply_count": 378,
+      "view_count": 499452
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-31T07:22:13.030071+08:00",
+    "url": "https://x.com/elonmusk/status/2116296050168508726"
+  },
+  {
+    "id": "2116296438942765394",
+    "created_at": "2026-10-30T22:29:24.000Z",
+    "original": "Eli Lilly has some banger drugs coming out!\n\nI’ll take that bet.",
+    "translation": "Eli Lilly 有幾款超猛的新藥要問世了！\n\n這個賭注我接了。",
+    "metrics": {
+      "like_count": 3883,
+      "retweet_count": 284,
+      "reply_count": 525,
+      "view_count": 616079
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-31T07:22:13.030071+08:00",
+    "url": "https://x.com/elonmusk/status/2116296438942765394"
+  },
+  {
+    "id": "2116305829381263528",
+    "created_at": "2026-10-30T23:06:43.000Z",
+    "original": "Think of Grok @Bot as a work colleague\n\nSomething I've noticed that makes working with grok bot more delightful: it actually feels like you're talking to a coworker. Shorter sentences, less BS and fluff.",
+    "translation": "把 Grok @Bot 想成一位職場同事。\n\n我發現了一件讓人用起來更開心的事：跟 Grok bot 溝通時，真的感覺像在跟同事聊天。句子比較短，廢話和贅詞也比較少。",
+    "metrics": {
+      "like_count": 943,
+      "retweet_count": 110,
+      "reply_count": 338,
+      "view_count": 343083
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-31T07:22:13.030071+08:00",
+    "url": "https://x.com/elonmusk/status/2116305829381263528"
+  },
+  {
+    "id": "2116306579779731464",
+    "created_at": "2026-10-30T23:09:42.000Z",
+    "original": "Cool\n\ngrok bot can now see what's on your phone and answer anything about it\n\njust hold the action button and ask what you need:\n\n> ask anything about the video you're watching\n> tell it to build what you saw in a reel for your business\n> ask it to break down the article you're reading\n\nit can watch videos, read posts, check the web, basically everything.\n\ni built it as a free iphone shortcut and made it open source, you can grab it below",
+    "translation": "酷\n\nGrok bot 現在可以看見你手機上的內容，並回答任何相關問題\n\n只要按住動作按鈕，直接問你需要什麼：\n\n> 詢問它任何關於你正在觀看的影片的問題\n> 要它依照你在 Reel 中看到的內容，為你的商家製作素材\n> 要它拆解你正在閱讀的文章\n\n它能觀看影片、閱讀貼文、查詢網路，幾乎什麼都做得到。\n\n我把它做成免費的 iPhone 捷徑，並且開源了，你可以在下方取得",
+    "metrics": {
+      "like_count": 700,
+      "retweet_count": 97,
+      "reply_count": 188,
+      "view_count": 308003
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2116183407868973056/img/wSgccKH8bSwFINFR.jpg"
+    ],
+    "fetched_at": "2026-10-31T07:22:13.030071+08:00",
+    "url": "https://x.com/elonmusk/status/2116306579779731464"
+  },
+  {
     "id": "2116287873918140737",
     "created_at": "2026-10-30T21:55:22.000Z",
     "original": "Even F1 champions love Tesla self-driving\n\nEven the world's best drivers like being driven",
