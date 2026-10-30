@@ -1,5 +1,104 @@
 [
   {
+    "id": "2116002744586920092",
+    "created_at": "2026-10-30T03:02:22.000Z",
+    "original": "Tomorrow is the last day of early voting in Texas. \n\nVote for @KenPaxtonTX!\n\nWe need strong turnout on these last 2 days of early voting in Texas for @KenPaxtonTX. \n\nTomorrow is the last day to vote early.",
+    "translation": "明天是德州提前投票的最後一天！\n\n投給 @KenPaxtonTX！\n\n我們需要大家在德州提前投票的最後兩天踴躍投票，支持 @KenPaxtonTX！\n\n明天就是提前投票的最後一天。",
+    "metrics": {
+      "like_count": 5954,
+      "retweet_count": 1096,
+      "reply_count": 633,
+      "view_count": 659186
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HVzpWaBW0AAnLz9.jpg?name=orig"
+    ],
+    "fetched_at": "2026-10-30T12:19:05.862069+08:00",
+    "url": "https://x.com/elonmusk/status/2116002744586920092"
+  },
+  {
+    "id": "2116006456763818028",
+    "created_at": "2026-10-30T03:17:07.000Z",
+    "original": "Yes\n\nJD Vance said Texas is not becoming California, and the men at the Alamo did not die so Texas could become Sacramento.",
+    "translation": "是\n\nJD Vance 說，德州不會變成加州；阿拉莫的英雄們也不是為了讓德州變成沙克拉門托才白白送命的。",
+    "metrics": {
+      "like_count": 6431,
+      "retweet_count": 652,
+      "reply_count": 464,
+      "view_count": 642317
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-30T12:19:05.862069+08:00",
+    "url": "https://x.com/elonmusk/status/2116006456763818028"
+  },
+  {
+    "id": "2116017528036327934",
+    "created_at": "2026-10-30T04:01:07.000Z",
+    "original": "BABY, YOU FLEW",
+    "translation": "寶貝，你飛走了。",
+    "metrics": {
+      "like_count": 1425,
+      "retweet_count": 287,
+      "reply_count": 414,
+      "view_count": 357267
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-10-30T12:19:05.862069+08:00",
+    "url": "https://x.com/elonmusk/status/2116017528036327934"
+  },
+  {
+    "id": "2116018780111597911",
+    "created_at": "2026-10-30T04:06:05.000Z",
+    "original": "Neuralink’s first product is called Telepathy. \n\nIt enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.\n\nOur engineers recently visited one of our speech restoration study participants for a 72-hour hackathon.\n\nThe goal: rapidly prototype as many features as possible to enhance the experience of using Neuralink to communicate with thought.\n\nHere are some of the things we built 🧵",
+    "translation": "Neuralink 的第一款產品叫做 Telepathy。\n\n你只要想著什麼，就能以高速與電腦或其他人溝通。幾年內，輸出頻寬將大幅超越人類最快的說話或打字速度。再讀一次這句話。\n\n我們的工程師最近造訪了一位語言復健研究的受試者，進行為期 72 小時的駭客松。\n\n目標：快速開發出盡可能多的功能，提升使用 Neuralink 以思維溝通的體驗。\n\n以下是我們打造的一些東西 🧵",
+    "metrics": {
+      "like_count": 1787,
+      "retweet_count": 293,
+      "reply_count": 449,
+      "view_count": 404450
+    },
+    "lang": "en",
+    "pinned": true,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2115873705230249984/img/j4i_jTzHSBgx8AS9.jpg"
+    ],
+    "fetched_at": "2026-10-30T12:19:05.862069+08:00",
+    "url": "https://x.com/elonmusk/status/2116018780111597911"
+  },
+  {
+    "id": "2116019939056513218",
+    "created_at": "2026-10-30T04:10:41.000Z",
+    "original": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see.\n\nIt is ready from an engineering standpoint. Just waiting on regulatory approval.\n\nNeuralink’s first product is called Telepathy. \n\nIt enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.",
+    "translation": "我們的第二款產品叫作 Blindsight，正如名稱所暗示的，它能讓即使是全盲、或從未見過任何事物的人，也能看見。\n\n就工程技術而言，它已經準備就緒，現在只等監管單位核准。\n\nNeuralink 的第一款產品叫作 Telepathy。\n\n它讓人只要透過思考，就能與電腦或其他人進行高速溝通。幾年內，它的輸出頻寬會遠遠超越最快的人類口語或打字速度。再讀一次這句話。",
+    "metrics": {
+      "like_count": 1855,
+      "retweet_count": 288,
+      "reply_count": 334,
+      "view_count": 345209
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-10-30T12:19:05.862069+08:00",
+    "url": "https://x.com/elonmusk/status/2116019939056513218"
+  },
+  {
     "id": "2115935053347786773",
     "created_at": "2026-10-29T22:33:23.000Z",
     "original": "Everyday is Zeroday\n\nBREAKING: Binance has been hacked with wallets across the Ethereum, Bitcoin, and TRON networks seeing outflows of -$5.7 billion.\n\nThe hack includes $1.45 billion worth of Bitcoin and $875 million worth of ETH.\n\nIf confirmed, this would mark the biggest hack in crypto history.\n\nWe expect more information shortly.",
