@@ -1,5 +1,85 @@
 [
   {
+    "id": "2116990584048984346",
+    "created_at": "2026-11-01T20:27:41.000Z",
+    "original": "Yes\n\nElon Musk on his grandfather in World War 2:\n\n\"My grandfather was in World War II for almost six years. All his friends got killed.\n\nHe's the only one of his friends to survive. And he was severely traumatized.\n\nHe really just couldn't even talk afterwards.\n\nMost of that time was in East Africa, North Africa, Italy.\n\nThe only reason he's even alive frankly is because towards the end of the war they gave an aptitude test because he was just a corporal.\n\nHe didn't graduate high school so he wasn't eligible for officer school. And they plucked him out probably right before he died and sent him to work for British intelligence in London which is where he met my grandmother.\n\nSo he was one of the people fighting to stop the Nazis along with millions of others.\n\nSo let's not forget that the vast majority of the West fought and died to stop Nazism.\"",
+    "translation": "沒錯。\n\nElon Musk 談 his grandfather 在二戰時的經歷：\n\n「我爺爺在二戰打了將近六年。他所有的朋友都被打死了。\n\n他是朋友中唯一活下來的，而且受到嚴重的心理創傷。\n\n戰後他甚至連話都說不太出來。\n\n他大部分時間都在東非、北非和義大利。\n\n坦白說，他之所以能活到現在，是因為戰爭快結束時，他們替下士辦了一場甄試。\n\n他沒有高中畢業，所以沒有資格報讀軍官學校。他們大概是在他快死前把他從前線拉出來，派去倫敦為英國情報單位工作，他就是在那裡遇到我奶奶的。\n\n所以，他也是和數百萬其他人一起，對抗並阻止納粹的人之一。\n\n所以我們別忘了，絕大多數西方世界的人都曾為阻止納粹而戰，並因此犧牲生命。」",
+    "metrics": {
+      "like_count": 7760,
+      "retweet_count": 861,
+      "reply_count": 579,
+      "view_count": 1038414
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2116918065866915840/img/I2LGEJnXM8K0LRx0.jpg"
+    ],
+    "fetched_at": "2026-11-02T07:24:33.762123+08:00",
+    "url": "https://x.com/elonmusk/status/2116990584048984346"
+  },
+  {
+    "id": "2116990933103509723",
+    "created_at": "2026-11-01T20:29:04.000Z",
+    "original": "This is what they stole from us",
+    "translation": "這就是他們從我們這裡偷走的。",
+    "metrics": {
+      "like_count": 70771,
+      "retweet_count": 6279,
+      "reply_count": 3637,
+      "view_count": 2618870
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": false,
+    "images": [],
+    "fetched_at": "2026-11-02T07:24:33.762123+08:00",
+    "url": "https://x.com/elonmusk/status/2116990933103509723"
+  },
+  {
+    "id": "2116991729660575998",
+    "created_at": "2026-11-01T20:32:14.000Z",
+    "original": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours\n\nSpaceXAI’s Colossus 2 in Memphis is the world’s most powerful AI data center.\n\nRoughly 1.11 million H100 equivalents, ahead of OpenAI’s Stargate and the big tech campuses.\n\nBy mid 2027, Colossus is expected to widen the gap with more Blackwell clusters coming online.",
+    "translation": "其他超級運算專案都無法達成目標，但 SpaceX 已經在實現我們的目標了。\n\nSpaceXAI 位於曼菲斯的 Colossus 2 是全球最強大的 AI 資料中心。\n\n約等同 111 萬顆 H100 的算力，領先 OpenAI 的 Stargate 與各大科技巨頭的園區。\n\n預計到 2027 年中，隨著更多 Blackwell 叢集上線，Colossus 將進一步拉大領先差距。",
+    "metrics": {
+      "like_count": 7252,
+      "retweet_count": 827,
+      "reply_count": 793,
+      "view_count": 1055584
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HWD6ZwmWgAACvn7.jpg?name=orig"
+    ],
+    "fetched_at": "2026-11-02T07:24:33.762123+08:00",
+    "url": "https://x.com/elonmusk/status/2116991729660575998"
+  },
+  {
+    "id": "2117033967782113327",
+    "created_at": "2026-11-01T23:20:05.000Z",
+    "original": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.\n\n本当にこれ\n\nマジでCursor（Grok Bot）を使っていない人は一度だけでいいから使ってみてほしい。\n\nClaude Code、Codexよりも断然良いから。今UXの観点でCursorが負けているところは正直ないと思っている。\n\nモデルの性能という点で現状はClaude Codeも使わざるを得ないが、Grokの性能がOpus 5.5と同等レベルになったらCursorオンリーにできると思っている。\n\nSpaceXAIさん、次のGrokは頼みますよ。4.7も悪くないけどOpusと比べると力不足なので...",
+    "translation": "試試看 Grok @Bot！你一定會愛上它。\n\n我們每週七天，每天都會為 Bot 推出數十項修正與新功能，有時還會解鎖新的超能力；我們也會參考你的反饋，讓 Bot 盡可能變得更完美。\n\n認真說，現在還沒在用 Cursor（Grok Bot）的人，真的只需要試一次就好。\n\n它絕對比 Claude Code 和 Codex 更好。老實說，就目前的 UX 而言，我真不覺得 Cursor 還有落後的地方。\n\n以模型效能來說，目前還是不得不用 Claude Code；但我覺得，等 Grok 的效能提升到和 Opus 5.5 同等水準後，就可以只用 Cursor 了。\n\nSpaceXAI，下一版 Grok 就拜託你了。4.7 也不算差，但跟 Opus 比起來還是有點力不從心……",
+    "metrics": {
+      "like_count": 538,
+      "retweet_count": 55,
+      "reply_count": 240,
+      "view_count": 283153
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-11-02T07:24:33.762123+08:00",
+    "url": "https://x.com/elonmusk/status/2117033967782113327"
+  },
+  {
     "id": "2116875604889112772",
     "created_at": "2026-11-01T12:50:48.000Z",
     "original": "I have this great idea for a drug called Regretamine. One dose and all your regrets are gone!\n\nIncluding, obviously, having taken Regretamine in the first place.",
