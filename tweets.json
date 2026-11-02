@@ -1,5 +1,24 @@
 [
   {
+    "id": "2117360990119506022",
+    "created_at": "2026-11-02T20:59:33.000Z",
+    "original": "This is the way\n\nTreat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire.",
+    "translation": "就是這樣做\n\n把 Grok Bot 當成團隊夥伴，給 @bot 一個你通常會交給新人的高難度任務。",
+    "metrics": {
+      "like_count": 4006,
+      "retweet_count": 389,
+      "reply_count": 899,
+      "view_count": 812069
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [],
+    "fetched_at": "2026-11-03T06:27:48.888519+08:00",
+    "url": "https://x.com/elonmusk/status/2117360990119506022"
+  },
+  {
     "id": "2117252866503290905",
     "created_at": "2026-11-02T13:49:54.000Z",
     "original": "Starlink saves lives\n\nStarlink helped save a woman stranded in Colorado’s freezing mountains.\n\nA 37-year-old hiker was trapped in deep snow, unable to walk and suffering from cold injuries.\n\nWith no mobile phone signal, rescuers used Starlink to stay connected to their coordinator throughout the night.\n\nShe was rescued by helicopter and flown to hospital the next morning.\n\nA lifeline from space helped rescuers bring her to safety.",
