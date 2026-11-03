@@ -1,5 +1,26 @@
 [
   {
+    "id": "2117422818648555595",
+    "created_at": "2026-11-03T01:05:14.000Z",
+    "original": "Grok @Bot improvements\n\nWhat's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire",
+    "translation": "Grok @Bot 改進\n\nGrok Bot 有哪些新功能\n\n00:14 購物卡片\n00:27 商品頁面\n00:39 訂單追蹤\n00:53 付款\n01:33 自訂模式\n01:52 Team Bot 登入與設定\n02:09 分享及搜尋 Team Bots\n02:51 在 Slack 中使用 Connector 查詢\n03:12 Vault 中的聯絡人\n03:31 連續快速提問",
+    "metrics": {
+      "like_count": 1890,
+      "retweet_count": 238,
+      "reply_count": 514,
+      "view_count": 558012
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/media/HWIcU5pbIAIQ15R.jpg"
+    ],
+    "fetched_at": "2026-11-03T09:44:06.215554+08:00",
+    "url": "https://x.com/elonmusk/status/2117422818648555595"
+  },
+  {
     "id": "2117360990119506022",
     "created_at": "2026-11-02T20:59:33.000Z",
     "original": "This is the way\n\nTreat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire.",
