@@ -1,5 +1,26 @@
 [
   {
+    "id": "2117463822332314036",
+    "created_at": "2026-11-03T03:48:10.000Z",
+    "original": "Grok @Bot\n\nI had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person. \n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done. \n\nMy mind is thoroughly blown!",
+    "translation": "Grok @Bot\n\n我用 Grok Bot 幫我比較新的汽車保險。它找不到關於 Progressive 玻璃保障的資訊，而所有 Tesla 車主都知道，擋風玻璃的更換費用可能不便宜。我讓 Grok Bot 打給 Progressive，替我取得更多資訊；就在我接小孩放學的期間，全程都不用跟真人說話。\n\n以下是那通電話的文字紀錄和實際錄音。個人資訊都已消音，部分內容為了縮短時間而剪掉。雖然還有些地方可以改進，但任務確實完成了。\n\n我的大腦真的整個被震驚到了！",
+    "metrics": {
+      "like_count": 1315,
+      "retweet_count": 174,
+      "reply_count": 404,
+      "view_count": 602982
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg"
+    ],
+    "fetched_at": "2026-11-03T12:40:44.982765+08:00",
+    "url": "https://x.com/elonmusk/status/2117463822332314036"
+  },
+  {
     "id": "2117422818648555595",
     "created_at": "2026-11-03T01:05:14.000Z",
     "original": "Grok @Bot improvements\n\nWhat's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire",
