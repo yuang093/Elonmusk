@@ -1,5 +1,26 @@
 [
   {
+    "id": "2117722703738310713",
+    "created_at": "2026-11-03T20:56:52.000Z",
+    "original": "Try asking Grok @Bot to make calls!\n\nGrok @Bot's new calling feature is very impressive.\n\nYou just tell it who to call and why, and it handles the conversation for you. It shows a real-time transcript of the call, and if Grok needs additional info from you, a little answer box pops up where you type/select your response, and Grok relays it to the person on the phone. Pretty incredible.\n\nHere's an example (with the call audio) of what's it's like to use:",
+    "translation": "試著叫 Grok @Bot 幫你撥電話！\n\nGrok @Bot 的新通話功能真的很厲害。\n\n你只要告訴它要打給誰、為什麼打，它就會替你處理整通電話。過程中還會即時顯示對話文字；如果 Grok 需要向你詢問更多資訊，就會跳出一個小輸入框，讓你輸入或選擇答案，Grok 再把你的回應傳達給電話另一頭的人。真的非常厲害。\n\n以下是實際使用的範例（包含通話音訊）：",
+    "metrics": {
+      "like_count": 5509,
+      "retweet_count": 671,
+      "reply_count": 1554,
+      "view_count": 1419496
+    },
+    "lang": "en",
+    "pinned": false,
+    "is_retweet": false,
+    "is_quote": true,
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2117697012804071425/img/r0qPOeLOX_QcUrHq.jpg"
+    ],
+    "fetched_at": "2026-11-04T10:21:45.581624+08:00",
+    "url": "https://x.com/elonmusk/status/2117722703738310713"
+  },
+  {
     "id": "2117663863856377923",
     "created_at": "2026-11-03T17:03:04.000Z",
     "original": "Quest to understand the Universe\n\nWhen Chris Anderson asked Elon Musk what drives him every single day to do everything he does, Elon gave an incredibly deep and powerful answer\n\n“I really want to make sure that there is a good future for humanity, and that we're on a path to understanding the nature of the universe, the meaning of life. Why are we here? How do we get here?”\n\nAnd then he explained what motivates him more than anything:\n\n“I'm motivated by curiosity more than anything, and just a desire to think about the future and not be sad”",
